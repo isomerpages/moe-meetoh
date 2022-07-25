@@ -20,7 +20,7 @@ sections:
       description: "SENCE @ MTS (Sports Education Nurturing Character Excellence at
         Mee Toh School) aims to build knowledge, skills and a positive attitude
         for a lifetime of... "
-      button: Read more here
+      button: Read more
       url: /experience-at-mts/learning-for-life-programme-llp
       image: /images/llp1.png
       alt: llp
