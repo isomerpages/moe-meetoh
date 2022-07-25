@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Identity/Overview.md
       - Our Identity/Vision and Mission.md
       - Our Identity/Motto and Values.md
       - Our Identity/School Song.md
