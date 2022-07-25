@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/one
+          url: /announcements/mdm-presidents-visit-to-school
         - title: Milestones
           description: ""
           url: /milestones/mee-toh-news
