@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Personal Data Protection.md
       - School Management Committee.md
