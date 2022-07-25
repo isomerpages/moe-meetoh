@@ -46,3 +46,31 @@ links:
         url: /experience-at-mts/physical-education-arts-music
       - title: Co-Curricular Activities
         url: /experience-at-mts/co-curricular-activities
+  - title: For Parents
+    url: /for-parents/key-sharings
+    sublinks:
+      - title: Key Sharings
+        url: /for-parents/key-sharings
+      - title: Operation Hours
+        url: /for-parents/operation-hours
+      - title: Key School Notifications
+        url: /for-parents/key-school-notifications
+      - title: Other Key Information
+        url: /for-parents/other-key-information
+      - title: Forms for Parents
+        url: /for-parents/forms-for-parents
+      - title: Parents Support Group (PATH)
+        url: /for-parents/parents-support-group
+      - title: Other Useful Links
+        url: /for-parents/other-useful-links
+      - title: Photo Gallery
+        url: /for-parents/photo-gallery
+  - title: For Students
+    url: /For-students/mee-tohians-self-directed-learners
+    sublinks:
+      - title: Mee Tohians Learners
+        url: /For-students/mee-tohians-self-directed-learners
+      - title: What's the Buzz?
+        url: /For-students/whats-the-buzz
+  - title: Contact Us
+    url: /contact-us
