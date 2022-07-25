@@ -2,6 +2,7 @@ collections:
   school-achievements:
     output: true
     order:
+      - Academic Excellence/.keep
       - Non Academic Achievements/2021 Non Academic Achievements.md
       - Non Academic Achievements/2020 Non Academic Achievements.md
       - Non Academic Achievements/2019 Non Academic Achievements.md
