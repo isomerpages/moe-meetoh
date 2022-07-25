@@ -2,6 +2,7 @@ collections:
   experience-at-mts:
     output: true
     order:
+      - Mother Tongue Language/Chinese Language.md
       - Mother Tongue Language/Malay Language.md
       - Mother Tongue Language/.keep
       - Character Education/Overview.md
