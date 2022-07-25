@@ -2,6 +2,7 @@ collections:
   school-achievements:
     output: true
     order:
+      - Non Academic Achievements/.keep
       - Singapore Youth Festival Awards.md
       - Character Awards/2022 Character Awards.md
       - Character Awards/2021 Character Awards.md
