@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Service Quality Statement.md
       - Personal Data Protection.md
       - School Management Committee.md
