@@ -33,4 +33,13 @@ sections:
       url: /applied-learning-programme
       image: /images/infopic2.png
       alt: info pic2
+  - infopic:
+      title: School History Curriculum
+      description: There is no present without the past. Our school history curriculum
+        aims to help Mee Tohians develop a deeper appreciation of values through
+        rich stories of...
+      button: Read more
+      url: /experience-at-mts/character-education/school-history-curriculum
+      image: /images/infopic3.png
+      alt: infopic3
 ---
