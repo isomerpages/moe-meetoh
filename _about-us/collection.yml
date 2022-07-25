@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Identity/School Founder.md
       - Our Identity/.keep
       - Our Staff/Organisation Chart.md
       - Our Staff/School Leaders.md
