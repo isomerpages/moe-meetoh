@@ -42,4 +42,13 @@ sections:
       url: /experience-at-mts/character-education/school-history-curriculum
       image: /images/infopic3.png
       alt: infopic3
+  - infopic:
+      title: Integrated Project Work - Values-In-Action (IPW-VIA)
+      description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
+        allow students to synthesise their knowledge learnt from various
+        subjects and apply them to...
+      button: Read more
+      url: /experience-at-mts/character-education/integrated-project-work-and-values-in-action
+      image: /images/infopic4.png
+      alt: infopic4
 ---
