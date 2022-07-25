@@ -23,3 +23,26 @@ links:
         url: /about-us/personal-data-protection
       - title: School Management Committee
         url: /about-us/school-management-committee
+  - title: Experience @ MTS
+    url: /experience-at-mts/ict-in-education
+    sublinks:
+      - title: ICT in Education
+        url: /experience-at-mts/ict-in-education
+      - title: Student Management
+        url: /experience-at-mts/student-management
+      - title: Environment Education
+        url: /experience-at-mts/environment-education
+      - title: Programme for Active Learning
+        url: /experience-at-mts/programme-for-active-learning
+      - title: Learning for Life Programme
+        url: /experience-at-mts/learning-for-life-programme
+      - title: English, Mathematics, Science
+        url: /experience-at-mts/english
+      - title: Mother Tongue Language
+        url: /experience-at-mts/mother-tongue-language/chinese
+      - title: Character Education
+        url: /experience-at-mts/character-education
+      - title: Physical Education, Arts,Music
+        url: /experience-at-mts/physical-education-arts-music
+      - title: Co-Curricular Activities
+        url: /experience-at-mts/co-curricular-activities
