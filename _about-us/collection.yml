@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Buddhist Practices/Vesak Day Celebration.md
       - Buddhist Practices/Dharma Camp and Class.md
       - Buddhist Practices/Talks on Values.md
       - Buddhist Practices/.keep
