@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Key Sharings.md
       - Operation Hours.md
       - Key School Notifications.md
       - Other Key Information.md
