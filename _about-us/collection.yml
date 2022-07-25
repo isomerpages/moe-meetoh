@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/2022 Primary 4 Form Teachers.md
       - Our Staff/2022 Primary 5 Form Teachers.md
       - Our Staff/2022 Primary 6 Form Teachers.md
       - Our Staff/Mother Tongue Teachers.md
