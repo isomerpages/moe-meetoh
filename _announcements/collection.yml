@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Going green.md
       - Dental Clinic Updates.md
