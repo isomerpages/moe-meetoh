@@ -1,0 +1,4 @@
+collections:
+  milestones:
+    output: true
+    order: []
