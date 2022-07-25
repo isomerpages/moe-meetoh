@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Key Sharings/Primary 1 Orientation.md
       - Key Sharings/.keep
       - Operation Hours.md
       - Key School Notifications.md
