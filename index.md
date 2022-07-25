@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/meetohbanner1.gif
       key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements/one
         - title: Milestones
           description: ""
           url: /milestones/mee-toh-news
         - title: School Achievements
           description: ""
           url: /school-achievements
-        - title: Announcements
-          description: ""
-          url: /announcements/one
   - infopic:
       title: Learning for Life Programme
       description: "SENCE @ MTS (Sports Education Nurturing Character Excellence at
