@@ -1,8 +1,25 @@
 logo: /images/meetohlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Identity
+        url: /about-us/our-identity
+      - title: Our Staff
+        url: /about-us/our-staff
+      - title: Strategic Thrusts
+        url: /about-us/strategic-thrusts
+      - title: School Rules
+        url: /about-us/school-rules
+      - title: Assembly, Recess, Dismissal
+        url: /about-us/assembly-recess-dismissal
+      - title: Buddhist Practices
+        url: /about-us/buddhist-practices
+      - title: Service Quality Statement
+        url: /about-us/service-quality-statement
+      - title: Personal Data Protection
+        url: /about-us/personal-data-protection
+      - title: School Management Committee
+        url: /about-us/school-management-committee
