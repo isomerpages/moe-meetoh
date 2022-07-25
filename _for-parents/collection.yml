@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Operation Hours.md
       - Key School Notifications.md
       - Other Key Information.md
       - Forms for Parents.md
