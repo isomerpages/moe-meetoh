@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Support Group.md
       - Other Useful Links.md
       - Photo Gallery.md
