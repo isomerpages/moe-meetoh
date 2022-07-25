@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Other Key Information.md
       - Forms for Parents.md
       - Parents Support Group.md
       - Other Useful Links.md
