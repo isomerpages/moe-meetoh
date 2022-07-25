@@ -12,6 +12,9 @@ sections:
         - title: Milestones
           description: ""
           url: /milestones/mee-toh-news
+        - title: School Achievements
+          description: ""
+          url: /school-achievements
         - title: Announcements
           description: ""
           url: /announcements/one
