@@ -2,6 +2,7 @@ collections:
   school-achievements:
     output: true
     order:
+      - Overview.md
       - Academic Excellence/2021 Academic Excellence.md
       - Academic Excellence/2020 Academic Excellence.md
       - Academic Excellence/2019 Academic Excellence.md
