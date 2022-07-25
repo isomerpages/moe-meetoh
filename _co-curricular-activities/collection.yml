@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Robotics.md
       - Clubs and Societies/Young Philatelist.md
       - Clubs and Societies/.keep
       - Visual and Performing Arts/Overview.md
