@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual and Performing Arts/Chinese Speech and Drama Club.md
       - Visual and Performing Arts/Chinese Orchestra.md
       - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/English Drama Club.md
