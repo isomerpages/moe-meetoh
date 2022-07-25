@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules.md
       - Assembly, Recess, Dismissal.md
       - Buddhist Practices/.keep
       - Buddhist Practices/Dharmaratna Festival.md
