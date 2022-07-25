@@ -2,4 +2,5 @@ collections:
   school-achievements:
     output: true
     order:
+      - Character Awards/.keep
       - External Competitions.md
