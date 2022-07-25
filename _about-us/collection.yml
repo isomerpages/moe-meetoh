@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Executive and Administrative Support.md
       - Our Staff/.keep
       - Strategic Thrusts.md
       - School Rules.md
