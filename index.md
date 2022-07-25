@@ -51,4 +51,13 @@ sections:
       url: /experience-at-mts/character-education/integrated-project-work-and-values-in-action
       image: /images/infopic4.png
       alt: infopic4
+  - infopic:
+      title: Voices of MTS - From Students To Students
+      description: At Mee Toh School, our children’s voices are heard. Not only do we
+        empower our students with 21st Century Competencies to ponder and
+        articulate their...
+      button: Read more
+      url: /voices-of-mts
+      image: /images/infopic5.png
+      alt: infopic5
 ---
