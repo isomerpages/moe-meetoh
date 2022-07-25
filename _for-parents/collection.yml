@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Key Sharings/Parent Engagement Sessions.md
       - Key Sharings/Secondary 1 Posting.md
       - Key Sharings/Primary 1 Orientation.md
       - Key Sharings/.keep
