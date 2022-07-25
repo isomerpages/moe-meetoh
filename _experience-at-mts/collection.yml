@@ -2,6 +2,7 @@ collections:
   experience-at-mts:
     output: true
     order:
+      - Environment Education.md
       - Programme for Active Learning.md
       - Learning for Life Programme.md
       - English, Mathematics, Science/English Language.md
