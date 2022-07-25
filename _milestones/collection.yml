@@ -1,5 +1,4 @@
 collections:
   milestones:
     output: true
-    order:
-      - School Achievements.md
+    order: []
