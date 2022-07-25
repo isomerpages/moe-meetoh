@@ -2,5 +2,6 @@ collections:
   school-achievements:
     output: true
     order:
+      - Character Awards/2019 Character Awards.md
       - Character Awards/.keep
       - External Competitions.md
