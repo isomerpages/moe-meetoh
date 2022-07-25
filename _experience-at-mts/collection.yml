@@ -2,6 +2,7 @@ collections:
   experience-at-mts:
     output: true
     order:
+      - Character Education/Integrated Project Work and Values in Action.md
       - Character Education/School History Curriculum.md
       - Character Education/.keep
       - Physical Education, Arts,Music/Physical and Health Education.md
