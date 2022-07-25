@@ -2,5 +2,6 @@ collections:
   experience-at-mts:
     output: true
     order:
+      - Physical Education, Arts,Music/Physical and Health Education.md
       - Physical Education, Arts,Music/Arts and Music.md
       - Physical Education, Arts,Music/.keep
