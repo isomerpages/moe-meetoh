@@ -60,3 +60,5 @@ Integrated Project Work and Values in Action (IPW-VIA) is multi-faceted and supp
  **SEED**
 
 Strategies for Engaged and Effective Development (SEED) curriculum creates joy in interdisciplinary learning across subjects. Through experiential learning, students apply and demonstrate their knowledge and skills acquired in the various subjects, and their learning is augmented in authentic tasks that require them to create crafts, write about their experiences and present their research findings in English.
+
+*Updated on 29 June 2022*
