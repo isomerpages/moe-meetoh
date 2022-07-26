@@ -1,4 +1,5 @@
 collections:
   guidance-and-wellness:
     output: true
-    order: []
+    order:
+      - SEAIP.md
