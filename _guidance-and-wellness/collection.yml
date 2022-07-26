@@ -2,4 +2,5 @@ collections:
   guidance-and-wellness:
     output: true
     order:
+      - Form Teacher Guidance Period (FTGP).md
       - SEAIP.md
