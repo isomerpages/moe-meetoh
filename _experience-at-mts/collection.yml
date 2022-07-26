@@ -2,6 +2,7 @@ collections:
   experience-at-mts:
     output: true
     order:
+      - Guidance and Wellness.md
       - ICT in Education.md
       - Student Management.md
       - Environment Education.md
