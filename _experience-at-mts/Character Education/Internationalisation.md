@@ -17,3 +17,5 @@ On top of that, the immersion programme also helps to broaden our students’ ex
 
 <img src="/images/int2.png" 
      style="width:80%">
+
+*Updated on 25 May 2018*
