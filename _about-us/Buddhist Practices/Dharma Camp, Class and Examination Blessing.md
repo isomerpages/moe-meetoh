@@ -4,7 +4,6 @@ permalink: /about-us/Buddhist-Practices/dharma-camp-class-and-examination-blessi
 description: ""
 third_nav_title: Buddhist Practices
 ---
-
 ### Dharma Camp and Class
 
 #### 佛学营
@@ -13,7 +12,8 @@ third_nav_title: Buddhist Practices
 
 在为期两天的佛学营中，同学们可以透过多姿多彩的户外活动，亲身体验大自然与人类的密切关系，从而懂得惜福、感恩、尊重生命和学习爱护自己。除此之外，学生也会通过不同的文化活动，如种植盆栽，陶瓷制作培养耐性和发挥创意与艺术才华。
 
-pichere
+<img src="/images/bp3.png" 
+     style="width:90%">
 
 #### DHARMA CAMP
 
@@ -23,7 +23,8 @@ The camp aims to impart Dharma teachings and cultivate good character in Mee Toh
 
 During the two -day Dharma camp, students will have chance to be close to the nature. They will learn how to cherish, show gratitude and respect for life. Through the activities, students will develop patience, creativity and artistic talent.
 
-pichere
+<img src="/images/bp4.png" 
+     style="width:90%">
 
 #### 佛学班
 
@@ -33,7 +34,8 @@ pichere
 
 今年，新加坡佛光山监寺妙穆法师和吴宝德校长一起主持了学生授证及授书仪式。授证代表学生学习佛法的心灵印证，而授书则代表着佛法的延续。
 
-pichere
+<img src="/images/bp5.png" 
+     style="width:60%">
 
 #### DHARMA CLASS
 
@@ -48,3 +50,21 @@ The objectives of this Dharma Class are to:
 Through these Dharma Teachings, our students will have the right perspectives of life and be more positive and compassionate towards others.
 
 This year, Singapore Fo Guang Shan abbot Master Miao Mu and Mr Gau Poh Teck presented a Buddhist book to every student during Dharma Class Opening Ceremony.
+
+#### Examniation Blessing 
+
+##### 考试祈福典礼
+
+新加坡佛光山在年终考试前夕会为我们的学生进行考试祈福典礼。考试祈福典礼不仅给予学生们精神上的鼓励，也教导学生如何面对压力和克服困难，努力读书以取得好成绩。典礼过后，师父还会给学生们说一些激励他们向上的故事。最后，师父还为师生们进行净化心灵的洒净仪式。
+
+<img src="/images/bp6.png" 
+     style="width:90%">
+
+##### Examination Blessing Ceremony
+
+The Examination Blessing Ceremony is held annually with the support of Fo Guang Shan Temple (Singapore). The ceremony is one of the ways of providing support for the pupils, who will be taking their year-end examinations soon. This ceremony conveys the understanding that examination is part and parcel of life. The pupils understand that perseverance is necessary to achieve good results and are also taught the importance of humility if they have done very well as well as resilience to cotninue to work hard if they do not perform well.
+
+At the end of the ceremony, the Venerable tells stories to encourage the pupils to study conscientiously to maximise their potential.
+
+<img src="/images/bp8.png" 
+     style="width:90%">
