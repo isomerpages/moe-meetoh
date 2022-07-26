@@ -27,3 +27,6 @@ The Dharmaratna Festival which falls on the 8th day of the 12th lunar month, com
 Celebrating Dharmaratna Festival, with the support of Fo Guang Shan Temple (Singapore), allows our pupils to show gratitude to their teachers. In addition, parents from PATH volunteer their service on that day. They not only set good example to our pupils by serving the community, but also display team-spirit through collaboration with people from different walks of life.
 
 Since Dharmaratna Festival falls on the twelfth month of the Chinese calendar, all pupils are encouraged to set new goals for the New Year. Setting goals allow our pupils to know precisely what they want to achieve as well as where they have to concentrate their efforts. This enables them to better manage their time and do their best when they own and commit to achieve their goals.
+
+<img src="/images/bp1.png" 
+     style="width:60%">
