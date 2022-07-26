@@ -72,3 +72,5 @@ In 2020, students put into practice the ICT skills they have learnt in school du
 | Log-in Readiness Exercise 	| March Holidays 	|
 | Home-Based Learning 	| April, May to June 	|
 | e-Learning Exercise 	| PSLE Written Exam Week 	|
+
+*Updated on 23 October 2020*
