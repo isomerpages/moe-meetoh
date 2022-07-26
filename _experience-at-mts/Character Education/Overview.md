@@ -47,3 +47,5 @@ The explicit teaching of the CCE syllabus in Mee Toh helps students better relat
 
 <img src="/images/cce3.png" 
      style="width:80%">
+
+*Updated on 19 October 2020*
