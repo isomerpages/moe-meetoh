@@ -24,7 +24,7 @@ sections:
         Mee Toh School) aims to build knowledge, skills and a positive attitude
         for a lifetime of... "
       button: Read more
-      url: /experience-at-mts/learning-for-life-programme-llp
+      url: /experience-at-mts/learning-for-life-programme
       image: /images/llp1.png
       alt: llp
   - infopic:
