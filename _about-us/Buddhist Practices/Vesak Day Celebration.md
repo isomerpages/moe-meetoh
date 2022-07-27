@@ -15,4 +15,4 @@ third_nav_title: Buddhist Practices
 As a school with Buddhist beginnings, Vesak Day celebration is an annual event in Mee Toh School. The venerables from Kong Meng San Phor Kark See Temple are invited to chant the sutras. In addition, the public is invited to participate in the “Bathing of Lord Buddha” ritual which symbolises the determination to purify one’s bad deeds over the good deeds and cleansing of one’s mind. Flowers and fruits are offered to Lord Buddha to remind us of impermanence.
 
 <img src="/images/bp2.png" 
-     style="width:70%">
+     style="width:50%">
