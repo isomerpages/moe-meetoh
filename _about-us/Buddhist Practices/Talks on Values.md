@@ -11,7 +11,7 @@ third_nav_title: Buddhist Practices
 每个月的第一个周会，佛光山的师父都会到学校来给学生们说故事。故事内容不但生动有趣，更传达了我校校训中慈、良、清、直的道德价值观。在30分钟的活动中，学生能透过富有寓意的故事时时观照自己的言行举止，领悟做人的道理。
 
 <img src="/images/bp9.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 *师父讲故事*
 *Venerable telling a story*
