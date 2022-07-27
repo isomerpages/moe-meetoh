@@ -3,7 +3,15 @@ title: Photo Gallery
 permalink: /for-parents/photo-gallery
 description: ""
 ---
+| TERM 3 	|
+|:---:	|
+| Racial Harmony Day 2020 (July 13) 	|
 
+| TERM 1 	|
+|:---:	|
+| [P3 Awards Ceremony (Feb 21)](https://www.smugmug.com/gallery/n-S54dsX)<br>[TDD (Feb 20)](https://www.smugmug.com/gallery/n-VbDDb3)<br>[Lo Hei 2020 (Feb 5)](https://www.smugmug.com/gallery/n-fzgKms) 	|
+| [P4 PES (Feb 3)](https://www.smugmug.com/gallery/n-btbTJ3)<br><br>[Chinese New Year Celebration (Jan 24)](https://www.smugmug.com/gallery/n-RJBGMH) 	|
+| [P5 Camp (Jan 16-18)](https://www.smugmug.com/gallery/n-M5L4mV)<br><br>[Dharmaratna Festival (Jan 8)](https://www.smugmug.com/gallery/n-3GH6Qd)<br>[P1 Level Dance (Jan 6)](https://www.smugmug.com/gallery/n-fJnJ2f)<br>[P2 Level Dance (Jan 3)](https://www.smugmug.com/gallery/n-3GHP4h) 	|
 
 #### 2019
 
