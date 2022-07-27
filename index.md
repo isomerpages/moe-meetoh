@@ -60,7 +60,7 @@ sections:
         empower our students with 21st Century Competencies to ponder and
         articulate their...
       button: Read more
-      url: /voices-of-mts
+      url: /voices-of-mts/
       image: /images/infopic5.png
       alt: infopic5
 ---
