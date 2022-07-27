@@ -3,7 +3,7 @@ url: ""
 favicon: /images/meetohfav.png
 colors:
   primary-color: "#a4d4cf"
-  secondary-color: "#4372d6"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
