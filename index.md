@@ -33,7 +33,7 @@ sections:
         environmental sustainability through our Applied Learning Programme in
         Environment Education. "
       button: Read more
-      url: /applied-learning-programme
+      url: /applied-learning-programme/
       image: /images/infopic2.png
       alt: info pic2
   - infopic:
