@@ -3,9 +3,39 @@ title: Photo Gallery
 permalink: /for-parents/photo-gallery
 description: ""
 ---
+#### 2022
+
+| TERM 1 	|
+|:---:	|
+| [Chinese New Year Celebration (Jan 31)](https://www.smugmug.com/gallery/n-nm7zpH) 	|
+
+#### 2021
+
+| TERM 4 	|
+|:---:	|
+| [Exam Blessing (Sept 20)](https://www.smugmug.com/gallery/n-SVJsMx) 	|
+
 | TERM 3 	|
 |:---:	|
-| Racial Harmony Day 2020 (July 13) 	|
+| [National Day (Aug 6)](https://www.smugmug.com/gallery/n-xNHVfp) 	|
+
+| TERM 2 	|
+|:---:	|
+| [International Friendship Day  (Apr 12)](https://www.smugmug.com/gallery/n-gXMJWR)<br>[Mother Tongue Fortnight (Mar 29 - Apr 9)](https://www.smugmug.com/gallery/n-cSHqQ7) 	|
+
+| TERM 1 	|
+|:---:	|
+| [Chinese New Year Celebration (Feb 11)](https://www.smugmug.com/gallery/n-txWC3d)<br><br>[P5 Camp (Jan 21)](https://www.smugmug.com/gallery/n-MkcHPg) 	|
+
+#### 2020
+
+| TERM 4 	|
+|:---:	|
+| [e-Exam Blessing 2020 (Sept 21)](https://www.smugmug.com/gallery/n-vMDXJC) 	|
+
+| TERM 3 	|
+|:---:	|
+| [Racial Harmony Day 2020 (July 13)](https://www.smugmug.com/gallery/n-3qcLkq) 	|
 
 | TERM 1 	|
 |:---:	|
