@@ -6,6 +6,8 @@ third_nav_title: Our Staff
 ---
 ### Exco and Teacher Leadership Team
 
+*To email our staff, click on their names.*
+
 <img src="/images/exco1.png" 
      style="width:80%">
 		 
@@ -44,3 +46,5 @@ third_nav_title: Our Staff
 | <img src="/images/exco32.png" style="width:60%"> 	| [**Ms Dion Ng Hui Lin**](mailto:ng_hui_lin_dion@moe.edu.sg)<br>Level Head - Mathematics<br><br>Education is not all about the learning of facts, but also the training of the mind to think and question. It is important that we do not stop questioning as it allows us to organise our thinking and to develop an inquiry mind. 	|
 | <img src="/images/exco33.png" style="width:60%"> 	| [**Ms Rachel Yeo Li Choo**](mailto:yeo_li_choo@moe.edu.sg)<br>Level Head - Mathematics<br><br>Education is not just about the teaching of skills and knowledge, it is also about inculcating good moral values and developing every child holistically. I believe that values and attitudes are essential in growing the child. With strong moral values and good attitude, the child will be able to reach their fullest potential and bring out the star in them. 	|
 | <img src="/images/exco34.png" style="width:60%"> 	| [**Mdm Winnie Tan Wei Lin**](mailto:tan_wei_lin_winnie@moe.edu.sg)<br><br>Level Head - English (Internal)<br><br>"To be is to do." – Socrates  	|
+
+*Updated on 21 December 2021*
