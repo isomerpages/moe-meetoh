@@ -7,7 +7,7 @@ third_nav_title: Our Identity
 ### School Founder
 
 <img src="/images/identity6.png" 
-     style="width:60%">
+     style="width:40%">
 
 Venerable Kong Hiap was born Huang Runzhi in Luo-Dong, Nan -An County, Fujian Province , China , on 4 January 1900 to the Huang family. In 1921, Venerable Rui Deng of Nan Pu-Tuo Temple in China, ordained him. He practised the Nan-Shan precepts under Preceptor Master Venerable Gu Xing in Nan-Shan Guang Hua Monastery, Pu-Tien.  
 
