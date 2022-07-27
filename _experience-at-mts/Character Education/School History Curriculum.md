@@ -6,6 +6,8 @@ third_nav_title: Character Education
 ---
 ### School History Curriculum
 
+There is no present without the past. Our school history curriculum aims to help Mee Tohians develop a deeper appreciation of values through rich stories of our founder and the school’s progression over the years.  It is a progressive curriculum that runs from Primary One to Primary Six.  The curriculum is supported by two different storylines, which run in line with the text in our very own Heritage Centre.
+
 |  	|  	|
 |---	|---	|
 | **Vision<br>** 	| Student-centric, Values-driven Education 	|
