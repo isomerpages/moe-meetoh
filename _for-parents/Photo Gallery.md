@@ -3,6 +3,16 @@ title: Photo Gallery
 permalink: /for-parents/photo-gallery
 description: ""
 ---
+| TERM 2 	|
+|:---:	|
+| [Founder's Day, Vesak Day Celebration and Open House (June 1)](https://www.smugmug.com/gallery/n-mvBjrH/)<br>[Heritage Centre (May 24)](https://www.smugmug.com/gallery/n-bvRKtw/)<br>[Biodiversity Week - Tree Planting (May 22)](https://www.smugmug.com/gallery/n-FnJQ9q)<br>[MTS Xiamen 2019 (May 22)](https://www.smugmug.com/gallery/n-Nhfgn3/)<br>[Shanghai Trip (May 14)](https://www.smugmug.com/gallery/n-xxFTfw)<br>[Pre School Tour (May 2)](https://www.smugmug.com/gallery/n-3vRzP4)<br>[MTS Green Campaign (22 April)](https://www.smugmug.com/gallery/n-KbtMXw)<br>[Music Assembly Prog (April 15)](https://www.smugmug.com/gallery/n-jCWWqb) 	|
+| [Mee Toh Got Talent (April 15)](https://www.smugmug.com/gallery/n-MbXsBd) 	|
+| [Mother Tongue Fortnight (April 8 - April 18)](https://www.smugmug.com/gallery/n-rFv5t4) 	|
+| [International Friendship Day 2019 (April 8)](https://www.smugmug.com/gallery/n-mpg8rG) 	|
+| [Art Doodling Wall (April 8)](https://www.smugmug.com/gallery/n-42H5B8)<br>[15th National Primary Schools Wushu Championships (April 2)](https://www.smugmug.com/gallery/n-vxHHgB) 	|
+| [2019 Secondary School Talks (April 1)](https://www.smugmug.com/gallery/n-GvWbCX) 	|
+| [Prefects Investiture (Mar 25)](https://www.smugmug.com/gallery/n-t6DdKd) 	|
+
 | TERM 1 	|
 |:---:	|
 | [Dharma Camp (Mar 18 - Mar 19)](https://www.smugmug.com/gallery/n-S5FXn4)<br>[First Lego League Singapore 2018/2019 (Mar 16)](https://www.smugmug.com/gallery/n-QHLWG4)<br>[MTS Water Conservation Campaign 2019 (Mar 11)](https://www.smugmug.com/gallery/n-DZbTLZ) 	|
