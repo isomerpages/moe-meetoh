@@ -40,6 +40,8 @@ All students are to be seated by 7.15 a.m. in their respective classroom for the
 | P2 & P5 	| 1.30 p.m. 	|
 | P3 & P6 	| 1.25 p.m. 	|
 
+<br><br>
+
 | Level 	| Venue 	| Remarks 	|
 |:---:	|:---:	|:---:	|
 | Primary 1 – 3 	| Gate 2 	| All Primary 1 to 3 students will be led to Gate 2 by the teachers and dismissed via Gate 2 only.<br><br>Parents will wait outside Gate 2 behind the cordoned area for the safety of all students. 	|
