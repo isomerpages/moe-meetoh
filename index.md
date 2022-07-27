@@ -51,7 +51,7 @@ sections:
         allow students to synthesise their knowledge learnt from various
         subjects and apply them to...
       button: Read more
-      url: /experience-at-mts/character-education/integrated-project-work-and-values-in-action
+      url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
       image: /images/infopic4.png
       alt: infopic4
   - infopic:
