@@ -42,7 +42,7 @@ sections:
         aims to help Mee Tohians develop a deeper appreciation of values through
         rich stories of...
       button: Read more
-      url: /experience-at-mts/character-education/school-history-curriculum
+      url: /experience-at-mts/Character-Education/school-history-curriculum
       image: /images/infopic3.png
       alt: infopic3
   - infopic:
