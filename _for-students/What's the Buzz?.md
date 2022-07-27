@@ -14,3 +14,4 @@ Voices of MTS - From Students to Students
 
 Mother Tongue Fortnight @ Mee Toh School
 
+![](/images/mtb.gif)
