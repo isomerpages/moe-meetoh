@@ -4,3 +4,16 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/chinese-calligra
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
+### Chinese Calligraphy Club
+
+**Objectives**
+
+*   To cultivate interest among students in the appreciation of Chinese culture.
+*   To develop resilience and strive for excellence in mastering the art of Chinese calligraphy.
+*   To instill knowledge of basic skills and techniques in Chinese calligraphy and Chinese painting.
+
+
+<img src="/images/vpa3.png" 
+     style="width:80%">
+		 
+*Updated on 18 July 2019*
