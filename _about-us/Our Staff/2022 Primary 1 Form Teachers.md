@@ -26,5 +26,5 @@ third_nav_title: Our Staff
 | <img src="/images/p1o.png" style="width:70%"> 	| Mdm Sunarti Binte Amidon<br>Subject Head - Malay Language<br>Form Teacher (2) Primary 1-8<br>Pendidikan bermula dari hati langsung ke hati.  	|
 |  <img src="/images/p1p.png" style="width:70%"> 	| Mdm Nora Yuhanis Bte Jaffar      <br><br>Form Teacher (1) Primary 1-9<br><br><br>"Children must be taught how to think; not what to think." ~ Margaret Mead  	|
 | <img src="/images/p1q.png" style="width:70%"> 	| Mdm Lee Ai Ling<br>Chinese Language Teacher<br>Form Teacher (2) Primary 1-9<br><br>“学无止境” －从心出发，引起学生学习兴趣。让学生积极探索，乐学善用。 	|
-| # 	| Mdm Winnie Tan Wei Lin<br>Form Teacher (1) Primary 1-10<br>"To be is to do." – Socrates  	|
-| # 	| <br><br>Miss Shum Wen Hui<br>Form Teacher (2) Primary 1-10<br>“Every child deserves a champion—an adult who will never give up on them, who understands the power of connection, and insists that they become the best that they can possibly be.” - Rita Pierson  	|
+| <img src="/images/p1r.png" style="width:70%"> 	| Mdm Winnie Tan Wei Lin<br>Form Teacher (1) Primary 1-10<br>"To be is to do." – Socrates  	|
+| <img src="/images/p1s.png" style="width:70%"> 	| <br><br>Miss Shum Wen Hui<br>Form Teacher (2) Primary 1-10<br>“Every child deserves a champion—an adult who will never give up on them, who understands the power of connection, and insists that they become the best that they can possibly be.” - Rita Pierson  	|
