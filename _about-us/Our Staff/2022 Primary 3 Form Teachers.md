@@ -26,3 +26,5 @@ third_nav_title: Our Staff
 | <img src="/images/p3n.png" style="width:70%"> 	| Ms Ong Lay San<br>Chinese Language Teacher<br>Form Teacher (2) Primary 3-7<br>"The whole purpose of education is to turn mirrors into windows." - Sydney J. Jarris 	|
 | <img src="/images/p3o.png" style="width:70%"> 	| Ms Tan Choon Lan<br><br>Form Teacher (1) Primary 3-8 Every child is unique. Every child can learn. Every child matters.   	|
 |  <img src="/images/p3p.png" style="width:70%"> 	| Mdm Zou Yang<br>Chinese Language Teacher<br>Form Teacher (2) Primary 3-8<br> " 享受学习的乐趣，收获知识的果实"  	|
+
+*Updated on 21 June 2022*
