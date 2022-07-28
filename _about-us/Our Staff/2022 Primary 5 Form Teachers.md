@@ -28,3 +28,5 @@ third_nav_title: Our Staff
 | <img src="/images/p5p.jpeg" style="width:70%">  	| [**Ms Aleeza Dwi Artha**](mailto:aleeza_dwi_artha@moe.edu.sg)<br>Form Teacher (2) Primary 5-8<br> 	|
 | <img src="/images/p5q.jpeg" style="width:70%">  	| [**Ms Mohana d/o Thangavalu**](mailto:mohana_parthiben@moe.edu.sg) <br>Form Teacher (1) Primary 5-9<br><br>A good teacher is not determined by the number of questions he can ask his students that they can respond readily, but by the number of questions he inspires to ask which he finds difficult to answer.  	|
 | <img src="/images/p5r.jpeg" style="width:70%">  	| [**Mr Joey Tan Chee Kian**](mailto:tan_chee_kian@moe.edu.sg)<br>Head of Department - Physical & Health Education (PHE)<br>Form Teacher (2) Primary 5-9<br>Changes doesn't just pass by. It brings you along for the ride  	|
+
+*Updated on 21 December 2021*
