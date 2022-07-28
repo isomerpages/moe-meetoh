@@ -6,6 +6,8 @@ third_nav_title: Our Staff
 ---
 ### 2022 Primary 1 Form Teachers
 
+*To email our staff, click on their names.*
+
 |  	|  	|
 |---	|---	|
 | <img src="/images/p1a.png" style="width:70%"> 	| [**Miss Kwang Ling Ji, Jesslyn**](mailto:kwang_ling_li_jesslyn@moe.edu.sg)<br>Form Teacher (1) Primary 1-1<br><br>To teach is to learn. 	|
@@ -28,3 +30,5 @@ third_nav_title: Our Staff
 | <img src="/images/p1q.png" style="width:70%"> 	| [**Mdm Lee Ai Ling**](mailto:lee_ai_ling_evelyn@moe.edu.sg)<br>Chinese Language Teacher<br>Form Teacher (2) Primary 1-9<br><br>“学无止境” －从心出发，引起学生学习兴趣。让学生积极探索，乐学善用。 	|
 | <img src="/images/p1r.png" style="width:70%"> 	| [**Mdm Winnie Tan Wei Lin**](mailto:tan_wei_lin_winnie@moe.edu.sg)<br>Form Teacher (1) Primary 1-10<br>"To be is to do." – Socrates  	|
 | <img src="/images/p1s.png" style="width:70%"> 	| <br><br>[**Miss Shum Wen Hui**](mailto:shum_wen_hui@moe.edu.sg)<br>Form Teacher (2) Primary 1-10<br>“Every child deserves a champion—an adult who will never give up on them, who understands the power of connection, and insists that they become the best that they can possibly be.” - Rita Pierson  	|
+
+*Updated on 21 December 2021*
