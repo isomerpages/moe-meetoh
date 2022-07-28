@@ -8,7 +8,7 @@ third_nav_title: Our Staff
 
 |  	|  	|
 |---	|---	|
-| # 	| <br><br>Miss Low Jing Yi<br>Form Teacher (1) Primary 3-1<br><br><br>Plant seeds of curiosity, prune weeds of bad habits, provide a nurturing environment, and in time you will be rewarded with mighty trees of future generations. 	|
+| <img src="/images/p2a.png" style="width:70%"> 	| <br><br>Miss Low Jing Yi<br>Form Teacher (1) Primary 3-1<br><br><br>Plant seeds of curiosity, prune weeds of bad habits, provide a nurturing environment, and in time you will be rewarded with mighty trees of future generations. 	|
 | # 	| Mdm Yan Yu Zhen<br>Chinese Language Teacher<br>Form Teacher (2) Primary 3-1<br>书山有路勤为径，学海无涯苦作舟。——韩愈。  	|
 | # 	| Mrs Chia Mei Kwan<br>Form Teacher (1) Primary 3-2<br> Education, just like a beacon, allows students to seek their paths and guides them to read their desired destination. As an educator, I can facilitate values to be instilled and knowledge to be imparted so that students can be equipped with the necessary character building and skill set to achieve their goals.   	|
 | # 	| Mdm Hasni Abu Bakar<br>Year Head - Primary 3 & 4<br>Form Teacher (2) Primary 3-2<br>Children learn best when their social and emotional needs are well taken care of. As educators, we help our children to recognise their strengths and develop good character so that they become confident yet caring individuals. Every child has a gift. Each just opens them at different times.   	|
