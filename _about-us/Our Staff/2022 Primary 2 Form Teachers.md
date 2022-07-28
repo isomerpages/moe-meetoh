@@ -6,6 +6,8 @@ third_nav_title: Our Staff
 ---
 ### 2022 Primary 2 Form Teachers
 
+*To email our staff, click on their names.*
+
 |  	|  	|
 |---	|---	|
 | # 	| Miss Vishalini D/O Peramagantan<br>Form Teacher (1) Primary 2-1<br><br>"We teach children, not subjects."<br>Learning is a journey that involves both the learner and the teacher. I hope my students will enjoy this journey. As they discover the joy of learning, they will be intrinsically motivated to learn. 	|
