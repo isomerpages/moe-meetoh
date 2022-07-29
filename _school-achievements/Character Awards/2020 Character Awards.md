@@ -40,7 +40,7 @@ third_nav_title: Character Awards
 
 ##### 2019 MTS Foundation Award Recipients
 
-| Name of Students 	| Awards 	|
+| Our Achievers - Name of Students 	| Awards 	|
 |:---:	|:---:	|
 | Chu Yun Xuan 	| Excellence in Aesthetics - Chinese Orchestra 	|
 | [Beh Ke Xuan](/files/Beh%20Ke%20Xuan.pdf) 	| Excellence in Aesthetics - Choir 	|
@@ -55,3 +55,11 @@ third_nav_title: Character Awards
 | Sun Wenqian 	| Outstanding Bilingual Reader 	|
 | [Toh Zi Ee](/files/Toh%20Zi%20Ee.pdf) 	| Outstanding Bilingual Reader 	|
 | [D'anna Thong Kai Leng](/files/Danna%20Thong%20Kai%20Leng.pdf) 	| Outstanding Heritage Ambassador 	|
+
+##### 2019 Resilience Awards Recipients
+
+| Name of Students 	|
+|:---:	|
+| Ko Jia Xuan 	|
+| Li Juncheng 	|
+| Seraynes Tan 	|
