@@ -76,3 +76,45 @@ National Placement (Top 8 position)**
 | Chu Bao Er<br>Neo Eng Kye<br>Tricia Tay Yuxuan<br>Darena Yeo<br>Ong Qian Ying<br>Tock Jiaxin Yvette 	| 5-2<br>5-8<br>4-8<br>5-4<br>5-1<br>5-9 	| JG Group Quanshu<br>JG Group Weapon 	| 5th<br>6th 	|
 | Chee Boon Kuan Antonio<br>Adam Goh Jun Luck<br>Zeviel Kit<br>Klemens Lim<br>Talon Lee Ying Xian<br>Low Zi Rong<br>Chua Yu Zhe Lucas (R) 	| 6-8<br>5-1<br>5-9<br>6-6<br>5-5<br>6-4<br>6-8 	| SB Group Quanshu<br>SB Group Weapon 	| 7th<br>6th 	|
 | Ong Zhi Xuan Neysha<br>Tay Yi Xin<br>Kayla Seng Shi Qi<br>Tan Sirui Renee<br>Ng Yu Jie<br>Jenneke Lau<br>Aliston Tan Rui Han (R) 	| 5-7<br>6-7<br>6-6<br>5-4<br>6-5<br>6-5<br>6-4 	| SG Group Quanshu<br>SG Group Weapon 	| 5th<br>3rd 	|
+
+### 2019 CCA Excellence Awards
+
+The following CCA groups received CCA Excellence Awards during 2019 Founders' Day.
+
+<img src="/images/ex1.png" 
+     style="width:60%"> Chinese Calligraphy Awardees
+
+| Events 	| Name 	| Class 	| Awards 	|
+|:---:	|:---:	|:---:	|:---:	|
+| National Primary Schools Chinese Calligraphy Competition 2019 	| Chua Xiu Jing, Angelina<br>Liao Ruici Rae<br>Pang Zi Rong<br>Tan Qi Qi<br>Yam Ju Yi 	| 2-5<br>2-8<br>3-5<br>3-7<br>5-1 	| Merit (Lower Primary)<br>Merit (Lower Primary)<br>Consolation (Lower Primary)<br>Consolation (Lower Primary)<br>Merit (Upper Primary) 	|
+| 7th National Chinese Calligraphy Competition 	| Yong Cheng Hoi (Yang Chengkai)<br>Yam Ju Yi 	| 5-5<br>5-1 	| Consolation<br>Consolation 	|
+| Punggol North Calligraphy Competition 2018 	| Chua Xiu Jing, Angelina<br><br>Bryan Peh Jun Wei<br> 	| 2-5<br><br>6-6<br> 	| 3rd Individual Placing - Pen Calligraphy (Primary)<br>3rd Individual Placing - Chinese Calligraphy (Primary) 	|
+| 2nd National Huichun Chinese Calligraphy Competition 	| Chua Xiu Jing, Angelina<br>Daniel Xu Yang<br>Bryan Peh Jun Wei 	| 2-5<br>2-6<br>6-6 	| 1st Prize (Lower Primary)<br>Merit (Lower Primary)<br>Merit (Upper Primary) 	|
+| 22nd World Students' Calligraphy Cultural Arts Exhibition 2018 	| Chua Xiu Jing, Angelina 	| 2-5 	| Merit 	|
+| 11th National Youth Chinese Calligraphy Competition 	| Bryan Peh Jun Wei 	| 6-6 	| Merit (Primary) 	|
+
+<img src="/images/ex2.png" 
+     style="width:60%"> Art Club Awardees
+
+| Events 	| Name 	| Class 	| Awards 	|
+|:---:	|:---:	|:---:	|:---:	|
+| Singapore Youth Festival 2019 Art Exhibition 	| Marion Lucine De Leon Lui<br>Anders Lim Zhe Xi<br>Koh Wei Song, Shino<br>Matthias Teo Au Yang<br>Chloe Yap En Qi<br>Grace Ni Ruiting<br>Micole Chng En Qi<br>Clemens Yong Hao Wen 	| 2-2<br>2-2<br>2-2<br>2-2<br>2-5<br>2-5<br>2-5<br>2-5 	| Selected Piece for Category A 	|
+
+<img src="/images/ex3.png" 
+     style="width:60%"> Robotics Club Awardees
+
+| Events 	| Name 	| Class 	| Awards 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 1st Lego League Singapore 	| Oh Swee Yong Terence<br>Kong Junwei Brayden<br>Ho Peck Woon, Kayden<br>Nexus Ang Chen Joon 	| 6-1<br>5-5<br>4-4<br>6-3 	| 2nd Runner-up for Teamwork 	|
+
+<img src="/images/ex4.png" 
+     style="width:60%"> Badminton Awardees
+
+| Events 	| Name 	| Class 	| Awards 	|
+|:---:	|:---:	|:---:	|:---:	|
+| National School Games North Zone Badminton Championship 2019 	| Chan Xin Hui Janice<br>Charmaine Tan Yun Chun<br>Chong Kai Wen<br>Goy Sze Kee, Eugynia<br>Lim Zi Xuan<br>Sun Yiting<br>Teo Lyren<br>Toh Zi Chen Samantha<br>Vera Tan Rui Xuan<br>Yap Ting Sze, Shirlene<br>(Ye Xianyi) 	| 4-1<br>5-2<br>5-5<br>5-1<br>4-1<br>5-1<br>3-8<br>5-8<br>5-8<br>5-5<br> 	| 3rd Team Placing<br>Junior Division Girls 	|
+| National School Games North Zone Badminton Championship 2019 	| Alexis Wong Wan Qi<br>Aveline Tan Wan yu<br>D'Anna Thong Kai Leng<br>Erica Tan Zhi Yi<br>Lee En Rui Joey<br>Mao Tian Ai Sophie<br>Mao Tian En Isabelle<br>Sabrina Tan Yan Xi<br>Tan Ying Ping Delia<br>Tricia Lee Jia Xuan 	| 6-6<br>6-1<br>6-3<br>6-9<br>6-3<br>6-9<br>6-3<br>6-3<br>6-1<br>6-6 	| 4th Team Placing<br>Senior Division Girls 	|
+| National School Games North Zone Badminton Championship 2019 	| Aaron Tai Wei Meng<br>Ben Angelo Nathanael Satriadharma<br>Chan Hock Luck Elton<br>Chong Yu Xuan<br>Chua Ding Feng Benedict<br>Jacob Teo Ser Yuen<br>Lee Ting Wei Brendon<br>Tan Waylan<br>Tan Wee Heong<br>Teo Way Zen 	| 6-3<br>6-3<br>6-8<br>6-3<br>6-2<br>6-1<br>6-1<br>6-7<br>6-9<br>6-3 	| 4th Team Placing<br>Senior Division Boys 	|
+| National School Games Badminton Championship 2019 	| Chan Xin Hui Janice<br>Charmaine Tan Yun Chun<br>Chong Kai Wen<br>Goy Sze Kee, Eugynia<br>Lim Zi Xuan<br>Sun Yiting<br>Teo Lyren<br>Toh Zi Chen Samantha<br>Vera Tan Rui Xuan<br>Yap Ting Sze, Shirlene<br>(Ye Xianyi) 	| 4-1<br>5-2<br>5-5<br>5-1<br>4-1<br>5-1<br>3-8<br>5-8<br>5-8<br>5-5<br>& 	| National Top 16<br>First Round<br>Junior Division Girls 	|
+| National School Games Badminton Championship 2019 	| Alexis Wong Wan Qi<br>Aveline Tan Wan yu<br>D'Anna Thong Kai Leng<br>Erica Tan Zhi Yi<br>Lee En Rui Joey<br>Mao Tian Ai Sophie<br>Mao Tian En Isabelle<br>Sabrina Tan Yan Xi<br>Tan Ying Ping Delia<br>Tricia Lee Jia Xuan 	| 6-6<br>6-1<br>6-3<br>6-9<br>6-3<br>6-9<br>6-3<br>6-3<br>6-1<br>6-6 	| National Top 8<br>Second Round<br>Senior Division Girls 	|
+| National School Games Badminton Championship 2019 	| Aaron Tai Wei Meng<br>Ben Angelo Nathanael Satriadharma<br>Chan Hock Luck Elton<br>Chong Yu Xuan<br>Chua Ding Feng Benedict<br>Jacob Teo Ser Yuen<br>Lee Ting Wei Brendon<br>Tan Waylan<br>Tan Wee Heong<br>Teo Way Zen 	| 6-3<br>6-3<br>6-8<br>6-3<br>6-2<br>6-1<br>6-1<br>6-7<br>6-9<br>6-3 	| National Top 16<br>First Round<br>Senior Division Boys 	|
