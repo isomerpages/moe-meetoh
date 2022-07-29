@@ -41,3 +41,6 @@ third_nav_title: Character Awards
 | 4-6 	| Lim Wen Xuan 	|
 | 4-7 	| Wong Yun Xuan, Dyllis 	|
 | 4-8 	| Lee Xin Yi Tristyn 	|
+
+<img src="/images/ca2.png" 
+     style="width:60%">
