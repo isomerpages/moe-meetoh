@@ -118,3 +118,31 @@ The following CCA groups received CCA Excellence Awards during 2019 Founders' Da
 | National School Games Badminton Championship 2019 	| Chan Xin Hui Janice<br>Charmaine Tan Yun Chun<br>Chong Kai Wen<br>Goy Sze Kee, Eugynia<br>Lim Zi Xuan<br>Sun Yiting<br>Teo Lyren<br>Toh Zi Chen Samantha<br>Vera Tan Rui Xuan<br>Yap Ting Sze, Shirlene<br>(Ye Xianyi) 	| 4-1<br>5-2<br>5-5<br>5-1<br>4-1<br>5-1<br>3-8<br>5-8<br>5-8<br>5-5<br>& 	| National Top 16<br>First Round<br>Junior Division Girls 	|
 | National School Games Badminton Championship 2019 	| Alexis Wong Wan Qi<br>Aveline Tan Wan yu<br>D'Anna Thong Kai Leng<br>Erica Tan Zhi Yi<br>Lee En Rui Joey<br>Mao Tian Ai Sophie<br>Mao Tian En Isabelle<br>Sabrina Tan Yan Xi<br>Tan Ying Ping Delia<br>Tricia Lee Jia Xuan 	| 6-6<br>6-1<br>6-3<br>6-9<br>6-3<br>6-9<br>6-3<br>6-3<br>6-1<br>6-6 	| National Top 8<br>Second Round<br>Senior Division Girls 	|
 | National School Games Badminton Championship 2019 	| Aaron Tai Wei Meng<br>Ben Angelo Nathanael Satriadharma<br>Chan Hock Luck Elton<br>Chong Yu Xuan<br>Chua Ding Feng Benedict<br>Jacob Teo Ser Yuen<br>Lee Ting Wei Brendon<br>Tan Waylan<br>Tan Wee Heong<br>Teo Way Zen 	| 6-3<br>6-3<br>6-8<br>6-3<br>6-2<br>6-1<br>6-1<br>6-7<br>6-9<br>6-3 	| National Top 16<br>First Round<br>Senior Division Boys 	|
+
+<img src="/images/ex5.png" 
+     style="width:60%"> Scouts Awardees
+
+| Events 	| Name 	| Class 	| Awards 	|
+|:---:	|:---:	|:---:	|:---:	|
+| Frank Cooper Sands<br>(Cub Scout) 2018 	| Emmanuel Xiao Yong Yusli<br>Chai Chang En Elaine<br>Ling Jing Ting, Shanice<br>Yeoh Wen Xuan<br>Ng Yong Jun<br>Ngian Xuan Lin<br>Tan Yu Wen Terlyn<br>Chew Yue Feng Zaccheus<br>Nurtik Alfrina Umairah D/O Muhammad Yasser<br>Tang Li Qin Cheyanne<br>(Deng Liqin)<br>Reygan Chee Lock Tin<br>Tan Guan Lim<br>Yap Ting Yee, Angeline<br>Yeo En Hui Gracia<br>Mohamed Hayden Bin<br>Mohamed Nizam<br>Winayakage Kavith Chethiya 	| 6-1<br>6-2<br>6-2<br>6-2<br>6-4<br>6-4<br>6-4<br>6-5<br>6-5<br><br>6-5<br><br>6-6<br>6-6<br>6-6<br>6-6<br>6-9<br><br>6-9<br> 	| Gold Award 	|
+
+<img src="/images/ex6.png" 
+     style="width:60%"> Wushu Awardees
+
+| Events 	| Name 	| Class 	| Awards 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 15th National Primary Schools Wushu Championship 2019 	| Chee Boon Kuan Antonio 	| 6-8 	| 1st Individual Placing<br>Senior Boys<br>42-Style Taijiquan 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Adam Goh Jun Luck 	| 5-1 	| 4th Individual Placing<br>Senior Boys<br>1st International Nan Dao<br><br>5th Individual Placing<br>Senior Boys<br>1st International Nanquan<br><br>5th Individual Placing<br>Senior Boys<br>1st International Nan Gun 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Neo Eng Kye 	| 5-8 	| 5th Individual Placing<br>Junior Girls<br>5-Duan Cudgel 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Ong Qian Ying 	| 5-1 	| 4th Individual Placing<br>Junior Girls<br>5-Duan Cudgel 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Darena Yeo 	| 5-4 	| 5th Individual Placing<br>Junior Girls<br>1st International Nan Gun<br><br>5th Individual Placing<br>Junior Girls<br>1st International Nan Dao 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Tan Sirui Renee 	| 5-4 	| 7th Individual Placing<br>Senior Girls<br>4-Duan Cudgel 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Liang Yirong 	| 5-7 	| 7th Individual Placing<br>Junior Boys<br>32-Style Taijijian 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Lo Yi Huai 	| 4-6 	| 8th Individual Placing<br>Junior Boys<br>1st International Nan Gun 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Kayla Seng Shi Qi 	| 6-6 	| 8th Individual Placing<br>Senior Girls<br>5-Duan Changquan 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Ong Zhi Xuan Neysha 	| 5-7 	| 8th Individual Placing<br>Senior Girls<br>5-Duan Cudgel 	|
+| 15th National Primary Schools Wushu Championship 2019 	| Lo Yi Huai<br>Ho Kai Xiang Lucas<br>Poh Wei Hang Ethan<br>Liang Yi Rong<br>Jervis Lee Jun Le<br>Lim Jun Hee Ethan<br>Tan Guan Yan Jordan 	| 4-6<br>5-9<br>4-5<br>5-7<br>4-4<br>5-5<br>5-8 	| 4th Team Placing<br>Junior Boys<br>Group - Weapon 	|
+| 15th National Primary Schools<br>Wushu Championship 2019 	| Chu Bao Er<br>Neo Eng Kye<br>Tricia Tay Yuxuan<br>Darena Yeo<br>Ong Qian Ying<br>Tock Jiaxin Yvette 	| 5-2<br>5-8<br>4-8<br>5-4<br>5-1<br>5-9 	| 5th Team Placing<br>Junior Girls<br>Group - Quanshu<br><br>5th Team Placing<br>Junior Girls<br>Group - Weapon 	|
+| 15th National Primary Schools<br>Wushu Championship 2019 	| Chee Boon Kuan Antonio<br>Adam Goh Jun Luck<br>Zeviel Kit<br>Klemens Lim<br>Talon Lee Ying Xian<br>Low Zi Rong<br>Chua Yu Zhe Lucas 	| 6-8<br>5-1<br>5-9<br>6-6<br>5-5<br>6-4<br>6-8 	| 7th Team Placing<br>Senior Boys<br>Group - Quanshu<br><br>6th Team Placing<br>Senior Boys<br>Group - Weapon 	|
+| 15th National Primary Schools<br>Wushu Championship 2019 	| Ong Zhi Xuan Neysha<br>Tay Yi Xin<br>Kayla Seng Shi Qi<br>Tan Sirui Renee<br>Ng Yu Jie<br>Jenneke Lau<br>Aliston Tang Rui Han 	| 5-7<br>6-7<br>6-6<br>5-4<br>6-5<br>6-5<br>6-4 	| 5th Team Placing<br>Senior Girls<br>Group - Quanshu<br><br>3rd Team Placing<br>Senior Girls<br>Group - Weapon 	|
+
