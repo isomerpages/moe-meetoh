@@ -33,39 +33,15 @@ third_nav_title: Character Awards
 
 ##### Mee Toh Foundation and Resilience Award 2021
 
-**Mee Toh Foundation (Excellence in Sports)**
-
-|  	|  	|
-|---	|---	|
-| RAYNON GOH MAO YUAN 	| P6-7 	|
-| LO YI HUAI 	| P6-4 	|
-| CALDOZA BRAYDEN POH 	| P6-5 	|
-
-**Mee Toh Foundation (Excellence in Aesthetics - Visual Arts)**
-
-|  	|  	|
-|---	|---	|
-| JISELLE CHOW JIA XI 	| P6-4 	|
-| KAYDEN TAN HONG RUI 	| P6-9 	|
-
-
-**Mee Toh Foundation (Excellence in Aesthetics - Performing Arts)**
-
-|  	|  	|
-|---	|---	|
-| GUO HUICI JERMAINE 	| P6-5 	|
-| MICHELLE HOU QINGWAN 	| P6-2 	|
-| TAY WAI XIAN, SEAN (ZHENG WEIXIAN) 	| P6-8 	|
-
-**Mee Toh Foundation (Outstanding School Heritage Ambassador)**
-
-|  	|  	|
-|---	|---	|
-| LEUNG SIN CHING 	| P6-2 	|
-
-**Mee Toh Foundation (Outstanding Bilingual Reader)**
-
-|  	|  	|
-|---	|---	|
-| LIN ZIYAO 	| P2-4 	|
-| TAN XUANTONG 	| P6-2 	|
+|  	|  	|  	|
+|---	|---	|---	|
+| RAYNON GOH MAO YUAN<br>LO YI HUAI<br>CALDOZA BRAYDEN POH 	| P6-7<br>P6-4<br>P6-5 	| Mee Toh Foundation (Excellence in Sports) 	|
+| JISELLE CHOW JIA XI<br>KAYDEN TAN HONG RUI 	| P6-4<br>P6-9 	| Mee Toh Foundation (Excellence in Aesthetics - Visual Arts) 	|
+| GUO HUICI JERMAINE<br>MICHELLE HOU QINGWAN<br>TAY WAI XIAN, SEAN (ZHENG WEIXIAN) 	| P6-5<br>P6-2<br>P6-8 	| Mee Toh Foundation (Excellence in Aesthetics - Performing Arts) 	|
+| LEUNG SIN CHING 	| P6-2 	| Mee Toh Foundation (Outstanding School Heritage Ambassador) 	|
+| LIN ZIYAO<br>TAN XUANTONG 	| P2-4<br>P6-2 	| Mee Toh Foundation (Outstanding Bilingual Reader) 	|
+| KOH HUI GEOK TIFFANY 	| P6-7 	| Mee Toh Foundation (Exemplary Dedication to Community) 	|
+| HENG KAI HAN (WANG KAIHAN) 	| P6-7 	| Venerable Sek Kong Hiap Outstanding Environment Champion Award 	|
+| LOW KRISTIN 	| P1-5 	| Resilience Award (In memory of Mr Teo Chak Mong) 	|
+| CHUA MIN ZHUO WALDEN 	| P4-5 	| Resilience Award (In memory of Mr Teo Chak Mong) 	|
+| RAY TAN HAN WEI 	| P6-8 	| Resilience Award (In memory of Mr Teo Chak Mong) 	|
