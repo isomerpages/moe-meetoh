@@ -5,6 +5,30 @@ description: ""
 ---
 ### External Competitions
 
+#### Mathematics Department 2021 Achievements
+
+##### SINGAPORE MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (SMOPS)
+
+|  	| Name 	| Class 	| Award 	|
+|---	|---	|---	|---	|
+| 1 	| TEO THIAM JUN 	| 5-3 	| GOLD 	|
+| 2 	| GONG XUANYANG 	| 6-2 	| GOLD 	|
+| 3 	| MOK JING YANG 	| 6-2 	| GOLD 	|
+| 4 	| LIU JIANING 	| 5-3 	| SILVER 	|
+| 5 	| CAO ZIYI 	| 6-2 	| SILVER 	|
+| 6 	| CHENG YUZHE 	| 6-2 	| SILVER 	|
+| 7 	| LEE BING RONG, KYROS 	| 6-2 	| SILVER 	|
+| 8 	| LOW SING YOU, YOGAN (LIU CHENYOU) 	| 6-2 	| SILVER 	|
+| 9 	| NG YEEN CHIU, LUKE 	| 6-2 	| SILVER 	|
+| 10 	| QU HAISHI 	| 6-4 	| SILVER 	|
+| 11 	| WEI BOYANG 	| 6-7 	| SILVER 	|
+| 12 	| ZHOU SHANWEI 	| 5-3 	| BRONZE 	|
+| 13 	| LIM WEI TING 	| 6-2 	| BRONZE 	|
+| 14 	| ONG SEI KIAT 	| 6-2 	| BRONZE 	|
+| 15 	| POW SEN HENG 	| 6-2 	| BRONZE 	|
+| 16 	| SARAH LEE ZI XUAN 	| 6-2 	| BRONZE 	|
+| 17 	| ZHOU XINYUAN 	| 6-2 	| BRONZE 	|
+
 ##### NATIONAL MATHEMATICAL OLYMPIAD SINGAPORE (NMOS)
 
 |  	| Name 	| Class 	| Award 	|
