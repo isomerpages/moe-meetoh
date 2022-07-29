@@ -12,11 +12,11 @@ third_nav_title: Our Staff
 |  	|  	|
 |---	|---	|
 | <img src="/images/nft1.png" style="width:70%">  	| Mrs Ong Siew Ying<br>Administrative Manager (AM)<br><br>'The quality of our expectations determine the quality of our actions.' - Andre Godin 	|
-| # 	| Mdm Goh Tiap Imm<br>Operations Manager (OM)<br><br>'Education is not preparation for life, education is life itself.' -John Dewey 	|
-| # 	| Mr Lee Liang Meng<br>Operations Manager  (OM)<br><br>"The roots of education are bitter but the fruit is sweet" - Aristotle 	|
-| # 	| Ms Amy Ng Pei Chuen<br>Administrative Executive (AE)<br><br>'If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people.' - Confucius 	|
-| # 	| Ms Shirley Ching<br>Adjunct Administrative Executive (AE)<br><br>Stay positive. Good things will happen. 	|
-| # 	| Mdm Sim Lee King<br>Management Support Office (MSO)<br><br>'Where ever you go, go with your heart.' -Confucius 	|
+| <img src="/images/nft2.png" style="width:70%"> 	| Mdm Goh Tiap Imm<br>Operations Manager (OM)<br><br>'Education is not preparation for life, education is life itself.' -John Dewey 	|
+| <img src="/images/nft3.png" style="width:70%"> 	| Mr Lee Liang Meng<br>Operations Manager  (OM)<br><br>"The roots of education are bitter but the fruit is sweet" - Aristotle 	|
+| <img src="/images/nft4.png" style="width:70%"> 	| Ms Amy Ng Pei Chuen<br>Administrative Executive (AE)<br><br>'If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people.' - Confucius 	|
+| <img src="/images/nft5.png" style="width:70%"> 	| Ms Shirley Ching<br>Adjunct Administrative Executive (AE)<br><br>Stay positive. Good things will happen. 	|
+| <img src="/images/nft6.png" style="width:70%"> 	| Mdm Sim Lee King<br>Management Support Office (MSO)<br><br>'Where ever you go, go with your heart.' -Confucius 	|
 | # 	| Mdm Candice Neo<br><br>Management Support Office (MSO)<br><br>Knowledge is power. 	|
 | # 	| Miss Koh Lee Lee<br>Management Support Office (MSO)<br><br>When one door closes, the other opens. Seize the opportunity. 	|
 | <br># 	| <br>Miss Wong Ka Wai, Eunice<br>Library Assistant<br> 	|
