@@ -4,15 +4,14 @@ permalink: /about-us/Our-Staff/executive-and-administrative-support
 description: ""
 third_nav_title: Our Staff
 ---
-## NOT DONE YET ### Executive and Administrative Support
+### Executive and Administrative Support
 
 *To email our staff, click on their names.*
 
-| <img src="/images/nft1.png" style="width:70%"> 
 
 |  	|  	|
 |---	|---	|
-| # 	| Mrs Ong Siew Ying<br>Administrative Manager (AM)<br><br>'The quality of our expectations determine the quality of our actions.' - Andre Godin 	|
+| <img src="/images/nft1.png" style="width:70%">  	| Mrs Ong Siew Ying<br>Administrative Manager (AM)<br><br>'The quality of our expectations determine the quality of our actions.' - Andre Godin 	|
 | # 	| Mdm Goh Tiap Imm<br>Operations Manager (OM)<br><br>'Education is not preparation for life, education is life itself.' -John Dewey 	|
 | # 	| Mr Lee Liang Meng<br>Operations Manager  (OM)<br><br>"The roots of education are bitter but the fruit is sweet" - Aristotle 	|
 | # 	| Ms Amy Ng Pei Chuen<br>Administrative Executive (AE)<br><br>'If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people.' - Confucius 	|
