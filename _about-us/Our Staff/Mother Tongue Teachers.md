@@ -6,6 +6,8 @@ third_nav_title: Our Staff
 ---
 ### Mother Tongue Teachers
 
+*To email our staff, click on their names.*
+
 #### Chinese Teachers
 
 |  	|  	|
