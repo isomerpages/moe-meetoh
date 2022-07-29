@@ -5,6 +5,29 @@ description: ""
 ---
 ### External Competitions
 
+|  	| Prize Winner(s) Name 	| Gender 	| Class 	| Awards/Positions 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
+| 1 	| Clemens Yong 	| M 	| P4-2 	| Bronze 	|
+| 2 	| Kaelynn Long 	| F 	| P4-2 	| Bronze 	|
+| 3 	| Jovianne Lim Jingyi 	| F 	| P5-1 	| Participation 	|
+| 4 	| Amelia Xiao Wen Li 	| F 	| P5-1 	| Bronze 	|
+| 5 	| Marilynne Khor 	| F 	| P5-1 	| Bronze  	|
+| 6 	| Gillian Sim Xuan Le 	| F 	| P5-1 	| Bronze 	|
+| 7 	| Seah Zhi Ying 	| F 	| P5-1 	| Silver 	|
+| 8 	| Heidi Chee Yin Haam 	| F 	| P5-3 	| Bronze 	|
+| 9 	| Marianne Khor 	| F 	| P5-3 	| Bronze 	|
+| 10 	| Kong Si Teng Bethany 	| F 	| P5-3 	| Silver 	|
+| 11 	| Lee Xin Le 	| F 	| P5-3 	| Silver 	|
+| 12 	| Liu Jianing 	| F 	| P5-3 	| Silver 	|
+| 13 	| Aw Zi Hyun Amanda 	| F 	| P5-3 	| Gold 	|
+| 14 	| Jochel Evan 	| M 	| P5-6 	| Bronze 	|
+| 15 	| Charisse Ong Jia Xuan 	| F 	| P5-6 	| Silver 	|
+| 16 	| Shermaine Koh An Qi 	| F 	| P5-6 	| Silver 	|
+| 17 	| Nicole Ho Sze Mun 	| F 	| P5-6 	| Silver 	|
+| 18 	| Wong Jun Ning 	| F 	| P6-2 	| Participation 	|
+| 19 	| Ilan Zakaria  	| M 	| P6-2 	| Bronze 	|
+| 20 	| Low Sing You, Yogan 	| M 	| P6-2 	| Silver 	|
+
 #### Saya Boleh Mengarang 2021
 
 Seven of our ML students from Primary 1 to Primary 5 took part in a nationwide composition writing competition, 'Saya Boleh Mengarang!' organised by Edufront Learning Centre in September. The students competed against 130 other students within their level and two of our Mee Tohians were shortlisted to enter the finals: Rean Danyal (P2-4) and Naimi Sabrina (P4-4). All finalists had to produce a piece of creative writing within an hour live via Zoom against other competitors on a Saturday morning. This competition not only challenged their creativity, it also bolstered their confidence in writing. Congratulations to all our participants!
