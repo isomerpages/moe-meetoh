@@ -5,6 +5,10 @@ description: ""
 ---
 ### External Competitions
 
+A few of our Primary 5 Malay Language students participated in an annual online competition 'Kartunis Cilik 2021' (Young Cartoonist) organised by White Sands Primary School where participants need to either use an online comic application (Pixton) or hand-draw their comic submissions based on proverbs in the syllabus. The proverbs were randomly allocated to every school and the entries were judged based on language, content, humour and presentation.
+
+The MTL dept is proud to announce that Emelda P5-5 and Ashraf Faris P5-7 won the second and fifth places respectively beating participants from 62 other schools! You can view the announcement on the Malay Language Learning and Promotion Committee (MLLPC) Facebook page at https://www.facebook.com/MLLPC/videos/210644704463232/.
+
 |  	| Prize Winner(s) Name 	| Class 	| Awards/Positions 	|
 |---	|:---:	|:---:	|:---:	|
 | 1 	| Emelda binte Abdul Rahman 	| P5-5 	| 2nd 	|
