@@ -9,7 +9,8 @@ description: ""
 
 The Queen’s Commonwealth Essay competition is an annual writing competition. Students were required to write creative essays keeping in mind the theme for this year which is Community in Commonwealth, coming together despite the adversities faced with Covid-19.
 
-![](/images/awardsceremony.gif)
+<img src="/images/awardsceremony.gif" 
+     style="width:60%"> 
 
 |  	| Prize Winner(s) Name 	| Gender 	| Class 	| Awards/Positions 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
