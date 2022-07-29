@@ -8,7 +8,7 @@ third_nav_title: Character Awards
 
 ##### 2019 FGS-MTS Character Excellence Award Recipients 
 
-| Name of Students 	|
+| Our Achievers - Name of Students 	|
 |:---:	|
 | Celine Chia 	|
 | Clemens Yong Hao Wen 	|
@@ -37,3 +37,21 @@ third_nav_title: Character Awards
 | [Tao Xinying](/files/Tao%20Xinying.pdf) 	|
 | [Teo Jia Hao Randy](/files/Teo%20Jia%20Hao%20Randy.pdf) 	|
 | [Wang Luoling](/files/Wang%20Luoling.pdf) 	|
+
+##### 2019 MTS Foundation Award Recipients
+
+| Name of Students 	| Awards 	|
+|:---:	|:---:	|
+| Chu Yun Xuan 	| Excellence in Aesthetics - Chinese Orchestra 	|
+| [Beh Ke Xuan](/files/Beh%20Ke%20Xuan.pdf) 	| Excellence in Aesthetics - Choir 	|
+| Nur Iris Queraisyah Binte Yuslan 	| Excellence in Aesthetics - Malay Dance 	|
+| Bryan Peh Jun Wei 	| Excellence in Aesthetics - Visual Art 	|
+| [Stefanie Low Siew Yin](/files/Stefanie%20Low%20Siew%20Yin.pdf) 	| Excellence in Aesthetics - Visual Art 	|
+| Ho See Yee 	| Excellence in Sports – Basketball 	|
+| Iqbal Bin Kusaini 	| Excellence in Sports – Floorball 	|
+| [Chee Boon Kuan Antonio](/files/Chee%20Boon%20Kuan%20Antonio.pdf) 	| Excellence in Sports – Wushu 	|
+| Low Gui Jie 	| Exemplary Dedication to Community 	|
+| Belinda Koh Zi Lin 	| Outstanding Bilingual Reader 	|
+| Sun Wenqian 	| Outstanding Bilingual Reader 	|
+| [Toh Zi Ee](/files/Toh%20Zi%20Ee.pdf) 	| Outstanding Bilingual Reader 	|
+| [D'anna Thong Kai Leng](/files/Danna%20Thong%20Kai%20Leng.pdf) 	| Outstanding Heritage Ambassador 	|
