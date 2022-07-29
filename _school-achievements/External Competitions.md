@@ -5,6 +5,12 @@ description: ""
 ---
 ### External Competitions
 
+#### The Queen's Commonwealth Essay Writing Competition 2021
+
+The Queen’s Commonwealth Essay competition is an annual writing competition. Students were required to write creative essays keeping in mind the theme for this year which is Community in Commonwealth, coming together despite the adversities faced with Covid-19.
+
+![](/images/awardsceremony.gif)
+
 |  	| Prize Winner(s) Name 	| Gender 	| Class 	| Awards/Positions 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
 | 1 	| Clemens Yong 	| M 	| P4-2 	| Bronze 	|
