@@ -17,3 +17,5 @@ The main platform for the delivery of the lessons is via Form Teacher Guidance P
 In order for the students to ‘sense’, ‘think’ and ‘act’, they are provided opportunities to analyse, evaluate and reflect on Cyber Wellness issues, and given opportunities to translate their understanding into actions that will keep them safe while online.
 
 Besides engaging every student through our Cyber Wellness Programme, we also develop our Cyber Wellness Ambassadors. They promote the message of Cyber Wellness to peers, by giving presentations, coming up with activities for events like the Safer Internet Day, and actively supporting Cyber Wellness programmes in the school.
+
+*Updated 21 September 2018*
