@@ -35,7 +35,7 @@ PATH's ethos is in line with Aristotle belief that, "Educating the mind without 
 If you would like to join the PATH, please click on the link [https://tinyurl.com/2p829rw3](https://tinyurl.com/2p829rw3). Alternatively, please scan the QR Code provided .
 
 <img src="/images/path1.png" 
-     style="width:60%">
+     style="width:30%">
 		 
 Click [here](https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PATH%20Code%20of%20conduct%202020.pdf) for more information on Code of Conduct for PATH.
 
