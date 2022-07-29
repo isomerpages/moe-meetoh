@@ -5,6 +5,20 @@ description: ""
 ---
 ### External Competitions
 
+#### Saya Boleh Mengarang 2021
+
+Seven of our ML students from Primary 1 to Primary 5 took part in a nationwide composition writing competition, 'Saya Boleh Mengarang!' organised by Edufront Learning Centre in September. The students competed against 130 other students within their level and two of our Mee Tohians were shortlisted to enter the finals: Rean Danyal (P2-4) and Naimi Sabrina (P4-4). All finalists had to produce a piece of creative writing within an hour live via Zoom against other competitors on a Saturday morning. This competition not only challenged their creativity, it also bolstered their confidence in writing. Congratulations to all our participants!
+
+|  	| Prize Winner(s) Name 	| Class 	| Awards/Positions 	|
+|---	|:---:	|:---:	|:---:	|
+| 1 	| Naufal Eshan bin Abdul Faqih 	| P2-1 	| Gold 	|
+| 2 	| Rean Danyal bin Muhammad Fathullah 	| P2-4 	| Gold with commendation 	|
+| 3 	| Nashwan Irfan Balachandar 	| P3-1 	| Bronze 	|
+| 4 	| Daniyal Haris bin Syaifullah 	| P3-3 	| Silver 	|
+| 5 	| Naimi Sabrina binte Muhammad Khir 	| P4-4 	| Gold with commendation 	|
+| 6 	| Emelda binte Abdul Rahman 	| P5-5 	| Silver 	|
+| 7 	| Shakira Elvira binte Mohamad Nazilah 	| P5-5 	| Gold 	|
+
 #### Kartunis Cilik 2021
 
 A few of our Primary 5 Malay Language students participated in an annual online competition 'Kartunis Cilik 2021' (Young Cartoonist) organised by White Sands Primary School where participants need to either use an online comic application (Pixton) or hand-draw their comic submissions based on proverbs in the syllabus. The proverbs were randomly allocated to every school and the entries were judged based on language, content, humour and presentation.
