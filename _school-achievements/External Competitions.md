@@ -5,6 +5,15 @@ description: ""
 ---
 ### External Competitions
 
+|  	| Prize Winner(s) Name 	| Class 	| Awards/Positions 	|
+|---	|:---:	|:---:	|:---:	|
+| 1 	| Emelda binte Abdul Rahman 	| P5-5 	| 2nd 	|
+| 2 	| Ashraf Faris bin Haire 	| P5-7 	| 5th 	|
+
+[Kartunis Cilik 2021 - Ashraf   P5-7](/files/Kartunis%20Cilik%202021%20-%20Ashraf%20P5-7.pdf)
+
+[Kartunis Cilik 2021 - Emelda P5-5](/files/Kartunis%20Cilik%202021%20-%20Emelda%20P5-5.pdf)
+
 #### Mathematics Department 2021 Achievements
 
 ##### SINGAPORE MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (SMOPS)
