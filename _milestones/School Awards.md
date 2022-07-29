@@ -12,16 +12,16 @@ Mee Toh School has achieved the Gold Award in the ezi Go- Green School Competiti
 We have also been awarded the **SembWaste Green Recycling Mark (Gold)** to recognise our active participation in the ezi Recycling Competition. In total, we have collected about 4100 kg of clean and well-sorted recyclables this year.
 
 <img src="/images/awards1.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 <img src="/images/awards2.png" 
-     style="width:60%"> SembWaste Green Recycling Mark (Gold) trophy
+     style="width:40%"> SembWaste Green Recycling Mark (Gold) trophy
 		 
 <img src="/images/awards3.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 <img src="/images/awards4.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 ##### Achievement of Vanda Miss Joaquim Award in School Green Award Competition 2021
 
@@ -36,12 +36,12 @@ We are also very proud to share that Mee Toh School has achieved the **Vanda Mi
 Students upcycled recyclables like the E-Waste to turn them into a new product during their Interdisciplinary Project Work.
 
 <img src="/images/awards8.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 Creation of puppet using recyclables like the plastic drink bottle and creation of storybooks to tell the story of the plastic bottle puppet.
 
 <img src="/images/awards9.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 Toy creation using cardboard boxes, bottle caps, wooden chopsticks and unwanted plastic glue bottle. The toy uses a lever and pulley system to shoot plastic bottle caps.
 
