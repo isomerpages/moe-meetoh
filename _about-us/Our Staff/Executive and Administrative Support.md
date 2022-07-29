@@ -24,7 +24,7 @@ third_nav_title: Our Staff
 | <img src="/images/eas11.png" style="width:70%"> 	| Mdm Nani<br>REAS 	|
 | <img src="/images/eas12.png" style="width:70%"> 	| Mdm Patricia Tay<br>Receptionist 	|
 | <img src="/images/eas13.png" style="width:70%"> 	| Mr Ridzuan Bin Jamil<br>Desktop Enginner (DE)<br><br>“You will either step forward into growth, or you will step backward into safety.”<br>Abraham Maslow 	|
-| <img src="/images/eas1.png" style="width:70%"> 	| Mr Junior Tan<br>Desktop Enginner (DE)<br><br>“Life itself is your teacher, and you are in a state of constant learning.”<br>Bruce Lee<br> 	|
+| <img src="/images/eas22.png" style="width:70%"> 	| Mr Junior Tan<br>Desktop Enginner (DE)<br><br>“Life itself is your teacher, and you are in a state of constant learning.”<br>Bruce Lee<br> 	|
 | <img src="/images/eas15.png" style="width:70%"> 	| Mr Redwan Abdullah<br>ICT Manager<br><br>Education is the passport for the future. 	|
 | <img src="/images/eas16.png" style="width:70%"> 	| Mdm Chua Lay Ching<br>Science Lab Assistant<br><br>Work hard, play hard. 	|
 | <img src="/images/eas17.png" style="width:70%"> 	| Mr Hasan Bin Mohd Shariff<br><br>Operations Support Officer (OSO)<br><br>Find joy in what you do. 	|
