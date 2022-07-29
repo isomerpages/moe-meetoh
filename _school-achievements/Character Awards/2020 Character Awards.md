@@ -34,6 +34,6 @@ third_nav_title: Character Awards
 | Sim Clara 	|
 | [Tan Wayber](/files/Tan%20Wayber.pdf) 	|
 | [Tan Yan Jia, Dawn](/files/Tan%20Yan%20Jia,%20Dawn.pdf) 	|
-| Tao Xinying 	|
+| [Tao Xinying](/files/Tao%20Xinying.pdf) 	|
 | [Teo Jia Hao Randy](/files/Teo%20Jia%20Hao%20Randy.pdf) 	|
-| Wang Luoling 	|
+| [Wang Luoling](/files/Wang%20Luoling.pdf) 	|
