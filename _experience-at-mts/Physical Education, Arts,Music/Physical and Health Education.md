@@ -7,7 +7,7 @@ third_nav_title: Physical Education, Arts,Music
 ### Physical and Health Education (PHE)
 
 <img src="/images/phe1.png" 
-     style="width:80%">
+     style="width:60%">
 
 |  	|  	|
 |---	|---	|
