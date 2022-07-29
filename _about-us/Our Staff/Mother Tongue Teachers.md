@@ -48,3 +48,5 @@ third_nav_title: Our Staff
 | # 	| Mdm Hasni Bte Abu Bakar<br>Year Head Primary 3 & 4<br><br>Children learnt best when their social and emotional needs are well taken care of. As educators, we help our children to recognize their strengths and develop good character so that they become confident yet caring individuals. Each child has a gift. Each just opens them at different times. 	|
 | # 	| Mdm Sunarti Bte Amidon<br>Subject Head - Malay Language & Total Curriculum<br><br>Pendidikan bermula dari hati langsung ke hati. 	|
 | # 	| Mdm Zuraini Bte Abdul Rahim<br><br>3P - dapat menerima Perubaha 	|
+
+*Updated on 21 December 2021*
