@@ -110,3 +110,7 @@ third_nav_title: Academic Excellence
 | Ong Kai Feng, Iain 	|
 
 ##### 2019 Venerable Sek Kong Hiap Outstanding Environment Champion Award Recipient
+
+| Our Achievers - Name of Students 	|
+|:---:	|
+| Melissa Liaw Min Xuan 	|
