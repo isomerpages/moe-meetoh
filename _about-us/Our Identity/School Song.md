@@ -13,4 +13,4 @@ third_nav_title: Our Identity
  _杨民望 作曲_
 
 <img src="/images/identity4.png" 
-     style="width:80%">
+     style="width:60%">
