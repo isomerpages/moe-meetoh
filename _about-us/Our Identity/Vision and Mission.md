@@ -7,7 +7,7 @@ third_nav_title: Our Identity
 ### Vision and Mission
 
 <img src="/images/identity2.png" 
-     style="width:80%">
+     style="width:60%">
 
 #### 愿景
 
