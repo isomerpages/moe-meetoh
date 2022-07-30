@@ -85,7 +85,7 @@ third_nav_title: Academic Excellence
 | TAN QIN RU, JANELLE 	| Good Progress in Chinese Language 	|
 | BOO JIN ZHI, ISAAC (WU JINZHI) 	| Good Progress in Chinese Language (HCL) 	|
 
-##### 2019 Good Progress Award for Chinese Language
+##### 2019 PSLE Excellence Alumni Award
 
 | Our Achievers - Name of Students 	|
 |:---:	|
@@ -101,5 +101,12 @@ third_nav_title: Academic Excellence
 | [Tan Ye Jie Linus](/files/Tan%20Ye%20Jie%20Linus.pdf) 	|
 | [Wang Zerui](/files/Wang%20Zerui.pdf) 	|
 | Yak Yun Chen, Jovan 	|
+
+##### 2019 Good Progress Award for Chinese Language
+
+| Our Achievers - Name of Students 	|
+|:---:	|
+| Belinda Koh Zi Lin 	|
+| Ong Kai Feng, Iain 	|
 
 ##### 2019 Venerable Sek Kong Hiap Outstanding Environment Champion Award Recipient
