@@ -7,7 +7,7 @@ third_nav_title: Our Identity
 ### Motto and Values
 
 <img src="/images/identity3.png" 
-     style="width:80%">
+     style="width:60%">
 
 | MOTTO 	| CORE VALUES 	|
 |:---:	|:---:	|
