@@ -30,7 +30,15 @@ third_nav_title: Academic Excellence
 
 ##### Primary 5 (2018 P4) Prize Winners
 
+<img src="/images/pw7.png" 
+     style="width:60%">
+		 
+<img src="/images/pw8.png" 
+     style="width:80%">
 
+<img src="/images/pw9.png" 
+     style="width:60%">
+		 
 
 ##### Primary 6 (2018 P5) Prize Winners
 
