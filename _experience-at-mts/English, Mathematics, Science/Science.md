@@ -6,7 +6,7 @@ third_nav_title: English, Mathematics, Science
 ---
 ### Science
 
-<img src="/images/sci100.png" style="width:60%">
+<img src="/images/sci100.png" style="width:80%">
 
 |  	|  	|
 |---	|---	|
@@ -22,7 +22,7 @@ At the end of their primary education in Mee Toh School, students will be able t
 · use scientific knowledge and methods in making personal decisions<br>
 · appreciate how science influences people and the environment
 
-<img src="/images/sci101.png" style="width:60%">
+<img src="/images/sci101.png" style="width:80%">
 
 #### HIGHLIGHTS
 
@@ -46,6 +46,6 @@ Science workshops are conducted for parents each year, with the focus to share w
 2.      providing the children with more positive science learning experiences by encouraging them to think about and interact with the world around them,<br> 
 3.      doing activities which allow the children to use their senses.
 
-<img src="/images/sci102.png" style="width:60%">
+<img src="/images/sci102.png" style="width:80%">
 
 *Updated on 28 July 2022*
