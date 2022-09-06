@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Language
 ---
 ### Chinese Language
 
-<img src="/images/chi100.png" style="width:60%">
+<img src="/images/chi100.png" style="width:80%">
 
 |  	|  	|
 |---	|---	|
@@ -15,7 +15,7 @@ third_nav_title: Mother Tongue Language
 
 Language Acquisition and Cultural Awareness & Appreciation forms the overarching approach for Chinese Language Learning in Mee Toh School. Listening, Speaking, Reading, Writing, Oral Interaction and Written Interaction skills are integrated into daily language acquisition in the classroom teaching and learning, whilst Cultural Awareness and Appreciation programmes are conducted throughout the year to immerse students in the Chinese Culture.
 
-<img src="/images/chi101.png" style="width:60%">
+<img src="/images/chi101.png" style="width:80%">
 
 #### HIGHLIGHTS
 
@@ -39,6 +39,6 @@ The school boasts a vast collection of calligraphic works by renowned artists. T
 
 The school places much emphasis on the development of critical thinking skill, oracy presentation as well as writing skills to equip our students to be confident and effective communicator. Different pedagogies and age-appropriate learning packages are designed to engage students in the learning of Chinese Language.
 
-<img src="/images/chi102.png" style="width:60%">
+<img src="/images/chi102.png" style="width:80%">
 
 *Updated on 28 July 2022*
