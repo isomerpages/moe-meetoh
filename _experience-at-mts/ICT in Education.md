@@ -66,3 +66,5 @@ The CW lessons cover the issues associated with ethical, legal, safe and respons
 Students participate in yearly Home-Based Learning and e-Learning exercises to develop self-directedness in online learning. This is part of the school Curriculum Continuity Plan which prepares our learners to be ready to continue their learning during prolonged school closure.
 
 Students put into practice the ICT skills they have learnt in school during HBL. Teachers designed lessons on online platforms such as Student Learning Space (SLS) and other online learning platforms. As self-directed learners at home, students completed the assignments virtually. Through the online submissions of assignments, teachers were able to monitor students’ learning. Back in school, teachers continue to provide students with feedback on their performances and support them in reinforcing their learning.
+
+*Updated on 02 August 2022*
