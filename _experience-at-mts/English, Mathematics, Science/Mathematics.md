@@ -62,3 +62,5 @@ This progressive learning package is designed to equip our students with a wider
 Parents are important partners in the learning of the students. The department shares insights into the learning of mathematics with our parents through school-organised workshops to deepen the understanding of how children learn mathematics.
 
 <img src="/images/math102.png" style="width:60%">
+
+*Updated on 28 July 2022*
