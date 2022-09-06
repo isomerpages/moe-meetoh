@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Language
 ---
 ### Malay Language
 
-<img src="/images/malay100.png" style="width:60%">
+<img src="/images/malay100.png" style="width:80%">
 
 |  	|  	|
 |---	|---	|
@@ -15,7 +15,7 @@ third_nav_title: Mother Tongue Language
 
 The Malay Language curriculum in Mee Toh School is designed to lay a strong foundation in learning core language skills as well as develop a love for the language. Through our integrated and engaging approaches, we hope our students will grow into self-directed individuals who possess the qualities of ‘Arif Budiman” – a learned and cultured person who contributes positively to the society.
 
-<img src="/images/malay101.png" style="width:60%">
+<img src="/images/malay101.png" style="width:80%">
 
 #### HIGHLIGHTS
 
