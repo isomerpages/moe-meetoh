@@ -5,7 +5,7 @@ description: ""
 ---
 ### ICT in Education
 
-<img src="/images/ict100.png" style="width:60%">
+<img src="/images/ict100.png" style="width:80%">
 
 |  	|  	|
 |---	|---	|
