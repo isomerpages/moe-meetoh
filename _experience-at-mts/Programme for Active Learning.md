@@ -5,7 +5,7 @@ description: ""
 ---
 ### Programme for Active Learning (PAL)
 
-<img src="/images/pal100.png" style="width:60%">
+<img src="/images/pal100.png" style="width:80%">
 
 At Mee Toh School, all Primary 1 and 2 students undergo Programme for Active Learning (PAL) modules as part of the holistic education during the curriculum time. PAL provides students exposure to two broad areas:
 
@@ -22,7 +22,7 @@ Mee Toh School offers 6 modules to provide a well-rounded experience for our stu
 | Outdoor Education 	| Performing Arts (Music) 	|
 | Performing Arts (Dance) 	| Outdoor Education 	|
 
-<img src="/images/pal101.png" style="width:60%">
+<img src="/images/pal101.png" style="width:80%">
 
 *   With the modules spread over 2 years, we aim to achieve the following learning outcomes in our students:
     
