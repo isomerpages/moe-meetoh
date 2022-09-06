@@ -6,7 +6,7 @@ third_nav_title: Character Education
 ---
 ### Character and Citizenship Education (CCE)
 
-<img src="/images/cce100.png" style="width:60%">
+<img src="/images/cce100.png" style="width:80%">
 
 |  	|  	|
 |---	|---	|
@@ -64,7 +64,7 @@ National Education forms a part of the school’s citizenship programme. Student
 
 Students embark on different field-based learning journeys every year which will provide opportunities for them to acquire knowledge, understand the significance of heritage places or places of interest beyond the classrooms, and become well-informed and caring citizens. Mee Tohians learn in authentic settings, gain hands-on experiences and discover the insights and stories narrated in their textbooks.
 
-<img src="/images/cce101.png" style="width:60%">
-<img src="/images/cce102.png" style="width:60%">
+<img src="/images/cce101.png" style="width:80%">
+<img src="/images/cce102.png" style="width:80%">
 
 *Updated on 16 August 2022*
