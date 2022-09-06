@@ -35,7 +35,7 @@ The Digital Literacy Programme guides our students to be more proficient and con
 | Primary 5 	| SLS, Online Noticeboard<br>Microsoft Word, Excel and PowerPoint<br>Micro:bit 	|
 | Primary 6 	| SLS, Online Noticeboard<br>Microsoft Excel<br>Code for Fun 	|
 
-<img src="/images/ict101.png" style="width:60%">
+<img src="/images/ict101.png" style="width:80%">
 
 **Cyber Wellness (CW)**
 
@@ -59,7 +59,7 @@ The CW lessons cover the issues associated with ethical, legal, safe and respons
 | FTGP 	| ·         Primary 1 to 6 CW-FTGP Activities 	|
 | Subject Integrated Activities 	| ·         All subjects<br>·         Project Work 	|
 
-<img src="/images/ict102.png" style="width:60%">
+<img src="/images/ict102.png" style="width:80%">
 
 **Home-Based Learning (HBL)**
 
