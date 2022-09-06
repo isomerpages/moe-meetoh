@@ -3,7 +3,6 @@ title: Student Management
 permalink: /experience-at-mts/student-management/
 description: ""
 ---
-
 | Headed by: 	|   	|
 |---	|---	|
 | Mrs Asha Devdas Sawlani      	| (HOD SDM) 	|
@@ -47,17 +46,17 @@ description: ""
 |---	|---	|
 | Vision 	|  Every Mee Tohian a Leader 	|
 
-<img src="/images/sdm100.png" style="width:60%">
+<img src="/images/sdm100.png" style="width:80%">
 
 The MTS TIERED STUDENT LEADERSHIP PYRAMID is a progressive model that allows students to develop their leadership potential based on their strengths and interests in the 5 spheres of Leadership – SERVICE, CYBER WELLNESS, HEALTH, ENVIRONMENT AND PEER RELATIONS. Student Leaders are given a VOICE and EMPOWERED to carry out “BY STUDENTS, FOR STUDENTS” projects to support their meaningful causes.
 
 <img src="/images/sdm101.png" style="width:40%">
 
-<img src="/images/sdm102.png" style="width:60%">
+<img src="/images/sdm102.png" style="width:80%">
 
 **Student Well-being**
 
-<img src="/images/sdm103.png" style="width:60%">
+<img src="/images/sdm103.png" style="width:80%">
 
 #### TIERED SUPPORT SYSTEM@MTS
 
@@ -68,4 +67,3 @@ The MTS TIERED STUDENT LEADERSHIP PYRAMID is a progressive model that allows stu
 In our effort to develop our students holistically, the Tiered system of support for students allows the school to reach out to students so that every student receives quality instruction that matches his/her needs. Our School Counsellors support students’ mental well-being and social-emotional development while our SEN Officers support students with learning and behavioural needs. They work collaboratively with teachers to nurture and improve students’ self-confidence, self-esteem and sense of independence.  They also provide individual or small group skills training and intervention. Along with our Case Management Team, comprising the key members of the Student Development and Management Committee, the progress of these students is monitored and the effectiveness of the intervention is evaluated regularly.
 
 *Updated on 11 August 2022*
-
