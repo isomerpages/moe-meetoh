@@ -1,6 +1,6 @@
 ---
 title: School Awards
-permalink: /milestones/school-awards
+permalink: /milestones/school-awards/
 description: ""
 ---
 ### School Awards
@@ -97,4 +97,7 @@ To read more, you may click on the following:
 
 [Lianhe Zaobao, 2019](https://www.zaobao.com.sg/realtime/singapore/story20190926-992274)
 
-*Insert missing images here*
+<img src="/images/900.png" style="width:60%"> <br>
+<img src="/images/899.png" style="width:60%"> <br>
+<img src="/images/898.png" style="width:60%"> <br>
+<img src="/images/897.png" style="width:40%">
