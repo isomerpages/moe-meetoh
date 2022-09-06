@@ -29,3 +29,5 @@ Mee Toh School offers 6 modules to provide a well-rounded experience for our stu
     · Exhibit confidence in what they do and express themselves effectively<br>
     · Exhibit curiosity and positive attitudes to learn<br>
     · Enjoy group experiences and teamwork
+		
+*Updated on 11 August 2022*
