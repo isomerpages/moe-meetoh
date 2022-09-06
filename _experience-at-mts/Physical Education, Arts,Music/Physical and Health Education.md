@@ -50,3 +50,5 @@ A Mee Toh School signature programme, all students get the opportunity to build 
 This module enables students to refine their attentional focus and psycho motor control in relation to self, as they execute the various Wushu moves in sequential order and with gusto. Another one of Mee Toh School’s signature programmes, the module is meaningfully planned for students; their mastery level progresses each year, which culminates to the final performance routine at P6.
 
 <img src="/images/phe104.png" style="width:80%">
+
+*Updated on 17 August 2022*
