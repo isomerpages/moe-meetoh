@@ -34,3 +34,5 @@ Students are taught different components which constitute good public speaking. 
 ##### Reader’s Theatre
 
 To develop reading fluency, students read scripts aloud with expression. Students do not need to memorise their parts but need only to reread several times. The repeated collaborative reading increases their comprehension of the text. Costumes and props are included to enhance their performance. This strategy increases reading motivation and builds students’ self-confidence.
+
+*Updated on 3 August 2022*
