@@ -18,6 +18,6 @@ The weekly 30-minute CD period is planned and carried out in collaboration with 
 
 This group of mothers have, since 13 February 2008, volunteered wholeheartedly to guide our students to develop good character. They also meet regularly with teacher ICs to discuss ways to better guide the students and fine-tune the programme.
 
-<img src="/images/cce103.png" style="width:60%">
+<img src="/images/cce103.png" style="width:80%">
 
 *Updated on 16 August 2022*
