@@ -6,7 +6,7 @@ third_nav_title: English, Mathematics, Science
 ---
 ### Mathematics
 
-<img src="/images/math100.png" style="width:60%">
+<img src="/images/math100.png" style="width:80%">
 
 |  	|  	|
 |---	|---	|
@@ -23,7 +23,7 @@ At the end of their primary education in Mee Toh School, all Mee Tohians will be
 
 thus laying a strong foundation in mathematical problem-solving.
 
-<img src="/images/math101.png" style="width:60%">
+<img src="/images/math101.png" style="width:80%">
 
 #### HIGHLIGHTS
 
@@ -61,6 +61,6 @@ This progressive learning package is designed to equip our students with a wider
 
 Parents are important partners in the learning of the students. The department shares insights into the learning of mathematics with our parents through school-organised workshops to deepen the understanding of how children learn mathematics.
 
-<img src="/images/math102.png" style="width:60%">
+<img src="/images/math102.png" style="width:80%">
 
 *Updated on 28 July 2022*
