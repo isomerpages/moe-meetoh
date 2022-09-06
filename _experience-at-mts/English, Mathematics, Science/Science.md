@@ -47,3 +47,5 @@ Science workshops are conducted for parents each year, with the focus to share w
 3.      doing activities which allow the children to use their senses.
 
 <img src="/images/sci102.png" style="width:60%">
+
+*Updated on 28 July 2022*
