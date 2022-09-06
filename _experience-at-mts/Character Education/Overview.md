@@ -66,3 +66,5 @@ Students embark on different field-based learning journeys every year which will
 
 <img src="/images/cce101.png" style="width:60%">
 <img src="/images/cce102.png" style="width:60%">
+
+*Updated on 16 August 2022*
