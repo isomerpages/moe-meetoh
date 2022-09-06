@@ -40,3 +40,5 @@ The school boasts a vast collection of calligraphic works by renowned artists. T
 The school places much emphasis on the development of critical thinking skill, oracy presentation as well as writing skills to equip our students to be confident and effective communicator. Different pedagogies and age-appropriate learning packages are designed to engage students in the learning of Chinese Language.
 
 <img src="/images/chi102.png" style="width:60%">
+
+*Updated on 28 July 2022*
