@@ -4,8 +4,7 @@ permalink: /about-us/Our-Staff/2023-primary-1-form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-
-### 2022 Primary 1 Form Teachers
+### 2023 Primary 1 Form Teachers
 
 *To email our staff, click on their names.*
 
