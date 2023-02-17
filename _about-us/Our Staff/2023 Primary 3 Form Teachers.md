@@ -10,25 +10,21 @@ third_nav_title: Our Staff
 
 |  |  |
 |---|---|
-| <img src="/images/ft76.png" style="width:80%"> | Mrs Alice Hiah Shui Lien<br>Assistant Year Head  - Primary 2Form Teacher (1) Primary 2-1<br>" I never teach my pupils, I only attempt to provide the conditions in which they can learn." - Albert Einstein |
-| <img src="/images/ft77.png" style="width:80%"> | Ms Soon Min Wah<br>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-1<br><br>不积小流无以成江海，不积跬步无以至千里 |
-| <img src="/images/ft78.png" style="width:80%"> | Mr Muhammad Faizal Bin Suleiman<br>Form Teacher (1) Primary 2-2<br><br>Patience and consistency are hallmarks of excellence. |
-| <img src="/images/ft79.png" style="width:80%"> | Mdm Hazel Koh Sze Theng<br>Form Teacher (2) Primary 2-2<br><br>Touching Souls, Challenging Minds |
-| <img src="/images/ft80.png" style="width:80%"> | Mrs Redwan (Norlina Bte Ahmadi)<br>Senior Teacher - English Language<br>Form Teacher (1) Primary 2-3<br><br>"Give the students something to do, not something to learn; and the doing is of such a nature as to demand thinking; learning naturally results." - John Dewey |
-| <img src="/images/ft81.png" style="width:80%"> | Mdm Dong Jinmei<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-3<br><br>书山有路勤为径，学海无涯苦作舟。— 韩愈 |
-| <img src="/images/ft82.png" style="width:80%"> | Mrs Madeline Wong Hai Hoon<br>Form Teacher (1) Primary 2-4<br><br>What we learn becomes a part of who we are.<br>"If the child can't learn the way we teach, we should teach the way they learn." - Ignacio Estrada |
-| <img src="/images/ft83.png" style="width:80%"> | Mr Chua Boon Li<br>Form Teacher (2) Primary 2-4<br><br><br>"The best preparation for tomorrow is doing your best today." -<br>H Jackson Brown, Jr. |
-| <img src="/images/ft84.png" style="width:80%"> | Mrs Joanne Chew Xiuping<br>Form Teacher (1) Primary 2-5<br><br>"Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin   |
-| <img src="/images/ft85.png" style="width:80%"> | Mdm Elaine Tan Chew Shie<br>Head of Department - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 2-5<br>'Every child is a seedling.' Developing a child is similar to that of nurturing a plant as consistent planning and care has to be taken to help them grow. Do not underestimate the potential of every child. Together, we can build a more compassionate and cohesive society by raising our next generation to be resilient, appreciative and selfless.  |
-| <img src="/images/ft86.png" style="width:80%"> | Ms Teo Ai Cheng<br><br>Form Teacher (1) Primary 2-6<br><br><br>"What sculpture is to block or marble, education is to the human soul." - Joseph Addison <br> |
-| <img src="/images/ft87.png" style="width:80%"> | Ms Yu Zhangxinzhi<br>Form Teacher (2) Primary 2-6 |
-| <img src="/images/ft88.png" style="width:80%"> | <br>Miss Adriana Alias<br><br>Form Teacher (1) Primary 2-7<br><br><br>"Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together." - Scott Hayden |
-| <img src="/images/ft89.png" style="width:80%"> | Ms Joanne Lye Shuyi<br>Form Teacher (2) Primary 2-7<br><br>"Who looks outside, dreams; who looks inside, awakes." - Carl Jung  <br> |
-| <img src="/images/ft90.png" style="width:80%"> | Mr Wong Ming Hui <br>Form Teacher (1) Primary 2-8<br>All children have their own strengths and we can help them find these strengths and maximise their potential.<br>I believe that learning can be fun for every child, and that it can be possible when we allow them to explore a wide spectrum of learning areas.<br>My goal is to guide each child in this journey to experience the joy of learning and discover his/her potential. |
-| <img src="/images/ft91.png" style="width:80%"> | Miss Chim Kheng Mui<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-8<br><br>"Teach the children well and let them lead the way." - Whitney Houston |
-| <img src="/images/ft92.png" style="width:80%"> | <br>Mdm Nora Yuhanis Bte Jaffar      <br><br>Form Teacher (1) Primary 2-9<br><br><br>"Children must be taught how to think; not what to think." ~ Margaret Mead <br> |
-| <img src="/images/ft93.png" style="width:80%"> | Mdm Lee Ai Ling<br><br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-9<br><br>“学无止境” －从心出发，引起学生学习兴趣。让学生积极探索，乐学善用。 |
-| <img src="/images/ft94.png" style="width:80%"> | Mdm Yeo Chai Khim Irene <br>Form Teacher (1) Primary 2-10<br><br> |
-| <img src="/images/ft95.png" style="width:80%"> | Miss Shum Wen Hui<br><br>Form Teacher (2) Primary 2-10<br>“Every child deserves a champion—an adult who will never give up on them, who understands the power of connection, and insists that they become the best that they can possibly be.” - Rita Pierson  |
+| # | Ms Tan Liping Fiona<br><br>Form Teacher (1) Primary 3-1<br><br><br>Plant seeds of curiosity, prune weeds of bad habits, provide a nurturing environment, and in time you will be rewarded with mighty trees of future generations. |
+| # | Mr Abdul Faqih Bin Sinuan<br>Form Teacher (2) Primary 3-1<br><br>I believe that each individual has the innate desire to learn, not so much for glory or fame, but to relish this intrinsic joy and euphoric feeling that I can, I will, I tried, tried, tried and succeeded. As a teacher, I want to positively influence my students and help find in them that wonderful feeling and guide them to grow to be great in their own right. |
+| # | Mdm Sri Halikmawati Bte Mohamed Halik<br><br>Form Teacher (1) Primary 3-2    |
+| # | Ms Dion Ng Hui Lin<br>Level Head - Mathematics<br>Form Teacher (2) Primary 3-2<br><br><br>Education is not all about the learning of facts, but also the training of the mind to think and question. It is important that we do not stop questioning as it allows us to organise our thinking and to develop an inquiry mind. |
+| # | Mrs Angela Fong Poh Eng<br><br>Form Teacher (1) Primary 3-3<br><br>To walk the talk and to teach with my heart. |
+| # | Mr Muhammad Amin Bin Mokhtar<br>Form Teacher (2) Primary 3-3<br><br>A belief lies at the heart of what we do. Without the belief, there can be no success. |
+| # | Mr Toh Heap Khoon<br>Form Teacher (1) Primary 3-4<br><br>Every child is able to learn, be it on a slow pace, moderate pace or fast pace.  |
+| # | Mrs Fiona Loh<br>Chinese Language Teacher<br>Form Teacher (2) Primary 3-4<br>Children need love, especially when they do not deserve it. - Harold Hulbert |
+| # | Mr Ong Joo Kai<br>Form Teacher (1) Primary 3-5<br><br>Educo [Latin] “To bring out, to draw out, and to develop from within.”  |
+| # | Mdm Sunarti Binte Amidon<br>Subject Head - Malay Language<br>Form Teacher (2) Primary 3-5<br>Pendidikan bermula dari hati langsung ke hati.  |
+| # | Mr Bryan Poh Tsai Fu <br>Assistant Year Head - P3<br>Form Teacher (1) Primary 3-6<br><br>I firmly believe that student engagement is essential for a successful learning experience. By fostering a sense of community and encouraging active participation, students will be invested in their own learning. |
+| # | Mdm Shao Jie<br>Form Teacher (2) Primary 3-6<br><br>有教无类，因材施教。 |
+| # | Mdm Nurhafizah Binte Kamis<br>Form Teacher (1) Primary 3-7<br>Teaching teaches me patience. I believe that every child has something special in them and if patience is exercised well, then I will slowly but surely see that special quality in them. |
+| # | Mr Tan Han Khim<br>Form Teacher (2) Primary 3-7<br><br>"Develop a passion for learning. If you do, you will never cease to grow." - Anthony J. D'Angelo  |
+| # | Mdm Winnie Tan Wei Lin<br>Form Teacher (1) Primary 3-8<br>"To be is to do." – Socrates |
+| #  | Ms Leow Yingjie<br>Form Teacher (2) Primary 3-8<br>The desire to teach and be a life-long learner.  |
 
 *Updated on 19 Jan 2023*
