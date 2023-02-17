@@ -26,8 +26,8 @@ third_nav_title: Our Staff
 | <img src="/images/ft49.png" style="width:80%"> | Mdm Yan Yu Zhen<br>Chinese Language Teacher<br>Form Teacher (2) Primary 1-7<br>书山有路勤为径，学海无涯苦作舟。——韩愈。  |
 | <img src="/images/ft50.png" style="width:80%"> | Mrs Sehaimi (Khairunnisa Bte Jalil)<br>Form Teacher (1) Primary 1-8<br>“The function of education is to teach one to think intensively and to think critically. Intelligence plus character – that is the goal of true education. ”<br>– Martin Luther King, Jr.  |
 | <img src="/images/ft51.png" style="width:80%"> | Ms Tan Choon Lan<br><br>Form Teacher (2) Primary 1-8 <br>Every child is unique. Every child can learn. Every child matters.   |
-| <img src="/images/ft52.png" style="width:80%"> | <br>Mdm Roshaidah Bte SallehSEED Coordinator<br>Form Teacher (1) Primary 1-9<br><br>Learning never ends. Every child learns at his/her own pace. Patience is the key.<br> |
-| <img src="/images/ft53.png" style="width:80%"> | Miss Neo Li TingSenior Teacher - Chinese Language<br>Form Teacher (2) Primary 1-9<br>《论语·为政》——子曰：“学而不思则罔，思而不学则殆”。 一味的读书，而不思考，只会受到书本表象的迷惑而不得甚解。而只是一味的埋头苦思而不进行一定的书本知识的积累，进而对 知识进行研究推敲，也只能是流于空想，问题仍然不会得到解决，也就会产生更多的疑惑。只 有把学习和思考结合起来，才能学以致用 |
+| <img src="/images/ft52.png" style="width:80%"> | <br>Mdm Roshaidah Bte Salleh<br>SEED Coordinator<br>Form Teacher (1) Primary 1-9<br><br>Learning never ends. Every child learns at his/her own pace. Patience is the key.<br> |
+| <img src="/images/ft53.png" style="width:80%"> | Miss Neo Li Ting<br>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 1-9<br>《论语·为政》——子曰：“学而不思则罔，思而不学则殆”。 一味的读书，而不思考，只会受到书本表象的迷惑而不得甚解。而只是一味的埋头苦思而不进行一定的书本知识的积累，进而对 知识进行研究推敲，也只能是流于空想，问题仍然不会得到解决，也就会产生更多的疑惑。只 有把学习和思考结合起来，才能学以致用 |
 | <img src="/images/ft54.png" style="width:80%"> | Mdm Suziana Bte Hassan<br>Form Teacher (1) Primary 1-10<br>"Intelligence without ambition is a bird without wings." - Salvador Dali |
 | <img src="/images/ft55.png" style="width:80%"> | Mdm Boh Fong Yee<br>Form Teacher (2) Primary 1-10<br>我们知道什么、信仰什么，本质上并不重要。唯一重要的是：我们做了什么。 — 约翰·罗 斯基 |
 
