@@ -4,8 +4,7 @@ permalink: /about-us/Our-Staff/2023-primary-2-form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-
-### 2022 Primary 2 Form Teachers
+### 2023 Primary 2 Form Teachers
 
 *To email our staff, click on their names.*
 
