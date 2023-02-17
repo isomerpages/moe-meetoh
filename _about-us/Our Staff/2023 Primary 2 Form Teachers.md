@@ -8,27 +8,27 @@ third_nav_title: Our Staff
 
 *To email our staff, click on their names.*
 
-|  	|  	|
-|---	|---	|
-| <img src="/images/p2a.png" style="width:70%"> 	| [**Miss Vishalini D/O Peramagantan**](mailto:vishalini_peramagantan@moe.edu.sg)<br>Form Teacher (1) Primary 2-1<br><br>"We teach children, not subjects."<br>Learning is a journey that involves both the learner and the teacher. I hope my students will enjoy this journey. As they discover the joy of learning, they will be intrinsically motivated to learn. 	|
-| <img src="/images/p2b.png" style="width:70%"> 	| [**Miss Tan Kar Chuan**](mailto:tan_kar_chuan@moe.edu.sg)<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-1<br><br>千里之行，始于足下。 - 老子 	|
-| <img src="/images/p2c.png" style="width:70%"> 	| [**Mrs Joanne Chew Xiuping**](mailto:lim_xiuping_joanne@moe.edu.sg)<br>Form Teacher (1) Primary 2-2<br><br>"Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin   	|
-| <img src="/images/p2d.png" style="width:70%"> 	| [**Mdm Boh Fong Yee**](mailto:boh_fong_yeemo_fengyi@moe.edu.sg)<br>Form Teacher (2) Primary 2-2<br><br>我们知道什么、信仰什么，本质上并不重要。唯一重要的是：我们做了什么。 — 约翰·罗 斯基 	|
-| <img src="/images/p2e.png" style="width:70%"> 	| [**Ms Juliana Lin En Xuan**](mailto:juliana_lin_en_xuan@moe.edu.sg)<br>Form Teacher (1) Primary 2-3<br><br>The dream begins with a teacher who believes in you, tugs and pushes and leads you to the next plateau, sometimes poking you with a sharp stick called 'truth'. - Dan Rather 	|
-| <img src="/images/p2f.png" style="width:70%"> 	| [**Mdm Zhang Yi Nan**](mailto:zhang_yinan@moe.edu.sg)<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-3<br><br>自信自律，自强不息！ 	|
-| <img src="/images/p2g.png" style="width:70%"> 	| [**Ms Yvonne Liew**](mailto:liew_yvonne@moe.edu.sg)<br>Form Teacher (1) Primary 2-4<br><br>“The voyage of the best ship is a zigzag line of a hundred tacks." - Ralph Waldo Emerson I believe that the journey of a student will not be an easy one, but every challenge will hone that student into a better learner and person. 	|
-| <img src="/images/p2h.png" style="width:70%"> 	| [**Mdm Cheong Pui Lai**](mailto:cheong_pui_lai@moe.edu.sg)<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-4<br><br>努力学习直到生命的最后一刻是件美好的事。 	|
-| <img src="/images/p2i.png" style="width:70%"> 	| [**Mdm Tay Ya Yin**](mailto:tay_ya_yin@moe.edu.sg)<br>Form Teacher (1) Primary 2-5<br><br>"A hundred years from now it will not matter what my bank account was, the sort of house I lived in, or the kind of car I drove... but the world may be different because I was important in the life of a child." - Forest E.Witcraft 	|
-| <img src="/images/p2j.png" style="width:70%"> 	| [**Mdm Zuraini Abdul Rahim**](mailto:zuraini_abdul_rahim@moe.edu.sg)<br>Malay Language Teacher<br>Form Teacher (2) Primary 2-5<br><br>3P - dapat menerima Perubahan, bijak membuat Pilihan dan tekal dalam Prinsip 	|
-| <img src="/images/p2k.png" style="width:70%"> 	| [**Mdm Roshaidah Bte Salleh**](mailto:roshaidah_salleh@moe.edu.sg)<br>SEED Coordinator<br>Form Teacher (1) Primary 2-6<br><br>Learning never ends. Every child learns at his/her own pace. Patience is the key. 	|
-| <img src="/images/p2l.png" style="width:70%"> 	| <br>[**Mdm Zeng Ying**](mailto:zeng_ying_a@moe.edu.sg)<br>Form Teacher (2) Primary 2-6<br><br>一分耕耘，一分收获。 	|
-| <img src="/images/p2m.png" style="width:70%"> 	| [**Mdm W.K. Vijtha Valerie Brampy**](mailto:w_k_vijitha_valerie@moe.edu.sg)<br>Form Teacher (1) Primary 2-7<br><br>"You never know what they can do till you try." - Frederick Marryat . 	|
-| <img src="/images/p2n.png" style="width:70%"> 	| [**Miss Neo Li Ting**](mailto:neo_li_ting@moe.edu.sg)<br>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-7<br><br>《论语·为政》——子曰：“学而不思则罔，思而不学则殆”。 一味的读书，而不思考，只会受到书本表象的迷惑而不得甚解。而只是一味的埋头苦思而不进行一定的书本知识的积累，进而对 知识进行研究推敲，也只能是流于空想，问题仍然不会得到解决，也就会产生更多的疑惑。只 有把学习和思考结合起来，才能学以致用 	|
-| <img src="/images/p2o.png" style="width:70%"> 	| [**Mrs Alice Hiah Shui Lien**](mailto:alice_ooi_shui_lien@moe.edu.sg)<br>Assistant Year Head  - Primary 1 & 2<br>Form Teacher (1) Primary 2-8<br><br>" I never teach my pupils, I only attempt to provide the conditions in which they can learn." - Albert Einstein 	|
-| <img src="/images/p2p.png" style="width:70%"> 	| <br>[**Mdm Wen Pei-Ju**](mailto:wen_pei_ju@moe.edu.sg)<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-8<br> 老师的一颗心，孩子的一片天。<br> 	|
-| <img src="/images/p2q.png" style="width:70%"> 	| <br><br><br>[**Ms Nurul Asyura Mashkur**](mailto:nurul_asyura_mashkur@moe.edu.sg)<br>Form Teacher (1) Primary 2-9<br><br>"Education is the kindling of a flame, not the filling of a vessel," - Socrates 	|
-| <img src="/images/p2r.png" style="width:70%"> 	| <br><br><br>[**Mr Ow Kok Meng**](mailto:ow_kok_meng_a@moe.edu.sg)<br>Form Teacher (2) Primary 2-9<br><br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁 	|
-| <img src="/images/p2s.png" style="width:70%"> 	| [**Mdm Nurhafizah Binte Kamis**](mailto:nurhafizah_kamis@moe.edu.sg)<br>Form Teacher (1) Primary 2-10<br><br>Teaching teaches me patience. I believe that every child has something special in them and if patience is exercised well, then I will slowly but surely see that special quality in them. 	|
-| <img src="/images/p2t.png" style="width:70%"> 	| <br><br><br>[**Mdm Ong Su Lan**](mailto:ong_su_lan@moe.edu.sg)<br><br>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-10<br><br>学而不思则罔，思而不学则殆。- 孔子 	|
+|  |  |
+|---|---|
+| # | Mrs Alice Hiah Shui Lien<br>Assistant Year Head  - Primary 2Form Teacher (1) Primary 2-1<br>" I never teach my pupils, I only attempt to provide the conditions in which they can learn." - Albert Einstein |
+| # | Ms Soon Min Wah<br>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-1<br><br>不积小流无以成江海，不积跬步无以至千里 |
+| # | Mr Muhammad Faizal Bin Suleiman<br>Form Teacher (1) Primary 2-2<br><br>Patience and consistency are hallmarks of excellence. |
+| # | Mdm Hazel Koh Sze Theng<br>Form Teacher (2) Primary 2-2<br><br>Touching Souls, Challenging Minds |
+| # | Mrs Redwan (Norlina Bte Ahmadi)<br>Senior Teacher - English Language<br>Form Teacher (1) Primary 2-3<br><br>"Give the students something to do, not something to learn; and the doing is of such a nature as to demand thinking; learning naturally results." - John Dewey |
+| # | Mdm Dong Jinmei<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-3<br><br>书山有路勤为径，学海无涯苦作舟。— 韩愈 |
+| # | Mrs Madeline Wong Hai Hoon<br>Form Teacher (1) Primary 2-4<br><br>What we learn becomes a part of who we are.<br>"If the child can't learn the way we teach, we should teach the way they learn." - Ignacio Estrada |
+| # | Mr Chua Boon Li<br>Form Teacher (2) Primary 2-4<br><br>"The best preparation for tomorrow is doing your best today." -<br>H Jackson Brown, Jr. |
+| # | Mrs Joanne Chew Xiuping<br>Form Teacher (1) Primary 2-5<br><br>"Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin   |
+| # | Mdm Elaine Tan Chew Shie<br>Head of Department - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 2-5<br>'Every child is a seedling.' Developing a child is similar to that of nurturing a plant as consistent planning and care has to be taken to help them grow. Do not underestimate the potential of every child. Together, we can build a more compassionate and cohesive society by raising our next generation to be resilient, appreciative and selfless.  |
+| # | Ms Teo Ai Cheng<br><br>Form Teacher (1) Primary 2-6<br><br>"What sculpture is to block or marble, education is to the human soul." - Joseph Addison  |
+| # | Ms Yu Zhangxinzhi<br>Form Teacher (2) Primary 2-6 |
+| # | Miss Adriana Alias<br><br><br>Form Teacher (1) Primary 2-7<br><br><br>"Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together." - Scott Hayden |
+| # | Ms Joanne Lye Shuyi<br>Form Teacher (2) Primary 2-7<br><br>"Who looks outside, dreams; who looks inside, awakes." - Carl Jung  <br> |
+| # | Mr Wong Ming Hui <br>Form Teacher (1) Primary 2-8<br>All children have their own strengths and we can help them find these strengths and maximise their potential.<br>I believe that learning can be fun for every child, and that it can be possible when we allow them to explore a wide spectrum of learning areas.<br>My goal is to guide each child in this journey to experience the joy of learning and discover his/her potential. |
+| # | Miss Chim Kheng Mui<br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-8<br><br>"Teach the children well and let them lead the way." - Whitney Houston |
+| # | Mdm Nora Yuhanis Bte Jaffar      <br><br><br>Form Teacher (1) Primary 2-9<br><br><br>"Children must be taught how to think; not what to think." ~ Margaret Mead <br> |
+| # | Mdm Lee Ai Ling<br><br>Chinese Language Teacher<br>Form Teacher (2) Primary 2-9<br><br>“学无止境” －从心出发，引起学生学习兴趣。让学生积极探索，乐学善用。 |
+| # | Mdm Yeo Chai Khim Irene <br>Form Teacher (1) Primary 2-10 |
+| # | Miss Shum Wen Hui<br><br>Form Teacher (2) Primary 2-10<br>“Every child deserves a champion—an adult who will never give up on them, who understands the power of connection, and insists that they become the best that they can possibly be.” - Rita Pierson |
 
 *Updated on 19 Jan 2023*
