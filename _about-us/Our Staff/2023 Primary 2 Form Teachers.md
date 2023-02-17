@@ -30,3 +30,5 @@ third_nav_title: Our Staff
 | <img src="/images/p2r.png" style="width:70%"> 	| <br><br><br>[**Mr Ow Kok Meng**](mailto:ow_kok_meng_a@moe.edu.sg)<br>Form Teacher (2) Primary 2-9<br><br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁 	|
 | <img src="/images/p2s.png" style="width:70%"> 	| [**Mdm Nurhafizah Binte Kamis**](mailto:nurhafizah_kamis@moe.edu.sg)<br>Form Teacher (1) Primary 2-10<br><br>Teaching teaches me patience. I believe that every child has something special in them and if patience is exercised well, then I will slowly but surely see that special quality in them. 	|
 | <img src="/images/p2t.png" style="width:70%"> 	| <br><br><br>[**Mdm Ong Su Lan**](mailto:ong_su_lan@moe.edu.sg)<br><br>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-10<br><br>学而不思则罔，思而不学则殆。- 孔子 	|
+
+*Updated on 19 Jan 2023*
