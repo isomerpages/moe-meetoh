@@ -1,6 +1,6 @@
 ---
 title: Key School Notifications
-permalink: /for-parents/key-school-notifications
+permalink: /for-parents/key-school-notifications/
 description: ""
 ---
 ### Key School Notifications
@@ -12,5 +12,3 @@ description: ""
 [Conversation Starters for Parents](/files/Conversation%20Starters%20for%20Parents.pdf)
 
 [Parents Gateway Onboarding Video](https://www.youtube.com/embed/tW9jwyuovOo)
-
-[2022 Mid-Year PCTC Parents' Guide](/files/mtspctcguide.pdf)
