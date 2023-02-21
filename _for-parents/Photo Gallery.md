@@ -1,9 +1,21 @@
 ---
 title: Photo Gallery
-permalink: /for-parents/photo-gallery
+permalink: /for-parents/photo-gallery/
 description: ""
 ---
 #### 2022
+
+| TERM 4 	|
+|:---:	|
+|[Children's Day cum Sports Carnival (Oct 6)](https://www.smugmug.com/gallery/n-PqM2sq) 	|
+
+| TERM 3 	|
+|:---:	|
+| [National Day (Aug 8)](https://www.smugmug.com/gallery/n-55WK3q)<br> [Primary 5 Camp (July 9)](https://www.smugmug.com/gallery/n-dSGvp7)	|
+
+| TERM 2 	|
+|:---:	|
+| [Founder's Day and Vesak Day (May 28)](https://www.smugmug.com/gallery/n-Nh7Mgc)<br>[Hari Raya Puasa (May 23)](https://www.smugmug.com/gallery/n-2Bgssk)<br>[MTS Green Day 2022 (Apr 18)](https://www.smugmug.com/gallery/n-PJvztG)<br>[International Friendship Day (Apr 4)](https://www.smugmug.com/gallery/n-6KMDWh)<br>[MTL Fortnight (Mar 28 - Apr 8)](https://www.smugmug.com/gallery/n-xqtLzn) 	|
 
 | TERM 1 	|
 |:---:	|
