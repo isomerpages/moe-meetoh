@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Inspiring Teacher of English Award.md
       - Mdm President's Visit to School.md
       - Nurturing Environmental Champions.md
       - Going green.md
