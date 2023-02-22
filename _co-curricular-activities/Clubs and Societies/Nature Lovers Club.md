@@ -1,6 +1,6 @@
 ---
 title: Nature Lovers Club
-permalink: /co-curricular-activities/Clubs-and-Societies/nature-lovers-club
+permalink: /co-curricular-activities/Clubs-and-Societies/nature-lovers-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -12,7 +12,7 @@ third_nav_title: Clubs and Societies
 *   To advocate an environmentally sustainable lifestyle through school and community projects.
 
 
-<img src="/images/cs6.png" 
+<img src="/images/natureloversclub.png" 
      style="width:80%">
 		 
-*Updated on 25 August 2019*
+*Updated on 17 August 2022*
