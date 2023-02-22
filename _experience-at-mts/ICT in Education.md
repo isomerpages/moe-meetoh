@@ -5,7 +5,7 @@ description: ""
 ---
 ### ICT in Education
 
-<img src="/images/ict100.png" style="width:80%">
+<img src="/images/ict2023.png" style="width:80%">
 
 |  	|  	|
 |---	|---	|
@@ -67,4 +67,10 @@ Students participate in yearly Home-Based Learning and e-Learning exercises to d
 
 Students put into practice the ICT skills they have learnt in school during HBL. Teachers designed lessons on online platforms such as Student Learning Space (SLS) and other online learning platforms. As self-directed learners at home, students completed the assignments virtually. Through the online submissions of assignments, teachers were able to monitor students’ learning. Back in school, teachers continue to provide students with feedback on their performances and support them in reinforcing their learning.
 
-*Updated on 02 August 2022*
+| Schedule for HBL | Time |
+|---|---|
+| Log-in Readiness Exercise | February |
+| Home-Based Learning | Ongoing |
+| e-Learning Exercise | PSLE Written Exam Week |
+
+*Updated on 27 January 2023*
