@@ -1,6 +1,6 @@
 ---
 title: Environmental Science Club
-permalink: /co-curricular-activities/Clubs-and-Societies/environmental-science-club
+permalink: /co-curricular-activities/Clubs-and-Societies/environmental-science-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -8,11 +8,10 @@ third_nav_title: Clubs and Societies
 
 **Objectives**
 
-*   To develop students' interest in the Science Subject and care for the environment.
-*   To provide opportunities for students to apply a variety of scientific skills in their projects such as innovation and toy-making projects.
-*   To allow students to participate in hands-on and challenging science-related activities that demonstrate scientific concepts and learn the subject in a fun and enjoyable way.
+*   Take actions to solve real world environmental problems
+*   Apply scientific concepts and skills in making responsible decisions
 
-<img src="/images/cs3.png" 
+<img src="/images/environmentalclub.png" 
      style="width:80%">
 		 
-*Updated on 24 September 2019*
+*Updated on 30 August 2022*
