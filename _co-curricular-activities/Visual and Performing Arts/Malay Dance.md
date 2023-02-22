@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /co-curricular-activities/Visual-and-Performing-Arts/malay-dance
+permalink: /co-curricular-activities/Visual-and-Performing-Arts/malay-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -14,7 +14,7 @@ third_nav_title: Visual and Performing Arts
 *   To encourage all students, regardless of race to learn and appreciate dance steps in Malay performing arts.
 
 
-<img src="/images/vpa10.png" 
+<img src="/images/malaydance.png" 
      style="width:80%">
 		 
-*Updated on 24 September 2019*
+*Updated on 3 October 2022*
