@@ -1,6 +1,6 @@
 ---
 title: Chinese Orchestra
-permalink: /co-curricular-activities/Visual-and-Performing-Arts/chinese-orchestra
+permalink: /co-curricular-activities/Visual-and-Performing-Arts/chinese-orchestra/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -9,9 +9,9 @@ third_nav_title: Visual and Performing Arts
 **Objectives**
 
 *   To cultivate and enhance students' interest in music especially in Chinese Orchestra music.
-*   To brush up on students' social and leadership skills.
+*   To grow students' social and leadership skills.
 
-<img src="/images/vpa6.png" 
+<img src="/images/corchestra.png" 
      style="width:80%">
 		 
-*Updated on 22 July 2019*
+*Updated on 01 August 2022*
