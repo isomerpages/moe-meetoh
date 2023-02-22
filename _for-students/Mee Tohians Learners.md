@@ -1,6 +1,6 @@
 ---
 title: Mee Tohians Learners
-permalink: /for-students/mee-tohians-learners
+permalink: /for-students/mee-tohians-learners/
 description: ""
 ---
 ### Mee Tohians - Self-Directed Learners
@@ -57,7 +57,7 @@ Saturdays: 9:00 am - 9:00 pm
 <img style="width:50%" src="/images/fs3.png">  
 </a></p>
 
-Malay Language Portal *(Link needs to be updated)*
+Malay Language Portal 
 <p><a href="[https://sites.google.com/view/e-cekap](https://sites.google.com/view/e-cekap)">  
 <img style="width:50%" src="/images/fs4.png">  
 </a></p>
@@ -66,7 +66,7 @@ Malay Language Portal *(Link needs to be updated)*
 <img style="width:50%" src="/images/fs5.png">  
 </a></p>
 
-ICT connection (Link needs to be updated)
+ICT connection 
 <p><a href="[https://ictconnection.moe.edu.sg/cyber-wellness/for-students](https://ictconnection.moe.edu.sg/cyber-wellness/for-students)">  
 <img style="width:50%" src="/images/fs6.png">  
 </a></p>
