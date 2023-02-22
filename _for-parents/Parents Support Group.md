@@ -1,6 +1,6 @@
 ---
 title: Parents Support Group
-permalink: /for-parents/parents-support-group
+permalink: /for-parents/parents-support-group/
 description: ""
 ---
 ### Parents Support Group (PATH)
@@ -58,3 +58,5 @@ Click [here](https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PA
 
 <img src="/images/path2.png" 
      style="width:60%">
+		 
+*Updated on 21 February 2021*
