@@ -21,6 +21,6 @@ third_nav_title: Our Staff
 | <img src="/images/ae9.png" style="width:50%"> | [**Mrs Celia Koh**](mailto:neo_chew_yen@moe.edu.sg)<br>**Teacher**   |
 | <img src="/images/ae10.png" style="width:20%"> | [**Mrs George**](mailto:ng_han_jun@moe.edu.sg)<br>**Teacher**     |
 | <img src="/images/ae11.png" style="width:50%"> | [**Mdm Noorazmah Bte Razali**](mailto:noorazmah_razali@moe.edu.sg)<br>**Teacher**      |
-| <img src="/images/ae12.png" style="width:50%"> | [**Mdm Diana Lim Kim Luan**](mailto:lim_kim_luan@moe.edu.sg)<br>**Teacher** |
+| <img src="/images/ae12.png" style="width:40%"> | [**Mdm Diana Lim Kim Luan**](mailto:lim_kim_luan@moe.edu.sg)<br>**Teacher** |
 
 *Updated on 22 June 2022*
