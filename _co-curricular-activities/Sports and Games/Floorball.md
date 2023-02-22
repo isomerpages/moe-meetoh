@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /co-curricular-activities/Sports-and-Games/floorball
+permalink: /co-curricular-activities/Sports-and-Games/floorball/
 description: ""
 third_nav_title: Sports and Games
 ---
@@ -12,7 +12,7 @@ third_nav_title: Sports and Games
 *   To develop a close-knit culture where students are given the opportunity to learn from one another during training.
 *   To actively participate in zonal / national floorball competitions so as to continuously improve and have a growth mindset.
 
-<img src="/images/sg4.png" 
+<img src="/images/floorball2023.png" 
      style="width:80%">
 
-*Updated on 18 July 2019*
+*Updated on 1 August 2022*
