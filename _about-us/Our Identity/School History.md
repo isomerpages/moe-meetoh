@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /about-us/Our-Identity/school-history
+permalink: /about-us/Our-Identity/school-history/
 description: ""
 third_nav_title: Our Identity
 ---
@@ -11,11 +11,11 @@ third_nav_title: Our Identity
 
 #### A Glimpse into the Past........
 
-In the early fifties, the need for a school to provide education for the population of children living in attap houses in the area surrounding Leong San Temple led to the opening of Leong San School in 1954. Within a few months, the classes were overcrowded. There was an apparent need for more classrooms.
+In the early fifties, the need for a school to provide education for the population of children living in attap houses in the area surrounding Leong San Temple led to the opening of Leong San See School in 1954. Within a few months, the classes were overcrowded. There was an apparent need for more classrooms.
 
   
 
-The site adjacent to Leong San Temple along Race Course Road, which was initially designed for the construction of another temple, Mee Toh Temple, was proposed for the building of Mee Toh School instead.
+The site adjacent to Leong San See Temple along Race Course Road, which was initially designed for the construction of another temple, Mee Toh Temple, was proposed for the building of Mee Toh School instead.
 
   
 
