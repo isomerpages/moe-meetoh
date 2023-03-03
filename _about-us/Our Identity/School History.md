@@ -11,7 +11,7 @@ third_nav_title: Our Identity
 
 #### A Glimpse into the Past........
 
-In the early fifties, the need for a school to provide education for the population of children living in attap houses in the area surrounding Leong San Temple led to the opening of Leong San See School in 1954. Within a few months, the classes were overcrowded. There was an apparent need for more classrooms.
+In the early fifties, the need for a school to provide education for the population of children living in attap houses in the area surrounding Leong San See Temple led to the opening of Leong San School in 1954. Within a few months, the classes were overcrowded. There was an apparent need for more classrooms.
 
   
 
