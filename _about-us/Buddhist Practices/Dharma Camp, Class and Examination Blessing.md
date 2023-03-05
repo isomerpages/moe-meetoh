@@ -1,6 +1,6 @@
 ---
 title: Dharma Camp, Class and Examination Blessing
-permalink: /about-us/Buddhist-Practices/dharma-camp-class-and-examination-blessing
+permalink: /about-us/Buddhist-Practices/dharma-camp-class-and-examination-blessing/
 description: ""
 third_nav_title: Buddhist Practices
 ---
@@ -51,7 +51,7 @@ Through these Dharma Teachings, our students will have the right perspectives of
 
 This year, Singapore Fo Guang Shan abbot Master Miao Mu and Mr Gau Poh Teck presented a Buddhist book to every student during Dharma Class Opening Ceremony.
 
-#### Examniation Blessing 
+#### Examination Blessing 
 
 ##### 考试祈福典礼
 
