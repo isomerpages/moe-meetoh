@@ -1,9 +1,9 @@
 ---
 title: Meetoh News
-permalink: /milestones/mee-toh-news
+permalink: /milestones/mee-toh-news/
 description: ""
 ---
-### Meetoh News
+### MeeToh News
 
 #### School-Based Innovative Curriculum
 
