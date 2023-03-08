@@ -20,8 +20,3 @@ description: ""
 | Mr Chua Ming Han  | Member  |
 | Mr Lim Kay Guan | Member |
 | Mr Loo Bee Seng | Member |
-
-
-
-
-
