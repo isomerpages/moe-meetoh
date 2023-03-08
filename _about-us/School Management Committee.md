@@ -3,7 +3,7 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-### 2022 School Management Committee (SMC) Exco
+### 2023 School Management Committee (SMC) Exco
 
 | Name | Designation |
 |---|---|
@@ -20,3 +20,8 @@ description: ""
 | Mr Chua Ming Han  | Member  |
 | Mr Lim Kay Guan | Member |
 | Mr Loo Bee Seng | Member |
+
+
+
+
+
