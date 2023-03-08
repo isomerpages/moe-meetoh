@@ -11,7 +11,7 @@ third_nav_title: Our Staff
 #### Chinese Teachers
 
 |  |  |
-|:---:|:---:|
+|---|---|
 [**Mdm Tinie Tan Mui Ngin**](mailto:tan_mui_ngin_tinie@moe.edu.sg)<br>**Head of Department - Mother Tongue Languages (MTL)**<br><br>“先生不应该专教书，他的责任是教人做人；学生不应该专读书，他的责任是学习人生之道。” -- 陶行知 |
  [**Mdm Zhao Xin**](mailto:zhao_xin@moe.edu.sg)<br>**Subject Head - Chinese Language**<br><br>在教育中，一切都应以教育者的人格为基础，因为只有人格才能影响人格，只 有人格才能形成性格。（俄）乌申斯基 |
  [**Mdm Loh Tiah Cheng**](mailto:loh_tiah_cheng@moe.edu.sg)<br>**Lead Teacher**<br><br>“阅读是教育的根本”- 洪兰 |
@@ -44,9 +44,9 @@ third_nav_title: Our Staff
 #### Malay Teachers
 
 |  |  |
-|:---:|:---:|
+|---|---|
 [**Mdm Hasni Bte Abu Bakar**](mailto:hasni_abu_bakar@moe.edu.sg)<br>**Year Head Primary 3 & 4**<br><br>Children learnt best when their social and emotional needs are well taken care of. As educators, we help our children to recognize their strengths and develop good character so that they become confident yet caring individuals. Each child has a gift. Each just opens them at different times. |
 [**Mdm Sunarti Bte Amidon**](mailto:Sunarti_AMIDON@moe.edu.sg)<br>**Subject Head - Malay Language & Total Curriculum**<br><br>Pendidikan bermula dari hati langsung ke hati. |
 [**Mdm Zuraini Bte Abdul Rahim**](mailto:zuraini_abdul_rahim@moe.edu.sg)<br><br>3P - dapat menerima Perubahan, bijak membuat Pilihan, tekal dalam Prinsip |
 
-*Updated on 21 December 2021*
+*Updated on 08 Mar 2023*
