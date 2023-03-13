@@ -6,9 +6,12 @@ third_nav_title: Our Staff
 ---
 ### Executive and Administrative Support
 
-*To email our staff, click on their names.*
 
-<img src="/images/eas1.png" style="width:50%">
+
+
+
+![](/images/Department%20Photos/2023/Executive%20Administration%20Support.jpg)
+
 
 |  |  |
 |---|---|
