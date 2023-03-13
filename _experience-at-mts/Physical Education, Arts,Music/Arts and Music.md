@@ -6,10 +6,11 @@ third_nav_title: Physical Education, Arts,Music
 ---
 ### Arts and Music
 
+
+
+
+![](/images/Department%20Photos/2023/Aesthetics%20(Music%20_%20Art)%20Department.jpg)
 #### Art
-
-<img src="/images/aam100.png" style="width:80%">
-
 |  	|  	|
 |---	|---	|
 | Vision 	| Art is for Everyone 	|
