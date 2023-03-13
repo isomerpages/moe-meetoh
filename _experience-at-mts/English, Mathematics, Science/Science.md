@@ -6,7 +6,7 @@ third_nav_title: English, Mathematics, Science
 ---
 ### Science
 
-<img src="/images/sci100.png" style="width:80%">
+![](/images/Department%20Photos/2023/Science%20Department.jpg)
 
 |  	|  	|
 |---	|---	|
@@ -48,4 +48,4 @@ Science workshops are conducted for parents each year, with the focus to share w
 
 <img src="/images/sci102.png" style="width:80%">
 
-*Updated on 28 July 2022*
+*Updated on 13 Mar 2023*
