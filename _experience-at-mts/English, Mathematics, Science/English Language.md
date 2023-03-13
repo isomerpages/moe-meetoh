@@ -6,8 +6,8 @@ third_nav_title: English, Mathematics, Science
 ---
 ### English Language
 
-<img src="/images/el2023.png" 
-     style="width:80%">
+
+![](/images/Department%20Photos/2023/English%20Language%20Department.jpg)
 
 **English Language Learning in Mee Toh School**
 
