@@ -6,7 +6,7 @@ third_nav_title: Character Education
 ---
 ### Character and Citizenship Education (CCE)
 
-<img src="/images/cce100.png" style="width:80%">
+![](/images/Department%20Photos/2023/Character%20_%20Citizenship%20Education%20Department.jpg)
 
 |  	|  	|
 |---	|---	|
