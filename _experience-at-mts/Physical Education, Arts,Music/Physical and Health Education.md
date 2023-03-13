@@ -6,7 +6,9 @@ third_nav_title: Physical Education, Arts,Music
 ---
 ### Physical and Health Education (PHE)
 
-<img src="/images/phe100.png" style="width:80%">
+
+
+![](/images/Department%20Photos/2023/Physical%20_%20Health%20Education%20Department.jpg)
 
 |  	|  	|
 |---	|---	|
@@ -51,4 +53,4 @@ This module enables students to refine their attentional focus and psycho motor 
 
 <img src="/images/phe104.png" style="width:80%">
 
-*Updated on 17 August 2022*
+*Updated on 13 Mar 2023*
