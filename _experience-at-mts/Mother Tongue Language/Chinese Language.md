@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Language
 ---
 ### Chinese Language
 
-<img src="/images/chi100.png" style="width:80%">
+![](/images/Department%20Photos/2023/Mother%20Tongue%20Languages%20Department.jpg)
 
 |  	|  	|
 |---	|---	|
