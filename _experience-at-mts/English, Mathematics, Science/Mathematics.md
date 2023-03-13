@@ -6,7 +6,7 @@ third_nav_title: English, Mathematics, Science
 ---
 ### Mathematics
 
-<img src="/images/math100.png" style="width:80%">
+![](/images/Department%20Photos/2023/Mathematics%20Department.jpg)
 
 |  	|  	|
 |---	|---	|
