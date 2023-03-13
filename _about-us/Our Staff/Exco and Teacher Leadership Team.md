@@ -8,12 +8,11 @@ third_nav_title: Our Staff
 
 *To email our staff, click on their names.*
 
-<img src="/images/exco1.png" 
-     style="width:80%">
-		 
+![](/images/Department%20Photos/2023/Exco%20_%20Teacher%20Leadership.jpg)
+
 |  |  |
 |---|---|
-**Ms Chia Li Ling<br>Assistant Year Head  - Primary 1**<br> |
+[**Ms Chia Li Ling**](mailto:chia_li_ling@moe.edu.sg)<br>**Assistant Year Head  - Primary 1**<br><br>  It matters not our starting point in life. If we have the desire to learn, engage in self-reflection and listen with an open mind, we can get to where we choose to be  |
  [**Mrs Alice Hiah Shui Lien**](mailto:alice_ooi_shui_lien@moe.edu.sg)<br>**Assistant Year Head  - Primary 2**<br><br>" I never teach my pupils, I only attempt to provide the conditions in which they can learn." - Albert Einstein  |
 <br>**Mr Bryan Poh Tsai Fu<br>Assistant Year Head - Primary 3**<br><br>Children learn best when their social and emotional needs are well taken care of. As educators, we help our children to recognise their strengths and develop good character so that they become confident yet caring individuals. Every child has a gift. Each just opens them at different times. |
 [**Mdm Hasni Abu Bakar**](mailto:hasni_abu_bakar@moe.edu.sg)<br>**Year Head - Primary 3 & 4**<br><br><br>Children learn best when their social and emotional needs are well taken care of. As educators, we help our children to recognise their strengths and develop good character so that they become confident yet caring individuals. Every child has a gift. Each just opens them at different times.  |
