@@ -3,9 +3,9 @@ title: ICT in Education
 permalink: /experience-at-mts/ICT-in-Education/
 description: ""
 ---
-### ICT in Education
 
-<img src="/images/ict2023.png" style="width:80%">
+
+![](/images/Department%20Photos/2023/Infocomm%20_%20Technology%20Department.jpg)
 
 |  	|  	|
 |---	|---	|
