@@ -3,8 +3,6 @@ title: ICT in Education
 permalink: /experience-at-mts/ICT-in-Education/
 description: ""
 ---
-
-
 ![](/images/Department%20Photos/2023/Infocomm%20_%20Technology%20Department.jpg)
 
 |  	|  	|
@@ -73,4 +71,4 @@ Students put into practice the ICT skills they have learnt in school during HBL.
 | Home-Based Learning | Ongoing |
 | e-Learning Exercise | PSLE Written Exam Week |
 
-*Updated on 27 January 2023*
+*Updated on 13 Mar 2023*
