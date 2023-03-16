@@ -19,15 +19,15 @@ In Mee Toh School, we envision our students to be effective and confident commun
 | **Mission** 	| **To become independent lifelong learners, avid readers and creative thinkers who can communicate effectively in English**<br>To build a strong foundation in and create rich experiences for English Language learning through student-centric and integrated approaches   	|
 
 The following main areas of language literacy – Listening, Speaking, Reading and Viewing, and Writing and Representing – are integrated in students' daily English Language lessons.
+![](/images/English/EL%20Website.jpg)
 
-<img src="/images/eng2.png" 
-     style="width:80%">
+
 
 #### HIGHLIGHTS
 
 **EL Alive!**
 
-The array of English Language (EL) activities engage students in both the receptive skills of listening, reading and viewing, and productive skills of speaking, writing and viewing. The differentiated and fun activities raise the students’ awareness of the importance of using Standard English Language for effective communication with others and interest them in the production of accurate EL in speaking and writing tasks, such as poetry recitation, script writing, comics drawing and drama performance.  
+The array of English Language (EL) activities engage students in both the receptive skills of listening, reading and viewing, and productive skills of speaking, writing and viewing. The differentiated and fun activities raise the students’ awareness of the importance of using Standard English Language for effective communication and interest them in the production of accurate EL in speaking and writing tasks, such as poetry recitation, script writing and drama performance.   
 
 **READS@MTS**
 
@@ -39,15 +39,15 @@ Buddy Reading Programme caters to the reading needs of budding readers in the lo
 
 **Exposure to Current Affairs**
 
-Students read about current affairs in What’s Up newspapers and put on their critical lenses when responding to current issues with soundly supported and responsible personal opinion.
+Students read current affairs in What’s Up newspapers and put on their critical lenses when responding to current issues with informed and responsible personal opinion.
 
 **Appreciating Literature**
 
-_Charlotte’s Web_ and _Fantastic Mr Fox_ are some of the children classic books students read for entertainment and comprehension. They make critical judgement of the characters and plots, and analyse language features of the literary work to understand the writers’ styles and points of view.
+Charlotte’s Web and Fantastic Mr Fox are some of the children classic books students read for entertainment and comprehension. They make critical judgement of the characters and plots and analyse language features of the literary work to understand the writers’ styles and points of view.
 
 **Drop Everything And Read**
 
-Regular reading is emphasised in the Strategies for English Language Learning and Reading (STELLAR) curriculum. Reading time is structured in the daily lessons to engage students in independent and silent reading. Students bring the books they like to read or they can choose books from the collection in the class library.
+Regular reading is emphasised in the Strategies for English Language Learning and Reading (STELLAR) 2.0 curriculum. Reading time is structured in the daily lessons to engage students in independent and silent reading. Students bring the books they like to read or they can choose books from the collection in the class and school library. 
 
 **Step Into Reading**
 
@@ -55,10 +55,10 @@ Step Into Reading programme comes with a collection of fiction and non-fiction b
 
 **IPW-VIA**  
 
-Integrated Project Work and Values in Action (IPW-VIA) is multi-faceted and supports the growth of the whole child. As students work on school and community projects in teams, they learn to collect information and communicate in EL with clarity, empathy and discernment, while demonstrating schools values such as teamwork, resilience, service and care.
+Integrated Project Work and Values in Action (IPW-VIA) is multi-faceted and supports the growth of the whole child. As students work on school and community projects in teams, they learn to collect information and communicate in EL with clarity, empathy and discernment, while demonstrating school values such as teamwork, resilience, service and care.
 
  **SEED**
 
-Strategies for Engaged and Effective Development (SEED) curriculum creates joy in interdisciplinary learning across subjects. Through experiential learning, students apply and demonstrate their knowledge and skills acquired in the various subjects, and their learning is augmented in authentic tasks that require them to create crafts, write about their experiences and present their research findings in English.
+Strategies for Engaged and Effective Development (SEED) curriculum creates joy in interdisciplinary learning across subjects. Through experiential learning, students apply and demonstrate their knowledge and skills acquired in the various subjects, and their learning is augmented in authentic tasks that require them to create crafts, write about their experiences and present their research findings in EL. 
 
 *Updated on 13 Mar 2023*
