@@ -15,12 +15,12 @@ third_nav_title: English, Mathematics, Science
 
 #### Goals
 
-At the end of their primary education in Mee Toh School, students will be able to
+At the end of their primary education in Mee Toh School, students will be able to<br>
+•	use scientific concepts acquired to help them understand themselves and the world around them<br>
+•	develop skills, habits of mind and attitudes necessary for scientific inquiry<br>
+•	apply scientific concepts and skills in making responsible decisions<br>
+•	appreciate how science influences people and the environment
 
-· use scientific terms and concepts to understand themselves and the world around them<br>
-· develop process skills, habits of mind and attitudes necessary for scientific inquiry<br>
-· use scientific knowledge and methods in making personal decisions<br>
-· appreciate how science influences people and the environment
 
 <img src="/images/sci101.png" style="width:80%">
 
@@ -28,23 +28,19 @@ At the end of their primary education in Mee Toh School, students will be able t
 
 ##### Eco Trails
 
-With the emphasis on inquiry-based learning, green spaces within the school compound have been converted into learning corners for students. The Eco trails are made up of stations that allow students to explore and discover for themselves more about the animals and plants, as well as the environment factors affecting their growth.
+With the emphasis on inquiry-based learning, green spaces within the school compound have been converted into learning corners for students. The eco trails are made up of stations that allow students to explore and discover more about the animals and plants, as well as the factors in the environment that affect their growth and survival.
 
 ##### Primary 3 Hydroponics Programme
 
-The programme aims to engage students in small-scale farming through the growing of organic vegetables. This authentic learning requires the students to plant the seedlings, monitor the growth and harvest the full-grown vegetables. The experience supplements and reinforces the students' understanding of the functions of plant parts.
+The programme aims to engage students in small-scale sustainable farming through the growing of organic vegetables. This authentic learning requires the students to plant the seedlings, monitor the growth and harvest the full-grown vegetables. The experience complements and reinforces the students' understanding of the functions of plant parts.
 
 ##### E2K Science
 
-The E2K Science Programme is an enrichment programme to cater to selected Primary 4 and 5 students who demonstrate strong interest and ability in Science. The programme engages students in scientific investigations involving advanced science concepts.
+The E2K Science Programme is an enrichment programme to cater to selected Primary 4 and 5 students who demonstrate strong interest and ability in Science. The programme engages students in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach.
 
-##### Partnering with Our Parents - A Science Workshop for Parents
+##### Authentic Tasks
 
-Science workshops are conducted for parents each year, with the focus to share with parents on how to more effectively engage their children in developing the curiosity and passion in science through
-
-1.        doing and learning science together with the children, <br>
-2.      providing the children with more positive science learning experiences by encouraging them to think about and interact with the world around them,<br> 
-3.      doing activities which allow the children to use their senses.
+For students to develop the ability to generate novel and useful ideas to address issues and solve problems, exercise sound reasoning and use metacognition to make good decisions, authentic tasks are designed for students in Primary 3 to 5 as part of the science curricula. The learning experiences allow students to make connections between scientific concepts and real-world applications as they apply their science knowledge and skills in the tasks.
 
 <img src="/images/sci102.png" style="width:80%">
 
