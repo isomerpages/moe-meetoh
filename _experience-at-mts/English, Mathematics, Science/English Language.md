@@ -18,7 +18,7 @@ In Mee Toh School, we envision our students to be effective and confident commun
 | **Vision** 	|**Integrated and Engaging Approaches, Effective and Confident Communicators**<br>Our students are passionate lifelong learners who listen actively, read avidly, speak confidently and write creatively in English Language.           	|
 | **Mission** 	| **To become independent lifelong learners, avid readers and creative thinkers who can communicate effectively in English**<br>To build a strong foundation in and create rich experiences for English Language learning through student-centric and integrated approaches   	|
 
-The following main areas of language literacy, Listening, Speaking, Reading and Viewing, and Writing and Representing, are integrated in students' daily English Language lessons.
+The following main areas of language literacy – Listening, Speaking, Reading and Viewing, and Writing and Representing – are integrated in students' daily English Language lessons.
 
 <img src="/images/eng2.png" 
      style="width:80%">
