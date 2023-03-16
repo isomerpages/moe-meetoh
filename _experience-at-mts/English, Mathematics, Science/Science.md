@@ -42,6 +42,7 @@ The E2K Science Programme is an enrichment programme to cater to selected Primar
 
 For students to develop the ability to generate novel and useful ideas to address issues and solve problems, exercise sound reasoning and use metacognition to make good decisions, authentic tasks are designed for students in Primary 3 to 5 as part of the science curricula. The learning experiences allow students to make connections between scientific concepts and real-world applications as they apply their science knowledge and skills in the tasks.
 
+
 <img src="/images/sci102.png" style="width:80%">
 
 *Updated on 13 Mar 2023*
