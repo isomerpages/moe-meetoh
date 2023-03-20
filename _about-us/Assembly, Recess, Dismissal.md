@@ -10,7 +10,116 @@ description: ""
 **School Hours:** **7.30 a.m. to 1.30 p.m.**
 
 ##### Morning Assembly
+   <!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {border:1.0pt solid black; background:#A5A5A5; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa2 {border:1.0pt solid black; background:#E1E1E1; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa3 {border:1.0pt solid black; background:#FFE699; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa4 {text-align:center; vertical-align:top; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa5 {border:1.0pt solid black; background:#C5E0B4; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa6 {border:1.0pt solid black; background:#F0F0F0; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa7 {border:1.0pt solid black; background:#F2F2F2; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa8 {border:1.0pt solid black; background:#FFCCFF; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa9 {border:1.0pt solid; mso-pattern:auto none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa10 {border-top:1.0pt solid; border-right:none; border-bottom:none; border-left:1.0pt solid; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa11 {border-top:1.0pt solid; border-right:none; border-bottom:none; border-left:none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa12 {border-top:1.0pt solid; border-right:1.5pt solid; border-bottom:none; border-left:none; text-align:center; vertical-align:middle; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} -->
 
+<table border="0" cellpadding="0" cellspacing="0" width="2330" style="border-collapse:
+ collapse;width:699pt;mso-yfti-tbllook:1056"><colgroup><col width="388" span="6" style="mso-width-source:userset;width:116pt"></colgroup><tbody><tr height="129" style="mso-height-source:userset;height:38.6pt"><td height="129" class="oa1" width="388" style="height:38.6pt;width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"></p></td><td class="oa1" width="388" style="width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">MON</span></p></td><td class="oa1" width="388" style="width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">TUE</span></p></td><td class="oa1" width="388" style="width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">WED</span></p></td><td class="oa1" width="388" style="width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">THU</span></p></td><td class="oa1" width="388" style="width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">FRI</span></p></td></tr><tr height="117" style="mso-height-source:userset;height:35.03pt"><td height="117" class="oa2" width="388" style="height:35.03pt;width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Silent Reading</span></p></td><td colspan="2" class="oa3" width="777" style="width:233pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mother Tongue books</span></p></td><td colspan="3" class="oa5" width="1165" style="width:349pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">English books</span></p></td></tr><tr height="311" style="mso-height-source:userset;height:93.24pt"><td height="311" class="oa6" width="388" style="height:93.24pt;width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Upper Primary</span></p></td><td rowspan="2" class="oa7" width="388" style="width:116pt"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  0pt;margin-left:0in;margin-right:0in;text-indent:0in;text-align:center;
+  direction:ltr;unicode-bidi:embed;mso-vertical-align-alt:auto;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  mso-fareast-theme-font:minor-fareast;font-variant:normal;color:black;
+  text-transform:none;letter-spacing:0pt;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:normal;font-style:normal;mso-no-proof:no;vertical-align:baseline;
+  mso-text-raise:0%;mso-style-textoutline-type:none;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">In class / Selected levels in MPH during assembly periods</span></p></td><td rowspan="2" class="oa8" width="388" style="width:116pt"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  0pt;margin-left:0in;margin-right:0in;text-indent:0in;text-align:center;
+  direction:ltr;unicode-bidi:embed;mso-vertical-align-alt:auto;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Parade Square</span></p></td><td rowspan="2" class="oa7" width="388" style="width:116pt"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  0pt;margin-left:0in;margin-right:0in;text-indent:0in;text-align:center;
+  direction:ltr;unicode-bidi:embed;mso-vertical-align-alt:auto;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  mso-fareast-theme-font:minor-fareast;font-variant:normal;color:black;
+  text-transform:none;letter-spacing:0pt;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:normal;font-style:normal;mso-no-proof:no;vertical-align:baseline;
+  mso-text-raise:0%;mso-style-textoutline-type:none;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">In class</span></p></td><td rowspan="2" class="oa8" width="388" style="width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Parade Square</span></p></td><td rowspan="2" class="oa7" width="388" style="width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">In class</span></p></td></tr><tr height="311" style="mso-height-source:userset;height:93.24pt"><td height="311" class="oa2" width="388" style="height:93.24pt;width:116pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:14.6pt;
+  font-family:Arial;mso-ascii-font-family:Arial;mso-bidi-font-family:Arial;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Lower Primary</span></p></td></tr></tbody></table>
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+	
 | Day 	| Level 	| Assembly Venue 	|
 |:---:	|:---:	|:---:	|
 | Monday - Friday 	| Primary 1 to 6 	| Classrooms 	|
