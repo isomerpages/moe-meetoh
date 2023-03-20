@@ -114,16 +114,6 @@ description: ""
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Lower Primary</span></p></td></tr></tbody></table>
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-	
-| Day 	| Level 	| Assembly Venue 	|
-|:---:	|:---:	|:---:	|
-| Monday - Friday 	| Primary 1 to 6 	| Classrooms 	|
-
 **Sale of Breakfast in the School Canteen:**
 
 The school canteen will operate between **6.45 a.m. and 7.10 a.m.** for students who wish to have their breakfast in school. Sale of canteen food will stop at 7.05 a.m.
