@@ -75,7 +75,7 @@ Students engage in Interdisciplinary Project Work and Values-in-Action projects 
 
 Nature Lovers Club students meet on a weekly basis to learn about local biodiversity and share knowledge of common flora and fauna. Under the guidance from their teachers and the Nature Society (Singapore), they meticulously recorded environmental data on the diverse flora and fauna in school as part of their CCA activities. They conduct regular biodiversity surveys within the school ground to monitor the population of fauna, such as butterflies and birds. They also monitor the flora in school through gardening and experimenting with different organic compost to grow plants. On top of that, they also initiated field surveys at Lorong Halus Wetland, a nature area in the neighbourhood which has been adopted by the school. To spread awareness on local biodiversity, students consolidated what they have learnt into information boards, bookmarks and flyers, which were then used as outreach materials during Open House and CCA Awareness day. These have reached out to both the students in school as well as members of the public who have attended the Open House and CCA Awareness day.
 
-*Insert missing image here*
+![](/images/Milestones/School%20Awards/students%20as%20Nature%20stewards.png)
 
 ##### President's Award for the Environment 2019
 
