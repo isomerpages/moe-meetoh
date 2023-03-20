@@ -5,32 +5,20 @@ description: ""
 ---
 ### Parents Support Group (PATH)
 
-After Mee Toh School's parent support group, PATH, was formed in 2006, the team has grown from strength to strength. With 200 members on board currently, parents are keen to come forward to work with the school and support various programmes and initiatives, such as Dharmarathna Festival, Recycling Programme, Clean Your Plate Campaign and learning journeys to enhance and deepen the holistic education of Mee Tohians. PATH members also interact and connect through parent-child bonding activities or events meant solely for parents' participation.
+  
+<table><tbody><tr><td><span style="color:black;"><strong>Purpose</strong></span></td><td><p style="margin-left:0in;"><span style="color:black;">Partner and support the school’s long-term goals as well as initiatives, programmes and events that cater to the various needs of students and parents of Mee Toh School.</span></p></td></tr><tr><td><p style="margin-left:0in;text-align:center;"><span style="color:black;"><strong>Roles &amp; Responsibilities</strong></span><br>&nbsp;</p></td><td><p style="margin-left:.19in;">•<span style="color:black;">Supportive Partner in Education</span></p><p style="margin-left:.19in;">•<span style="color:black;">Bridge Between Parents and School</span></p><p style="margin-left:.19in;">•<span style="color:black;">Magnet to Attract Other Parents</span></p></td></tr></tbody></table>
 
-It takes a whole village to raise a child. PATH serves as a vital link between the school and teachers, the parents and the community. Besides working closely with teachers and assisting in projects in the school, members also have the opportunity to experience first-hand the direction the school has embarked on to better understand the school curriculum and to provide valuable feedback on various areas, like administration and programmes, to enrich the students' learning experiences. 
 
-PATH's ethos is in line with Aristotle belief that, "Educating the mind without educating the heart is no education at all". Action speaks louder than words, and no textbook can replicate the heart, time and resources that parents have put into practice the school's core values while volunteering and serving. These are the very same values that we hope every Mee Tohians will grow up embracing.
+Mee Toh School's parent support group, Parents As Teacher Helpers (PATH), was formed in 2006. Since then, our PATH has grown from strength to strength with more than 300 current members. Our PATH members work with the school to support various programmes and initiatives, such as Active Play, Weekly Recycling Programme, commemorative events (e.g., Laba Festival, Total Defence Day), and learning journeys to enhance and deepen the holistic education of Mee Tohians. PATH members also interact and connect with one another through parent-child bonding activities or events meant solely for parents' participation.
+
+It takes a whole village to raise a child. PATH serves as a vital link between the school and teachers, the parents and the community. As PATH works closely with teachers and lend their support to school programmes and initiatives, PATH members have first-hand experience of the school’s direction, programmes and curriculum that their children undergo in Mee Toh School. They are thus able to provide valuable feedback on key areas, such as administration and programmes, to enrich the students' learning experiences.
+
+PATH's ethos is in line with Aristotle’s belief that, "Educating the mind without educating the heart is no education at all". Action speaks louder than words, and no textbook can replace the heart, time and resources that our PATH members have dedicated in service to the school. PATH members are living and role-modelling our school’s core values through their acts of contribution to our Mee Tohians. They are an inspiration to our Mee Tohians, whom we hope they will likewise grow up embracing our school values and contribute meaningfully to society.
+
 
 **PATH EXCO**
 
-| Name 	| Designation 	|
-|:---:	|:---:	|
-| Mr Loo Bee Seng 	| Chairman 	|
-| Mdm Wendy Tan 	| Vice-Chairman 	|
-| Mdm Renee Tan 	| 2nd Vice-Chairman 	|
-| Mdm Catherine Low 	| Secretary 	|
-| Mdm Sherry Teo 	| Vice-Secretary 	|
-| Mdm Ang Yen Leng 	| Treasurer 	|
-| Mdm Maggie Lim 	| Vice-Treasurer 	|
-| Mdm Candy Lee 	| Parent Liaison (Upper Primary) 	|
-| Mdm Lynn Wong 	| Parent Liaison (Upper Primary) 	|
-| Mdm Neo Sok Ping 	| Parent Liaison (Upper Primary) 	|
-| Mr Andrew Tran 	| Parent Liaison (Lower Primary) 	|
-| Mdm Cindy Tan 	| Parent Liaison (Lower Primary) 	|
-|  Mdm Alice Chong Ai Lee 	| Parent Liaison (Lower Primary)  	|
-| Mr Stephen Lim Chin Keong  	| Parent Liaison (Lower Primary)  	|
-|  Mr Tng Han Siang 	| Parent Liaison (Lower Primary)  	|
-|  Mdm Yvonne Ng Gek Puey 	| Parent Liaison (Lower Primary)  	|
+<table><tbody><tr><td style="height:25.22pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:#666666;"><strong>Name</strong></span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:#666666;"><strong>Designation</strong></span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mr Loo Bee Seng</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Advisor</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Ang Yen Leng</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Chairman</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Maggie Lim</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Vice-Chairman</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Catherine Low</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Vice-Chairman</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">&nbsp;Mdm Yvonne Ng Gek Puey</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Secretary</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Sherry Teo</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Vice-Secretary</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Cindy Tan</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Treasurer</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Renee Tan</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Vice-Treasurer</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mr Stephen Lim Chin Keong&nbsp;</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Member</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">&nbsp;Mr Tng Han Siang</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Member</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Chong Yi Mei</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Member</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Claire Li</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Member</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Nicole Tan</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Member</span></p></td></tr><tr><td style="height:20.75pt;width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Mdm Velary Koh</span></p></td><td style="width:274pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;">Member</span></p></td></tr></tbody></table>
 
 If you would like to join the PATH, please click on the link [https://tinyurl.com/2p829rw3](https://tinyurl.com/2p829rw3). Alternatively, please scan the QR Code provided .
 
@@ -39,22 +27,6 @@ If you would like to join the PATH, please click on the link [https://tinyurl.c
 		 
 Click [here](https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PATH%20Code%20of%20conduct%202020.pdf) for more information on Code of Conduct for PATH.
 
-**ACTIVITIES IN 2020**  
-
-*   Dharmarathna Festival
-*   Chinese New Year Lohei Celebration
-*   Unstructured Play Programme
-*   Weekly Recycling Programme
-*   NE Commemorative Events
-*   Mother Tongue Fortnight Fringe Activities
-*   Founder's Day / Vesak Day / Open House
-*   PATH Parent-Child Bonding Sessions, such as MTS Pottery Class
-*   Teacher's Day Celebration
-*   Children's Day Sports Carnival
-*   Mid-Autumn Festival
-*   Clean Your Plate Campaign
-*   P1 Orientation
-*   PATH Year-End Appreciation Dinner
 
 <img src="/images/path2.png" 
      style="width:60%">
