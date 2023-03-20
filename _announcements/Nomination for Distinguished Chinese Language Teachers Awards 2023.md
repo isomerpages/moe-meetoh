@@ -14,4 +14,4 @@ Nominations can be done online at [https://bit.ly/dclta2023](https://bit.ly/dclt
 
 <img src="/images/Announcements/Nomination%20for%20Distinguished%20Chinese%20Language%20Teachers%20Awards%202023.jpg" style="width:50%">
 
-[](/files/Announcements/Distinguished%20CL%20Teachers%20Awards%20Poster%202023.pdf)
+[Distinguished Chinese Language Teachers Awards 2023 Poster](/files/Announcements/Distinguished%20CL%20Teachers%20Awards%20Poster%202023.pdf)
