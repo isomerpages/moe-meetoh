@@ -6,6 +6,7 @@ description: ""
 ### Parents Support Group (PATH)
 
   
+	
 <table><tbody><tr><td style="height:83.73pt;width:135pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;"><strong>Purpose</strong></span><br>&nbsp;</p></td><td style="width:470pt;"><p style="margin-left:0in;"><span style="color:black;">Partner and support the school’s long-term goals as well as initiatives, programmes and events that cater to the various needs of students and parents of Mee Toh School.</span></p></td></tr><tr><td style="height:95.56pt;width:135pt;"><p style="margin-left:0in;text-align:center;"><span style="color:black;"><strong>Roles &amp; Responsibilities</strong></span><br>&nbsp;</p></td><td style="width:470pt;"><p style="margin-left:.19in;">•<span style="color:black;">Supportive Partner in Education</span></p><p style="margin-left:.19in;">•<span style="color:black;">Bridge Between Parents and School</span></p><p style="margin-left:.19in;">•<span style="color:black;">Magnet to Attract Other Parents</span></p></td></tr></tbody></table>
 
 
