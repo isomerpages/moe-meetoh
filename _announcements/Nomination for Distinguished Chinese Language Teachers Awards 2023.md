@@ -11,4 +11,4 @@ The Distinguished Chinese Language Teachers Awards 2023 is co-organised by Singa
 
 Nominations can be done online at https://bit.ly/dclta2023 or through scanning the QR code below. The closing date for nominations is 30 April 2023 (Sunday).
 
-
+![](/images/Announcements/Nomination%20for%20Distinguished%20Chinese%20Language%20Teachers%20Awards%202023.jpg)
