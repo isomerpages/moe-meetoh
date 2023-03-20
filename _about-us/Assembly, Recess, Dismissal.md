@@ -1,11 +1,11 @@
 ---
 title: Assembly, Recess, Dismissal
-permalink: /about-us/assembly-recess-dismissal
+permalink: /about-us/assembly-recess-dismissal/
 description: ""
 ---
 ### Assembly, Recess, Dismissal
 
-#### Academic Year 2021
+#### Academic Year 2023
 
 **School Hours:** **7.30 a.m. to 1.30 p.m.**
 
@@ -25,20 +25,18 @@ All students are to be seated by 7.15 a.m. in their respective classroom for the
 
 | Level 	| Recess Timings 	|
 |:---:	|:---:	|
-| P1 Recess 	| 10.00 am to 10.30 am 	|
-| P2 Recess 	| 8.30 am to 9.00 am 	|
-| P3 Recess 	| 11.00 am to 11.30 am 	|
-| P4 Recess 	| 10.30 am to 11.00 am 	|
-| P5 Recess 	| 9.00 am to 9.30 am 	|
-| P6 Recess 	| 9.30 am to 10.00 am 	|
+| P1 and P4 Recess 	| 9.00 am to 9.30 am 	|
+| P2 and P5 Recess 	| 9.30 am to 10.00 am 	|
+| P3 and P6 Recess 	| 10.00 am to 10.30 am 	|
+
 
 ##### Dismissal
 
 | Level 	| Dismissal Timings 	|
 |:---:	|:---:	|
-| P1 & P4: 	| 1.20 p.m. 	|
-| P2 & P5 	| 1.30 p.m. 	|
-| P3 & P6 	| 1.25 p.m. 	|
+| P1 & P2: 	| 1.20 p.m. 	|
+| P3 - P6 	| 1.30 p.m. 	|
+
 
 <br><br>
 
