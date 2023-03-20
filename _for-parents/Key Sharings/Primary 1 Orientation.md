@@ -6,4 +6,4 @@ third_nav_title: Key Sharings
 ---
 ### Primary 1 Orientation
 
-https://go.gov.sg/p1orientationslides2020
+[Primary 1 (2020) Orientation Briefing Slides](https://go.gov.sg/p1orientationslides2020)
