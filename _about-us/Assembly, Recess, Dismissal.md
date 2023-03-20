@@ -17,7 +17,7 @@ description: ""
 
 **Sale of Breakfast in the School Canteen:**
 
-The school canteen will operate between **6.45 a.m. and 7.10 a.m.** for students who wish to have their breakfast in school. Sale of canteen food will stop at 7.05 a.m.
+The school canteen will operate between **6.45 a.m. and 7.05 a.m.** for students who wish to have their breakfast in school. Sale of canteen food will stop at 7.05 a.m.
   
 All students are to be seated by 7.15 a.m. in their respective classroom for the Silent Reading Programme.
 
