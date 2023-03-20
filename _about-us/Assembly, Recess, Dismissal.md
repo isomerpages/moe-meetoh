@@ -133,8 +133,7 @@ All students are to be seated by 7.15 a.m. in their respective classroom for the
 
 | Level 	| Dismissal Timings 	|
 |:---:	|:---:	|
-| P1 & P2: 	| 1.20 p.m. 	|
-| P3 - P6 	| 1.30 p.m. 	|
+All Levels	| 1.30 p.m. 	|
 
 
 <br><br>
