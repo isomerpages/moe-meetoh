@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Key Sharings/Overview.md
-      - Key Sharings/Parent Engagement Sessions.md
       - Key Sharings/.keep
       - Operation Hours.md
       - Key School Notifications.md
