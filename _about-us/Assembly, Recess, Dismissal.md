@@ -11,7 +11,7 @@ description: ""
 
 ##### Morning Assembly
   
-	
+![](/images/Assembly,%20Recess,%20Dismissal/2023%20Morning%20Assembly.png)
 	
 **Note: If it rains or parade square ground is wet, all students will assemble directly at classrooms.
 	 
