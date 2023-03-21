@@ -1,0 +1,37 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Identity/Overview.md
+      - Our Identity/Vision and Mission.md
+      - Our Identity/Motto and Values.md
+      - Our Identity/School Song.md
+      - Our Identity/School History.md
+      - Our Identity/School Founder.md
+      - Our Identity/.keep
+      - Our Staff/Overview.md
+      - Our Staff/Organisation Chart.md
+      - Our Staff/School Leaders.md
+      - Our Staff/Exco and Teacher Leadership Team.md
+      - Our Staff/2023 Primary 1 Form Teachers.md
+      - Our Staff/2023 Primary 2 Form Teachers.md
+      - Our Staff/2023 Primary 3 Form Teachers.md
+      - Our Staff/2023 Primary 4 Form Teachers.md
+      - Our Staff/2023 Primary 5 Form Teachers.md
+      - Our Staff/2023 Primary 6 Form Teachers.md
+      - Our Staff/Mother Tongue Teachers.md
+      - Our Staff/Allied Educators and Non Form Teachers.md
+      - Our Staff/Executive and Administrative Support.md
+      - Our Staff/.keep
+      - Strategic Thrusts.md
+      - School Rules.md
+      - Assembly, Recess, Dismissal.md
+      - Buddhist Practices/.keep
+      - Buddhist Practices/Dharmaratna Festival.md
+      - Buddhist Practices/Vesak Day Celebration.md
+      - Buddhist Practices/Dharma Camp, Class and Examination Blessing.md
+      - Buddhist Practices/Talks on Values.md
+      - Service Quality Statement.md
+      - Personal Data Protection.md
+      - School Management Committee.md

@@ -1,0 +1,12 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Key Sharings/.keep
+      - Operation Hours.md
+      - Key School Notifications.md
+      - Other Key Information.md
+      - Forms for Parents.md
+      - Parents Support Group.md
+      - Other Useful Links.md
+      - Photo Gallery.md

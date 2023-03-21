@@ -1,15 +1,89 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/meetohlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Identity
+        url: /about-us/Our-Identity
+      - title: Our Staff
+        url: /about-us/Our-Staff
+      - title: Strategic Thrusts
+        url: /about-us/strategic-thrusts
+      - title: School Rules
+        url: /about-us/school-rules
+      - title: Assembly, Recess, Dismissal
+        url: /about-us/assembly-recess-dismissal
+      - title: Buddhist Practices
+        url: /about-us/Buddhist-Practices/dharmaratna-festival
+      - title: Service Quality Statement
+        url: /about-us/service-quality-statement
+      - title: Personal Data Protection
+        url: /about-us/personal-data-protection
+      - title: School Management Committee
+        url: /about-us/school-management-committee
+  - title: Experience @ MTS
+    url: /experience-at-mts/ICT-in-Education
+    sublinks:
+      - title: ICT in Education
+        url: /experience-at-mts/ICT-in-Education
+      - title: Student Management
+        url: /experience-at-mts/student-management
+      - title: Environment Education
+        url: /experience-at-mts/environment-education
+      - title: Programme for Active Learning
+        url: /experience-at-mts/programme-for-active-learning
+      - title: Learning for Life Programme
+        url: /experience-at-mts/learning-for-life-programme
+      - title: English, Mathematics, Science
+        url: /experience-at-mts/EMS/English
+      - title: Mother Tongue Language
+        url: /experience-at-mts/Mother-Tongue-Language/chinese
+      - title: Character Education
+        url: /experience-at-mts/Character-Education/
+      - title: Physical Education, Arts,Music
+        url: /experience-at-mts/Physical-Education-ArtsMusic/phe
+      - title: Co-Curricular Activities
+        url: /co-curricular-activities/overview
+  - title: For Parents
+    url: /for-parents/Key-Sharings/
+    sublinks:
+      - title: Operation Hours
+        url: /for-parents/operation-hours
+      - title: Key School Notifications
+        url: /for-parents/key-school-notifications
+      - title: Other Key Information
+        url: /for-parents/other-key-information
+      - title: Forms for Parents
+        url: /for-parents/forms-for-parents
+      - title: Parents Support Group (PATH)
+        url: /for-parents/parents-support-group
+      - title: Other Useful Links
+        url: /for-parents/other-useful-links
+      - title: Photo Gallery
+        url: /for-parents/photo-gallery
+  - title: For Students
+    url: /for-students/mee-tohians-learners
+    sublinks:
+      - title: Mee Tohians Learners
+        url: /for-students/mee-tohians-learners
+      - title: What's the Buzz?
+        url: /for-students/whats-the-buzz
+  - title: Quick Links
+    url: /quick-links
+    sublinks:
+      - title: Parents Gateway
+        url: https://pg.moe.edu.sg/
+      - title: MTS Gallery
+        url: https://staging.d23u15qcw5chmi.amplifyapp.com/for-parents/photo-gallery
+      - title: Student Icon
+        url: https://workspace.google.com/dashboard
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login
+      - title: KooBits
+        url: https://www.koobits.com/?gclid=EAIaIQobChMItdOP4vbx6wIV1X4rCh1h1g9VEAAYASAAEgKEM_D_BwE
+      - title: Discover Reads
+        url: https://www.nlb.gov.sg/main/home
+  - title: "Contact "
+    url: /contact-us
