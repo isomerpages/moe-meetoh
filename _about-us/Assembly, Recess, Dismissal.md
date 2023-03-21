@@ -113,7 +113,8 @@ description: ""
   color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Lower Primary</span></p></td></tr></tbody></table>
-	Note: If it rains or parade square ground is wet, all students will assemble directly at classrooms.
+
+**Note: If it rains or parade square ground is wet, all students will assemble directly at classrooms.
 	 
 **Sale of Breakfast in the School Canteen:**
 
