@@ -55,7 +55,7 @@ CCE-MTL lessons focuses on the explicit teaching of R3ICH values within the broa
 
 National Education forms a part of the school’s citizenship programme. Students have the opportunities to experience the Singapore story to foster in them our national identity and the spirit of togetherness with one another. Mee Tohians commemorate four core NE events as listed below. The Primary SS syllabus helps students to grow in knowledge, develop skills and learn values through examining issues that are of significance to our society and the world in which we live.
 
-1\.  Total Defence Day <br>
+1.  Total Defence Day <br>
 2.  International Friendship Day <br>
 3.  Racial Harmony Day <br>
 4.  National Day
