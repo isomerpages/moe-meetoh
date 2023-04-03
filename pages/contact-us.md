@@ -11,9 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.00am - 5.30pm
-        description: |+
-          Closed on Public Holidays
-
+        description: "\n"
       - days: School Holiday Operating Hours
         time: 8.00am - 5.00pm
         description: ""
