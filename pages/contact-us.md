@@ -14,6 +14,9 @@ locations:
         description: |+
           Closed on Public Holidays
 
+      - days: School Holiday Operating Hours
+        time: 8.00am - 5pm
+        description: ""
     maps_link: ""
     title: Main Office
 contacts:
