@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/meetohbanner1.gif
+      background: /images/meetohbannerresized.gif
       key_highlights:
         - title: Announcements
           description: ""
