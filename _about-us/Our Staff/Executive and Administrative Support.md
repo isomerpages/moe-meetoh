@@ -33,9 +33,8 @@ third_nav_title: Our Staff
 **Mdm Nani<br>Operations Support Officer (OSO)**  |
  Mr Hasan Bin Mohd Shariff<br><br>Operations Support Officer (OSO)<br><br>Find joy in what you do. |
 **Mdm Lim Hui Eng<br>Operations Support Officer (OSO)**<br><br>Work smart, study smart. |
-**Mr Chia Chee Guan<br>Operations Support Officer (OSO)**<br><br>Do your best. |
 **Mr Lee Bong Meng<br>Operations Support Officer (OSO)**<br><br>Be Smart! |
  **Mdm Koh Hwee Koon<br>Operations Support Officer (OSO)**<br><br>Go confidently in the direction of your dreams. |
 
 
-*Updated on 13 March 2023*
+*Updated on 11 April 2023*
