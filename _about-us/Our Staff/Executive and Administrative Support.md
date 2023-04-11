@@ -31,7 +31,7 @@ third_nav_title: Our Staff
 **Mr Junior Tan<br>Desktop Enginner (DE)**<br><br>“Life itself is your teacher, and you are in a state of constant learning.”<br>Bruce Lee<br> |
 **Mdm Chua Lay Ching<br>Science Lab Assistant**<br><br>Work hard, play hard. |
 **Mdm Nani<br>Operations Support Officer (OSO)**  |
- Mr Hasan Bin Mohd Shariff<br><br>Operations Support Officer (OSO)<br><br>Find joy in what you do. |
+ **Mr Hasan Bin Mohd Shariff**<br>**Operations Support Officer (OSO)**<br><br>Find joy in what you do. |
 **Mdm Lim Hui Eng<br>Operations Support Officer (OSO)**<br><br>Work smart, study smart. |
 **Mr Lee Bong Meng<br>Operations Support Officer (OSO)**<br><br>Be Smart! |
  **Mdm Koh Hwee Koon<br>Operations Support Officer (OSO)**<br><br>Go confidently in the direction of your dreams. |
