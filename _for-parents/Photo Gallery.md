@@ -7,7 +7,7 @@ description: ""
 
 | TERM 1 	|
 |:---:	|
-|[Chinese New Year Celebrations (Jan 20)](https://www.smugmug.com/gallery/n-9rF5vm)<br>[Primary 1's First Day (Jan 3)](https://www.smugmug.com/gallery/n-QvP5X7)<br> 	|
+|[Chinese New Year Celebrations (Jan 20)](https://www.smugmug.com/gallery/n-9rF5vm)<br>[Primary 1's First Day (Jan 3)](https://www.smugmug.com/gallery/n-QvP5X7)<br>[Primary 5 Camp (Jan 2 - Jan 4)](https://www.smugmug.com/gallery/n-wN4Fvr) 	|
 
 #### 2022
 
