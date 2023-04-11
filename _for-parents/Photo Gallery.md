@@ -3,6 +3,12 @@ title: Photo Gallery
 permalink: /for-parents/photo-gallery/
 description: ""
 ---
+#### 2023
+
+| TERM 1 	|
+|:---:	|
+|[Chinese New Year Celebrations (Jan 20)](https://www.smugmug.com/gallery/n-9rF5vm)<br>[Primary 1's First Day (Jan 3)](https://www.smugmug.com/gallery/n-QvP5X7)<br> 	|
+
 #### 2022
 
 | TERM 4 	|
@@ -63,7 +69,7 @@ description: ""
 
 | TERM 3 	|
 |:---:	|
-| [Teacher's Day Homecoming 2019 (Sept 5)](https://www.smugmug.com/gallery/n-x59LhH/)<br>[Teacher's Day, Tea Ceremony & Homecoming 2019 (Sept 5)](https://www.smugmug.com/gallery/n-KQ9PJZ)<br>[Kartunis Cilik Competition (Malay Language) (Sept 3)](https://www.smugmug.com/gallery/n-7w57q2)<br>[Cyberwellness Day 2019 (Sept 2)](https://www.smugmug.com/gallery/n-MLFVTM/)<br>[Anti-Drug Campaign - Drug Buster Academy(Aug 30)](https://www.smugmug.com/gallery/n-xQ9pkW/)<br>[CCA Awareness Day (August 29)](https://www.smugmug.com/gallery/n-XcmVWp)<br> [Anti-Drug Campaign - Just Dance (August 26)](https://www.smugmug.com/gallery/n-VG93Nw/)<br>[Hari Raya Haji (August 19)](https://www.smugmug.com/gallery/n-WNgs8G)<br>[National Day (Aug 5)](https://www.smugmug.com/gallery/n-DS29q4/)<br>[8th National Chinese Calligraphy Competition (July 24)](https://www.smugmug.com/gallery/n-6rSxFc/)<br>[Racial Harmony Day (July 22)](https://www.smugmug.com/gallery/n-JFx6JF)<br>[Xin Yang Primary School (Jul 16)](https://www.smugmug.com/gallery/n-F5LMKK/)<br>[Library Story Telling (Jul 5)](https://www.smugmug.com/gallery/n-BTcjPz/) 	|
+| [Teacher's Day Homecoming 2019 (Sept 5)](https://www.smugmug.com/gallery/n-x59LhH/)<br>[Teacher's Day, Tea Ceremony &amp; Homecoming 2019 (Sept 5)](https://www.smugmug.com/gallery/n-KQ9PJZ)<br>[Kartunis Cilik Competition (Malay Language) (Sept 3)](https://www.smugmug.com/gallery/n-7w57q2)<br>[Cyberwellness Day 2019 (Sept 2)](https://www.smugmug.com/gallery/n-MLFVTM/)<br>[Anti-Drug Campaign - Drug Buster Academy(Aug 30)](https://www.smugmug.com/gallery/n-xQ9pkW/)<br>[CCA Awareness Day (August 29)](https://www.smugmug.com/gallery/n-XcmVWp)<br> [Anti-Drug Campaign - Just Dance (August 26)](https://www.smugmug.com/gallery/n-VG93Nw/)<br>[Hari Raya Haji (August 19)](https://www.smugmug.com/gallery/n-WNgs8G)<br>[National Day (Aug 5)](https://www.smugmug.com/gallery/n-DS29q4/)<br>[8th National Chinese Calligraphy Competition (July 24)](https://www.smugmug.com/gallery/n-6rSxFc/)<br>[Racial Harmony Day (July 22)](https://www.smugmug.com/gallery/n-JFx6JF)<br>[Xin Yang Primary School (Jul 16)](https://www.smugmug.com/gallery/n-F5LMKK/)<br>[Library Story Telling (Jul 5)](https://www.smugmug.com/gallery/n-BTcjPz/) 	|
 
 | TERM 2 	|
 |:---:	|
