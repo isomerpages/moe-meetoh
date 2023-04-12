@@ -17,7 +17,7 @@ third_nav_title: Our Staff
 [**Mrs Angela Fong Poh Eng**](mailto:ng_poh_eng@moe.edu.sg)<br>**Form Teacher (1) Primary 3-3**<br><br>To walk the talk and to teach with my heart. |
 [**Mr Muhammad Amin Bin Mokhtar**](mailto:muhammad_amin_mokhtar@moe.edu.sg)<br>**Form Teacher (2) Primary 3-3**<br><br>A belief lies at the heart of what we do. Without the belief, there can be no success. |
 [**Mr Toh Heap Khoon**](mailto:toh_heap_khoon@moe.edu.sg)<br>**Form Teacher (1) Primary 3-4**<br><br>Every child is able to learn, be it on a slow pace, moderate pace or fast pace.  |
-[**Mrs Fiona Loh**](mailto:fiona_ho_shiyi@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 3-4**<br><br>Children need love, especially when they do not deserve it. - Harold Hulbert |
+[**Mdm Noraihan Binte Samad**](mailto:noraihan_samad@moe.edu.sg)<br>**Form Teacher (2) Primary 3-4**<br><br>Children need love, especially when they do not deserve it. - Harold Hulbert |
 [**Mr Ong Joo Kai**](mailto:ong_joo_kai@moe.edu.sg)<br>**Form Teacher (1) Primary 3-5**<br><br>Educo [Latin] “To bring out, to draw out, and to develop from within.”  |
 [**Mdm Sunarti Binte Amidon**](mailto:sunarti_amidon@moe.edu.sg)<br>**Subject Head - Malay Language<br>Form Teacher (2) Primary 3-5**<br><br>Pendidikan bermula dari hati langsung ke hati.  |
  [**Mr Bryan Poh Tsai Fu**](mailto:poh_tsai_fu_bryan@moe.edu.sg) <br>**Assistant Year Head - P3<br>Form Teacher (1) Primary 3-6**<br><br>I firmly believe that student engagement is essential for a successful learning experience. By fostering a sense of community and encouraging active participation, students will be invested in their own learning. |
