@@ -48,7 +48,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 5;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Mr Ng Kok Heng (Mr Eric Ng)</p>
+<p>Mr Ng Kok Heng, Eric&nbsp;</p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p>Vice-Principal, Administration</p>
@@ -112,7 +112,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 13;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Mr Poh Tsai Fu Bryan (Mr Bryan Poh)</p>
+<p>Mr Poh Tsai Fu Bryan</p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p><span lang="EN-SG">Assistant Year Head (P3)</span></p>
@@ -144,7 +144,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 17;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p><span lang="EN-SG"> Mrs Sim Kun Kin (Mrs Jacelyn Ang)</span></p>
+<p><span lang="EN-SG"> Mdm Sim Kun Kin (Mrs Jacelyn Ang)</span></p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p>HOD SSD</p>
@@ -160,7 +160,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 19;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p><span lang="EN-SG">Mr Lim Shoa Koen (Mr Sean Lim)</span></p>
+<p><span lang="EN-SG">Mr Lim Shoa Koen, Sean</span></p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p><span lang="EN-SG">HOD Math</span></p>
@@ -184,7 +184,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 22;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p><span lang="EN-SG">Mr Tan Chee Kian (Mr Joey Tan)</span></p>
+<p><span lang="EN-SG">Mr Tan Chee Kian, Joey&nbsp;</span></p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p><span lang="EN-SG">HOD PHE</span></p>
@@ -192,7 +192,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 23;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p><span lang="EN-SG">Mdm Yeo Hwee Ling Gerallyn (Ms Gerallyn Yeo)</span></p>
+<p><span lang="EN-SG">Mdm Yeo Hwee Ling Gerallyn</span></p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p><span lang="EN-SG">HOD EL</span></p>
@@ -232,7 +232,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 28;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Ms Siti Nur Hannah Binte Hardy (Mdm Hannah)</p>
+<p>Ms Siti Nur Hannah Binte Hardy</p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p>SH SDM/Discipline</p>
@@ -356,7 +356,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 44;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Ms Yeo Li Choo (Ms Rachel Yeo)</p>
+<p>Ms Yeo Li Choo, Rachel&nbsp;</p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p>Level Head Math</p>
