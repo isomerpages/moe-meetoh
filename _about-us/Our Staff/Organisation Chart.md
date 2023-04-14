@@ -27,7 +27,7 @@ third_nav_title: Our Staff
 <p>Mrs Wang-Tan Sun Sun</p>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-color-alt: windowtext;">Principal</span></p>
+<p>Principal</p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 3;">
