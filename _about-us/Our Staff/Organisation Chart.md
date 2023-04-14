@@ -6,11 +6,11 @@ third_nav_title: Our Staff
 ---
 <table cellpadding="0" cellspacing="0" width="792" border="1" style="width: 594.15pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" class="MsoNormalTable">
 <tbody>
-<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
-<td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">Principal and Vice-Principals</span></strong></p>
-</td>
-<td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
+
+<tr><td width="396" valign="top">
+<h3>Principal and Vice-Principals</h3>
+
+</td><td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 8;">
 <td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">Year Heads &amp; Heads of Dept</span></strong></p>
+<h3>Year Heads &amp; Heads of Dept</h3>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
@@ -216,7 +216,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 26;">
 <td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">Subject Heads</span></strong></p>
+<h3>Subject Heads</h3>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
@@ -316,7 +316,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 39;">
 <td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">Lead Teachers &amp; Level Heads</span></strong></p>
+<h3>Lead Teachers &amp; Level Heads</h3>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
@@ -388,7 +388,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 48;">
 <td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">Senior Teachers</span></strong></p>
+<h3>Senior Teachers</h3>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
@@ -476,7 +476,7 @@ third_nav_title: Our Staff
 </tr>
 <tr style="mso-yfti-irow: 59;">
 <td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">OMs &amp; AMs</span></strong></p>
+<h3>OMs &amp; AMs</h3>
 </td>
 <td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
