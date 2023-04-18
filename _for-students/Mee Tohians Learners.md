@@ -54,14 +54,8 @@ Saturdays: 9:00 am - 9:00 pm
 
 Malay Language Portal 
 
-<p><a href="https://sites.google.com/view/e-cekap"><img style="width:50%" src="/images/fs4.png"></a></p>
-
 <p><a href="https://www.dqworld.net/#!/landing"><img style="width:50%" src="/images/fs5.png"></a></p>
 
-
-
-ICT connection 
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students"><img style="width:50%" src="/images/fs6.png"></a></p>
 
 Nurturing a love for reading at [**DiscoveReads**](https://childrenandteens.nlb.gov.sg/)
 
@@ -69,4 +63,4 @@ Nurturing a love for reading at [**DiscoveReads**](https://childrenandteens.nlb.
 
 
 
-*Updated on 21 June 2021*
+*Updated on 18 April 2023*
