@@ -11,13 +11,13 @@ description: ""
 
 Click on the image below to login to Student iCON
 
-<p><a href="[https://workspace.google.com/dashboard)">  
+<p><a href="(https://workspace.google.com/dashboard)">  
 <img style="width:50%" src="/images/fs1.png">  
 </a></p>
 
 ##### Student Learning Space
 
-<p><a href="[https://vle.learning.moe.edu.sg/login)">  
+<p><a href="(https://vle.learning.moe.edu.sg/login)">  
 <img style="width:50%" src="/images/fs2.png">  
 </a></p>
 
