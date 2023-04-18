@@ -10,16 +10,12 @@ description: ""
 [Click here for User Guides](https://meetohschool.padlet.org/MTSPDdept/Parentkitforicon)&nbsp;  
 
 Click on the image below to login to Student iCON
+<p><a href="https://workspace.google.com/dashboard"><img style="width:50%" src="/images/fs1.png"></a></p>
 
-<p><a href="(https://workspace.google.com/dashboard)">  
-<img style="width:50%" src="/images/fs1.png">  
-</a></p>
 
 ##### Student Learning Space
 
-<p><a href="(https://vle.learning.moe.edu.sg/login)">  
-<img style="width:50%" src="/images/fs2.png">  
-</a></p>
+<p><a href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" src="/images/fs2.png"></a></p><p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTLJBmTqdYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -53,7 +49,7 @@ Saturdays: 9:00 am - 9:00 pm
 
 #### Other Learning Portals
 
-<p><a href="[https://www.myskillsfuture.gov.sg/content/student/en/primary.html](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)">  
+</p><p><a href="[https://www.myskillsfuture.gov.sg/content/student/en/primary.html](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)">  
 <img style="width:50%" src="/images/fs3.png">  
 </a></p>
 
