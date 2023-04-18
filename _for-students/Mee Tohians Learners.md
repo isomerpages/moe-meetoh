@@ -15,7 +15,7 @@ Click on the image below to login to Student iCON
 
 ##### Student Learning Space
 
-<p><a href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" src="/images/fs2.png"></a></p><p>
+<p><a href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" src="/images/fs2.png"></a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTLJBmTqdYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -49,27 +49,24 @@ Saturdays: 9:00 am - 9:00 pm
 
 #### Other Learning Portals
 
-</p><p><a href="[https://www.myskillsfuture.gov.sg/content/student/en/primary.html](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)">  
-<img style="width:50%" src="/images/fs3.png">  
-</a></p>
+<p></p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><img style="width:50%" src="/images/fs3.png"></a></p>
 
 Malay Language Portal 
-<p><a href="[https://sites.google.com/view/e-cekap](https://sites.google.com/view/e-cekap)">  
-<img style="width:50%" src="/images/fs4.png">  
-</a></p>
 
-<p><a href="[https://www.dqworld.net/#!/landing](https://www.dqworld.net/#!/landing)">  
-<img style="width:50%" src="/images/fs5.png">  
-</a></p>
+<p><a href="https://sites.google.com/view/e-cekap"><img style="width:50%" src="/images/fs4.png"></a></p>
+
+<p><a href="https://www.dqworld.net/#!/landing"><img style="width:50%" src="/images/fs5.png"></a></p>
+
+
 
 ICT connection 
-<p><a href="[https://ictconnection.moe.edu.sg/cyber-wellness/for-students](https://ictconnection.moe.edu.sg/cyber-wellness/for-students)">  
-<img style="width:50%" src="/images/fs6.png">  
-</a></p>
+<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students"><img style="width:50%" src="/images/fs6.png"></a></p>
 
 Nurturing a love for reading at [**DiscoveReads**](https://childrenandteens.nlb.gov.sg/)
-<p><a href="[https://childrenandteens.nlb.gov.sg/](https://childrenandteens.nlb.gov.sg/)">  
-<img style="width:50%" src="/images/fs7.png">  
-</a></p>
+
+<p><a href="https://childrenandteens.nlb.gov.sg"><img style="width:50%" src="/images/fs7.png"></a></p>
+
+
 
 *Updated on 21 June 2021*
