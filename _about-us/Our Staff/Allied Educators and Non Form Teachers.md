@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 [**Mrs Goh Mary Nee Seah**](mailto:goh_mary_nee_seah@moe.edu.sg) <br>**Teacher** |
 [**Mdm Nazihah Binte Muhammed Ikram**](mailto:nazihah_muhammed_ikram@moe.edu.sg)<br>**Teacher**  |
 [**Mrs Celia Koh**](mailto:neo_chew_yen@moe.edu.sg)<br>**Teacher**   |
-[**Mdm Ng Hanjun (Mrs George)**](mailto:ng_han_jun@moe.edu.sg)<br>**Teacher**     |
+[**Mrs George**](mailto:ng_han_jun@moe.edu.sg)<br>**Teacher**     |
 [**Mdm Noorazmah Bte Razali**](mailto:noorazmah_razali@moe.edu.sg)<br>**Teacher**      |
 [**Mdm Diana Lim Kim Luan**](mailto:lim_kim_luan@moe.edu.sg)<br>**Teacher** |
 
