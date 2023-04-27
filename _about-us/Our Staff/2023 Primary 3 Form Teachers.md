@@ -24,7 +24,7 @@ third_nav_title: Our Staff
  [**Mdm Shao Jie**](mailto:shao_jie@moe.edu.sg)<br>**Form Teacher (2) Primary 3-6**<br><br>有教无类，因材施教。 |
 [**Mdm Nurhafizah Binte Kamis**](mailto:nurhafizah_kamis@moe.edu.sg)<br>**Form Teacher (1) Primary 3-7**<br><br>Teaching teaches me patience. I believe that every child has something special in them and if patience is exercised well, then I will slowly but surely see that special quality in them. |
 [**Mr Tan Han Khim**](mailto:tan_han_khim@moe.edu.sg)<br>**Form Teacher (2) Primary 3-7**<br><br>"Develop a passion for learning. If you do, you will never cease to grow." - Anthony J. D'Angelo  |
-[**Ms Celestine Kau Wan Yi**](mailto:celestine_kau_wan_yi@moe.edu.sg)<br>**Form Teacher (1) Primary 3-8**<br><br> |
+[**Ms Celestine Kau Wan Yi**](mailto:celestine_kau_wan_yi@moe.edu.sg)<br>**Form Teacher (1) Primary 3-8**<br><br> “Education is the kindling of a flame, not the filling of a vessel.”– Socrates|
  [**Ms Leow Yingjie**](mailto:leow_ying_jie@moe.edu.sg)<br>**Form Teacher (2) Primary 3-8**<br><br>The desire to teach and be a life-long learner.  |
 
 *Updated on 07 Mar 2023*
