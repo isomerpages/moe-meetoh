@@ -11,7 +11,7 @@ third_nav_title: Our Staff
 |  |  |
 |---|---|
  [**Miss Low Jing Yi**](mailto:low_jing_yi@moe.edu.sg)<br>**Form Teacher (1) Primary 4-1**<br><br>Plant seeds of curiosity, prune weeds of bad habits, provide a nurturing environment, and in time you will be rewarded with mighty trees of future generations. |
-[**Mdm Chia Shwu Yng**](mailto:ong_lay_san@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 4-1**<br><br> |
+[**Mdm Chia Shwu Yng**](mailto:ong_lay_san@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 4-1**<br><br>“Pursue your dreams. You will be amazed about what you can achieve.” - Lailah Gifty Akita	 |
  [**Mrs Joanna Fan Hwee Leng**](mailto:toh_hwee_leng_joanna@moe.edu.sg)<br>**Subject Head - Character and Citizenship Education (CCE)<br>Form Teacher (1) Primary 4-2**<br><br>"Knowing is not enough, we must apply. Willing is not enough, we must do.Knowledge will give you power, but character respect." - Bruce Lee |
  [**Mr Ong Shuquan Robin**](mailto:ong_shuquan_robin@moe.edu.sg)<br>**Form Teacher (2) Primary 4-2**<br><br>"We all have ability. The difference is how we use it." - Stevie Wonder |
  [**Mr Tan Weon Tor**](mailto:tan_weon_tor@moe.edu.sg)   <br>**Form Teacher (1) Primary 4-3**<br><br>"Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin<br><br>I believe in making learning meaningful and relevant so that students can apply it in their lives.ee  |
