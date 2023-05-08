@@ -24,9 +24,9 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: xxxx S737777
-* Contact No: 6666 4444
-* Email: abc_ps@moe.edu.sg
+* Address: Mee Toh School 21 Edgedale Plains Singapore 828867
+* Contact No: 64893326
+* Email: meetoh_sch@moe.edu.sg
 * Contact Person: Mdm Sally Tan  
 
 **How to get there?**
