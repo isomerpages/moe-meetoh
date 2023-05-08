@@ -12,7 +12,7 @@ description: ""
 
 **Application Procedure**
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s Security Officer at Gate 1.
+1. Download and complete the application form. You may also request for a hardcopy from the School’s Security Officer at Main Gate (Gate 1).
 * [Application Form](/files/Information/school%20canteen%20application%20form.pdf)
 
 2. Attached the following documents together with the application form:
@@ -20,7 +20,7 @@ description: ""
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email OR by hand to the School's General Office via School's Security Officer at Main Gate (Gate 1).
 
 * Address: Mee Toh School 21 Edgedale Plains Singapore 828867
 * Contact No: 64893326
