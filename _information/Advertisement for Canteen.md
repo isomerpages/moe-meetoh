@@ -12,7 +12,7 @@ description: ""
 
 **Application Procedure**
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the application form. You may also request for a hardcopy from the School’s Security Officer at Gate 1.
 * [Application Form] 
 
 2. Attached the following documents together with the application form:
@@ -25,11 +25,8 @@ description: ""
 * Address: Mee Toh School 21 Edgedale Plains Singapore 828867
 * Contact No: 64893326
 * Email: meetoh_sch@moe.edu.sg
-* Contact Person: Mdm Sally Tan  
+* Contact Person: Ms Shirley Ching
 
-**How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
