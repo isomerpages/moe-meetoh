@@ -7,6 +7,8 @@ description: ""
 
 #### School-Based Innovative Curriculum
 
+
+*   [All S’poreans must do their part to achieve sustainable water supply: DPM Wong (Straits Times, 2023)](https://www.straitstimes.com/singapore/all-s-poreans-must-do-their-part-to-achieve-sustainable-water-supply-dpm-wong)
 *   [Going green: Environmental sustainability a big part of life in schools (Straits Times, 2022)](https://www.straitstimes.com/singapore/parenting-education/going-green-environmental-sustainability-a-big-part-of-life-in-schools?utm_source=facebook&utm_medium=dc-social-sponsored-video&utm_campaign=apx56502-article2)
 *   [Nurturing environmental champions at school and home (Straits Times, 2022)](https://www.facebook.com/TheStraitsTimes/videos/718620612481907/)
 *   [More schools should create a culture of environmental sustainability: President Halimah (Straits Times, 2022)](https://www.straitstimes.com/singapore/parenting-education/more-schools-should-create-a-culture-of-environmental-sustainability-president-halimah)
