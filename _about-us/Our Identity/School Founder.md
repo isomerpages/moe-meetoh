@@ -12,7 +12,7 @@ Venerable Kong Hiap was born Huang Runzhi in Luo-Dong, Nan -An County, Fujian Pr
 
 During the early years of the Sino-Japanese War, he sailed to Singapore and stayed with his teacher, Venerable Rui Deng, at Leong San Temple. In June 1952, with the passing of the Abbot of Leong San Temple, Venerable Zhuan Feng, Venerable Kong Hiap was appointed as the new Abbot. He dropped the plan to establish Mee Toh Temple in 1954 and initiated the building of Mee Toh School instead. Venerable Kong Hiap was truly concerned with the social and moral education of the public, especially the young.  He was also concerned with the needy and personally looked into the raising of funds of which was donated to the poor, sick and the needy, regardless of race, language or religion. Records of his contributions can be seen in Mee Toh School Heritage Centre.
 
-Besides contributions to education and society, Venerable Kong Hiap's love for the arts and culture was also evident in his devotion to the late renowned artist Master Feng Zikai's works. He held an exhibition in 1987 to showcase many of Master Feng's masterpieces,. 
+Besides contributions to education and society, Venerable Kong Hiap's love for the arts and culture was also evident in his devotion to the late renowned artist Master Feng Zikai's works. He held an exhibition in 1987 to showcase many of Master Feng's masterpieces. 
 
 Over the last thirty years, Venerable Kong Hiap held top posts in various Buddhist organisations in Singapore . He was awarded the Public Service Medal (BBM) in 1988 on National Day. In 1990, the Ministry of Education awarded him the Meritorious Award for his dedication and committed efforts towards promoting education and in establishing Mee Toh School.
   
