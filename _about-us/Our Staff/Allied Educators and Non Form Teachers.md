@@ -14,7 +14,8 @@ third_nav_title: Our Staff
 [**Ms Foo Ai Ling**](mailto:foo_ai_ling@moe.edu.sg)<br>**Special Educational Needs (SEN) Officer** ||
 [**Mrs Felicia Lee An An**](mailto:ang_an_an_felicia@moe.edu.sg)<br>**Allied Educator (Counselling)**<br><br>"It's not about what you have achieved but what you learnt in the process of achieving!" |
 <br>[**Ms B.M.Sowndharyaa (Ms Sara)**](mailto:b_m_sowndharyaa@moe.edu.sg)<br>**Allied Educator (Teaching &amp; Learning)**<br><br>"We think we listen, but very rarely do we listen with real understanding, true empathy. Yet listening, of this very special kind, is one of the most potent forces for change that I know." - Carl Rogers<br> |
-[**Mdm Zhang Yuling Marilyn**](mailto:zhang_yuling_marilyn@moe.edu.sg)<br>**Teacher** ||
+[**Mdm Zhang Yuling Marilyn**](mailto:zhang_yuling_marilyn@moe.edu.sg)<br>**Teacher** |
+[**Mdm Chan Bi Hui (Mdm Idy Chan)**](mailto:chan_bi_hui@moe.edu.sg) <br>**Teacher** |
 [**Mdm Nazihah Binte Muhammed Ikram**](mailto:nazihah_muhammed_ikram@moe.edu.sg)<br>**Teacher**  |
 [**Mrs Celia Koh**](mailto:neo_chew_yen@moe.edu.sg)<br>**Teacher**   |
 [**Mrs George**](mailto:ng_han_jun@moe.edu.sg)<br>**Teacher**     |
