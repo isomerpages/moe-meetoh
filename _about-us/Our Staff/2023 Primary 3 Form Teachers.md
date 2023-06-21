@@ -26,4 +26,4 @@ third_nav_title: Our Staff
 [**Ms Celestine Kau Wan Yi**](mailto:celestine_kau_wan_yi@moe.edu.sg)<br>**Form Teacher (1) Primary 3-8**<br><br> “Education is the kindling of a flame, not the filling of a vessel.”– Socrates|
  [**Ms Leow Yingjie**](mailto:leow_ying_jie@moe.edu.sg)<br>**Form Teacher (2) Primary 3-8**<br><br>The desire to teach and be a life-long learner.  |
 
-*Updated on 07 Mar 2023*
+*Updated on 21 June 2023*
