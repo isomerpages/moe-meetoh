@@ -28,6 +28,7 @@ third_nav_title: Our Staff
 [**Mr Robin Koh Kai Guan**](mailto:koh_kai_guan_robin@moe.edu.sg)<br>**Form Teacher (2) Primary 5-8**<br><br>Every child deserves an equal opportunity to learn and chart their own path to success. As an educator, we shall lay the foundation through strong character building and inculcating the right values for the child to succeed in life.  |
 [**Mdm Lafrieda Bte Mohamed Nasir**](mailto:lafrieda_mohamed_nasir@moe.edu.sg)<br>**Senior Teacher - Social Studies<br>Form Teacher (1) Primary 5-9**<br><br>Childhood is NOT a race, it is a journey. Children are a great blessing from God. With their tender hearts, children can be moulded into righteous people. |
  [**Mdm Zou Yang**](mailto:zou_yang@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 5-9**<br> " 享受学习的乐趣，收获知识的果实" ||
+[**Ms Kwang Ling Li, Jesslyn**](mailto:kwang_ling_li_jesslyn@moe.edu.sg)<br>**Form Teacher (1) Primary 5-10**<br><br> ||
 [**Mr Tan Teck Chuan**](mailto:Tan_teck_chuan@moe.edu.sg)<br>**Form Teacher (2) Primary 5-10**<br><br>I have not failed. I've just found 10,000 ways that won't work. - Thomas Edison |
 
 *Updated on 07 Mar 2023*
