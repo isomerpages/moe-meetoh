@@ -45,8 +45,7 @@ third_nav_title: Our Staff
  [**Mdm Lafrieda Bte Mohamed Nasir**](mailto:Lafrieda_MOHAMED_NASIR@moe.edu.sg)<br>**Senior Teacher - Social Studies**<br><br>Childhood is NOT a race, it is a journey. Children are a great blessing from God. With their tender hearts, children can be moulded into righteous people. |
  [**Ms Lim Ying Lin**](mailto:lim_ying_lin@moe.edu.sg)<br>**Senior Teacher - Mathematics**<br><br>“Every child deserves a champion - an adult who will never give up on them, who understands the power of connection and insists that they become the best they can possibly be ~ Rita Pierson |
  [**Ms Ng Hui Lin Dion**](mailto:ng_hui_lin_dion@moe.edu.sg)<br>**Level Head - Mathematics**<br><br>Education is not all about the learning of facts, but also the training of the mind to think and question. It is important that we do not stop questioning as it allows us to organise our thinking and to develop an inquiry mind. |
- [**Ms Yeo Li Choo, Rachel**](mailto:yeo_li_choo@moe.edu.sg)<br>**Level Head - Mathematics**<br><br>Education is not just about the teaching of skills and knowledge, it is also about inculcating good moral values and developing every child holistically. I believe that values and attitudes are essential in growing the child. With strong moral values and good attitude, the child will be able to reach their fullest potential and bring out the star in them. |
-[**Ms Tan Wei Lin Winnie**](mailto:tan_wei_lin_winnie@moe.edu.sg)<br><br>**Level Head - English (Internal)**<br><br>"To be is to do." – Socrates  |
+ [**Ms Yeo Li Choo, Rachel**](mailto:yeo_li_choo@moe.edu.sg)<br>**Level Head - Mathematics**<br><br>Education is not just about the teaching of skills and knowledge, it is also about inculcating good moral values and developing every child holistically. I believe that values and attitudes are essential in growing the child. With strong moral values and good attitude, the child will be able to reach their fullest potential and bring out the star in them. |  |
 
 
-*Updated on 13 March 2023*
+*Updated on 21 June 2023*
