@@ -48,4 +48,10 @@ third_nav_title: Our Staff
 [**Mdm Sunarti Bte Amidon**](mailto:Sunarti_AMIDON@moe.edu.sg)<br>**Subject Head - Malay Language &amp; Total Curriculum**<br><br>Pendidikan bermula dari hati langsung ke hati. |
 [**Mdm Zuraini Bte Abdul Rahim**](mailto:zuraini_abdul_rahim@moe.edu.sg)<br><br>3P - dapat menerima Perubahan, bijak membuat Pilihan, tekal dalam Prinsip |
 
-*Updated on 08 Mar 2023*
+#### Tamil Teachers
+
+|  |  |
+|---|---|
+[**Ms Annamary D/O Segaran**](mailto:annamary_segaran@moe.edu.sg)
+
+*Updated on 21 Jun 2023*
