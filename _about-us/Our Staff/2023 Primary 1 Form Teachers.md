@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 [**Ms Yvonne Liew**](mailto:liew_yvonne@moe.edu.sg)<br>**Form Teacher (1) Primary 1-4**<br><br>“The voyage of the best ship is a zigzag line of a hundred tacks." - Ralph Waldo Emerson I believe that the journey of a student will not be an easy one, but every challenge will hone that student into a better learner and person. |
 [**Mr Ow Kok Meng**](mailto:ow_kok_meng_a@moe.edu.sg)<br>**Form Teacher (2) Primary 1-4**<br><br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁 |
 [**Mrs Chia Mei Kwan**](mailto:chan_mei_kwan@moe.edu.sg)<br>**Form Teacher (1) Primary 1-5**<br><br> Education, just like a beacon, allows students to seek their paths and guides them to read their desired destination. As an educator, I can facilitate values to be instilled and knowledge to be imparted so that students can be equipped with the necessary character building and skill set to achieve their goals.   |
-[**Ms Chang Ying**](mailto:chang_ying@moe.edu.sg)<br>**Form Teacher (2) Primary 1-5**<br><br>"Where words fail, music speaks." - Hans Christian Andersen<br> |
+[**Ms Annamary D/O Segaran**](mailto:annamary_segaran@moe.edu.sg)<br>**Form Teacher (2) Primary 1-5**<br> |
 [**Mrs  Juliana Lin En Xuan**](mailto:juliana_lin_en_xuan@moe.edu.sg)<br>**Form Teacher (1) Primary 1-6**<br>|
 [**Miss Tan Kar Chuan**](mailto:tan_kar_chuan@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 1-6**<br><br>千里之行，始于足下。 - 老子 |
 [**Mrs Ng Pui Lai Sarah**](mailto:lock_pui_lai@moe.edu.sg)<br>**Form Teacher (1) Primary 1-7** |
