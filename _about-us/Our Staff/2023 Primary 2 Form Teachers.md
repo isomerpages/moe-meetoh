@@ -31,4 +31,4 @@ third_nav_title: Our Staff
 [**Mdm Yeo Chai Khim Irene**](mailto:yeo_chai_kim_irene@moe.edu.sg) <br>**Form Teacher (1) Primary 2-10** |
 [**Miss Shum Wen Hui**](mailto:shum_wen_hui@moe.edu.sg)<br>**Form Teacher (2) Primary 2-10**<br><br>“Every child deserves a champion—an adult who will never give up on them, who understands the power of connection, and insists that they become the best that they can possibly be.” - Rita Pierson |
 
-*Updated on 07 Mar 2023*
+*Updated on 21 June 2023*
