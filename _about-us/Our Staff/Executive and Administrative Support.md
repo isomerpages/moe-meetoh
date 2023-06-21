@@ -35,4 +35,4 @@ third_nav_title: Our Staff
  **Mdm Koh Hwee Koon<br>Operations Support Officer (OSO)**<br><br>Go confidently in the direction of your dreams. |
 
 
-*Updated on 11 April 2023*
+*Updated on 21 June 2023*
