@@ -24,9 +24,7 @@ third_nav_title: Our Staff
 **Miss Koh Lee Lee<br>Administrative Executive (AE)**<br><br>When one door closes, the other opens. Seize the opportunity.  |
 **Ms Koh Kia Li Wendy<br>Corporate Support Officer (CSO)** <br><br>“The best way to predict your future is to create it.” - Abraham Lincoln |
 **Mdm Sim Lee King<br>Management Support Office (MSO)**<br><br>'Where ever you go, go with your heart.' -Confucius |
-**Mdm Candice Neo<br>Management Support Office (MSO)**<br><br>Knowledge is power. |
-**Mdm Patricia Tay<br>Admin Assistant** |
-**Ms Leong Siew Loon<br>Receptionist**  |
+**Mdm Candice Neo<br>Management Support Office (MSO)**<br><br>Knowledge is power. | | |
 **Mr Danny Wong Kwong Yau<br>Desktop Enginner (DE)**<br><br>“You will either step forward into growth, or you will step backward into safety.”<br>Abraham Maslow |
 **Mr Junior Tan<br>Desktop Enginner (DE)**<br><br>“Life itself is your teacher, and you are in a state of constant learning.”<br>Bruce Lee<br> |
 **Mdm Chua Lay Ching<br>Science Lab Assistant**<br><br>Work hard, play hard. |
