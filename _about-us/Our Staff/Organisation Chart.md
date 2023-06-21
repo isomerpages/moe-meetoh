@@ -346,14 +346,6 @@ third_nav_title: Our Staff
 <p>Lead Teacher Art</p>
 </td>
 </tr>
-<tr style="mso-yfti-irow: 43;">
-<td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Ms Ng Hui Lin Dion</p>
-</td>
-<td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Level Head Math</p>
-</td>
-</tr>
 <tr style="mso-yfti-irow: 44;">
 <td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p>Ms Yeo Li Choo, Rachel&nbsp;</p>
