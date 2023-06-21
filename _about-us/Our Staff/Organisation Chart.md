@@ -362,26 +362,14 @@ third_nav_title: Our Staff
 <p>Level Head Math</p>
 </td>
 </tr>
-<tr style="mso-yfti-irow: 45;">
-<td width="396" valign="top" style="width: 297.05pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Ms Tan Wei Lin Winnie</p>
-</td>
-<td width="396" valign="top" style="width: 297.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p>Level Head EL (Internal)</p>
-</td>
-</tr>
 <tr style="mso-yfti-irow: 46;">
-<td width="396" valign="top" style="width: 297.05pt; border: none; mso-border-top-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">&nbsp;</span></strong></p>
-</td>
+<td width="396" valign="top" style="width: 297.05pt; border: none; mso-border-top-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">&nbsp;</td>
 <td width="396" valign="top" style="width: 297.1pt; border: none; mso-border-top-alt: solid windowtext .5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 47;">
-<td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
-<p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #8b572a;">&nbsp;</span></strong></p>
-</td>
+<td width="396" valign="top" style="width: 297.05pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">&nbsp;</td>
 <td width="396" valign="top" style="width: 297.1pt; border: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;">
 <p style="margin-bottom: 0in; line-height: normal;" class="MsoNormal"><span style="font-size: 12.0pt; font-family: 'Lato',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;</span></p>
 </td>
