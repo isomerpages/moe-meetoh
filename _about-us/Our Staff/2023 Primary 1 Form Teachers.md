@@ -20,7 +20,8 @@ third_nav_title: Our Staff
 [**Mr Ow Kok Meng**](mailto:ow_kok_meng_a@moe.edu.sg)<br>**Form Teacher (2) Primary 1-4**<br><br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁 |
 [**Mrs Chia Mei Kwan**](mailto:chan_mei_kwan@moe.edu.sg)<br>**Form Teacher (1) Primary 1-5**<br><br> Education, just like a beacon, allows students to seek their paths and guides them to read their desired destination. As an educator, I can facilitate values to be instilled and knowledge to be imparted so that students can be equipped with the necessary character building and skill set to achieve their goals.   |
 [**Ms Chang Ying**](mailto:chang_ying@moe.edu.sg)<br>**Form Teacher (2) Primary 1-5**<br><br>"Where words fail, music speaks." - Hans Christian Andersen<br> |
-[**Miss Tan Kar Chuan**](mailto:tan_kar_chuan@moe.edu.sg)<br><br>**Chinese Language Teacher<br>Form Teacher (2) Primary 1-6**<br><br>千里之行，始于足下。 - 老子 |
+[**Mrs  Juliana Lin En Xuan**](mailto:juliana_lin_en_xuan@moe.edu.sg)<br>**Form Teacher (1) Primary 1-6**<br>|
+[**Miss Tan Kar Chuan**](mailto:tan_kar_chuan@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 1-6**<br><br>千里之行，始于足下。 - 老子 |
 [**Mrs Ng Pui Lai Sarah**](mailto:lock_pui_lai@moe.edu.sg)<br>**Form Teacher (1) Primary 1-7** |
 [**Mdm Yan Yu Zhen**](mailto:yan_yuzhen@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 1-7**<br><br>书山有路勤为径，学海无涯苦作舟。——韩愈。  |
 [**Mrs Sehaimi (Khairunnisa Bte Jalil)**](mailto:khairunnisa_jalil@moe.edu.sg)<br>**Form Teacher (1) Primary 1-8**<br><br>“The function of education is to teach one to think intensively and to think critically. Intelligence plus character – that is the goal of true education. ”<br>– Martin Luther King, Jr.  |
