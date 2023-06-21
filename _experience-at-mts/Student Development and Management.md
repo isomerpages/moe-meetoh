@@ -18,8 +18,7 @@ description: ""
 |   |   |
 | Committee Members: |   |
 | Mr Abdul Faqih |   |
-| Mdm Tan Pei Shan |   |
-| Ms Ong Lay San |   |
+| Mdm Tan Pei Shan |     |
 | Ms Nurul Asyura Mashkur |   |
 | Mdm Nora Yuhanis Bte Jaffar |   |
 | Ms Khairunnisa Binte Jalil |   |
@@ -66,6 +65,6 @@ The MTS TIERED STUDENT LEADERSHIP PYRAMID is a progressive model that allows stu
 |---	|---	|
 | Vision 	| No child left behind  	|
 
-In our effort to develop our students holistically, the Tiered system of support for students allows the school to reach out to students so that every student receives quality instruction that matches his/her needs. Our School Counsellors support students’ mental well-being and social-emotional development while our SEN Officers support students with learning and behavioural needs. They work collaboratively with teachers to nurture and improve students’ self-confidence, self-esteem and sense of independence.  They also provide individual or small group skills training and intervention. Along with our Case Management Team, comprising the key members of the Student Development and Management Committee, the progress of these students is monitored and the effectiveness of the intervention is evaluated regularly.
+In our effort to develop our students holistically, the Tiered system of support for students allows the school to reach out to students so that every student receives quality instruction that matches his/her needs. Our School Counsellors support students’ mental well-being and social-emotional development while our SEN Officers support students with learning and behavioural needs. They work collaboratively with teachers to nurture and improve students’ self-confidence, self-esteem and sense of independence.&nbsp; They also provide individual or small group skills training and intervention. Along with our Case Management Team, comprising the key members of the Student Development and Management Committee, the progress of these students is monitored and the effectiveness of the intervention is evaluated regularly.
 
 *Updated on 30 December 2022*
