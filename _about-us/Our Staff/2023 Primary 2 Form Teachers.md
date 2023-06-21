@@ -13,7 +13,6 @@ third_nav_title: Our Staff
 [**Mrs Alice Hiah Shui Lien**](mailto:alice_ooi_shui_lien@moe.edu.sg)<br>**Assistant Year Head  - Primary 2<br>Form Teacher (1) Primary 2-1**<br><br>" I never teach my pupils, I only attempt to provide the conditions in which they can learn." - Albert Einstein |
  [**Ms Soon Min Wah**](mailto:soon_min_wah@moe.edu.sg)<br>**Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-1**<br><br>不积小流无以成江海，不积跬步无以至千里 |
 [**Mr Muhammad Faizal Bin Suleiman**](mailto:muhammad_faizal_suleiman@moe.edu.sg)<br>**Form Teacher (1) Primary 2-2**<br><br>Patience and consistency are hallmarks of excellence. |
-[**Mdm Hazel Koh Sze Theng**](mailto:koh_sze_theng_hazel@moe.edu.sg)<br>**Form Teacher (2) Primary 2-2**<br><br>Touching Souls, Challenging Minds |
 [**Mrs Redwan (Norlina Bte Ahmadi)**](mailto:norlina_ahmadi@moe.edu.sg)<br>**Senior Teacher - English Language<br>Form Teacher (1) Primary 2-3**<br><br>"Give the students something to do, not something to learn; and the doing is of such a nature as to demand thinking; learning naturally results." - John Dewey |
 [**Mdm Dong Jinmei**](mailto:dong_jinmei@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 2-3**<br><br>书山有路勤为径，学海无涯苦作舟。— 韩愈 |
 [**Mrs Madeline Wong Hai Hoon**](mailto:lim_hai_hoon_madeline@moe.edu.sg)<br>**Form Teacher (1) Primary 2-4**<br><br>What we learn becomes a part of who we are.<br>"If the child can't learn the way we teach, we should teach the way they learn." - Ignacio Estrada |
