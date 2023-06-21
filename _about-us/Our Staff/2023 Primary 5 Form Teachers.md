@@ -31,4 +31,4 @@ third_nav_title: Our Staff
 [**Ms Kwang Ling Li, Jesslyn**](mailto:kwang_ling_li_jesslyn@moe.edu.sg)<br>**Form Teacher (1) Primary 5-10**<br><br> ||
 [**Mr Tan Teck Chuan**](mailto:Tan_teck_chuan@moe.edu.sg)<br>**Form Teacher (2) Primary 5-10**<br><br>I have not failed. I've just found 10,000 ways that won't work. - Thomas Edison |
 
-*Updated on 07 Mar 2023*
+*Updated on 21 June 2023*
