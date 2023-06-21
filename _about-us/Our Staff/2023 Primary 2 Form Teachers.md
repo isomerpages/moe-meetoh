@@ -25,7 +25,7 @@ third_nav_title: Our Staff
 [**Miss Adriana Alias**](mailto:adriana_alias@moe.edu.sg)<br>**Form Teacher (1) Primary 2-7**<br><br><br>"Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together." - Scott Hayden |
 [**Ms Joanne Lye Shuyi**](mailto:joanne_lye_shuyi@moe.edu.sg)<br>**Form Teacher (2) Primary 2-7**<br><br>"Who looks outside, dreams; who looks inside, awakes." - Carl Jung  <br> |
 [**Mr Wong Ming Hui**](mailto:wong_ming_hui@moe.edu.sg)<br>**Form Teacher (1) Primary 2-8**<br><br>All children have their own strengths and we can help them find these strengths and maximise their potential.<br>I believe that learning can be fun for every child, and that it can be possible when we allow them to explore a wide spectrum of learning areas.<br>My goal is to guide each child in this journey to experience the joy of learning and discover his/her potential. |
-[**Miss Chim Kheng Mui**](mailto:chim_kheng_mui@moe.edu.sg)<br>**Chinese Language Teacher**<br>**Form Teacher (2) Primary 2-8**<br><br>"Teach the children well and let them lead the way." - Whitney Houston |
+**Ms Nicole Quek Jingyi**<br>**Form Teacher (2) Primary 2-8**<br><br> |
 [**Mdm Nora Yuhanis Bte Jaffar**](mailto:nora_yuhanis_jaffar@moe.edu.sg) <br>**Form Teacher (1) Primary 2-9**<br><br>"Children must be taught how to think; not what to think." ~ Margaret Mead <br> |
 [**Mdm Lee Ai Ling**](mailto:lee_ai_ling_evelyn@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 2-9**<br><br>“学无止境” －从心出发，引起学生学习兴趣。让学生积极探索，乐学善用。 |
 [**Mdm Yeo Chai Khim Irene**](mailto:yeo_chai_kim_irene@moe.edu.sg) <br>**Form Teacher (1) Primary 2-10** |
