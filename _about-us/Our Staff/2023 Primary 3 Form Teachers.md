@@ -18,7 +18,8 @@ third_nav_title: Our Staff
 [**Mr Toh Heap Khoon**](mailto:toh_heap_khoon@moe.edu.sg)<br>**Form Teacher (1) Primary 3-4**<br><br>Every child is able to learn, be it on a slow pace, moderate pace or fast pace.  |
 [**Mdm Noraihan Binte Samad**](mailto:noraihan_samad@moe.edu.sg)<br>**Form Teacher (2) Primary 3-4**<br><br>If at first you don’t succeed, dust yourself off and try again.|
 [**Mr Ong Joo Kai**](mailto:ong_joo_kai@moe.edu.sg)<br>**Form Teacher (1) Primary 3-5**<br><br>Educo [Latin] “To bring out, to draw out, and to develop from within.”  |
-[**Mdm Sunarti Binte Amidon**](mailto:sunarti_amidon@moe.edu.sg)<br>**Subject Head - Malay Language<br>Form Teacher (2) Primary 3-5**<br><br>Pendidikan bermula dari hati langsung ke hati.  ||
+[**Mdm Sunarti Binte Amidon**](mailto:sunarti_amidon@moe.edu.sg)<br>**Subject Head - Malay Language<br>Form Teacher (2) Primary 3-5**<br><br>Pendidikan bermula dari hati langsung ke hati.  |
+ [**Mrs Selene Yu (Ng Soo Cheng)**](mailto:ng_soo_cheng@moe.edusg) <br>**Form Teacher (1) Primary 3-6**<br><br>|
  [**Mdm Shao Jie**](mailto:shao_jie@moe.edu.sg)<br>**Form Teacher (2) Primary 3-6**<br><br>有教无类，因材施教。 |
 [**Mdm Nurhafizah Binte Kamis**](mailto:nurhafizah_kamis@moe.edu.sg)<br>**Form Teacher (1) Primary 3-7**<br><br>Teaching teaches me patience. I believe that every child has something special in them and if patience is exercised well, then I will slowly but surely see that special quality in them. |
 [**Mr Tan Han Khim**](mailto:tan_han_khim@moe.edu.sg)<br>**Form Teacher (2) Primary 3-7**<br><br>"Develop a passion for learning. If you do, you will never cease to grow." - Anthony J. D'Angelo  |
