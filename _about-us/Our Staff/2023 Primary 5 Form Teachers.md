@@ -27,8 +27,7 @@ third_nav_title: Our Staff
 [**Mdm Siti Nur Hannah Binte Hardy**](mailto:siti_nur_hannah_hardy@moe.edu.sg)<br>**Subject Head - Student Development and Management (Discipline)<br>Form Teacher (1) Primary 5-8**<br><br>"Do all the good you can, by all the means you can, in all the ways you can, in all the places you can, at all the times you can, to all the people you can, as long as you can." - John Wesley |
 [**Mr Robin Koh Kai Guan**](mailto:koh_kai_guan_robin@moe.edu.sg)<br>**Form Teacher (2) Primary 5-8**<br><br>Every child deserves an equal opportunity to learn and chart their own path to success. As an educator, we shall lay the foundation through strong character building and inculcating the right values for the child to succeed in life.  |
 [**Mdm Lafrieda Bte Mohamed Nasir**](mailto:lafrieda_mohamed_nasir@moe.edu.sg)<br>**Senior Teacher - Social Studies<br>Form Teacher (1) Primary 5-9**<br><br>Childhood is NOT a race, it is a journey. Children are a great blessing from God. With their tender hearts, children can be moulded into righteous people. |
- [**Mdm Zou Yang**](mailto:zou_yang@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 5-9**<br> " 享受学习的乐趣，收获知识的果实" |
-[**Miss Koh Mei Xin (Mrs Jocelyn Tim)**](mailto:koh_mei_xin_jocelyn@moe.edu.sg)<br>**Form Teacher (1) Primary 5-10**<br> Every student can learn, just not on the same day or in the same way.   |
+ [**Mdm Zou Yang**](mailto:zou_yang@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 5-9**<br> " 享受学习的乐趣，收获知识的果实" ||
 [**Mr Tan Teck Chuan**](mailto:Tan_teck_chuan@moe.edu.sg)<br>**Form Teacher (2) Primary 5-10**<br><br>I have not failed. I've just found 10,000 ways that won't work. - Thomas Edison |
 
 *Updated on 07 Mar 2023*
