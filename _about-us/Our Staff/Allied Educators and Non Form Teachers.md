@@ -22,4 +22,4 @@ third_nav_title: Our Staff
 [**Mdm Noorazmah Bte Razali**](mailto:noorazmah_razali@moe.edu.sg)<br>**Teacher**      |
 [**Mdm Diana Lim Kim Luan**](mailto:lim_kim_luan@moe.edu.sg)<br>**Teacher** |
 
-*Updated on 13 March 2023*
+*Updated on 21 June 2023*
