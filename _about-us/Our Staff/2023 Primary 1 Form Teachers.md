@@ -19,9 +19,9 @@ third_nav_title: Our Staff
 [**Ms Yvonne Liew**](mailto:liew_yvonne@moe.edu.sg)<br>**Form Teacher (1) Primary 1-4**<br><br>“The voyage of the best ship is a zigzag line of a hundred tacks." - Ralph Waldo Emerson I believe that the journey of a student will not be an easy one, but every challenge will hone that student into a better learner and person. |
 [**Mr Ow Kok Meng**](mailto:ow_kok_meng_a@moe.edu.sg)<br>**Form Teacher (2) Primary 1-4**<br><br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁 |
 [**Mrs Chia Mei Kwan**](mailto:chan_mei_kwan@moe.edu.sg)<br>**Form Teacher (1) Primary 1-5**<br><br> Education, just like a beacon, allows students to seek their paths and guides them to read their desired destination. As an educator, I can facilitate values to be instilled and knowledge to be imparted so that students can be equipped with the necessary character building and skill set to achieve their goals.   |
-[**Ms Chang Ying**](mailto:chang_ying@moe.edu.sg)<br>**Form Teacher (2) Primary 1-5**<br><br>"Where words fail, music speaks." - Hans Christian Andersen<br> |
-[**Mdm W.K. Vijtha Valerie Brampy**](mailto:w_k_vijitha_valerie@moe.edu.sg)<br>**Form Teacher (1) Primary 1-6**<br><br>"You never know what they can do till you try." - Frederick Marryat . |
-[**Miss Tan Kar Chuan**](mailto:tan_kar_chuan@moe.edu.sg)<br><br>**Chinese Language Teacher<br>Form Teacher (2) Primary 1-6**<br><br>千里之行，始于足下。 - 老子 |
+[**Ms Annamary D/O Segaran**](mailto:annamary_segaran@moe.edu.sg)<br>**Tamil Language Teacher**<br>**Form Teacher (2) Primary 1-5**<br> |
+[**Mrs  Juliana Lin En Xuan**](mailto:juliana_lin_en_xuan@moe.edu.sg)<br>**Form Teacher (1) Primary 1-6**<br>|
+[**Miss Tan Kar Chuan**](mailto:tan_kar_chuan@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 1-6**<br><br>千里之行，始于足下。 - 老子 |
 [**Mrs Ng Pui Lai Sarah**](mailto:lock_pui_lai@moe.edu.sg)<br>**Form Teacher (1) Primary 1-7** |
 [**Mdm Yan Yu Zhen**](mailto:yan_yuzhen@moe.edu.sg)<br>**Chinese Language Teacher<br>Form Teacher (2) Primary 1-7**<br><br>书山有路勤为径，学海无涯苦作舟。——韩愈。  |
 [**Mrs Sehaimi (Khairunnisa Bte Jalil)**](mailto:khairunnisa_jalil@moe.edu.sg)<br>**Form Teacher (1) Primary 1-8**<br><br>“The function of education is to teach one to think intensively and to think critically. Intelligence plus character – that is the goal of true education. ”<br>– Martin Luther King, Jr.  |
@@ -31,4 +31,4 @@ third_nav_title: Our Staff
 [**Mdm Suziana Bte Hassan**](mailto:tan_wei_lin_winnie@moe.edu.sg)<br>**Form Teacher (1) Primary 1-10**<br><br>"Intelligence without ambition is a bird without wings." - Salvador Dali |
 [**Mdm Boh Fong Yee**](mailto:boh_fong_yeemo_fengyi@moe.edu.sg)<br>**Form Teacher (2) Primary 1-10**<br><br>我们知道什么、信仰什么，本质上并不重要。唯一重要的是：我们做了什么。 — 约翰·罗 斯基 |
 
-*Updated on 07 Mar 2023*
+*Updated on 21 June 2023*

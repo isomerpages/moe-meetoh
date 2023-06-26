@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodles   | 15 June 2023     | -   |
+|  -  |  -    | -   |
 |
 
 **Application Procedure**

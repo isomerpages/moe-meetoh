@@ -31,8 +31,7 @@ third_nav_title: Our Staff
 [**Ms Cheong Siok Wen**](mailto:cheong_siok_wen@moe.edu.sg)<br><br>在日常生活中靠天才能做到的事情，靠勤奋同样能做到；靠天才不能做到的事情，靠勤奋也能做到。——亨沃比彻 |
 [**Mdm Zhang Yi Nan**](mailto:zhang_yinan@moe.edu.sg)<br><br>自信自律，自强不息！ |
 [**Miss Tan Kar Chuan**](mailto:tan_kar_chuan@moe.edu.sg)<br><br>千里之行，始于足下。 - 老子 |
-[**Mdm Evelyn Lee Ai Ling**](mailto:lee_ai_ling_evelyn@moe.edu.sg)<br><br>“学无止境” －从心出发，引起学生学习兴趣。让学生积极探索，乐学善用。 |
-[**Ms Ong Lay San**](mailto:ong_lay_san@moe.edu.sg)<br><br>"The whole purpose of education is to turn mirrors into windows." - Sydney J. Jarris |
+[**Mdm Evelyn Lee Ai Ling**](mailto:lee_ai_ling_evelyn@moe.edu.sg)<br><br>“学无止境” －从心出发，引起学生学习兴趣。让学生积极探索，乐学善用。 ||
 [**Mdm Ching Mei Fei**](mailto:ching_mei_fei@moe.edu.sg)<br><br>我相信人各有所长，皆有各自独特的潜能。<br>所谓“玉不琢，不成器。人不学，不知道。“ 而每位学生就是一块未琢之玉。<br>我希望能化人化己，亦成为那玉匠、那股培风，让学生像只大鹏鸟，展翅高飞。 |
  [**Miss Trina Tan Chiao Sze**](mailto:tan_chiao_sze_trina@moe.edu.sg)<br><br>植物因培植而成材，人类因教育而成器。 学生宛如破壳而出、茁壮成长的幼苗 。老师宛如辛勤播种、扎根灌溉的园丁。好品格宛如出污泥而不染的莲花。<br>学习的关键取决于个人所迈出的第一步，从自我探索的过程中，寻找出属于自己的蓝天，展翅飞翔。 |
  [**Mdm Wen Pei-Ju**](mailto:wen_pei_ju@moe.edu.sg)<br><br>老师的一颗心，孩子的一片天。 |
@@ -45,8 +44,14 @@ third_nav_title: Our Staff
 
 |  |  |
 |---|---|
-[**Mdm Hasni Bte Abu Bakar**](mailto:hasni_abu_bakar@moe.edu.sg)<br>**Year Head Primary 3 & 4**<br><br>Children learnt best when their social and emotional needs are well taken care of. As educators, we help our children to recognize their strengths and develop good character so that they become confident yet caring individuals. Each child has a gift. Each just opens them at different times. |
-[**Mdm Sunarti Bte Amidon**](mailto:Sunarti_AMIDON@moe.edu.sg)<br>**Subject Head - Malay Language & Total Curriculum**<br><br>Pendidikan bermula dari hati langsung ke hati. |
+[**Mdm Hasni Bte Abu Bakar**](mailto:hasni_abu_bakar@moe.edu.sg)<br>**Year Head Primary 3 &amp; 4**<br><br>Children learnt best when their social and emotional needs are well taken care of. As educators, we help our children to recognize their strengths and develop good character so that they become confident yet caring individuals. Each child has a gift. Each just opens them at different times. |
+[**Mdm Sunarti Bte Amidon**](mailto:Sunarti_AMIDON@moe.edu.sg)<br>**Subject Head - Malay Language &amp; Total Curriculum**<br><br>Pendidikan bermula dari hati langsung ke hati. |
 [**Mdm Zuraini Bte Abdul Rahim**](mailto:zuraini_abdul_rahim@moe.edu.sg)<br><br>3P - dapat menerima Perubahan, bijak membuat Pilihan, tekal dalam Prinsip |
 
-*Updated on 08 Mar 2023*
+#### Tamil Teachers
+
+|  |  |
+|---|---|
+[**Ms Annamary D/O Segaran**](mailto:annamary_segaran@moe.edu.sg)
+
+*Updated on 21 Jun 2023*
