@@ -6,7 +6,6 @@ third_nav_title: Our Staff
 ---
 ### 2023 Primary 3 Form Teachers
 
-
 *To email our staff, click on their names.*
 
 |  |  |
