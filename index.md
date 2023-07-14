@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/meetohbanner1.gif
+      background: /images/Homepage Banner/2023 p1 registration banner - final_13 jul.png
       key_highlights:
         - title: Announcements
           description: ""
@@ -20,18 +20,18 @@ sections:
           url: /school-achievements
   - infopic:
       title: Learning for Life Programme
-      description: "SENCE @ MTS (Sports Education Nurturing Character Excellence at
-        Mee Toh School) aims to build knowledge, skills and a positive attitude
-        for a lifetime of... "
+      description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
+        Toh School) aims to build knowledge, skills and a positive attitude for
+        a lifetime of...
       button: Read more
       url: /experience-at-mts/learning-for-life-programme
       image: /images/llp1.png
       alt: llp
   - infopic:
       title: Applied Learning Programme (ALP)
-      description: "Mee Toh School adapts a whole-school approach towards
-        environmental sustainability through our Applied Learning Programme in
-        Environment Education. "
+      description: Mee Toh School adapts a whole-school approach towards environmental
+        sustainability through our Applied Learning Programme in Environment
+        Education.
       button: Read more
       url: /applied-learning-programme/
       image: /images/infopic2.png
