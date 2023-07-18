@@ -1,9 +1,12 @@
 ---
 title: Operation Hours
-permalink: /for-parents/operation-hours
+permalink: /for-parents/operation-hours/
 description: ""
 ---
 ### Operation Hours
 
-<img src="/images/ophours.png" 
-     style="width:70%">
+
+
+
+
+Please click [here](https://go.gov.sg/mtsoperatinghours) for the latest update. Thank you!
