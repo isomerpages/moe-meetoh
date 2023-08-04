@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner/2023 p1 registration banner - final_14 july.png
+      background: /images/Homepage Banner/mts school website new banner - 2023 final.gif
       key_highlights:
         - title: Announcements
           description: ""
