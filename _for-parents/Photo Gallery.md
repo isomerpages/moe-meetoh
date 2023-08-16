@@ -5,6 +5,11 @@ description: ""
 ---
 #### 2023
 
+| TERM 2 	|
+|:---:	|
+| [Founder's Day and Vesak Day (May 27)](https://www.smugmug.com/gallery/n-mQCG65)<br>|
+
+
 | TERM 1 	|
 |:---:	|
 |[Total Defence Day (14 Feb)](https://www.smugmug.com/gallery/n-hRhctN)<br>[Chinese New Year Celebrations (Jan 20)](https://www.smugmug.com/gallery/n-9rF5vm)<br>[Laba Festival (13 Jan)](https://www.smugmug.com/gallery/n-bK8wdH)<br>[Primary 1's First Day (Jan 3)](https://www.smugmug.com/gallery/n-QvP5X7)<br>[Primary 5 Camp (Feb 2 - Feb 4)](https://www.smugmug.com/gallery/n-wN4Fvr) 	|
