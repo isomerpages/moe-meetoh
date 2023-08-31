@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner/mts school website banner - teachers' day
-        2023.gif
+      background: /images/Homepage Banner/mts school website new banner - 2023 final.gif
       key_highlights:
         - title: Announcements
           description: ""
