@@ -27,8 +27,12 @@ If you would like to join the PATH, please click on the link&nbsp;[https://tinyu
 		 
 Click&nbsp;[here](https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PATH%20Code%20of%20conduct%202020.pdf)&nbsp;for more information on Code of Conduct for PATH.
 
+![](/images/For%20Parents/Parent%20Support%20Group/path%20connects%20volume1_(1).jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group/path%20connects%20volume1_%20(2).jpg)
+
 ![](/images/PATH/Slide5.jpg)
 
 ![](/images/PATH/Slide6.jpg)
 		 
-*Updated on 20 March 2023*
+*Updated on 7 September 2023*
