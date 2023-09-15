@@ -7,7 +7,7 @@ description: ""
 
 | TERM 3	|
 |:---:	|
-|[Pre-School Outreach (July 5)](https://www.smugmug.com/gallery/n-JwGjsF)<br> 
+|[Pre-School Outreach (July 5)](https://www.smugmug.com/gallery/n-JwGjsF)<br> [Racial Harmony Day (July 18)](https://www.smugmug.com/gallery/n-XBh3v7)<br> [National Day Celebrations (Aug 8)](https://www.smugmug.com/gallery/n-wC8Fdq)
 
 | TERM 2 	|
 |:---:	|
