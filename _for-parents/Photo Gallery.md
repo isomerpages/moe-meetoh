@@ -5,9 +5,13 @@ description: ""
 ---
 #### 2023
 
+| TERM 3	|
+|:---:	|
+|[Pre-School Outreach (July 5)](https://www.smugmug.com/gallery/n-JwGjsF)<br> 
+
 | TERM 2 	|
 |:---:	|
-| [World Water Day (Mar 21)](https://www.smugmug.com/gallery/n-RfjMKK)<br>[Founder's Day and Vesak Day (May 27)](https://www.smugmug.com/gallery/n-mQCG65)<br>[International Friendship Day (3 April)](https://www.smugmug.com/gallery/n-zLLbk5)<br>[MTL Fortnight (27 Mar - 6 Apr)](https://www.smugmug.com/gallery/n-MVVsNz)|
+|[Green Day (April 21)](https://www.smugmug.com/gallery/n-DZtHBp)<br> [World Water Day (Mar 21)](https://www.smugmug.com/gallery/n-RfjMKK)<br>[Founder's Day and Vesak Day (May 27)](https://www.smugmug.com/gallery/n-mQCG65)<br>[International Friendship Day (3 April)](https://www.smugmug.com/gallery/n-zLLbk5)<br>[MTL Fortnight (27 Mar - 6 Apr)](https://www.smugmug.com/gallery/n-MVVsNz)|
 
 
 | TERM 1 	|
