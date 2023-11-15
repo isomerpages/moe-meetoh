@@ -2,6 +2,7 @@
 title: Operation Hours
 permalink: /for-parents/operation-hours/
 description: ""
+variant: markdown
 ---
 ### Operation Hours
 
@@ -14,4 +15,3 @@ During school holidays, the school's General Office will operate from 8.00am to 
 ![](/images/For%20Parents/Operation%20Hours/nov%202023.jpg)
 ![](/images/For%20Parents/Operation%20Hours/dec%202023.jpg)
 
-![](/images/For%20Parents/Operation%20Hours/dental%20clinic(1).jpg)
