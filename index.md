@@ -68,6 +68,7 @@ sections:
       id: infopic
       description: "Nominate your teachers for the President’s Award for Teachers
         (PAT) 2024 or the Outstanding Youth in Education Award (OYEA) 2024. "
+      button: Read More
       url: announcements/pat2024/
       image: /images/Announcements/PATOYEA2024.png
       alt: Image alt text
