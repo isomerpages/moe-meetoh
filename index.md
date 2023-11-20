@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/mdm-presidents-visit-to-school
+          url: /announcements/oyea2024/
         - title: Milestones
           description: ""
           url: /milestones/mee-toh-news
@@ -21,8 +21,8 @@ sections:
   - infopic:
       subtitle: "Closing date: 10 January 2024"
       id: infopic
-      description: "Nominate your teachers for the President’s Award for Teachers
-        (PAT) 2024 or the Outstanding Youth in Education Award (OYEA) 2024. "
+      description: Nominate your teachers for the President’s Award for Teachers (PAT)
+        2024 or the Outstanding Youth in Education Award (OYEA) 2024.
       button: Read More
       url: announcements/pat2024/
       image: /images/Announcements/PATOYEA2024.png
