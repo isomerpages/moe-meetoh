@@ -35,6 +35,7 @@ Click&nbsp;[here](https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PAT
 ![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__1_.jpg)
 ![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__2_.jpg)
 ![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__3_.jpg)
+![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__4_.jpg)
 
 
 ![](/images/PATH/Slide5.jpg)
