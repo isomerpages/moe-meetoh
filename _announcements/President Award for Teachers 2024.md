@@ -4,6 +4,9 @@ permalink: /announcements/permalink/
 variant: markdown
 description: ""
 ---
+
+![](/images/Announcements/PAT%202024/Picture1.jpg)
+
 **Nominees for the award should be teachers who:**
 *  are mentors to students in their character, moral and citizenship development;
 *  design learning experiences that motivate, challenge and inspire students to bring out their full potential;
@@ -12,7 +15,7 @@ description: ""
 * are role models for the teaching profession.
 
 Nominations can be submitted online at [http://go.gov.sg/pat2024](http://go.gov.sg/pat2024)
-
+![](/images/Announcements/PAT%202024/Picture2.png)
 
 **Closing date: 10 January 2024, Wednesday**
 
