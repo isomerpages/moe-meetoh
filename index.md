@@ -63,4 +63,12 @@ sections:
       url: /voices-of-mts/
       image: /images/infopic5.png
       alt: infopic5
+  - infopic:
+      subtitle: "Closing date: 10 January 2024"
+      id: infopic
+      description: "Nominate your teachers for the President’s Award for Teachers
+        (PAT) 2024 or the Outstanding Youth in Education Award (OYEA) 2024. "
+      url: announcements/pat2024/
+      image: /images/Announcements/PATOYEA2024.png
+      alt: Image alt text
 ---
