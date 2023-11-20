@@ -11,13 +11,22 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/mdm-presidents-visit-to-school
+          url: /announcements/oyea2024/
         - title: Milestones
           description: ""
           url: /milestones/mee-toh-news
         - title: School Achievements
           description: ""
           url: /school-achievements
+  - infopic:
+      subtitle: "Closing date: 10 January 2024"
+      id: infopic
+      description: Nominate your teachers for the President’s Award for Teachers (PAT)
+        2024 or the Outstanding Youth in Education Award (OYEA) 2024.
+      button: Read More
+      url: announcements/pat2024/
+      image: /images/Announcements/PATOYEA2024.png
+      alt: Image alt text
   - infopic:
       title: Learning for Life Programme
       description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
@@ -46,15 +55,6 @@ sections:
       image: /images/infopic3.png
       alt: infopic3
   - infopic:
-      title: Integrated Project Work - Values-In-Action (IPW-VIA)
-      description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
-        allow students to synthesise their knowledge learnt from various
-        subjects and apply them to...
-      button: Read more
-      url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
-      image: /images/infopic4.png
-      alt: infopic4
-  - infopic:
       title: Voices of MTS - From Students To Students
       description: At Mee Toh School, our children’s voices are heard. Not only do we
         empower our students with 21st Century Competencies to ponder and
@@ -63,4 +63,13 @@ sections:
       url: /voices-of-mts/
       image: /images/infopic5.png
       alt: infopic5
+  - infopic:
+      title: Integrated Project Work - Values-In-Action (IPW-VIA)
+      description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
+        allow students to synthesise their knowledge learnt from various
+        subjects and apply them to...
+      button: Read more
+      url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
+      image: /images/infopic4.png
+      alt: infopic4
 ---
