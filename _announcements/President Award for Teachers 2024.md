@@ -4,10 +4,7 @@ permalink: /announcements/permalink/
 variant: markdown
 description: ""
 ---
-
-
-**Nominees for the award should be teachers who:
-**
+**Nominees for the award should be teachers who:**
 *  are mentors to students in their character, moral and citizenship development;
 *  design learning experiences that motivate, challenge and inspire students to bring out their full potential;
 * are reflective practitioners who demonstrate deep pedagogy in the facilitation of learning;
