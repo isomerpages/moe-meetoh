@@ -1,13 +1,14 @@
 ---
 title: Personal Data Protection
-permalink: /about-us/personal-data-protection
+permalink: /about-us/personal-data-protection/
 description: ""
+variant: markdown
 ---
 ### Personal Data Protection
 
 | Regarding use of photographs and videos 	|
 |---	|
-| Photograph(s) or video image(s) of you may be captured during school events, programmes and related activities.<br><br>The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other official school communication channels.<br><br>CCTVs are in operation in and around our premises as necessary in the interests of safety and security. 	|
+| Photographs or video images of you or your legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts.<br><br>The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels.<br><br>CCTVs are in operation in and around our premises as necessary in the interests of safety and security. |
 
 | Regarding the School Website 	|
 |---	|
