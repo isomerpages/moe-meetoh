@@ -35,6 +35,10 @@ Click on the **image above** to read more.
 <a target="_blank" href="/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V2.pdf"><img src="/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__1_.jpg"></a>
 Click on the **image above** to read more.
 
+<a target="_blank" href="/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V3.pdf"><img src="/images/For%20Parents/Parent%20Support%20Group/PATH_Connects_V3.jpg"></a>
+Click on the **image above** to read more.
+
+
 
 ![](/images/PATH/Slide5.jpg)
 ![](/images/PATH/Slide6.jpg)
