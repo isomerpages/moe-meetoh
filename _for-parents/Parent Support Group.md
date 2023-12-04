@@ -30,7 +30,9 @@ Click&nbsp;[here](https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PAT
 
 
 <a target="_blank" href="/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V1.pdf">![](/images/For%20Parents/Parent%20Support%20Group/path%20connects%20volume1_(1).jpg)</a>
-Click on **image of newsletter** to continue reading
+Click on the **image above** to read the newsletter.
+
+
 ![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__1_.jpg)
 
 
