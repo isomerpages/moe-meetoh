@@ -2,8 +2,9 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: markdown
 ---
-### 2023 School Management Committee (SMC) Exco
+### 2024 School Management Committee (SMC) Exco
 
 | Name | Designation |
 |---|---|

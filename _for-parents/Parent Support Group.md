@@ -28,16 +28,19 @@ If you would like to join the PATH, please click on the link&nbsp;[https://tinyu
 		 
 Click&nbsp;[here](https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PATH%20Code%20of%20conduct%202020.pdf)&nbsp;for more information on Code of Conduct for PATH.
 
-![](/images/For%20Parents/Parent%20Support%20Group/path%20connects%20volume1_(1).jpg)
 
-![](/images/For%20Parents/Parent%20Support%20Group/path%20connects%20volume1_%20(2).jpg)
+<a target="_blank" href="/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V1.pdf"><img src="/images/For%20Parents/Parent%20Support%20Group/path%20connects%20volume1_(1).jpg"></a>
+Click on the **image above** to read more.
 
-![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__1_.jpg)
-![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__2_.jpg)
-![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__3_.jpg)
-![](/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__4____Copy.jpg)
+<a target="_blank" href="/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V2.pdf"><img src="/images/For%20Parents/Parent%20Support%20Group/Vol2_2023__1_.jpg"></a>
+Click on the **image above** to read more.
+
+<a target="_blank" href="/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V3.pdf"><img src="/images/For%20Parents/Parent%20Support%20Group/PATH_Connects_V3.jpg"></a>
+Click on the **image above** to read more.
+
+
 
 ![](/images/PATH/Slide5.jpg)
 ![](/images/PATH/Slide6.jpg)
 		 
-*Updated on 20 Nov 2023*
+*Updated on 4 Dec 2023*
