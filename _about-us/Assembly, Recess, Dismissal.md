@@ -2,46 +2,6 @@
 title: Assembly, Recess, Dismissal
 permalink: /about-us/assembly-recess-dismissal/
 description: ""
+variant: tiptap
 ---
-### Assembly, Recess, Dismissal
-
-#### Academic Year 2023
-
-**School Hours:** **7.30 a.m. to 1.30 p.m.**
-
-##### Morning Assembly
-  
-![](/images/Assembly,%20Recess,%20Dismissal/2023%20Morning%20Assembly.png)
-	
-**Note: If it rains or parade square ground is wet, all students will assemble directly at classrooms.
-	 
-**Sale of Breakfast in the School Canteen:**
-
-The school canteen will operate between **6.45 a.m. and 7.10 a.m.** for students who wish to have their breakfast in school. Sale of canteen food will stop at 7.05 a.m.
-  
-All students are to be seated by 7.15 a.m. in their respective classroom for the Silent Reading Programme.
-
-##### Recess
-
-| Level 	| Recess Timings 	|
-|:---:	|:---:	|
-| P1 and P4 Recess 	| 9.00 am to 9.30 am 	|
-| P2 and P5 Recess 	| 9.30 am to 10.00 am 	|
-| P3 and P6 Recess 	| 10.00 am to 10.30 am 	|
-
-
-##### Dismissal
-
-| Level 	| Dismissal Timings 	|
-|:---:	|:---:	|
-All Levels	| 1.30 p.m. 	|
-
-
-<br><br>
-
-| Level 	| Venue 	| Remarks 	|
-|:---:	|:---:	|:---:	|
-| Primary 1 – 3 	| Gate 2 	| All Primary 1 to 3 students will be led to Gate 2 by the teachers and dismissed via Gate 2 only.<br><br>Parents will wait outside Gate 2 behind the cordoned area for the safety of all students. 	|
-| Primary 4 – 6 	| Gate 1 or 6 	| All Primary 4 to 6 students will be allowed to exit the school via Gate 1 or 6 only for the safety of the students.<br><br>Primary 4 to 6 students with younger siblings from P1 to P3 are to exit the school via Gate 1 or 6 only. 	|
-| Younger Siblings 	| Designated area behind Canteen 	| Younger siblings will wait at a designated area behind the school canteen for their siblings. 	|
-| Taking School Bus 	| Foyer 	| School Bus students will report to the school bus operators and queue according to the queue 	|
+<h3>Assembly, Recess, Dismissal</h3><h4>Academic Year 2024</h4><p><strong>School Hours:</strong> <strong>7.30 a.m. to 1.30 p.m.</strong></p><p><strong>School will end at 1.00 p.m. on Wednesdays.</strong></p><h5>Morning Assembly</h5><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Assembly,%20Recess,%20Dismissal/2023%20Morning%20Assembly.png"></div><p>**Note: If it rains or parade square ground is wet, all students will assemble directly at classrooms.</p><p><strong>Sale of Breakfast in the School Canteen:</strong></p><p>The school canteen will operate between&nbsp;<strong>6.45 a.m. and 7.10 a.m.</strong>&nbsp;for students who wish to have their breakfast in school. Sale of canteen food will stop at 7.05 a.m.</p><p>All students are to be seated by 7.15 a.m. in their respective classroom for the Silent Reading Programme.</p><h5>Recess</h5><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Recess Timings</p></th></tr><tr><td rowspan="1" colspan="1"><p>P1 and P4 Recess</p></td><td rowspan="1" colspan="1"><p>9.00 am to 9.30 am</p></td></tr><tr><td rowspan="1" colspan="1"><p>P2 and P5 Recess</p></td><td rowspan="1" colspan="1"><p>9.30 am to 10.00 am</p></td></tr><tr><td rowspan="1" colspan="1"><p>P3 and P6 Recess</p></td><td rowspan="1" colspan="1"><p>10.00 am to 10.30 am</p></td></tr></tbody></table><h5>Dismissal</h5><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Dismissal Timings</p></th></tr><tr><td rowspan="1" colspan="1"><p>All Levels</p></td><td rowspan="1" colspan="1"><p>1.30 p.m.</p></td></tr></tbody></table><p>School will end at 1.00 p.m. on Wednesdays.<br><br></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Remarks</p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 1 – 3</p></td><td rowspan="1" colspan="1"><p>Gate 2</p></td><td rowspan="1" colspan="1"><p>All Primary 1 to 3 students will be led to Gate 2 by the teachers and dismissed via Gate 2 only.<br><br>Parents will wait outside Gate 2 behind the cordoned area for the safety of all students.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 4 – 6</p></td><td rowspan="1" colspan="1"><p>Gate 1 or 6</p></td><td rowspan="1" colspan="1"><p>All Primary 4 to 6 students will be allowed to exit the school via Gate 1 or 6 only for the safety of the students.<br><br>Primary 4 to 6 students with younger siblings from P1 to P3 are to exit the school via Gate 1 or 6 only.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Younger Siblings</p></td><td rowspan="1" colspan="1"><p>Designated area behind Canteen</p></td><td rowspan="1" colspan="1"><p>Younger siblings will wait at a designated area behind the school canteen for their siblings.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Taking School Bus</p></td><td rowspan="1" colspan="1"><p>Foyer</p></td><td rowspan="1" colspan="1"><p>School Bus students will report to the school bus operators and queue according to the queue</p></td></tr></tbody></table><p></p>
