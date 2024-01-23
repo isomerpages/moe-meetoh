@@ -19,15 +19,6 @@ sections:
           description: ""
           url: /school-achievements
   - infopic:
-      subtitle: "Closing date: 10 January 2024"
-      id: infopic
-      description: Nominate your teachers for the President’s Award for Teachers (PAT)
-        2024 or the Outstanding Youth in Education Award (OYEA) 2024.
-      button: Read More
-      url: announcements/pat2024/
-      image: /images/Announcements/PATOYEA2024.png
-      alt: Image alt text
-  - infopic:
       title: Learning for Life Programme
       description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
         Toh School) aims to build knowledge, skills and a positive attitude for
