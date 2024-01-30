@@ -250,7 +250,7 @@ best that they can possibly be.” - Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="muhammad_fikri_fazil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
+<p><strong><a href="mailto:muhammad_fikri_fazil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
 </p>
 <p><strong>Form Teacher (2) Primary 1-10</strong>
 </p>
