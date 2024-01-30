@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="leong_jian_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leong Jian Wei</a></strong>
+<p><strong><a href="leong_jian_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leong Jian Wei Wayne</a></strong>
 </p>
 <p><strong>Assistant Year Head - Primary 5</strong>
 </p>
@@ -213,6 +213,19 @@ as they take on the world to bring about positive change</p>
 </p>
 <p><strong>Form Teacher (3) Primary 3-7</strong>
 </p>
+<p></p>
+<p>“கற்க கசடறக் கற்பவை கற்றபின்</p>
+<p>நிற்க அதற்குத் தக”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-திருக்குறள்</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>“Learn well what should be learnt, and then,
+<br>live out well what you have learnt.”</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Thirukkural</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
