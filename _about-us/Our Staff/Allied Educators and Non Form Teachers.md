@@ -153,7 +153,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="chua_hui_lee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Lee Hui April</a></strong>
+<p><strong><a href="mailto:chua_hui_lee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Lee Hui April</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
