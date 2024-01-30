@@ -20,8 +20,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:su_yin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong>
-<br><strong>Special Educational Needs (SEN) Officer</strong>
+<p><strong><a href="mailto:su_yin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
+<br><strong>Special Educational Needs (SEN) Officer</strong> 
 <br>
 <br>"Change is the end result of all true learning," - Leo Buscaglia</p>
 </td>
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:foo_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Foo Ai Ling</a></strong>
+<p><strong><a href="mailto:foo_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Foo Ai Ling</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 </td>
@@ -53,8 +53,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ang_an_an_felicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee An An</a></strong>
-<br><strong>Allied Educator (Counselling)</strong>
+<p><strong><a href="mailto:ang_an_an_felicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee An An</a></strong> 
+<br><strong>Allied Educator (Counselling)</strong> 
 <br>
 <br>"It's not about what you have achieved but what you learnt in the process
 of achieving!"</p>
@@ -77,8 +77,8 @@ of achieving!"</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>
-<br><strong><a href="mailto:b_m_sowndharyaa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms B.M.Sowndharyaa (Ms Sara)</a></strong>
-<br><strong>Allied Educator (Teaching &amp; Learning)</strong>
+<br><strong><a href="mailto:b_m_sowndharyaa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms B.M.Sowndharyaa (Ms Sara)</a></strong> 
+<br><strong>Allied Educator (Teaching &amp; Learning)</strong> 
 <br>
 <br>"We think we listen, but very rarely do we listen with real understanding,
 true empathy. Yet listening, of this very special kind, is one of the most
@@ -92,7 +92,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yuling_marilyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yuling Marilyn</a></strong>
+<p><strong><a href="mailto:zhang_yuling_marilyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yuling Marilyn</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
@@ -102,7 +102,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nazihah_muhammed_ikram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong>
+<p><strong><a href="mailto:nazihah_muhammed_ikram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
@@ -112,7 +112,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:neo_chew_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Celia Koh</a></strong>
+<p><strong><a href="mailto:neo_chew_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Celia Koh</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
@@ -122,7 +122,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_han_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs George</a></strong>
+<p><strong><a href="mailto:ng_han_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs George</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
@@ -132,7 +132,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_kim_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong>
+<p><strong><a href="mailto:lim_kim_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
