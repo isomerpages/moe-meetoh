@@ -153,14 +153,8 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Chua Lee Hui April</u></strong>
+<p><strong><a href="chua_hui_lee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Lee Hui April</a></strong>
 </p>
-<p><strong>Teacher</strong>
-</p>
-<p>To “over celebrate, under criticise” has been my belief all these years,
-both as a parent and an educator. Children flourish in loving environments
-when they are celebrated for every little success, and grow to be stronger
-when they make mistakes but continue to be embraced.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
