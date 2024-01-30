@@ -46,8 +46,7 @@ variant: tiptap
 </p>
 <p>Form Teacher (3) Primary 3-1</p>
 <p></p>
-<p><strong>“In learning you will teach and in teaching you will learn” – Phil Collins</strong>
-</p>
+<p>“In learning you will teach and in teaching you will learn” – Phil Collins</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
