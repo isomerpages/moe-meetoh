@@ -70,7 +70,7 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<h4>AT MEE TOH SCHOOL, THE FOLLOWING SEXUALITY EDUCATION LESSONS WILL BE TAUGHT IN 2024:</h4>
+<h4><strong>At Mee Toh School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong></h4>
 <h4>PRIMARY 5</h4>
 <table>
 <tbody>
