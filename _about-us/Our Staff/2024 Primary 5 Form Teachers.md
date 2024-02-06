@@ -20,8 +20,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sim_kun_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jacelyn Ang Kun Kin</u></a></strong>
-<br><strong>Head of Department - School Staff Developer (SSD)<br>Form Teacher (1) Primary 5-1</strong>
+<p><strong><a href="mailto:sim_kun_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jacelyn Ang Kun Kin</u></a></strong> 
+<br><strong>Head of Department - School Staff Developer (SSD)<br>Form Teacher (1) Primary 5-1</strong> 
 <br>
 <br>An educated man is someone who displays culture, taste and knowledge.
 So, the true essence of education goes beyond acquiring of knowledge in
@@ -36,8 +36,8 @@ their fullest potential and bring out the star in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ahmad_nabil_mustafa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ahmad Nabil Bin Mustafa</u></a></strong>
-<br><strong>Form Teacher (2) Primary 5-1</strong>
+<p><strong><a href="mailto:ahmad_nabil_mustafa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ahmad Nabil Bin Mustafa</u></a></strong> 
+<br><strong>Form Teacher (2) Primary 5-1</strong> 
 <br>
 <br>If a child can’t learn the way we teach, maybe we should teach the way
 they learn - Ignacio Estrada</p>
@@ -48,8 +48,8 @@ they learn - Ignacio Estrada</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:pang_heng_cheun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Pang Heng Cheun</u></a></strong>
-<br><strong>Head of Department - Science<br>Form Teacher (1) Primary 5-2</strong>
+<p><strong><a href="mailto:pang_heng_cheun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Pang Heng Cheun</u></a></strong> 
+<br><strong>Head of Department - Science<br>Form Teacher (1) Primary 5-2</strong> 
 <br>
 <br>Teach the young minds to be curious and to constantly ask questions. It
 is alright to make mistakes, but learn from the mistakes to become better.</p>
@@ -60,8 +60,8 @@ is alright to make mistakes, but learn from the mistakes to become better.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_si_si@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Ng Si Si</u></a></strong>
-<br><strong>Form Teacher (2) Primary 5-2</strong>
+<p><strong><a href="mailto:ng_si_si@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Ng Si Si</u></a></strong> 
+<br><strong>Form Teacher (2) Primary 5-2</strong> 
 <br>
 <br>There is music in every child. The teacher ‘s job is to find and nurture
 it. - Frances Clark</p>
@@ -72,8 +72,8 @@ it. - Frances Clark</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nora_yuhanis_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nora Yuhanis Bte Jaffar</u></a></strong>
-<br><strong>Form Teacher (1) Primary 5-3</strong>
+<p><strong><a href="mailto:nora_yuhanis_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nora Yuhanis Bte Jaffar</u></a></strong> 
+<br><strong>Form Teacher (1) Primary 5-3</strong> 
 <br>
 <br>“Children must be taught how to think; not what to think.” ~ Margaret
 Mead</p>
@@ -84,8 +84,8 @@ Mead</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:foo_tiang_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Foo Tiang Weng</u></a></strong>
-<br><strong>Lead Teacher - Visual Arts<br>Form Teacher (2) Primary 5-3</strong>
+<p><strong><a href="mailto:foo_tiang_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Foo Tiang Weng</u></a></strong> 
+<br><strong>Lead Teacher - Visual Arts<br>Form Teacher (2) Primary 5-3</strong> 
 <br>
 <br>The value of any intellect is as good as the underlying values of the
 beholder.</p>
@@ -96,8 +96,8 @@ beholder.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_sue_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tan Sue Cheng</u></a></strong>
-<br><strong>Form Teacher (1) Primary 5-4</strong>
+<p><strong><a href="mailto:tan_sue_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tan Sue Cheng</u></a></strong> 
+<br><strong>Form Teacher (1) Primary 5-4</strong> 
 <br>
 <br>“The sole meaning of life is to serve humanity.” - Leo Tolstoy</p>
 </td>
@@ -107,7 +107,7 @@ beholder.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:aleeza_dwi_artha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Aleeza Dwi Artha</u></a></strong>
+<p><strong><a href="mailto:aleeza_dwi_artha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Aleeza Dwi Artha</u></a></strong> 
 <br><strong>Form Teacher (2) Primary 5-4</strong>
 </p>
 </td>
@@ -119,6 +119,10 @@ beholder.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:nur_siryana_fatimah_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siryana Fatimah Binte Yahya</a><br>Form Teacher (1) Primary 5-5</strong>
 </p>
+<p></p>
+<p>“Teaching is more than imparting knowledge; it is inspiring change. Learning
+is more than absorbing facts; it is acquiring understanding."—William Arthur
+Ward</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,8 +130,8 @@ beholder.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:leow_ying_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Leow Yingjie</u></a></strong>
-<br><strong>Form Teacher (2) Primary 5-5</strong>
+<p><strong><a href="mailto:leow_ying_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Leow Yingjie</u></a></strong> 
+<br><strong>Form Teacher (2) Primary 5-5</strong> 
 <br>
 <br>The desire to teach and be a life-long learner.</p>
 </td>
@@ -137,8 +141,8 @@ beholder.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Tan_teck_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tan Teck Chuan</u></a></strong>
-<br><strong>Form Teacher (1) Primary 5-6</strong>
+<p><strong><a href="mailto:Tan_teck_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tan Teck Chuan</u></a></strong> 
+<br><strong>Form Teacher (1) Primary 5-6</strong> 
 <br>
 <br>I have not failed. I’ve just found 10,000 ways that won’t work. - Thomas
 Edison</p>
@@ -149,9 +153,9 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tinie Tan Mui Ngin</u></a></strong>
-<br><strong>Head of Department - Mother Tongue Languages (MTL)</strong>
-<br><strong>Form Teacher (2) Primary 5-6</strong>
+<p><strong><a href="mailto:tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tinie Tan Mui Ngin</u></a></strong> 
+<br><strong>Head of Department - Mother Tongue Languages (MTL)</strong> 
+<br><strong>Form Teacher (2) Primary 5-6</strong> 
 <br>
 <br>“先生不应该专教书，他的责任是教人做人；学生不应该专读书，他的责任是学习人生之道。” – 陶行知</p>
 </td>
@@ -161,8 +165,8 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:khairunnisa_jalil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Khairunnisa Bte Jalil</u></a></strong>
-<br><strong>Form Teacher (1) Primary 5-7</strong>
+<p><strong><a href="mailto:khairunnisa_jalil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Khairunnisa Bte Jalil</u></a></strong> 
+<br><strong>Form Teacher (1) Primary 5-7</strong> 
 <br>
 <br>“The function of education is to teach one to think intensively and to
 think critically. Intelligence plus character – that is the goal of true
@@ -175,8 +179,8 @@ education. ”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:amsyar_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Amsyar Bin Abdul Wahed</u></a></strong>
-<br><strong>Form Teacher (2) Primary 5-7</strong>
+<p><strong><a href="mailto:amsyar_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Amsyar Bin Abdul Wahed</u></a></strong> 
+<br><strong>Form Teacher (2) Primary 5-7</strong> 
 <br>
 <br>“Education is not the filling of a pail but the lighting of a fire.” -
 William Butler Yeats</p>
@@ -187,8 +191,8 @@ William Butler Yeats</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhamed_nazrul_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhamed Nazrul</u></a></strong>
-<br><strong>Subject Head - Student Development and Management (Student Leadership)<br>Form Teacher (1) Primary 5-8</strong>
+<p><strong><a href="mailto:muhamed_nazrul_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhamed Nazrul</u></a></strong> 
+<br><strong>Subject Head - Student Development and Management (Student Leadership)<br>Form Teacher (1) Primary 5-8</strong> 
 <br>
 <br>Knowledge is all around us but only with an open mind will one embrace
 and learn it.</p>
@@ -225,8 +229,8 @@ and learn it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ow Kok Meng</u></a></strong>
-<br><strong>Form Teacher (2) Primary 5-9</strong>
+<p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ow Kok Meng</u></a></strong> 
+<br><strong>Form Teacher (2) Primary 5-9</strong> 
 <br>
 <br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁</p>
 </td>
