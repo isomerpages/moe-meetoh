@@ -356,7 +356,7 @@ Each child has a gift. Each just opens them at different times.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:Sunarti_AMIDON@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Bte Amidon</a></strong> 
-<br><strong>Subject Head - Malay Language</strong>
+<br><strong>Subject Head - Malay Language</strong> 
 <br>
 <br>Pendidikan bermula dari hati langsung ke hati.</p>
 </td>
