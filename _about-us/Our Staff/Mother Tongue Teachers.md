@@ -391,6 +391,16 @@ Each child has a gift. Each just opens them at different times.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:annamary_segaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annamary D/O Segaran</a></strong>
 </p>
+<p></p>
+<p>“கற்க கசடறக் கற்பவை கற்றபின்</p>
+<p>நிற்க அதற்குத் தக”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+திருக்குறள்</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>“Learn well what should be learnt, and then,
+<br>live out well what you have learnt.”</p>
+<p>- Thirukkural</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
