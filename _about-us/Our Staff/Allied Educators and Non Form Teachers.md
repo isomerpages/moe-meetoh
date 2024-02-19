@@ -126,7 +126,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Afidah Bte Ibrahim</u></strong>
+<p><strong><a href="mailto:afidah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Afidah Bte Ibrahim</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -146,7 +146,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Celia Neo Chew Yen</u></strong>
+<p><strong><a href="mailto:Neo_Chew_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Celia Neo Chew Yen</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
