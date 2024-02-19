@@ -317,7 +317,7 @@ best that they can possibly be.” - Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="yu_zhangxinzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yu Zhangxinzhi</a></strong>
+<p><strong><a href="mailto:yu_zhangxinzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yu Zhangxinzhi</a></strong>
 </p>
 <p></p>
 <p><em>师也者</em>,<em>教之以事而喻诸德者也</em>。——《礼记》</p>
