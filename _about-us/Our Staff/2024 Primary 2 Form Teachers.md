@@ -87,6 +87,7 @@ Socrates</p>
 <p><strong>Form Teacher (2) Primary 2-3</strong>
 </p>
 <p></p>
+<p>"Where words fail, music speaks." - Hans Christian Andersen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
