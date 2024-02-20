@@ -139,6 +139,8 @@ of achieving!"</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chua_hui_lee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Lee Hui April</a></strong>
 </p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
