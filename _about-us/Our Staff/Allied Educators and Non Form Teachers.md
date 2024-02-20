@@ -146,7 +146,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Neo_Chew_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Celia Neo Chew Yen</a></strong>
+<p><strong><a href="mailto:neo_chew_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Celia Neo Chew Yen</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -157,7 +157,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Nazihah_Muhammed_Ikram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong>
+<p><strong><a href="mailto:loong_hui_ling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -168,7 +168,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Loong_Hui_Ling_Winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
+<p><strong><a href="mailto:tan_sook_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Sook Leng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -179,18 +179,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Tan_sook_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Sook Leng</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ruth_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh May Feng Ruth</a></strong>
+<p><strong><a href="mailto:ruth_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh May Feng Ruth</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -212,7 +201,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_hwee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
+<p><strong><a href="mailto:ng_hwee_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -223,7 +212,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Chong_Fangxun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jessica Chong Fangxun</a></strong>
+<p><strong><a href="mailto:chong_fangxun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jessica Chong Fangxun</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -234,7 +223,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Seow_Mui_Huan_Theresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seow Mui Huan Theresa</a></strong>
+<p><strong><a href="mailto:seow_mui_huan_theresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seow Mui Huan Theresa</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -245,7 +234,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:mohd_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Bin Haron</a></strong>
+<p><strong><a href="mailto:mohd_haron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Bin Haron</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
