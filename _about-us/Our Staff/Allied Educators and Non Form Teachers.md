@@ -157,7 +157,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Nazihah Binte Muhammed Ikram</u></strong>
+<p><strong><a href="mailto:Nazihah_Muhammed_Ikram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -168,7 +168,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Loong Hui Ling Winnie</u></strong>
+<p><strong><a href="mailto:Loong_Hui_Ling_Winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -179,7 +179,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Tan Sook Leng</u></strong>
+<p><strong><a href="mailto:Tan_sook_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Sook Leng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -190,7 +190,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Goh May Feng Ruth</u></strong>
+<p><strong><a href="mailto:ruth_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh May Feng Ruth</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -201,7 +201,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Norraya Bte Sayuti</u></strong>
+<p><strong><a href="mailto:norraya_sayuti@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norraya Bte Sayuti</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -212,7 +212,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Ng Hwee Beng</u></strong>
+<p><strong><a href="mailto:ng_hwee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -223,18 +223,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Jessica Chong Fangxun</u></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Ms Lee Shi Hui</u></strong>
+<p><strong><a href="mailto:Chong_Fangxun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jessica Chong Fangxun</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
