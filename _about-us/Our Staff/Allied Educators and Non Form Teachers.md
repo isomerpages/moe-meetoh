@@ -234,7 +234,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Seow Mui Huan Theresa</u></strong>
+<p><strong><a href="mailto:Seow_Mui_Huan_Theresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seow Mui Huan Theresa</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -245,18 +245,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Chew Bee See Betsy</u></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Mr Mohd Bin Haron</u></strong>
+<p><strong><a href="mailto:mohd_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Bin Haron</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -267,5 +256,5 @@ of achieving!"</p>
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 26 Dec 2023</em>
+<p><em>Updated on 20 Feb 2024</em>
 </p>
