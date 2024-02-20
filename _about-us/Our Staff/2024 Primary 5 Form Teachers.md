@@ -203,7 +203,7 @@ and learn it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Zhao Qianxi</u></strong>
+<p><strong><a href="mailto:zhao_qianxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
 </p>
 <p><strong>Form Teacher (2) Primary 5-8</strong>
 </p>

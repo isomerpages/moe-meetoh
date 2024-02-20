@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:su_yin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
+<p><strong><a href="mailto:su_yin_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong> 
 <br>
 <br>"Change is the end result of all true learning," - Leo Buscaglia</p>
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:foo_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Foo Ai Ling</a></strong> 
+<p><strong><a href="mailto:foo_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Foo Ai Ling</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 </td>
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Ng Ping Yi Jessie</u></strong>
+<p><strong><a href="mailto:Ng_Ping_Yi_Jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Ping Yi Jessie</a></strong>
 </p>
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
@@ -53,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ang_an_an_felicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee An An</a></strong> 
+<p><strong><a href="mailto:ang_an_an_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee An An</a></strong> 
 <br><strong>Allied Educator (Counselling)</strong> 
 <br>
 <br>"It's not about what you have achieved but what you learnt in the process
@@ -65,25 +65,9 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Vasanthi D/O Subramanian</u></strong>
+<p><strong><a href="mailto:Vasanthi_Subramanian_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Vasanthi D/O Subramanian</a></strong>
 </p>
 <p><strong>Allied Educator (Counselling)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br><strong><a href="mailto:b_m_sowndharyaa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms B.M.Sowndharyaa (Ms Sara)</a></strong> 
-<br><strong>Allied Educator (Teaching &amp; Learning)</strong> 
-<br>
-<br>"We think we listen, but very rarely do we listen with real understanding,
-true empathy. Yet listening, of this very special kind, is one of the most
-potent forces for change that I know." - Carl Rogers
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +126,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Afidah Bte Ibrahim</u></strong>
+<p><strong><a href="mailto:afidah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Afidah Bte Ibrahim</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -155,6 +139,8 @@ potent forces for change that I know." - Carl Rogers
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chua_hui_lee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Lee Hui April</a></strong>
 </p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -162,7 +148,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Celia Neo Chew Yen</u></strong>
+<p><strong><a href="mailto:neo_chew_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Celia Neo Chew Yen</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -173,7 +159,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Nazihah Binte Muhammed Ikram</u></strong>
+<p><strong><a href="mailto:loong_hui_ling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -184,7 +170,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Loong Hui Ling Winnie</u></strong>
+<p><strong><a href="mailto:tan_sook_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Sook Leng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -195,7 +181,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Tan Sook Leng</u></strong>
+<p><strong><a href="mailto:ruth_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh May Feng Ruth</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -206,7 +192,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Goh May Feng Ruth</u></strong>
+<p><strong><a href="mailto:norraya_sayuti@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norraya Bte Sayuti</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -217,7 +203,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Norraya Bte Sayuti</u></strong>
+<p><strong><a href="mailto:ng_hwee_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -228,7 +214,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mdm Ng Hwee Beng</u></strong>
+<p><strong><a href="mailto:chong_fangxun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jessica Chong Fangxun</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -239,7 +225,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Jessica Chong Fangxun</u></strong>
+<p><strong><a href="mailto:seow_mui_huan_theresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seow Mui Huan Theresa</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -250,40 +236,7 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Lee Shi Hui</u></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Ms Seow Mui Huan Theresa</u></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Ms Chew Bee See Betsy</u></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Mr Mohd Bin Haron</u></strong>
+<p><strong><a href="mailto:mohd_haron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Bin Haron</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -294,5 +247,5 @@ potent forces for change that I know." - Carl Rogers
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 26 Dec 2023</em>
+<p><em>Updated on 20 Feb 2024</em>
 </p>
