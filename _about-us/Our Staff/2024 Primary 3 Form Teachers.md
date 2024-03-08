@@ -229,9 +229,12 @@ as they take on the world to bring about positive change</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mr Low Meng Yen</u></strong>
+<p><strong><a href="mailto:Low_Meng_Yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Meng Yen</a></strong>
 </p>
 <p><strong>Form Teacher (1) Primary 3-8</strong>
+</p>
+<p></p>
+<p><strong>"I have consistently found inspiration in the words of the renowned musician BB King, who once expressed, " The beautiful thing about learning is that no one can take it away from you."</strong>
 </p>
 <p></p>
 </td>
