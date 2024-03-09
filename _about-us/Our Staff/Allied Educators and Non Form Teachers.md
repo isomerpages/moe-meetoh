@@ -52,6 +52,8 @@ variant: tiptap
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 <p></p>
+<p>“If you are determined to learn, no one can stop you.” – Zig Ziglar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
