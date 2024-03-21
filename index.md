@@ -55,14 +55,6 @@ sections:
       image: /images/infopic5.png
       alt: infopic5
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/Announcements/Banner_for_school_website.png
-      alt: Image alt text
-  - infopic:
       title: Integrated Project Work - Values-In-Action (IPW-VIA)
       description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
         allow students to synthesise their knowledge learnt from various
