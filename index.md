@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner/mts school website new banner - 2023 final.gif
+      background: /images/Homepage Banner/Banner_for_school_website.png
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,6 +18,7 @@ sections:
         - title: School Achievements
           description: ""
           url: /school-achievements
+      variant: image
   - infopic:
       title: Learning for Life Programme
       description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
