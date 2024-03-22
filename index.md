@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner/Banner_for_school_website.png
+      background: /images/Homepage Banner/mts school website new banner - 2023 final.gif
       key_highlights:
         - title: Announcements
           description: ""
