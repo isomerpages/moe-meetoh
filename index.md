@@ -18,7 +18,7 @@ sections:
         - title: School Achievements
           description: ""
           url: /school-achievements
-      variant: image
+      variant: center
   - infopic:
       title: Learning for Life Programme
       description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
