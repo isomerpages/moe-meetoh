@@ -64,4 +64,12 @@ sections:
       url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
       image: /images/infopic4.png
       alt: infopic4
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Homepage Banner/Banner_for_school_website.png
+      alt: Image alt text
 ---
