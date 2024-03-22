@@ -20,6 +20,9 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      id: infopic
+      image: /images/Homepage Banner/Banner_for_school_website.png
+  - infopic:
       title: Learning for Life Programme
       description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
         Toh School) aims to build knowledge, skills and a positive attitude for
@@ -64,7 +67,4 @@ sections:
       url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
       image: /images/infopic4.png
       alt: infopic4
-  - infopic:
-      id: infopic
-      image: /images/Homepage Banner/Banner_for_school_website.png
 ---
