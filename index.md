@@ -64,4 +64,12 @@ sections:
       url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
       image: /images/infopic4.png
       alt: infopic4
+  - infopic:
+      title: Mee Toh School 70th Anniversary Celebrations
+      id: infopic
+      description: Saturday, 25 May 2024
+      button: read more
+      url: https://www.meetoh.moe.edu.sg/announcements/oyea2024/
+      image: /images/Homepage Banner/Banner_for_school_website.png
+      alt: Image alt text
 ---
