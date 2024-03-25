@@ -7,8 +7,9 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pw5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28.png">
 </div>
 <p><a href="https://www.smugmug.com/gallery/n-mQCG65" rel="noopener noreferrer nofollow" target="_blank">https://www.smugmug.com/gallery/n-mQCG65</a>
 </p>
