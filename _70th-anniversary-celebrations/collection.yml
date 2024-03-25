@@ -2,4 +2,5 @@ collections:
   70th-anniversary-celebrations:
     output: true
     order:
+      - Sale of Tickets.md
       - We are 70!.md
