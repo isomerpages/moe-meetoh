@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: Saturday, 25 May 2024
       button: read more
-      url: https://www.meetoh.moe.edu.sg/announcements/oyea2024/
+      url: https://www.meetoh.moe.edu.sg/
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
   - infopic:
