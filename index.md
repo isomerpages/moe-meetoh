@@ -20,6 +20,23 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: Mee Toh School 70th Anniversary Celebrations
+      id: infopic
+      description: Saturday, 25 May 2024
+      button: read more
+      url: https://www.meetoh.moe.edu.sg/announcements/oyea2024/
+      image: /images/Homepage Banner/Banner_for_school_website.png
+      alt: Image alt text
+  - infopic:
+      title: Integrated Project Work - Values-In-Action (IPW-VIA)
+      description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
+        allow students to synthesise their knowledge learnt from various
+        subjects and apply them to...
+      button: Read more
+      url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
+      image: /images/infopic4.png
+      alt: infopic4
+  - infopic:
       title: Learning for Life Programme
       description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
         Toh School) aims to build knowledge, skills and a positive attitude for
@@ -55,21 +72,4 @@ sections:
       url: /voices-of-mts/
       image: /images/infopic5.png
       alt: infopic5
-  - infopic:
-      title: Integrated Project Work - Values-In-Action (IPW-VIA)
-      description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
-        allow students to synthesise their knowledge learnt from various
-        subjects and apply them to...
-      button: Read more
-      url: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action
-      image: /images/infopic4.png
-      alt: infopic4
-  - infopic:
-      title: Mee Toh School 70th Anniversary Celebrations
-      id: infopic
-      description: Saturday, 25 May 2024
-      button: read more
-      url: https://www.meetoh.moe.edu.sg/announcements/oyea2024/
-      image: /images/Homepage Banner/Banner_for_school_website.png
-      alt: Image alt text
 ---
