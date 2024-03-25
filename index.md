@@ -20,13 +20,14 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: Mee Toh School 70th Anniversary Celebrations
+      title: 70th Anniversary
       id: infopic
       description: Saturday, 25 May 2024
       button: read more
       url: /70th-anniversary-celebrations/
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
+      subtitle: "Mee Toh School "
   - infopic:
       title: Integrated Project Work - Values-In-Action (IPW-VIA)
       description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
