@@ -27,7 +27,7 @@ sections:
       url: /70th-anniversary-celebrations/
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
-      subtitle: "Mee Toh School "
+      subtitle: Mee Toh School
   - infopic:
       title: Integrated Project Work - Values-In-Action (IPW-VIA)
       description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
