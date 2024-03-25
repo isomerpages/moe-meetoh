@@ -2,8 +2,8 @@ collections:
   70th-anniversary-celebrations:
     output: true
     order:
-      - Event Highlights.md
       - We are 70!.md
       - Sale of Tickets.md
       - School History Video.md
       - Programme Booklet.md
+      - Event Highlights.md
