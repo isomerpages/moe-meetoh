@@ -99,7 +99,7 @@ is the key.</p>
 <br><strong>Subject Head - Character and Citizenship Education (CCE)<br>Form Teacher (1) Primary 1-4</strong> 
 <br>
 <br>“Knowing is not enough, we must apply. Willing is not enough, we must
-do.Knowledge will give you power, but character respect.” - Bruce Lee</p>
+do. Knowledge will give you power, but character respect.” - Bruce Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
