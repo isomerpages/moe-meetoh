@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><em>Updates as of 26 March 2024, 11am </em>- Tickets for Saturday, 25
-March 2024 are <strong>SOLD OUT! </strong>
+March 2024 are <strong>SOLD OUT!</strong>
 </p>
 <p></p>
 <p></p>
