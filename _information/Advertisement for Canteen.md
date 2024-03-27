@@ -20,10 +20,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mixed Rice (Non- Halal)</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 March 2024</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
