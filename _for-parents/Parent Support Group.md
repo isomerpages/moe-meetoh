@@ -9,7 +9,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Purpose</strong>
+<p><strong>Purpose</strong> 
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ of Mee Toh School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Roles &amp; Responsibilities</strong>
+<p><strong>Roles &amp; Responsibilities</strong> 
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
