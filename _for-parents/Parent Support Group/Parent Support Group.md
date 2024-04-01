@@ -224,7 +224,7 @@ more information on Code of Conduct for PATH.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Path_Connects_V1_2024.jpg">
 </div>
-<p><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V1_2024_compress.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a>
+<p><strong><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V1_2024_compress.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a></strong>
 </p>
 <p><em>Updated on 01 April 2024</em>
 </p>
