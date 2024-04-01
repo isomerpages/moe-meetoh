@@ -188,38 +188,22 @@ Alternatively, please scan the QR Code&nbsp;provided&nbsp;.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width:30%" height="auto" width="100%" src="/images/path1.png">
+</div>
 <p></p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/path1.png">
-</div>
 <p>Click&nbsp;<a href="https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PATH%20Code%20of%20conduct%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on Code of Conduct for PATH.</p>
-<p></p>
-</td>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Path_Connects_V1_2024.jpg">
