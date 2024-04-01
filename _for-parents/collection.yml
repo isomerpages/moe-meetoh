@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Past PATH Connects Volumes/.keep
       - Past PATH Connects Volumes.md
       - Key Sharings/.keep
       - Operation Hours.md
