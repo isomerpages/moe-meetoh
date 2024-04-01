@@ -222,24 +222,10 @@ more information on Code of Conduct for PATH.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/path connects volume1_(1).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Path_Connects_V1_2024.jpg">
 </div>
-<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V1.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a>
+<p><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V1_2024_compress.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/Vol2_2023__1_.jpg">
-</div>
-<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 2</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/PATH_Connects_V3.jpg">
-</div>
-<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V3.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 3</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PATH/Slide6.jpg">
-</div>
 <p><em>Updated on 15 Jan 2024</em>
 </p>
 <p></p>
