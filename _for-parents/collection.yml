@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Past PATH Connects Volumes/.keep
-      - Past PATH Connects Volumes.md
       - Key Sharings/.keep
       - Operation Hours.md
       - Key School Notifications.md
