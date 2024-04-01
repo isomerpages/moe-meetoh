@@ -226,6 +226,6 @@ more information on Code of Conduct for PATH.</p>
 </div>
 <p><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V1_2024_compress.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a>
 </p>
-<p><em>Updated on 15 Jan 2024</em>
+<p><em>Updated on 01 April 2024</em>
 </p>
 <p></p>
