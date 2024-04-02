@@ -3,6 +3,7 @@ title: Parent Support Group
 permalink: /for-parents/parent-support-group/
 description: ""
 variant: tiptap
+third_nav_title: Parent Support Group
 ---
 <h3>Parent Support Group (PATH)</h3>
 <table>
@@ -177,32 +178,38 @@ and contribute meaningfully to society.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>If you would like to join the PATH, please click on the link&nbsp;<a href="https://tinyurl.com/PATH-registration" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/PATH-registration</a>.
 Alternatively, please scan the QR Code&nbsp;provided&nbsp;.</p>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/path1.png">
 </div>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Click&nbsp;<a href="https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PATH%20Code%20of%20conduct%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on Code of Conduct for PATH.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/path connects volume1_(1).jpg">
-</div>
-<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V1.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a>
-</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/Vol2_2023__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Path_Connects_V1_2024.jpg">
 </div>
-<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 2</a>
+<p><strong><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V1_2024_compress.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/PATH_Connects_V3.jpg">
-</div>
-<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V3.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 3</a>
+<p><em>Updated on 01 April 2024</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PATH/Slide6.jpg">
-</div>
-<p><em>Updated on 15 Jan 2024</em>
-</p>
+<p></p>
