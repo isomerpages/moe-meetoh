@@ -110,8 +110,8 @@ rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:amsyar_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Amsyar Bin Abdul Wahed</u></a></strong>
-<br><strong>Form Teacher (2) Primary 4-4</strong>
+<p><strong><a href="mailto:amsyar_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Amsyar Bin Abdul Wahed</u></a></strong> 
+<br><strong>Form Teacher (2) Primary 4-4</strong> 
 <br>
 <br>“Education is not the filling of a pail but the lighting of a fire.” -
 William Butler Yeats</p>
