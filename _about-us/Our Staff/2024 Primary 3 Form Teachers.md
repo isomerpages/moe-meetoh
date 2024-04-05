@@ -31,20 +31,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:joanne_lye_shuyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Joanne Lye Shuyi</u></a></strong> 
-<br><strong>Form Teacher (2) Primary 3-1</strong> 
-<br>
-<br>“Who looks outside, dreams; who looks inside, awakes.” - Carl Jung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:norijah_mohd_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norijah Binte Mohd Ali</a></strong>
 </p>
-<p>Form Teacher (3) Primary 3-1</p>
+<p>Form Teacher (2) Primary 3-1</p>
 <p></p>
 <p>“In learning you will teach and in teaching you will learn” – Phil Collins</p>
 </td>
@@ -197,20 +186,9 @@ as they take on the world to bring about positive change</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ms Lee Shi Hui</u></strong>
-</p>
-<p><strong>Form Teacher (2) Primary 3-7</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:annamary_segaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Annamary D/O Segaran</u></a></strong>
 </p>
-<p><strong>Form Teacher (3) Primary 3-7</strong>
+<p><strong>Form Teacher (2) Primary 3-7</strong>
 </p>
 <p></p>
 <p>“கற்க கசடறக் கற்பவை கற்றபின்</p>
