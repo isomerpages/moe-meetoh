@@ -191,8 +191,8 @@ education. ”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:audrey_phang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Phang Sok Kian Audrey</a></strong>
-<br><strong>Form Teacher (3) Primary 5-7</strong> 
+<p><strong><a href="mailto:audrey_phang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Phang Sok Kian Audrey</a></strong> 
+<br><strong>Form Teacher (3) Primary 5-7</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
