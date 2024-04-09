@@ -3,10 +3,11 @@ title: Science
 permalink: /experience-at-mts/EMS/Science/
 description: ""
 third_nav_title: English, Mathematics, Science
+variant: markdown
 ---
 ### Science
 
-![](/images/Department%20Photos/2023/Science%20Department.jpg)
+![](/images/Science_Department__1_.jpg)
 
 |  	|  	|
 |---	|---	|
