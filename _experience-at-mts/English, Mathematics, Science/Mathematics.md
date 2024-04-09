@@ -3,10 +3,11 @@ title: Mathematics
 permalink: /experience-at-mts/EMS/Mathematics/
 description: ""
 third_nav_title: English, Mathematics, Science
+variant: markdown
 ---
 ### Mathematics
 
-![](/images/Department%20Photos/2023/Mathematics%20Department.jpg)
+![](/images/Mathematics_Department__1_.jpg)
 
 |  	|  	|
 |---	|---	|
