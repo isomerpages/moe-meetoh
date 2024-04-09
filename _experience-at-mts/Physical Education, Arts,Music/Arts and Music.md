@@ -3,13 +3,11 @@ title: Arts and Music
 permalink: /experience-at-mts/Physical-Education-ArtsMusic/
 description: ""
 third_nav_title: Physical Education, Arts,Music
+variant: markdown
 ---
 ### Arts and Music
 
-
-
-
-![](/images/Department%20Photos/2023/Aesthetics%20(Music%20_%20Art)%20Department.jpg)
+![](/images/Aesthetics__Music___Art__Department__1_.jpg)
 #### Art
 |  	|  	|
 |---	|---	|
