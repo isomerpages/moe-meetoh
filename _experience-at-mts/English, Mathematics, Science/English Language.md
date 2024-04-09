@@ -3,11 +3,12 @@ title: English Language
 permalink: /experience-at-mts/EMS/English/
 description: ""
 third_nav_title: English, Mathematics, Science
+variant: markdown
 ---
 ### English Language
 
 
-![](/images/Department%20Photos/2023/English%20Language%20Department.jpg)
+![](/images/English_Language_Department__1_.jpg)
 
 **English Language Learning in Mee Toh School**
 
@@ -27,7 +28,7 @@ The following main areas of language literacy – Listening, Speaking, Reading a
 
 **EL Alive!**
 
-The array of English Language (EL) activities engage students in both the receptive skills of listening, reading and viewing, and productive skills of speaking, writing and viewing. The differentiated and fun activities raise the students’ awareness of the importance of using Standard English Language for effective communication and interest them in the production of accurate EL in speaking and writing tasks, such as poetry recitation, script writing and drama performance.   
+The array of English Language (EL) activities engage students in both the receptive skills of listening, reading and viewing, and productive skills of speaking, writing and viewing. The differentiated and fun activities raise the students’ awareness of the importance of using Standard English Language for effective communication and interest them in the production of accurate EL in speaking and writing tasks, such as poetry recitation, script writing and drama performance.  &nbsp;
 
 **READS@MTS**
 
@@ -57,7 +58,7 @@ Step Into Reading programme comes with a collection of fiction and non-fiction b
 
 Integrated Project Work and Values in Action (IPW-VIA) is multi-faceted and supports the growth of the whole child. As students work on school and community projects in teams, they learn to collect information and communicate in EL with clarity, empathy and discernment, while demonstrating school values such as teamwork, resilience, service and care.
 
- **SEED**
+&nbsp;**SEED**
 
 Strategies for Engaged and Effective Development (SEED) curriculum creates joy in interdisciplinary learning across subjects. Through experiential learning, students apply and demonstrate their knowledge and skills acquired in the various subjects, and their learning is augmented in authentic tasks that require them to create crafts, write about their experiences and present their research findings in EL. 
 
