@@ -3,12 +3,13 @@ title: Physical and Health Education
 permalink: /experience-at-mts/Physical-Education-ArtsMusic/phe/
 description: ""
 third_nav_title: Physical Education, Arts,Music
+variant: markdown
 ---
 ### Physical and Health Education (PHE)
 
 
 
-![](/images/Department%20Photos/2023/Physical%20_%20Health%20Education%20Department.jpg)
+![](/images/Physical___Health_Education_Department__1_.jpg)
 
 |  	|  	|
 |---	|---	|
