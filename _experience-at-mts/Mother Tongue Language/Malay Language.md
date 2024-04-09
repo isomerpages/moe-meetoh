@@ -3,10 +3,11 @@ title: Malay Language
 permalink: /experience-at-mts/Mother-Tongue-Language/malay/
 description: ""
 third_nav_title: Mother Tongue Language
+variant: markdown
 ---
 ### Malay Language
 
-![](/images/Department%20Photos/2023/Mother%20Tongue%20Languages%20Department.jpg)
+![](/images/Mother_Tongue_Languages_Department__1_.jpg)
 
 |  	|  	|
 |---	|---	|
@@ -21,11 +22,11 @@ The Malay Language curriculum in Mee Toh School is designed to lay a strong foun
 
 ##### Mother Tongue Language Fortnight (MTLF)
 
-MTLF aims to create an immersive environment for learning and appreciating Mother Tongue languages and Culture. During this annual event, students are engaged in fun and meaningful activities to deepen their love and appreciation of their roots. They experience their respective Mother Tongue Language as a ‘living language’ through activities such as learning to play traditional games and writing ‘khat’. They also have a chance to showcase their oracy skills through intra-level competitions.  
+MTLF aims to create an immersive environment for learning and appreciating Mother Tongue languages and Culture. During this annual event, students are engaged in fun and meaningful activities to deepen their love and appreciation of their roots. They experience their respective Mother Tongue Language as a ‘living language’ through activities such as learning to play traditional games and writing ‘khat’. They also have a chance to showcase their oracy skills through intra-level competitions.&nbsp;&nbsp;
 
 ##### 'Baca Ria' (Extensive Reading Programme)
 
-To instill the love for reading from a young age, our students are exposed to different reading materials. Supplementary activities are conducted to reinforce students' understanding of their reading. At the lower primary, students visit the library weekly to promote good reading habits and library etiquette. Students also share their current or favourite reads with their classmates. 
+To instill the love for reading from a young age, our students are exposed to different reading materials. Supplementary activities are conducted to reinforce students' understanding of their reading. At the lower primary, students visit the library weekly to promote good reading habits and library etiquette. Students also share their current or favourite reads with their classmates.&nbsp;
 
 ##### Pick and Tell
 
