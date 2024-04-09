@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Mathematics
 
-![](/images/Mathematics_Department__1_.jpg)
+![](/images/Mathematics_Department__2_.jpg)
 
 |  	|  	|
 |---	|---	|
