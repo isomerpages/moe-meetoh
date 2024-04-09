@@ -2,8 +2,9 @@
 title: ICT in Education
 permalink: /experience-at-mts/ICT-in-Education/
 description: ""
+variant: markdown
 ---
-![](/images/Department%20Photos/2023/Infocomm%20_%20Technology%20Department.jpg)
+![](/images/Infocomm___Technology_Department__1_.jpg)
 
 |  	|  	|
 |---	|---	|
@@ -11,7 +12,7 @@ description: ""
 | **Mission** 	| Create enriched networked learning opportunities anchored by the responsible use of ICT. 	|
 | **Focus Area** 	| **Goals** 	|
 | Curriculum and Instruction <br>(Curate, Create and Connect) 	| Enrich and curate self-directed and collaborative learning activities facilitated by the responsible use of ICT 	|
-| Staff Development <br>(Sustain Professional Learning, Research & Innovation) 	| Enable staff capacity in harnessing and curating ICT resources to engage, enhance and enrich instruction and learning. 	|
+| Staff Development <br>(Sustain Professional Learning, Research &amp; Innovation) 	| Enable staff capacity in harnessing and curating ICT resources to engage, enhance and enrich instruction and learning. 	|
 | Learning and Infrastructure<br>(Create and Connect Networked Learning) 	| Create a conducive and enriched learning environment for staff and students to leverage ICT in teaching and learning. 	|
 
 #### HIGHLIGHTS
@@ -39,17 +40,17 @@ The Digital Literacy Programme guides our students to be more proficient and con
 
 Our CW education focuses on building our students as responsible digital learners. There are 3 main principles that guide our students’ decision-making and anchor their well-being:
 
-· Respect for self and others.<br>
-· Safe and responsible use.<br>
-· Positive peer influence.
+·&nbsp;Respect for self and others.<br>
+·&nbsp;Safe and responsible use.<br>
+·&nbsp;Positive peer influence.
 
 Through our CW lessons integrated within our curriculum, our students get to:
 
-·      Sense – Identify possible online risks and protect themselves.<br>
-·      Think – Analyse, evaluate and reflect on a situation based on the CW principles<br>
-·      Act – Take actions to keep safe and be a positive influence online.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sense – Identify possible online risks and protect themselves.<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Think – Analyse, evaluate and reflect on a situation based on the CW principles<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Act – Take actions to keep safe and be a positive influence online.
 
-The CW lessons cover the issues associated with ethical, legal, safe and responsible use of ICT in alignment with Character & Citizenship Education (CCE) in MTS. Students get to discuss and reflect on these issues related to being a safe, responsible and respectful user of technology.
+The CW lessons cover the issues associated with ethical, legal, safe and responsible use of ICT in alignment with Character &amp; Citizenship Education (CCE) in MTS. Students get to discuss and reflect on these issues related to being a safe, responsible and respectful user of technology.
 
 | Coverage 	| Activities 	|
 |---	|---	|
