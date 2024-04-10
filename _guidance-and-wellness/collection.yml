@@ -1,0 +1,9 @@
+collections:
+  guidance-and-wellness:
+    output: true
+    order:
+      - Overview.md
+      - Cyber Wellness.md
+      - Education and Career Guidance (ECG).md
+      - Form Teacher Guidance Period (FTGP).md
+      - SEAIP.md

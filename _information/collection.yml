@@ -1,0 +1,6 @@
+collections:
+  information:
+    output: true
+    order:
+      - School Bus Information.md
+      - Advertisement for Canteen.md

@@ -1,0 +1,36 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Overview.md
+      - Sports and Games/Overview.md
+      - Sports and Games/Badminton.md
+      - Sports and Games/Basketball.md
+      - Sports and Games/Floorball.md
+      - Sports and Games/Wushu.md
+      - Sports and Games/Sports Club.md
+      - Sports and Games/.keep
+      - Clubs and Societies/Overview.md
+      - Clubs and Societies/Editorial Board.md
+      - Clubs and Societies/Environmental Science Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/School Library Club.md
+      - Clubs and Societies/Nature Lovers Club.md
+      - Clubs and Societies/Robotics.md
+      - Clubs and Societies/Young Philatelist.md
+      - Clubs and Societies/.keep
+      - Visual and Performing Arts/Overview.md
+      - Visual and Performing Arts/Art and Craft Club.md
+      - Visual and Performing Arts/Chinese Calligraphy Club.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Chinese Speech and Drama Club.md
+      - Visual and Performing Arts/Chinese Orchestra.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/English Drama Club.md
+      - Visual and Performing Arts/Diabolo.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/Modern Dance.md
+      - Visual and Performing Arts/.keep
+      - Uniformed Groups/Overview.md
+      - Uniformed Groups/Odyssey Cub Scouts.md
+      - Uniformed Groups/.keep
