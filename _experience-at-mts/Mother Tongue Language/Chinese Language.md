@@ -3,42 +3,81 @@ title: Chinese Language
 permalink: /experience-at-mts/Mother-Tongue-Language/chinese/
 description: ""
 third_nav_title: Mother Tongue Language
+variant: tiptap
 ---
-### Chinese Language
-
-![](/images/Department%20Photos/2023/Mother%20Tongue%20Languages%20Department.jpg)
-
-|  	|  	|
-|---	|---	|
-| Vision 	| Confident and effective communicators with a love for their mother tongue cultures 	|
-| Mission 	| To instill the ‘joy of learning’ in our students through engaging, meaningful, and relevant curriculum 	|
-
-Language Acquisition and Cultural Awareness & Appreciation forms the overarching approach for Chinese Language Learning in Mee Toh School. Listening, Speaking, Reading, Writing, Oral Interaction and Written Interaction skills are integrated into daily language acquisition in the classroom teaching and learning, whilst Cultural Awareness and Appreciation programmes are conducted throughout the year to immerse students in the Chinese Culture.
-
-<img src="/images/chi101.png" style="width:80%">
-
-#### HIGHLIGHTS
-
-##### Love For Reading
-
-Instilling the love of reading is an integral part of Chinese Language Learning. Our signature reading programmes (READ@MTL and “Dances with Books” (与书共舞)) are conducted from Primary 1 to Primary 6, and students at different levels are assigned and guided to read selected storybooks. The school has also embarked on digital reading to facilitate ease of reading and to encourage students to use screen time effectively. 
-
-
-##### Mother Tongue Fortnight & Cultural Awareness Camp
-
-Mother Tongue Fortnight & Cultural Awareness Camp aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Culture. The students are exposed to a wide variety of activities such as finger painting, dragon boat making as well as chopstick making. We provide authentic experiences for students to learn and apply their respective Mother Tongue Language skills through these activities.
-
-  
-##### Cultural Knowledge: Chinese Language & Arts Integrated Curriculum
-
-The school boasts a vast collection of calligraphic works by renowned artists. The programme aims to expose and instill an appreciation of the Chinese Culture through the appreciation of selected calligraphic works. At the end of this 5-year progressive programme, students will be guided to complete an artwork incorporating knowledge and skills learnt from Primary 1 to Primary 5.
-
-  
-
-##### Language Acquisition Emphasis
-
-The school places much emphasis on the development of critical thinking skill, oracy presentation as well as writing skills to equip our students to be confident and effective communicator. Different pedagogies and age-appropriate learning packages are designed to engage students in the learning of Chinese Language.
-
-<img src="/images/chi102.png" style="width:80%">
-
-*Updated on 28 July 2022*
+<h3>Chinese Language</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Languages_Department__1_.jpg">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vision</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Confident and effective communicators with a love for their mother tongue
+cultures</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To instill the ‘joy of learning’ in our students through engaging, meaningful,
+and relevant curriculum</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Language Acquisition and Cultural Awareness &amp; Appreciation forms the
+overarching approach for Chinese Language Learning in Mee Toh School. Listening,
+Speaking, Reading, Writing, Oral Interaction and Written Interaction skills
+are integrated into daily language acquisition in the classroom teaching
+and learning, whilst Cultural Awareness and Appreciation programmes are
+conducted throughout the year to immerse students in the Chinese Culture.</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/chi101.png">
+</div>
+<h4>HIGHLIGHTS</h4>
+<h5>Love For Reading</h5>
+<p>Instilling the love of reading is an integral part of Chinese Language
+Learning. Our signature reading programmes (READ@MTL and “Dances with Books”
+(与书共舞)) are conducted from Primary 1 to Primary 6, and students at different
+levels are assigned and guided to read selected storybooks. The school
+has also embarked on digital reading to facilitate ease of reading and
+to encourage students to use screen time effectively.&nbsp;</p>
+<h5>Mother Tongue Fortnight &amp; Cultural Awareness Camp</h5>
+<p>Mother Tongue Fortnight &amp; Cultural Awareness Camp aims to create an
+immersive environment for learning and appreciating Mother Tongue Languages
+and Culture. The students are exposed to a wide variety of activities such
+as finger painting, dragon boat making as well as chopstick making. We
+provide authentic experiences for students to learn and apply their respective
+Mother Tongue Language skills through these activities.</p>
+<h5>Cultural Knowledge: Chinese Language &amp; Arts Integrated Curriculum</h5>
+<p>The school boasts a vast collection of calligraphic works by renowned
+artists. The programme aims to expose and instill an appreciation of the
+Chinese Culture through the appreciation of selected calligraphic works.
+At the end of this 5-year progressive programme, students will be guided
+to complete an artwork incorporating knowledge and skills learnt from Primary
+1 to Primary 5.</p>
+<h5>Language Acquisition Emphasis</h5>
+<p>The school places much emphasis on the development of critical thinking
+skill, oracy presentation as well as writing skills to equip our students
+to be confident and effective communicator. Different pedagogies and age-appropriate
+learning packages are designed to engage students in the learning of Chinese
+Language.</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/chi102.png">
+</div>
+<p><em>Updated on 28 July 2022</em>
+</p>
