@@ -94,5 +94,7 @@ and Visual Arts (Drama) which enabled them to experience what they would
 be learning in secondary school. They also had the chance to visit a number
 of CCA booths. The students had an engaging and enriching session at the
 Open House.</p>
-<p><em>Updated on 18 April 2024</em>
+<p><em>Updated on 24 May 2018</em>
+</p>
+<p><a href="https://www.meetoh.moe.edu.sg/guidance-and-wellness/education-and-career-guidance" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
