@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - We are 70!.md
-      - Sale of Tickets.md
       - School History Video.md
       - Programme Booklet.md
       - Event Highlights.md
