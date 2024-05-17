@@ -9,7 +9,11 @@ variant: tiptap
 <p><em>To email our staff, click on their names.</em>
 </p>
 <h4>Chinese Teachers</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -296,16 +300,6 @@ best that they can possibly be.” - Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:fiona_ho_shiyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Fiona Loh</a></strong> 
-<br>
-<br>Children need love, especially when they do not deserve it. - Harold Hulbert</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:zhao_qianxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
 </p>
 <p></p>
@@ -329,7 +323,11 @@ best that they can possibly be.” - Rita Pierson</p>
 </tbody>
 </table>
 <h4>Malay Teachers</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -377,7 +375,11 @@ Each child has a gift. Each just opens them at different times.</p>
 </tbody>
 </table>
 <h4>Tamil Teachers</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
