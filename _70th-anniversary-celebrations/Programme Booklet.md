@@ -6,7 +6,5 @@ description: ""
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/29.png">
-</div>
-<p></p>
+<p><a href="/files/70AV_Celebration_eProg_Booklet_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">70th Anniversary Celebration Programme</a>
+</p>
