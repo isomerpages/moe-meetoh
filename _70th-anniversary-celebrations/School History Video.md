@@ -11,4 +11,4 @@ description: ""
 <p>Just like how the first brush stroke on a canvas creates a masterpiece,
 our school’s history began with a single mission - to provide education
 for the children in the neighborhood. This video showcases our history,
-our experiences and our legacy thus far.</p>
+our experiences and our legacy.</p>
