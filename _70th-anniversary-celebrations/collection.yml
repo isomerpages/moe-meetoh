@@ -2,8 +2,8 @@ collections:
   70th-anniversary-celebrations:
     output: true
     order:
-      - School Initiatives.md
       - We are 70!.md
       - School History Video.md
       - Programme Booklet.md
+      - School Initiatives.md
       - Event Highlights.md
