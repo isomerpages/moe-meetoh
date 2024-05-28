@@ -29,6 +29,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/PartnersAward.png">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/Partnership.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/Student_Performers.png">
 </div>
 <p></p>
