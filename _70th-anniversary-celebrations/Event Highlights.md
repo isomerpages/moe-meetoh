@@ -31,7 +31,14 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/Partnership.png">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/P6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/P7.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/Students_Performances__3_.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
