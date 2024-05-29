@@ -20,7 +20,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/Students_Performances__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/70th Anniversary Celebrations/Students_Performances__3_.png">
 </div>
 <p></p>
