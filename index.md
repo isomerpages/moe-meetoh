@@ -73,4 +73,13 @@ sections:
       url: /voices-of-mts/
       image: /images/infopic5.png
       alt: infopic5
+  - infopic:
+      title: 2024 Primary One Registration
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Read More
+      url: https://www.moe.gov.sg/primary/p1-registration
+      image: /images/P1 Registration/2024_P1_Registration_Banner.png
+      alt: Image alt text
 ---
