@@ -132,7 +132,7 @@ William Butler Yeats</p>
 <p><strong><a href="mailto:liu_miao_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Liu Miao</u></a></strong>
 </p>
 <p>
-<br><strong>Form Teacher (2) Primary 4-4</strong> 
+<br><strong>Form Teacher (2) Primary 4-4</strong>
 </p>
 <p></p>
 </td>
@@ -236,6 +236,18 @@ Socrates</p>
 <br><strong>Form Teacher (2) Primary 4-8</strong> 
 <br>
 <br>Patience and consistency are hallmarks of excellence.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:chng_tsang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Chng Tsang Sheng</u></a></strong> 
+</p>
+<p>
+<br><strong>Form Teacher (2) Primary 4-8</strong> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
