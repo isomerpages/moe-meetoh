@@ -159,8 +159,7 @@ Edison</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:luo_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Luo Hong</u></a></strong>
 </p>
-<p>
-<br><strong>Form Teacher (2) Primary 5-6</strong> 
+<p><strong>Form Teacher (2) Primary 5-6</strong> 
 <br>
 </p>
 </td>
