@@ -8,7 +8,11 @@ variant: tiptap
 <h3>Primary 2 Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -228,6 +232,17 @@ surely see that special quality in them.</p>
 <br>
 <br>“Pursue your dreams. You will be amazed about what you can achieve.” -
 Lailah Gifty Akita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:wong_wei_ting_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wong Wei Ting</u></a></strong>
+</p>
+<p><strong>Form Teacher (2) Primary 2-9</strong> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
