@@ -8,7 +8,11 @@ variant: tiptap
 <h3>Primary 4 Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,12 +24,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_liping_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Liping Fiona</u></a></strong> 
+<p><strong><a href="mailto:noraihan_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Noraihan Binte Samad</u></a></strong>
+</p>
+<p>
 <br><strong>Form Teacher (1) Primary 4-1</strong> 
 <br>
-<br>Plant seeds of curiosity, prune weeds of bad habits, provide a nurturing
-environment, and in time you will be rewarded with mighty trees of future
-generations.</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -84,11 +89,13 @@ feeling and guide them to grow to be great in their own right.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhammad_amin_mokhtar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhammad Amin Bin Mokhtar</u></a></strong> 
+<p><strong><a href="mailto:iskandar_mirza_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Iskandar Mirza Bin Salleh</u></a></strong> 
+</p>
+<p>
 <br><strong>Form Teacher (2) Primary 4-3</strong> 
 <br>
-<br>A belief lies at the heart of what we do. Without the belief, there can
-be no success.</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
