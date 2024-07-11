@@ -241,7 +241,7 @@ Lailah Gifty Akita</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:wong_wei_ting_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wong Wei Ting</u></a></strong>
 </p>
-<p><strong>Form Teacher (2) Primary 2-9</strong> 
+<p><strong>Form Teacher (2) Primary 2-9</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
