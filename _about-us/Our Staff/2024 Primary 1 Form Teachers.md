@@ -8,7 +8,11 @@ variant: tiptap
 <h3>Primary 1 Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,6 +56,17 @@ love of bringing the first two loves together.” - Scott Hayden</p>
 <br>“Give the students something to do, not something to learn; and the doing
 is of such a nature as to demand thinking; learning naturally results.”
 - John Dewey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:fazlinda_junid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fazlinda Binte Junid</u></a></strong>
+</p>
+<p><strong>Form Teacher (1) Primary 1-2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
