@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Academic Year 2024</h4>
 <p><strong>School Hours:</strong>  <strong>7.30 a.m. to 1.30 p.m.</strong>
 </p>
-<p><strong>School will end at 1.00 p.m. on Wednesdays.</strong>
+<p><strong>School will end at 1.05 p.m. on Wednesdays.</strong>
 </p>
 <h5>Morning Assembly</h5>
 <div class="isomer-image-wrapper">
