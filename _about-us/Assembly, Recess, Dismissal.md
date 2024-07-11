@@ -89,7 +89,7 @@ for the Silent Reading Programme.</p>
 </tr>
 </tbody>
 </table>
-<p>School will end at 1.05 p.m. on Wednesdays.
+<p>School will end at 1.00 p.m. on Wednesdays.
 <br>
 <br>
 </p>
@@ -162,7 +162,7 @@ for their siblings.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Bus students will report to the school bus operators and queue
-according to the queue</p>
+according to the queue0</p>
 </td>
 </tr>
 </tbody>
