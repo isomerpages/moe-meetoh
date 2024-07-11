@@ -89,7 +89,7 @@ feeling and guide them to grow to be great in their own right.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:iskandar_mirza_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Iskandar Mirza Bin Salleh</u></a></strong> 
+<p><strong><a href="mailto:iskandar_mirza_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Iskandar Mirza Bin Salleh</u></a></strong>
 </p>
 <p>
 <br><strong>Form Teacher (2) Primary 4-3</strong> 
@@ -122,6 +122,19 @@ rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
 <br>
 <br>“Education is not the filling of a pail but the lighting of a fire.” -
 William Butler Yeats</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:liu_miao_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Liu Miao</u></a></strong>
+</p>
+<p>
+<br><strong>Form Teacher (2) Primary 4-4</strong> 
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
