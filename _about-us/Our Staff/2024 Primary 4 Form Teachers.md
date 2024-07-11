@@ -26,8 +26,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:noraihan_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Noraihan Binte Samad</u></a></strong>
 </p>
-<p>
-<br><strong>Form Teacher (1) Primary 4-1</strong> 
+<p><strong>Form Teacher (1) Primary 4-1</strong> 
 <br>
 <br>
 </p>
@@ -91,8 +90,7 @@ feeling and guide them to grow to be great in their own right.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:iskandar_mirza_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Iskandar Mirza Bin Salleh</u></a></strong>
 </p>
-<p>
-<br><strong>Form Teacher (2) Primary 4-3</strong> 
+<p><strong>Form Teacher (2) Primary 4-3</strong> 
 <br>
 <br>
 </p>
@@ -131,8 +129,7 @@ William Butler Yeats</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:liu_miao_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Liu Miao</u></a></strong>
 </p>
-<p>
-<br><strong>Form Teacher (2) Primary 4-4</strong>
+<p><strong>Form Teacher (2) Primary 4-4</strong>
 </p>
 <p></p>
 </td>
@@ -245,8 +242,7 @@ Socrates</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chng_tsang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Chng Tsang Sheng</u></a></strong>
 </p>
-<p>
-<br><strong>Form Teacher (2) Primary 4-8</strong>
+<p><strong>Form Teacher (2) Primary 4-8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
