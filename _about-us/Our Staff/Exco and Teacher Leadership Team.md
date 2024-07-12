@@ -13,7 +13,11 @@ variant: tiptap
 <p></p>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -106,17 +110,6 @@ dedicated educator can help the child achieve that breakthrough in learning.</p>
 <br>
 <br>Teach the young minds to be curious and to constantly ask questions. It
 is alright to make mistakes, but learn from the mistakes to become better.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tinie Tan Mui Ngin</a></strong> 
-<br><strong>Head of Department - Mother Tongue Languages (MTL)</strong> 
-<br>
-<br>“先生不应该专教书，他的责任是教人做人；学生不应该专读书，他的责任是学习人生之道。” -- 陶行知</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
