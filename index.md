@@ -23,8 +23,7 @@ sections:
       title: Homecoming 2024
       id: infopic
       description: Thursday, 29 August 2024
-      url: https://go.gov.sg/ug9vrq
-      image: /images/Announcements/Homecoming/poster_2024_teachers_day_final.jpg
+      image: /images/Announcements/Homecoming/2024_Teachers_Day_Poster.jpg
       alt: Image alt text
   - infopic:
       title: 70th Anniversary
