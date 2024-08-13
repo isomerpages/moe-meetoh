@@ -20,6 +20,12 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: Homecoming 2024
+      id: infopic
+      description: Thursday, 29 August 2024
+      image: /images/Announcements/Homecoming/2024_Teachers_Day_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: 70th Anniversary
       id: infopic
       description: Saturday, 25 May 2024
