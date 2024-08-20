@@ -20,6 +20,14 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: 2024 MTS Caring Staff Award
+      id: infopic
+      button: Fill in your nomination here!
+      url: https://form.gov.sg/66bb0869f55a3259a8a69205
+      image: /images/MTS_Caring_TEACHER_AWARD__1_.png
+      alt: Image alt text
+      description: Nominations are open to all parents and students of MTS
+  - infopic:
       title: Homecoming 2024
       id: infopic
       description: Thursday, 29 August 2024
@@ -34,13 +42,6 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
-  - infopic:
-      title: 2024 Primary One Registration
-      id: infopic
-      button: Read More
-      url: https://www.moe.gov.sg/primary/p1-registration
-      image: /images/P1 Registration/2024_P1_Registration_Banner.png
-      alt: Image alt text
   - infopic:
       title: Integrated Project Work - Values-In-Action (IPW-VIA)
       description: Mee Toh School’s IPW-VIA uses the Design Thinking Framework to
