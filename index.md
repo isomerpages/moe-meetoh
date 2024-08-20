@@ -26,7 +26,8 @@ sections:
       url: https://form.gov.sg/66bb0869f55a3259a8a69205
       image: /images/MTS_Caring_TEACHER_AWARD__1_.png
       alt: Image alt text
-      description: Nominations are open to all parents and students of MTS
+      description: Nominations are open to all parents, students and alumni of Mee Toh
+        School
   - infopic:
       title: Homecoming 2024
       id: infopic
