@@ -35,6 +35,13 @@ sections:
       image: /images/Announcements/Homecoming/2024_Teachers_Day_Poster.jpg
       alt: Image alt text
   - infopic:
+      title: Mid-Autumn Festival 2024
+      subtitle: Friday, 20 September, 6pm-9pm
+      id: infopic
+      description: Sale of tickets will commence in Term 4 Week 1 at Gate 2
+      image: /images/Mid_Autumn_Festival_Banner.png
+      alt: Image alt text
+  - infopic:
       title: 70th Anniversary
       id: infopic
       description: Saturday, 25 May 2024
