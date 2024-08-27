@@ -38,9 +38,9 @@ sections:
       title: Mid-Autumn Festival 2024
       subtitle: Friday, 20 September, 6pm-9pm
       id: infopic
-      description: Sale of tickets will start on Tuesday, 10 September @ Gate 2
+      description: Sale of tickets take place on Tuesday, 10 September to Thursday, 13
+        September during recess and after school at Gate 2
       image: /images/Mid_Autumn_Festival_Banner.png
-      alt: Image alt text
   - infopic:
       title: 70th Anniversary
       id: infopic
