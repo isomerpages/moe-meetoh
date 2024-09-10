@@ -6,7 +6,11 @@ variant: tiptap
 third_nav_title: Parent Support Group
 ---
 <h3>Parent Support Group (PATH)</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,7 +63,11 @@ Tohians, whom we hope they will likewise grow up embracing our school values
 and contribute meaningfully to society.</p>
 <p><strong>PATH EXCO</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -178,7 +186,10 @@ and contribute meaningfully to society.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -192,7 +203,10 @@ Alternatively, please scan the QR Code&nbsp;provided&nbsp;.</p>
 <img style="width:30%" height="auto" width="100%" src="/images/path1.png">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -210,6 +224,11 @@ more information on Code of Conduct for PATH.</p>
 </div>
 <p><strong><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V1_2024_compress.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to read Volume 1</a></strong>
 </p>
-<p><em>Updated on 01 April 2024</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2024_V2_Cover.jpg">
+</div>
+<p><strong><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V2_2024_2_.pdf" rel="noopener nofollow" target="_blank">Click here to read Volume 2</a></strong>
 </p>
+<p></p>
 <p></p>
