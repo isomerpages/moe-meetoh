@@ -20,6 +20,15 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: Mid-Autumn Festival 2024
+      subtitle: Friday, 20 September 2024
+      id: infopic
+      description: Sale of tickets start on Tuesday, 10 September to Thursday, 13
+        September during recess and after school at Gate 2. Limited tickets are
+        available for sale daily.
+      image: /images/Mid_Autumn_Festival_Banner.png
+      alt: Image alt text
+  - infopic:
       title: 2024 MTS Caring Staff Award
       id: infopic
       button: Fill in your nomination here!
@@ -28,19 +37,6 @@ sections:
       alt: Image alt text
       description: Nominations are open to all parents, students and alumni of Mee Toh
         School
-  - infopic:
-      title: Homecoming 2024
-      id: infopic
-      description: Thursday, 29 August 2024
-      image: /images/Announcements/Homecoming/2024_Teachers_Day_Poster.jpg
-      alt: Image alt text
-  - infopic:
-      title: Mid-Autumn Festival 2024
-      subtitle: Friday, 20 September, 6pm-9pm
-      id: infopic
-      description: Sale of tickets take place on Tuesday, 10 September to Thursday, 13
-        September during recess and after school at Gate 2
-      image: /images/Mid_Autumn_Festival_Banner.png
   - infopic:
       title: 70th Anniversary
       id: infopic
