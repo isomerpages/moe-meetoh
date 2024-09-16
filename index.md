@@ -23,9 +23,7 @@ sections:
       title: Mid-Autumn Festival 2024
       subtitle: Friday, 20 September 2024
       id: infopic
-      description: Sale of tickets start on Tuesday, 10 September to Thursday, 13
-        September during recess and after school at Gate 2. Limited tickets are
-        available for sale daily.
+      description: Tickets are sold out.  Thank you for your interest!
       image: /images/Mid_Autumn_Festival_Banner.png
       alt: Image alt text
   - infopic:
