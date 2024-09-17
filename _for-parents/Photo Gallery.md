@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.smugmug.com/gallery/n-fL42s5" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day (15 Feb)</a> 
+<p><a href="https://www.smugmug.com/gallery/n-fL42s5" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day (15 Feb)</a>
 </p>
 <p><a href="https://www.smugmug.com/gallery/n-pTR9HL" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebrations (9 Feb)</a> 
 <br><a href="https://www.smugmug.com/gallery/n-Tg4rNv" rel="noopener noreferrer nofollow" target="_blank">Laba Festival Celebration (18 Jan</a> 
