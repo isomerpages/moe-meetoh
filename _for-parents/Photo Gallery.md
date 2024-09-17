@@ -19,6 +19,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.smugmug.com/gallery/n-pTR9HL" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations (9 Feb)</a>
 </p>
+<p><a href="https://www.smugmug.com/gallery/n-32jTdj" rel="noopener nofollow" target="_blank">P1 First Day of School (2 Jan)</a>
+</p>
 </td>
 </tr>
 </tbody>
