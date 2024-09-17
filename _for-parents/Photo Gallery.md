@@ -36,12 +36,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.smugmug.com/gallery/n-fL42s5" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day (15 Feb)</a>
-</p>
-<p><a href="https://www.smugmug.com/gallery/n-pTR9HL" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebrations (9 Feb)</a> 
+<a href="https://www.smugmug.com/gallery/n-fL42s5" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day (15 Feb)</a>
+<br><a href="https://www.smugmug.com/gallery/n-pTR9HL" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebrations (9 Feb)</a> 
 <br><a href="https://www.smugmug.com/gallery/n-Tg4rNv" rel="noopener noreferrer nofollow" target="_blank">Laba Festival Celebration (18 Jan</a> 
 <br><a href="https://www.smugmug.com/gallery/n-32jTdj" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School (2 Jan)</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
