@@ -17,9 +17,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.smugmug.com/gallery/n-pTR9HL" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations (9 Feb)</a>
-</p>
-<p><a href="https://www.smugmug.com/gallery/n-32jTdj" rel="noopener nofollow" target="_blank">P1 First Day of School (2 Jan)</a>
+<p><a href="https://www.smugmug.com/gallery/n-pTR9HL" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebrations (9 Feb)</a> 
+<br><a href="https://www.smugmug.com/gallery/n-32jTdj" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School (2 Jan)</a> 
+<br><a href="https://www.smugmug.com/gallery/n-wC8Fdq" rel="noopener noreferrer nofollow" target="_blank">National Day Celebrations (Aug 8)</a>
 </p>
 </td>
 </tr>
