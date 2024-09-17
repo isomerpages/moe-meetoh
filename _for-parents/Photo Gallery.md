@@ -4,8 +4,53 @@ permalink: /for-parents/photo-gallery/
 description: ""
 variant: tiptap
 ---
+<h4>2024</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>TERM 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smugmug.com/gallery/n-nmShjC" rel="noopener noreferrer nofollow" target="_blank">Taiwan Zhi Qing Elementary School (13 May - 17 May)</a> 
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>TERM 1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smugmug.com/gallery/n-fL42s5" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day (15 Feb)</a>
+<br><a href="https://www.smugmug.com/gallery/n-pTR9HL" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebrations (9 Feb)</a> 
+<br><a href="https://www.smugmug.com/gallery/n-Tg4rNv" rel="noopener noreferrer nofollow" target="_blank">Laba Festival Celebration (18 Jan</a> 
+<br><a href="https://www.smugmug.com/gallery/n-32jTdj" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School (2 Jan)</a>
+</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2023</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +67,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -41,7 +89,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,7 +112,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2022</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -76,7 +130,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -92,7 +149,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -111,7 +171,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -127,7 +190,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2021</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -142,7 +208,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -157,7 +226,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -173,7 +245,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -191,7 +266,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2020</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -206,7 +284,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -221,7 +302,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -257,7 +341,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2019</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -274,7 +361,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -301,7 +391,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -360,7 +453,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
