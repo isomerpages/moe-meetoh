@@ -231,4 +231,8 @@ more information on Code of Conduct for PATH.</p>
 <p><strong><a href="/files/For Parents/Parent Support Group (PATH)/PATH_Connects_V2_2024_2_.pdf" rel="noopener nofollow" target="_blank">Click here to read Volume 2</a></strong>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/PATH_Newsletter_Vol_3_Cover_page.jpg">
+</div>
+<p><strong><a href="/files/For Parents/Parent Support Group (PATH)/2024_Vol_3.pdf" rel="noopener nofollow" target="_blank">Click here to read Volume 3</a></strong>
+</p>
