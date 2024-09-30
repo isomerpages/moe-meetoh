@@ -20,16 +20,9 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: Mid-Autumn Festival 2024
-      subtitle: Friday, 20 September 2024
-      id: infopic
-      description: Tickets are sold out.  Thank you for your interest!
-      image: /images/Mid_Autumn_Festival_Banner.png
-      alt: Image alt text
-  - infopic:
       title: 2024 MTS Caring Staff Award
       id: infopic
-      button: Fill in your nomination here!
+      button: Nominate by Friday, 4 Oct 2024
       url: https://form.gov.sg/66bb0869f55a3259a8a69205
       image: /images/MTS_Caring_TEACHER_AWARD__1_.png
       alt: Image alt text
@@ -39,7 +32,7 @@ sections:
       title: 70th Anniversary
       id: infopic
       description: Saturday, 25 May 2024
-      button: read more
+      button: click for Event Highlights
       url: /70th-anniversary-celebrations/
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
