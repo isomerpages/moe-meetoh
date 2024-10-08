@@ -20,15 +20,6 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: 2024 MTS Caring Staff Award
-      id: infopic
-      button: Nominate by Friday, 4 Oct 2024
-      url: https://form.gov.sg/66bb0869f55a3259a8a69205
-      image: /images/MTS_Caring_TEACHER_AWARD__1_.png
-      alt: Image alt text
-      description: Nominations are open to all parents, students and alumni of Mee Toh
-        School
-  - infopic:
       title: 70th Anniversary
       id: infopic
       description: Saturday, 25 May 2024
