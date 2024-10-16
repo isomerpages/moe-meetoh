@@ -17,10 +17,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers' Day Celebration (29 Aug)
-<br>P5 Camp (22-24Aug)
-<br>National Day Celebration (8 August)
-<br>Racial Harmony Day (16-18 Jul)</p>
+<p><a href="https://www.smugmug.com/gallery/n-6Zwz7N" rel="noopener nofollow" target="_blank">Teachers' Day Celebration (29 Aug) </a>
+<br><a href="https://www.smugmug.com/gallery/n-KwPS9C" rel="noopener nofollow" target="_blank">P5 Camp (22-24Aug) </a>
+<br><a href="https://www.smugmug.com/gallery/n-nD7z4P" rel="noopener nofollow" target="_blank">National Day Celebration (8 August)</a>
+<br><a href="https://www.smugmug.com/gallery/n-j7Qsp7" rel="noopener nofollow" target="_blank">Racial Harmony Day (16-18 Jul)</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -37,12 +38,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vesak Day &amp; MTS 70th Anniversary (25 May)
+<p><a href="https://www.smugmug.com/gallery/n-nzVSXq" rel="noopener nofollow" target="_blank">Vesak Day &amp; MTS 70th Anniversary (25 May) </a>
 <br><a href="https://www.smugmug.com/gallery/n-nmShjC" rel="noopener noreferrer nofollow" target="_blank">Taiwan Zhi Qing Elementary School (13 May - 17 May)</a>
-<br>Hari Raya Puasa Celebration (15 Apr)
-<br>International Friendship Day (1 Apr)
-<br>Mother Tongue Fortnight (25 Mar - 5 Apr)
-<br>World Water Day (22 Mar)</p>
+<br><a href="https://www.smugmug.com/gallery/n-f5hzMg" rel="noopener nofollow" target="_blank">Hari Raya Puasa Celebration (15 Apr) </a>
+<br><a href="https://www.smugmug.com/gallery/n-xHFzGV" rel="noopener nofollow" target="_blank">International Friendship Day (1 Apr) </a>
+<br><a href="https://www.smugmug.com/gallery/n-3md6Tt" rel="noopener nofollow" target="_blank">Mother Tongue Fortnight (25 Mar - 5 Apr)</a> 
+<br><a href="https://www.smugmug.com/gallery/n-77ZBxF" rel="noopener nofollow" target="_blank">World Water Day (22 Mar)</a>
+</p>
 </td>
 </tr>
 </tbody>
