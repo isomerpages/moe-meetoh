@@ -38,8 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.smugmug.com/gallery/n-nzVSXq" rel="noopener nofollow" target="_blank">Vesak Day &amp; MTS 70th Anniversary (25 May) </a>
-<br><a href="https://www.smugmug.com/gallery/n-nmShjC" rel="noopener noreferrer nofollow" target="_blank">Taiwan Zhi Qing Elementary School (13 May - 17 May)</a>
+<p><a href="https://www.smugmug.com/gallery/n-nmShjC" rel="noopener noreferrer nofollow" target="_blank">Taiwan Zhi Qing Elementary School (13 May - 17 May)</a>
 <br><a href="https://www.smugmug.com/gallery/n-f5hzMg" rel="noopener nofollow" target="_blank">Hari Raya Puasa Celebration (15 Apr) </a>
 <br><a href="https://www.smugmug.com/gallery/n-xHFzGV" rel="noopener nofollow" target="_blank">International Friendship Day (1 Apr) </a>
 <br><a href="https://www.smugmug.com/gallery/n-3md6Tt" rel="noopener nofollow" target="_blank">Mother Tongue Fortnight (25 Mar - 5 Apr)</a> 
