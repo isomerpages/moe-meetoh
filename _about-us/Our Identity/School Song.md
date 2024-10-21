@@ -15,4 +15,4 @@ Rearranged by Sulwyn Lok for the 70th Anniversary in 2024 Chorus by Mee Toh Scho
 词： 丰子恺 
 Written by Feng Zikai 
 <br>曲： 杨民望
-Composed by Yang Min Wang 
+Composed by Yang Min Wang
