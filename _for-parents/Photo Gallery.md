@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h4>2024</h4>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>TERM 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smugmug.com/gallery/n-Qp5q99" rel="noopener nofollow" target="_blank">Children's Day Celebration (3 Oct)</a>
+<br><a href="https://www.smugmug.com/gallery/n-fqdXNR" rel="noopener nofollow" target="_blank">Mid-Autumn Festival Celebration (20 Sep)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
