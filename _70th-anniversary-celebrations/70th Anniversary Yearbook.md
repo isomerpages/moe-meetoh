@@ -12,7 +12,7 @@ description: ""
 </div>
 <p></p>
 <p>
-<br><a href="https://online.fliphtml5.com/obrr/tdsf/#p=70" rel="noopener nofollow" target="_blank">Click here to view the digital Yearbook. </a>
+<br><a href="https://online.fliphtml5.com/obrr/tdsf/#p=70" rel="noopener nofollow" target="_blank">Click here to view the digital Yearbook.</a>
 </p>
 <p>Access is for MTS staff, students and parents only.</p>
 <p>Please refer to Parent Gateway and SLS for the password.</p>
