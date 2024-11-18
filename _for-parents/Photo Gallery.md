@@ -97,6 +97,24 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>TERM 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smugmug.com/gallery/n-Q9vLFX" rel="noopener nofollow" target="_blank">P6 Graduation 2023 (Nov 17)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>TERM 3</p>
 </th>
 </tr>
