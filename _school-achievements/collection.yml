@@ -3,9 +3,4 @@ collections:
     output: true
     order:
       - Overview.md
-      - Character Awards/2022 Character Awards.md
-      - Character Awards/2021 Character Awards.md
-      - Character Awards/2020 Character Awards.md
-      - Character Awards/2019 Character Awards.md
-      - Character Awards/.keep
       - External Competitions.md
