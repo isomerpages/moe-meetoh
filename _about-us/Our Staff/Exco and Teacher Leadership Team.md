@@ -30,7 +30,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:alice_ooi_shui_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong> 
-<br><strong>Assistant Year Head - Primary 1</strong> 
+<br><strong>Year Head - Primary 1</strong> 
 <br>
 <br>" I never teach my pupils, I only attempt to provide the conditions in
 which they can learn." - Albert Einstein</p>
