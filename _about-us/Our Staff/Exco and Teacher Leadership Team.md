@@ -147,22 +147,6 @@ every child to grow into an educated adult.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_meng_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Meng Joo</a></strong> 
-<br><strong>Head of Department - Information and Communication Technology (ICT)</strong> 
-<br>
-<br>"Learning without thought is labor lost; thought without learning is perilous."
-- Confucius
-<br>
-<br>All the reasoning, reflecting and deliberating in the world will not bring
-our thoughts and intention to bear fruit unless they are firmly planted
-in the soil of knowledge and nourished with the waters of information.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan_chee_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chee Kian, Joey</a></strong> 
 <br><strong>Head of Department - Physical &amp; Health Education (PHE)</strong> 
 <br>
