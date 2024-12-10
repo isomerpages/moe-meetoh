@@ -11,7 +11,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Executive_Administration_Support__1_.jpg">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -140,7 +144,7 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Alvin Lin Wenjie<br>Desktop Enginner (DE)</strong>
+<p><strong>Mr Mohamad Syafiee Bin Surani<br>Desktop Enginner (DE)</strong>
 <br>
 <br>“Life itself is your teacher, and you are in a state of constant learning.”
 <br>Bruce Lee
