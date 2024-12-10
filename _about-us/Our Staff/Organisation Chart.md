@@ -21,19 +21,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p><strong>&nbsp;</strong>Mr Tay Hsien Chuan Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Wang-Tan Sun Sun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principal</p>
+<p>&nbsp;Principal</p>
 </td>
 </tr>
 <tr>
@@ -157,14 +148,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD SSD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Meng Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
