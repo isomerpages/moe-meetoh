@@ -24,7 +24,7 @@ variant: tiptap
 <p>Mr Tay Hsien Chuan Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Principal</p>
+<p>Principal</p>
 </td>
 </tr>
 <tr>
