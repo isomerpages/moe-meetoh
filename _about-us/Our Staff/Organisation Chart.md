@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>Mr Tay Hsien Chuan Kelvin</p>
+<p>Mr Tay Hsien Chuan Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Principal</p>
