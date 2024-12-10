@@ -42,7 +42,7 @@ which they can learn." - Albert Einstein</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chia_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Li Ling</a></strong> 
-<br><strong>Assistant Year Head - Primary 2</strong> 
+<br><strong>Assistant Year Head - Primary 1</strong>
 <br>
 <br>It matters not our starting point in life. If we have the desire to learn,
 engage in self-reflection and listen with an open mind, we can get to where
