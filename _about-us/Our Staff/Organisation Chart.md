@@ -176,11 +176,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Mr Chia Ian Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
