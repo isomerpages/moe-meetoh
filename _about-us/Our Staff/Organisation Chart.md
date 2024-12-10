@@ -451,7 +451,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Zhang Yi Nan</p>
+<p>Mdm Zhang Yi Nan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST CL</p>
@@ -459,7 +459,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Chai Ching Shze Sofie</p>
+<p>Ms Chai Ching Shze Sofie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Learning Needs-Educational Support</p>
