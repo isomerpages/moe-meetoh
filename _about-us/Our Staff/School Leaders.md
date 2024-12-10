@@ -22,20 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wang-Tan Sun Sun
+<p>Mr Tay Hsien Chuan Kelvin
 <br>Principal
 <br>
-<br>"It takes ten years to grow a tree and a hundred years to cultivate a
-person" (十年树木，百年树人). Education is about nurturing the whole child to be
-the best person that he can be. To educate a person is to prepare him for
-life.
-<br>
-<br>The interesting fact about schooling is that it involves teachers of the
-past generation educating the present generation to raise a future generation!
-What firmly anchors at the core of the education in schools must therefore
-be a Student-centric and Values-driven education, rooted with fundamentals
-which remain unchanging with times and yet, embraces life-skills to prepare
-every child to face the ever-changing demands in our evolving landscapes.</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
