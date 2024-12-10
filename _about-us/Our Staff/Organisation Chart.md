@@ -184,11 +184,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Miss Quek Yi Hui Eleanor&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;HOD Total Curriculum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -254,22 +261,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Quek Yi Hui Eleanor&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Total Curriculum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chia Ian Benjamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH ICT</p>
 </td>
 </tr>
 <tr>
