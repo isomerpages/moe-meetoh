@@ -29,18 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:alice_ooi_shui_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong> 
-<br><strong>Year Head - Primary 1</strong> 
-<br>
-<br>" I never teach my pupils, I only attempt to provide the conditions in
-which they can learn." - Albert Einstein</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chia_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Li Ling</a></strong> 
 <br><strong>Assistant Year Head - Primary 1</strong>
 <br>
@@ -54,10 +42,22 @@ we choose to be</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mr Leong Jian Wei Wayne</u></strong>
+<p><strong><a href="mailto:leong_jian_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Leong Jian Wei Wayne</a></strong>
 </p>
 <p><strong>Assistant Year Head - Primary 5</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:alice_ooi_shui_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong> 
+<br><strong>Year Head - Primary 1</strong>  <strong>&amp; 2</strong>
+<br>
+<br>" I never teach my pupils, I only attempt to provide the conditions in
+which they can learn." - Albert Einstein</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
