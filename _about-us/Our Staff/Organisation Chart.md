@@ -107,7 +107,7 @@ variant: tiptap
 <p>Mr Leong Jian Wei Wayne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P5)</p>
+<p>Assistant Year Head (P3)</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ variant: tiptap
 <p>Mdm Sim Kun Kin (Mrs Jacelyn Ang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD SSD</p>
+<p>SSD</p>
 </td>
 </tr>
 <tr>
