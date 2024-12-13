@@ -253,7 +253,7 @@ do.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:quek_yi_hui_eleanor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Quek Yi Hui Eleanor</a></strong> 
-<br><strong>Subject Head - Total Curriculum</strong> 
+<br><strong>Head of Department- Total Curriculum</strong> 
 <br>
 <br>LIVE every moment with the child and you will find that he/she has so
 much to show you.
@@ -271,7 +271,7 @@ world. There is hope</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:benjamin_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Ian Benjamin</a></strong> 
-<br><strong>Subject Head - Information and Communication Technology (ICT)</strong> 
+<br><strong>Head of Department - Information and Communication Technology (ICT)</strong> 
 <br>
 <br>There are no great limits to learning except those that we impose on ourselves.</p>
 </td>
