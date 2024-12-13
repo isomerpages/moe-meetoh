@@ -181,7 +181,7 @@ rich, beautiful or perfect. You just have to care." Mandy Hale</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Maledeine Lai</p>
-<p><strong>Head of Department - Chinese Language</strong> 
+<p><strong>Head of Department - Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -365,6 +365,16 @@ is of such a nature as to demand thinking; learning naturally results."
 <br>“Every child deserves a champion - an adult who will never give up on
 them, who understands the power of connection and insists that they become
 the best they can possibly be ~ Rita Pierson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chai Ching Shze Sofie</p>
+<p><strong>Senior Teacher - Learning Needs - Educational Support</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
