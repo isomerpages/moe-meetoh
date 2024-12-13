@@ -180,6 +180,16 @@ rich, beautiful or perfect. You just have to care." Mandy Hale</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Maledeine Lai</p>
+<p><strong>Head of Department - Chinese Language</strong> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:zhao_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhao Xin</a></strong> 
 <br><strong>Subject Head - Chinese Language</strong> 
 <br>
@@ -303,33 +313,6 @@ world. There is hope</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:foo_tiang_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Foo Tiang Weng</a></strong> 
-<br><strong>Lead Teacher - Visual Arts</strong> 
-<br>
-<br>The value of any intellect is as good as the underlying values of the
-beholder.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shanti_a_sangaralingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shanti d/o A Sangaralingam</a></strong> 
-<br><strong>Senior Teacher - English Language</strong> 
-<br>
-<br>I believe that each child is unique and has the potential to be better
-than what he or she is today. I want him or her to experience the joy of
-learning, discover his or her own strengths, passions and interests and
-walk through life, enjoying its journey bearing in mind that education
-is a journey and never a destination.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:norlina_ahmadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norlina Bte Ahmadi (Mrs Redwan)</a></strong> 
 <br><strong>Senior Teacher - English Language</strong> 
 <br>
@@ -446,5 +429,4 @@ latter. Every child can learn and do good.</p>
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 21 December 2023</em>
-</p>
+<p></p>
