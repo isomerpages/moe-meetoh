@@ -44,6 +44,16 @@ we choose to be</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:leong_jian_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Leong Jian Wei Wayne</a></strong>
 </p>
+<p><strong>Assistant Year Head - Primary 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Koh Shu Hui</p>
 <p><strong>Assistant Year Head - Primary 5</strong>
 </p>
 </td>
