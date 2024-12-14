@@ -29,20 +29,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:alice_ooi_shui_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong> 
-<br><strong>Assistant Year Head - Primary 1</strong> 
-<br>
-<br>" I never teach my pupils, I only attempt to provide the conditions in
-which they can learn." - Albert Einstein</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chia_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Li Ling</a></strong> 
-<br><strong>Assistant Year Head - Primary 2</strong> 
+<br><strong>Assistant Year Head - Primary 1</strong>
 <br>
 <br>It matters not our starting point in life. If we have the desire to learn,
 engage in self-reflection and listen with an open mind, we can get to where
@@ -54,10 +42,32 @@ we choose to be</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mr Leong Jian Wei Wayne</u></strong>
+<p><strong><a href="mailto:leong_jian_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Leong Jian Wei Wayne</a></strong>
 </p>
+<p><strong>Assistant Year Head - Primary 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Koh Shu Hui</p>
 <p><strong>Assistant Year Head - Primary 5</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:alice_ooi_shui_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong> 
+<br><strong>Year Head - Primary 1</strong>  <strong>&amp; 2</strong>
+<br>
+<br>" I never teach my pupils, I only attempt to provide the conditions in
+which they can learn." - Albert Einstein</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -147,22 +157,6 @@ every child to grow into an educated adult.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_meng_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Meng Joo</a></strong> 
-<br><strong>Head of Department - Information and Communication Technology (ICT)</strong> 
-<br>
-<br>"Learning without thought is labor lost; thought without learning is perilous."
-- Confucius
-<br>
-<br>All the reasoning, reflecting and deliberating in the world will not bring
-our thoughts and intention to bear fruit unless they are firmly planted
-in the soil of knowledge and nourished with the waters of information.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan_chee_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chee Kian, Joey</a></strong> 
 <br><strong>Head of Department - Physical &amp; Health Education (PHE)</strong> 
 <br>
@@ -179,6 +173,16 @@ in the soil of knowledge and nourished with the waters of information.</p>
 <br>
 <br>"To make a difference in someone's life, you don't have to be brilliant,
 rich, beautiful or perfect. You just have to care." Mandy Hale</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Maledeine Lai</p>
+<p><strong>Head of Department - Chinese Language</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -259,7 +263,7 @@ do.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:quek_yi_hui_eleanor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Quek Yi Hui Eleanor</a></strong> 
-<br><strong>Subject Head - Total Curriculum</strong> 
+<br><strong>Head of Department- Total Curriculum</strong> 
 <br>
 <br>LIVE every moment with the child and you will find that he/she has so
 much to show you.
@@ -277,7 +281,7 @@ world. There is hope</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:benjamin_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Ian Benjamin</a></strong> 
-<br><strong>Subject Head - Information and Communication Technology (ICT)</strong> 
+<br><strong>Head of Department - Information and Communication Technology (ICT)</strong> 
 <br>
 <br>There are no great limits to learning except those that we impose on ourselves.</p>
 </td>
@@ -302,33 +306,6 @@ world. There is hope</p>
 <br><strong>Lead Teacher - Mathematics (MA)</strong> 
 <br>
 <br>Education isn't what you learn, it's what you do with what you learn.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:foo_tiang_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Foo Tiang Weng</a></strong> 
-<br><strong>Lead Teacher - Visual Arts</strong> 
-<br>
-<br>The value of any intellect is as good as the underlying values of the
-beholder.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shanti_a_sangaralingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shanti d/o A Sangaralingam</a></strong> 
-<br><strong>Senior Teacher - English Language</strong> 
-<br>
-<br>I believe that each child is unique and has the potential to be better
-than what he or she is today. I want him or her to experience the joy of
-learning, discover his or her own strengths, passions and interests and
-walk through life, enjoying its journey bearing in mind that education
-is a journey and never a destination.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -395,6 +372,16 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chai Ching Shze Sofie</p>
+<p><strong>Senior Teacher - Learning Needs - Educational Support</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:abdul_faqih_sinuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Abdul Faqih Bin Sinuan</u></a></strong> 
 <br><strong>Level Head - Physical &amp; Health Education (PHE)</strong> 
 <br>
@@ -452,5 +439,4 @@ latter. Every child can learn and do good.</p>
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 21 December 2023</em>
-</p>
+<p></p>

@@ -25,17 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tinie Tan Mui Ngin</a></strong> 
-<br><strong>Head of Department - Mother Tongue Languages (MTL)</strong> 
-<br>
-<br>“先生不应该专教书，他的责任是教人做人；学生不应该专读书，他的责任是学习人生之道。” -- 陶行知</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:zhao_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhao Xin</a></strong> 
 <br><strong>Subject Head - Chinese Language</strong> 
 <br>

@@ -21,16 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Wang-Tan Sun Sun</p>
+<p>Mr Tay Hsien Chuan Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -105,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Alice Hiah Shui Lien</p>
+<p>Ms Chia Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (P1)</p>
@@ -113,18 +104,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Li Ling</p>
+<p>Mr Leong Jian Wei Wayne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2)</p>
+<p>Assistant Year Head (P3)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Jian Wei Wayne</p>
+<p>Ms Sharon Koh Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (P5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Alice Hiah Shui Lien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (P1 – P2)</p>
 </td>
 </tr>
 <tr>
@@ -156,15 +155,7 @@ variant: tiptap
 <p>Mdm Sim Kun Kin (Mrs Jacelyn Ang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD SSD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Meng Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
+<p>SSD</p>
 </td>
 </tr>
 <tr>
@@ -193,20 +184,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Mr Chia Ian Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Miss Quek Yi Hui Eleanor&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>HOD Total Curriculum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Maledeine Lai Yuying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -260,6 +273,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Trina Tan Chiao Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Sunarti Bte Amidon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,22 +293,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Quek Yi Hui Eleanor&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Total Curriculum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chia Ian Benjamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH ICT</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +338,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Tiang Weng</p>
+<p>Mr Ben Khor Teng Chih</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher Art</p>
@@ -438,20 +443,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Mdm Zhang Yi Nan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>ST CL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Ms Chai Ching Shze Sofie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>ST Learning Needs-Educational Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

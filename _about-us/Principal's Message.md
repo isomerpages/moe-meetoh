@@ -2,29 +2,13 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
-### PRINCIPAL'S MESSAGE
-
-**Bringing out the Best in Mee Tohians, Together**
-
-  
-
-The rich heritage of our school forms the bedrock for quality holistic education.    Since the founding of Mee Toh School by Venerable Sek Kong Hiap in 1954, our school has evolved in keeping with times and raised generations of Mee Tohians who are active and contributing citizens.
-
-Our young will write the future of our Singapore.  In Mee Toh School, it is our mission to maximise our students’ potential and to develop in them the passion for life-long learning, guided by Compassion (慈), Conscience (良), Purity (清) and Righteousness (直). We design learning experiences to build strong fundamentals in the moral (德), intellectual （智）, physical （体）, social （群）and aesthetics (美）domains so as to grow well-rounded individuals with robust character, complemented with strong 21st Century skills and Social-Emotional competencies.  These strong fundamentals will put our Mee Tohians in good stead for work, life and citizenship.  The foundation built will also enable every Mee Tohian to ride on the waves of changes confidently, equip each of them to capitalise on emerging opportunities and to bounce back with resilience even when life presents challenges down the road. 
-
-As a community of educators and professionals, we continually strive towards creating the necessary conditions to enable the Joy of Learning, which is so critical in growing Life-Long Learners who will innovate, thrive and contribute to family, society and nation, and the world.    There is a Chinese proverb, “It takes ten years to grow a tree and a hundred years to cultivate a person (十年树木，百年树人).”  There is also an African proverb which goes, “It takes a village to raise a child.”   We are privileged to have the strong support of our stakeholders and parents, School Management Committee, Alumni, PATH and strategic partners to raise our Mee Tohians and make a positive difference in their life-journey with us in Mee Toh School.   
-
-Together, we bring out the Best in Every Child who passes through our hands! 
-
-Together, we realise our Vision of _Touching Souls, Challenging Minds_!
-
-Together, we build on our rich heritage and co-create the future of Mee Toh School, of education and our nation!
-
-_Wang-Tan Sun Sun (Mrs)_
-
-_Principal_
-
-  
-
-* * *
+<h3>PRINCIPAL'S MESSAGE</h3>
+<p><strong>To offer Hope and Love to all our Mee Tohians unconditionally</strong></p>
+<p>I would like to start a short story. It was about a wealthy man who had many children, and they live in a big house. One day, the house caught fire, and his children were distracted with the games and toys that they were playing and were unaware that the house was on fire. The desperate man came back and shouted out at his children with the promise of a cart load of new toys and games. Excitedly, his children rushed out of the house, thinking about the new games and toys that they could play with. To their dismay, there were none. The wealthy man was very grateful that his children were safe and well.</p>
+<p>You must be wondering the purpose of sharing this story. It is about the love of a parent for his children and his quick minded response had helped to save his children. Likewise, Mee Toh School was founded by Venerable Sek Kong Hiap in 1954 with the hope to educate the young children in the neighbourhood who could otherwise be roaming in the streets without a proper education. His love for all children was unconditional, and his dream and actions offered hope and character formation for these children.</p>
+<p>This noble vision is part of the SG60 narrative as we celebrate Singapore’s 60<sup>th</sup> birthday in 2025. Mee Toh School, today, will continue with Venerable Sek Kong Hiap’s noble and selfless legacy. Like the wealthy man, every member of the Mee Toh Family strives to offer hope and love to every Mee Tohian unconditionally and to grow them to become persons of character, who are good and useful citizens of tomorrow.</p>
+<p>May I use this opportunity to thank every stakeholder and parent for your generous support and to invite you to journey with us to bring out the best in every Mee Tohian.&nbsp;</p>
+<p>May you and your loved ones be blessed with good health and happiness always.</p>
+<p>To serve with you,<br> Kelvin Tay<br> Principal</p>
