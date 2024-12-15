@@ -16,9 +16,9 @@ load of new toys and games. Excitedly, his children rushed out of the house,
 thinking about the new games and toys that they could play with. To their
 dismay, there were none. The wealthy man was very grateful that his children
 were safe and well.</p>
-<p>You must be wondering the purpose of sharing this story. It is about the
-love of a parent for his children and his quick minded response had helped
-to save his children. Likewise, Mee Toh School was founded by Venerable
+<p>You must be wondering the purpose of sharing this story. It was about
+the love of a parent for his children and his quick minded response had
+helped to save his children. Likewise, Mee Toh School was founded by Venerable
 Sek Kong Hiap in 1954 with the hope to educate the young children in the
 neighbourhood who could otherwise be roaming in the streets without a proper
 education. His love for all children was unconditional, and his dream and
