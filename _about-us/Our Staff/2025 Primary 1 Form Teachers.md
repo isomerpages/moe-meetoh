@@ -268,5 +268,4 @@ education regardless of their profile.</p>
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 21 Dec 2023</em>
-</p>
+<p></p>
