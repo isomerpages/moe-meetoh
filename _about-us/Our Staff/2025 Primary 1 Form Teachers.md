@@ -226,7 +226,7 @@ education regardless of their profile.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan_choon_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Choon Lan</a></strong>
-<br><strong>Form Teacher (2) Primary 2-8</strong>
+<br><strong>Form Teacher (2) Primary 1-8</strong>
 <br>Every child is unique. Every child can learn. Every child matters.</p>
 </td>
 <td rowspan="1" colspan="1">
