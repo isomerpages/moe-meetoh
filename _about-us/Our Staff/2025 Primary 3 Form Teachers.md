@@ -191,9 +191,7 @@ Socrates</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chim_kheng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chim Kheng Mui</a></strong>
 </p>
-<p><strong>Form Teacher (1) Primary</strong>
-</p>
-<p><strong>3-8</strong>
+<p><strong>Form Teacher (1) Primary 3-8</strong>
 <br>
 <br>“Teach the children well and let them lead the way.” - Whitney Houston</p>
 </td>
