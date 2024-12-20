@@ -161,20 +161,49 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lock_pui_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ng Pui Lai Sarah</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-7</strong>
+<p><strong><a href="mailto:soon_min_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soon Min Wah</a></strong>
+<br><strong>Senior Teacher - Chinese Language<br>Form Teacher (1) Primary 2-7</strong>
+<br>
+<br>不积小流无以成江海，不积跬步无以至千里</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:alice_ooi_shui_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong>
+<br><strong>Year Head - Primary 1 &amp; Primary 2<br>Form Teacher (2) Primary 2-7</strong>
+<br>
+<br>” I never teach my pupils, I only attempt to provide the conditions in
+which they can learn.” - Albert Einstein</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:liew_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yvonne Liew</a></strong>
+<br><strong>Form Teacher (1) Primary 2-8</strong>
+<br>
+<br>“The voyage of the best ship is a zigzag line of a hundred tacks.” - Ralph
+Waldo Emerson I believe that the journey of a student will not be an easy
+one, but every challenge will hone that student into a better learner and
+person.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:tay_shuwen_sabrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Tay Shuwen</a></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yan_yuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Yan Yu Zhen</u></a></strong> 
-<br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-7</strong> 
+<p><strong>Subject Head - Communications and Outreach Department</strong>
+<br><strong>Form Teacher (2) Primary 2-8</strong>
 <br>
-<br>书山有路勤为径，学海无涯苦作舟。——韩愈。</p>
+<br>“The art of teaching is the art of assisting discovery” - Mark Van Doren</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -182,32 +211,15 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_choon_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Choon Lan</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-8</strong> 
-<br>Every child is unique. Every child can learn. Every child matters.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zou_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zou Yang</u></a></strong> 
-<br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-8</strong> 
-<br>“ 享受学习的乐趣，收获知识的果实”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nurhafizah_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nurhafizah Binte Kamis</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-9</strong> 
+<p><strong><a href="mailto:wong_ming_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wong Ming Hui</a></strong>
+<br><strong>Form Teacher (1) Primary 2-9</strong>
 <br>
-<br>Teaching teaches me patience. I believe that every child has something
-special in them and if patience is exercised well, then I will slowly but
-surely see that special quality in them.</p>
+<br>All children have their own strengths and we can help them find these
+strengths and maximise their potential.
+<br>I believe that learning can be fun for every child, and that it can be
+possible when we allow them to explore a wide spectrum of learning areas.
+<br>My goal is to guide each child in this journey to experience the joy of
+learning and discover his/her potential.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -215,11 +227,10 @@ surely see that special quality in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chia_shwu_yng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chia Shwu Yng</u></a></strong> 
-<br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-9</strong> 
+<p><strong><a href="mailto:wei_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wei Lu</a></strong>
+<br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-9</strong>
 <br>
-<br>“Pursue your dreams. You will be amazed about what you can achieve.” -
-Lailah Gifty Akita</p>
+<br>态度决定高度，细节决定成败</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -227,30 +238,8 @@ Lailah Gifty Akita</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:wong_wei_ting_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wong Wei Ting</u></a></strong>
-</p>
-<p><strong>Form Teacher (2) Primary 2-9</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:suziana_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Suziana Bte Hassan</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-10</strong> 
-<br>
-<br>“Intelligence without ambition is a bird without wings.” - Salvador Dali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chew_shie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Elaine Tan Chew Shie</u></a></strong> 
-<br><strong>Head of Department - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 2-10</strong> 
+<p><strong><a href="mailto:tan_chew_shie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Tan Chew Shie</a></strong>
+<br><strong>Head of Department - Character and Citizenship Education (CCE)<br>Form Teacher (1) Primary 2-10</strong>
 <br>
 <br>‘Every child is a seedling.’ Developing a child is similar to that of
 nurturing a plant as consistent planning and care has to be taken to help
@@ -262,7 +251,18 @@ generation to be resilient, appreciative and selfless.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:chang_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chang Ying</a></strong>
+</p>
+<p><strong>Form Teacher (2) Primary 2-10</strong>
+</p>
+<p>"Where words fail, music speaks." - Hans Christian Andersen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><em>Updated on 21 Dec 2023</em>
-</p>
+<p></p>
