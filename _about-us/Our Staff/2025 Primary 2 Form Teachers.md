@@ -24,74 +24,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chia_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chia Li Ling</u></a></strong> 
-<br><strong>Assistant Year Head - Primary 2<br>Form Teacher (1) Primary 2-1</strong> 
-<br>
-<br>It matters not our starting point in life.
-<br>If we have the desire to learn, engage in self-reflection and listen with
-an open mind, we can get to where we choose to be.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zuraini_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zuraini Abdul Rahim</u></a></strong> 
-<br><strong>Malay Language Teacher<br>Form Teacher (2) Primary 2-1</strong> 
-<br>
-<br>3P - dapat menerima Perubahan, bijak membuat Pilihan dan tekal dalam Prinsip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay_ya_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tay Ya Yin</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-2</strong> 
-<br>
-<br>“A hundred years from now it will not matter what my bank account was,
-the sort of house I lived in, or the kind of car I drove… but the world
-may be different because I was important in the life of a child.” - Forest
-E.Witcraft</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yu_zhangxinzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Yu Zhangxinzhi</u></a></strong> 
-<br><strong>Form Teacher (2) Primary 2-2</strong>
+<p><strong><a href="mailto:adriana_alias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Adriana Alias</a></strong>
 </p>
-<p></p>
-<p><em>师也者</em>,<em>教之以事而喻诸德者也</em>。——《礼记》</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nurul_asyura_mashkur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Nurul Asyura Mashkur</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-3</strong> 
-<br>
-<br>“Education is the kindling of a flame, not the filling of a vessel,” -
-Socrates</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chang_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chang Ying</u></a></strong>
+<p><strong>Form Teacher (1) Primary 2-1</strong>
 </p>
-<p><strong>Form Teacher (2) Primary 2-3</strong>
-</p>
-<p></p>
-<p>"Where words fail, music speaks." - Hans Christian Andersen</p>
+<p>“Teachers have three loves: love of learning, love of learners, and the
+love of bringing the first two loves together.” - Scott Hayden</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -99,13 +37,11 @@ Socrates</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:liew_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Yvonne Liew</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-4</strong> 
+<p><strong><a href="mailto:neo_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Neo Li Ting</a></strong>
+<br><strong>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-1</strong>
 <br>
-<br>“The voyage of the best ship is a zigzag line of a hundred tacks.” - Ralph
-Waldo Emerson I believe that the journey of a student will not be an easy
-one, but every challenge will hone that student into a better learner and
-person.</p>
+<br>《论语·为政》——子曰：“学而不思则罔，思而不学则殆”。 一味的读书，而不思考，只会受到书本表象的迷惑而不得甚解。而只是一味的埋头苦思而不进行一定的书本知识的积累，进而对
+知识进行研究推敲，也只能是流于空想，问题仍然不会得到解决，也就会产生更多的疑惑。只 有把学习和思考结合起来，才能学以致用</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -113,10 +49,12 @@ person.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:soon_min_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Soon Min Wah</u></a></strong> 
-<br><strong>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-4</strong> 
+<p><strong><a href="mailto:norlina_ahmadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Redwan (Norlina Bte Ahmadi)</a></strong>
+<br><strong>Senior Teacher - English Language<br>Form Teacher (1) Primary 2-2</strong>
 <br>
-<br>不积小流无以成江海，不积跬步无以至千里</p>
+<br>“Give the students something to do, not something to learn; and the doing
+is of such a nature as to demand thinking; learning naturally results.”
+- John Dewey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,14 +62,11 @@ person.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chan_mei_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Chia Mei Kwan</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 2-5</strong> 
+<p><strong><a href="mailto:ching_mei_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ching Mei Fei</a></strong>
+<br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-2</strong>
 <br>
-<br>Education, just like a beacon, allows students to seek their paths and
-guides them to read their desired destination. As an educator, I can facilitate
-values to be instilled and knowledge to be imparted so that students can
-be equipped with the necessary character building and skill set to achieve
-their goals.</p>
+<br>我相信人各有所长，皆有各自独特的潜能。
+<br>所谓“玉不琢，不成器。人不学，不知道。“ 而每位学生就是一块未琢之玉。我希望能化人化己，亦成为那玉匠、那股培风，让学生像只大鹏鸟，展翅高飞</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,10 +74,11 @@ their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ong_su_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Su Lan</u></a></strong> 
-<br><strong>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-5</strong> 
+<p><strong><a href="mailto:roshaidah_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roshaidah Bte Salleh</a></strong>
+<br><strong>Form Teacher (1) Primary 2-3</strong>
 <br>
-<br>学而不思则罔，思而不学则殆。- 孔子</p>
+<br>Learning never ends. Every child learns at his/her own pace. Patience
+is the key.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -150,9 +86,42 @@ their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shirlin_koh_ming_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirlin Koh Ming Yi</a></strong>
-</p>
-<p><strong>Form Teacher (1) Primary 2-6</strong>
+<p><strong><a href="mailto:chua_boon_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Boon Li</a></strong>
+<br><strong>Form Teacher (2) Primary 2-3</strong>
+<br>
+<br>“The best preparation for tomorrow is doing your best today.” -
+<br>H Jackson Brown, Jr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:suziana_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suziana Bte Hassan</a></strong>
+<br><strong>Form Teacher (1) Primary 2-4</strong>
+<br>
+<br>“Intelligence without ambition is a bird without wings.” - Salvador Dali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:dong_jinmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Jinmei</a></strong>
+<br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-4</strong>
+<br>
+<br>书山有路勤为径，学海无涯苦作舟。— 韩愈</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Sue-Lynn Larissa</p>
+<p><strong>Form Teacher (1) Primary 2-5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,11 +130,30 @@ their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lin_meijing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Liew-Lin Meijing</u></a></strong> 
-<br><strong>Level Head - Math<br>Form Teacher (2) Primary 2-6</strong> 
+<p><strong><a href="mailto:sunarti_amidon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Binte Amidon</a></strong>
+<br><strong>Subject Head - Malay Language<br>Form Teacher (2) Primary 2-5</strong>
 <br>
-<br>Nature versus nurture, which is a stronger influence? I believe in the
-latter. Every child can learn and do good.</p>
+<br>Pendidikan bermula dari hati langsung ke hati.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:tan_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Shan</a></strong>
+<br><strong>Form Teacher (1) Primary 2-6</strong>
+<br>不要轻言放弃，否则对不起自己！</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fong Whay Ling
+<br><strong>Form Teacher (2) Primary 2-6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
