@@ -37,7 +37,8 @@ surely see that special quality in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chai Ching Shze Sofie</p>
+<p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
+</p>
 <p><strong>Form Teacher (2) Primary 1-1</strong>
 </p>
 </td>
