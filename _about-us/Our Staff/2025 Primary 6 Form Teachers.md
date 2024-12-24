@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<h3>2025 Primary 6 Form Teachers</h3>
+<h3>Primary 6 Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
 <table style="minWidth: 50px">
