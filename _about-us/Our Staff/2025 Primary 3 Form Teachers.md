@@ -125,7 +125,8 @@ can apply it in their lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Seok Luan</p>
+<p><strong><a href="mailto:goh_seok_luan@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Goh Seok Luan</a></strong>
+</p>
 <p><strong>Form Teacher (1) Primary 3-5</strong>
 </p>
 </td>
@@ -157,7 +158,8 @@ can apply it in their lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS JULIANA LIN EN XUAN</p>
+<p><strong><a href="mailto:juliana_lin_en_xuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a></strong>
+</p>
 <p><strong>Form Teacher (2) Primary 3-6</strong>
 </p>
 </td>
