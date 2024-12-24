@@ -90,7 +90,8 @@ use of it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ben Khor</p>
+<p><strong><a href="mailto:khor_teng_chih@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ben Khor</a></strong>
+</p>
 <p><strong>Form Teacher (2) Primary 6-3</strong>
 </p>
 </td>
@@ -166,7 +167,8 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maledeine Lai Yuying</p>
+<p><strong><a href="mailto:maledeine_lai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Maledeine Lai Yuying</a></strong>
+</p>
 <p><strong>Form Teacher (2) Primary 6-6</strong>
 </p>
 </td>
