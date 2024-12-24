@@ -107,7 +107,8 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Koh Shu Hui</p>
+<p><strong><a href="mailto:koh_shu_hui_sharon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Koh Shu Hui Sharon</a></strong>
+</p>
 <p><strong>Form Teacher (2) Primary 5-4</strong>
 </p>
 </td>
@@ -209,7 +210,8 @@ generations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Ali B Mohamed Yasin</p>
+<p><strong><a href="mailto:muhammad_ali_md_yasin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Ali B Mohamed Yasin</a></strong>
+</p>
 <p><strong>Form Teacher (1) Primary 5-9</strong>
 </p>
 </td>
