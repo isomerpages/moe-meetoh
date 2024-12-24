@@ -61,7 +61,8 @@ best that they can possibly be.” - Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tam Fong U</p>
+<p><strong><a href="mailto:tam_fong_u@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tam Fong U</a></strong>
+</p>
 <p><strong>Form Teacher (1) Primary 4-2</strong>
 </p>
 </td>
@@ -210,7 +211,8 @@ no one can take it away from you."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Liping Fiona</p>
+<p><strong><a href="mailto:tan_liping_fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Liping Fiona</a></strong>
+</p>
 <p><strong>Form Teacher (2) Primary 4-8</strong>
 </p>
 </td>
