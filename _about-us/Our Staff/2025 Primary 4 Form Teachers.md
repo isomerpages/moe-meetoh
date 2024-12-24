@@ -121,11 +121,9 @@ Every child has a gift. Each just opens them at different times.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:liu_miao_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Liu Miao</u></a></strong>
-</p>
-<p><strong>Form Teacher (2) Primary 4-4</strong>
-</p>
-<p></p>
+<p><strong><a href="mailto:sim_tze_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Tze Mei</a></strong>
+<br><strong>Form Teacher (1) Primary 4-5</strong>
+<br>Education is the vital key to moulding one’s future and character.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -133,98 +131,8 @@ Every child has a gift. Each just opens them at different times.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_weon_tor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tan Weon Tor</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 4-5</strong> 
-<br>
-<br>“Tell me and I forget. Teach me and I remember. Involve me and I learn.”
-- Benjamin Franklin
-<br>
-<br>I believe in making learning meaningful and relevant so that students
-can apply it in their lives.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:hasni_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Hasni Abu Bakar</u></a></strong> 
-<br><strong>Year Head - Primary 3 &amp; 4<br>Form Teacher (2) Primary 4-5</strong> 
-<br>
-<br>Children learn best when their social and emotional needs are well taken
-care of. As educators, we help our children to recognise their strengths
-and develop good character so that they become confident yet caring individuals.
-Every child has a gift. Each just opens them at different times.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ong_joo_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ong Joo Kai</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 4-6</strong> 
-<br>
-<br>Educo [Latin] “To bring out, to draw out, and to develop from within.”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shao_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Shao Jie</u></a></strong>
-</p>
-<p><strong>Chinese Language Teacher</strong> 
-<br><strong>Form Teacher (2) Primary 4-6</strong> 
-<br>
-<br>有教无类，因材施教。</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_han_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tan Han Khim</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 4-7</strong> 
-<br>
-<br>“Develop a passion for learning. If you do, you will never cease to grow.”
-- Anthony J. D’Angelo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zeng_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zeng Ying</u></a></strong>
-</p>
-<p><strong>Chinese Language Teacher</strong> 
-<br><strong>Form Teacher (2) Primary 4-7</strong> 
-<br>
-<br>一分耕耘，一分收获。</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:celestine_kau_wan_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Celestine Kau Wan Yi</u></a></strong> 
-<br><strong>Form Teacher (1) Primary 4-8</strong> 
-<br>
-<br>“Education is the kindling of a flame, not the filling of a vessel.”–
-Socrates</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhammad_faizal_suleiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhammad Faizal Bin Suleiman</u></a></strong> 
-<br><strong>Form Teacher (2) Primary 4-8</strong> 
+<p><strong><a href="mailto:muhammad_faizal_suleiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Faizal Bin Suleiman</a></strong>
+<br><strong>Form Teacher (2) Primary 4-5</strong>
 <br>
 <br>Patience and consistency are hallmarks of excellence.</p>
 </td>
@@ -234,8 +142,75 @@ Socrates</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chng_tsang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Chng Tsang Sheng</u></a></strong>
+<p><strong><a href="mailto:sherley_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sherley Chua</a></strong>
 </p>
+<p><strong>Level Head - Science</strong>
+<br><strong>Form Teacher (1) Primary 4-6</strong>
+<br>
+<br>In the classroom, I strive to promote positive learning so that students
+realise that making mistakes is part of the journey towards mastery. The
+classroom would be a safe environment where they are not afraid to make
+mistakes and more importantly, to learn from them so that they would develop
+a growth mindset where effort is values more than the product.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:boh_fong_yeemo_fengyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Boh Fong Yee</a></strong>
+</p>
+<p><strong>Chinese Language Teacher</strong>
+<br><strong>Form Teacher (2) Primary 4-6</strong>
+<br>
+<br>我们知道什么、信仰什么，本质上并不重要。唯一重要的是：我们做了什么。 — 约翰·罗 斯基</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:nurashikin_kamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurashikin Bte Kamal</a></strong>
+<br><strong>Form Teacher (1) Primary 4-7</strong>
+<br>
+<br>Teaching is about inspiring the love of learning - the opening of a book
+often leads to the opening of the heart and mind. Then, to encourage the
+young minds to continue taking those ideas and ideals they’ve picked up
+as they take on the world to bring about positive change</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:audrey_phang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Phang Sok Kian Audrey</a></strong>
+<br><strong>Form Teacher (2) Primary 4-7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Low_Meng_Yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Meng Yen</a></strong>
+</p>
+<p><strong>Form Teacher (1) Primary 4-8</strong>
+</p>
+<p>"I have consistently found inspiration in the words of the renowned musician
+BB King, who once expressed, " The beautiful thing about learning is that
+no one can take it away from you."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Liping Fiona</p>
 <p><strong>Form Teacher (2) Primary 4-8</strong>
 </p>
 </td>
@@ -245,5 +220,4 @@ Socrates</p>
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 21 Dec 2023</em>
-</p>
+<p></p>
