@@ -86,8 +86,20 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pamela Goh</p>
+<p><strong><a href="mailto:pamela_goh_dong_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pamela Goh</a></strong>
+</p>
 <p><strong>Form Teacher (2) Primary 5-3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:tan_siew_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Siew Hua</a></strong>
+</p>
+<p><strong>Form Teacher (3) Primary 5-3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
