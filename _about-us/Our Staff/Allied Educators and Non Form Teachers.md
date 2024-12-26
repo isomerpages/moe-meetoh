@@ -8,7 +8,11 @@ variant: tiptap
 <h3>Allied Educators and Non-Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -145,40 +149,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_hui_lee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Lee Hui April</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:neo_chew_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Celia Neo Chew Yen</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:loong_hui_ling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_sook_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Sook Leng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -222,29 +193,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chong_fangxun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jessica Chong Fangxun</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:seow_mui_huan_theresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seow Mui Huan Theresa</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:mohd_haron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Bin Haron</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -255,5 +204,4 @@ of achieving!"</p>
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 20 Feb 2024</em>
-</p>
+<p></p>
