@@ -75,17 +75,6 @@ E.Witcraft</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_kar_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Tan Kar Chuan</u></a></strong> 
-<br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 1-2</strong> 
-<br>
-<br>千里之行，始于足下。 - 老子</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim_hai_hoon_madeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Madeline Wong Hai Hoon</a></strong>
 <br><strong>Form Teacher (1) Primary 1-3</strong>
 <br>
@@ -240,6 +229,17 @@ education regardless of their profile.</p>
 <br><strong>Chinese Language Teacher<br>Form Teacher (1) Primary 1-9</strong>
 <br>
 <br>自信自律，自强不息！</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:yeo_chai_kim_irene@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Chai Kim Irene</a></strong>
+</p>
+<p><strong>Form Teacher (2) Primary 1-9</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
