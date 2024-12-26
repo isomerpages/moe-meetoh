@@ -187,7 +187,7 @@ you can, as long as you can.” - John Wesley</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:benjamin_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Ian Benjamin</a></strong>
-<br><strong>Subject Head - Information and Communication Technology (ICT)<br>Form Teacher (1) Primary 5-7</strong>
+<br><strong>Head of Department - Information and Communication Technology (ICT)<br>Form Teacher (1) Primary 5-7</strong>
 <br>
 <br>There are no great limits to learning except those that we impose on ourselves.</p>
 </td>
