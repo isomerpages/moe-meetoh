@@ -63,8 +63,19 @@ best that they can possibly be.” - Rita Pierson</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tam_fong_u@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tam Fong U</a></strong>
 </p>
-<p><strong>Form Teacher (1) Primary 4-2</strong>
+<p><strong>Form Teacher (2) Primary 4-2</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:cheong_siok_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Cheong Siok Wen</a></strong>
+<br><strong>Chinese Language Teacher<br>Form Teacher (3) Primary 4-2</strong>
+<br>
+<br>在日常生活中靠天才能做到的事情，靠勤奋同样能做到；靠天才不能做到的事情，靠勤 奋也能做到。——亨沃比彻</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
