@@ -120,7 +120,19 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Sue-Lynn Larissa</p>
+<p><strong><a href="mailto:yue_chook_eng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yue Chook Eng</a></strong>
+</p>
+<p><strong>Form Teacher (3) Primary 2-4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:ho_sue_lynn_larissa@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hi Sue-Lynn Larissa</a></strong>
+</p>
 <p><strong>Form Teacher (1) Primary 2-5</strong>
 </p>
 </td>
