@@ -178,6 +178,17 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="mailto:hong_seek_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Leong Seek Eng</u></a></strong>
+<br><strong>Year Head - Primary 5 &amp; 6<br>Form Teacher (3) Primary 6-6</strong>
+<br>
+<br>“There is more in you than you think.” - Kurt Hahn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim_shoa_koen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Lim Shoa Koen</a></strong>
 <br><strong>Lead Teacher - Mathematics (MA)<br>Form Teacher (1) Primary 6-7</strong>
 <br>
