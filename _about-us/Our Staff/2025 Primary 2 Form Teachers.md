@@ -131,7 +131,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ho_sue_lynn_larissa@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hi Sue-Lynn Larissa</a></strong>
+<p><strong><a href="mailto:ho_sue_lynn_larissa@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ho Sue-Lynn Larissa</a></strong>
 </p>
 <p><strong>Form Teacher (1) Primary 2-5</strong>
 </p>
