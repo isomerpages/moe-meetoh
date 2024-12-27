@@ -87,5 +87,4 @@ at P6.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/phe104.png">
 </div>
-<p><em>Updated on 13 Mar 2023</em>
-</p>
+<p></p>
