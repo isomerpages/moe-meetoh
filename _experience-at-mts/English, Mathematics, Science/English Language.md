@@ -6,9 +6,6 @@ third_nav_title: English, Mathematics, Science
 variant: tiptap
 ---
 <h3>English Language</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Language_Department__1_.jpg">
-</div>
 <p><strong>English Language Learning in Mee Toh School</strong>
 </p>
 <p>In Mee Toh School, we envision our students to be effective and confident
@@ -19,7 +16,11 @@ Through our integrated and engaging approaches to teaching and learning,
 we grow self-directed students who desire to learn throughout their lives
 by reading for a variety of purposes, producing original and creative ideas,
 and sharing them accurately and confidently with others in English Language.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
