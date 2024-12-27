@@ -96,5 +96,4 @@ the holistic development of a child.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/aam104.png">
 </div>
-<p><em>Updated on 11 August 2022</em>
-</p>
+<p></p>
