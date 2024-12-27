@@ -7,4 +7,3 @@ variant: markdown
 ---
 ### Our Staff
 
-![](/images/Mee_Toh_Sch_Staff_2024__2_.jpg)
