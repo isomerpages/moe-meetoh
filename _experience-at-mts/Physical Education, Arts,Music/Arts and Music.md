@@ -6,11 +6,12 @@ third_nav_title: Physical Education, Arts,Music
 variant: tiptap
 ---
 <h3>Arts and Music</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics__Music___Art__Department__1_.jpg">
-</div>
 <h4>Art</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,7 +53,11 @@ painting to sculpture, ceramic and animation works.</p>
 <img style="width:80%" height="auto" width="100%" src="/images/aam102.png">
 </div>
 <h4>Music</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -91,5 +96,4 @@ the holistic development of a child.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/aam104.png">
 </div>
-<p><em>Updated on 11 August 2022</em>
-</p>
+<p></p>

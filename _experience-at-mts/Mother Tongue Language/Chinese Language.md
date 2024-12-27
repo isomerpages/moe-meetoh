@@ -6,10 +6,11 @@ third_nav_title: Mother Tongue Language
 variant: tiptap
 ---
 <h3>Chinese Language</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Languages_Department__1_.jpg">
-</div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

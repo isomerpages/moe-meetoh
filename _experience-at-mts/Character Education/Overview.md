@@ -6,15 +6,17 @@ third_nav_title: Character Education
 variant: tiptap
 ---
 <h3>Character and Citizenship Education (CCE)</h3>
-<table>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/2024/Character___Citizenship_Education_Department.jpg">
-</div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
