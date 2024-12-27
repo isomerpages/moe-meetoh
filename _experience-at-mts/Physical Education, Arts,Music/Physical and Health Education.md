@@ -6,10 +6,11 @@ third_nav_title: Physical Education, Arts,Music
 variant: tiptap
 ---
 <h3>Physical and Health Education (PHE)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Physical___Health_Education_Department__1_.jpg">
-</div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
