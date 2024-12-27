@@ -181,6 +181,8 @@ Edison</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:maledeine_lai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Maledeine Lai Yuying</a></strong>
 </p>
+<p><strong>Head of Department - Mother Tongue Languages (MTL)</strong>
+</p>
 <p><strong>Form Teacher (2) Primary 6-6</strong>
 </p>
 </td>
