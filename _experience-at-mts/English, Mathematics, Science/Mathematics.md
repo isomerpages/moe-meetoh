@@ -6,10 +6,11 @@ third_nav_title: English, Mathematics, Science
 variant: tiptap
 ---
 <h3>Mathematics</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Department__2_.jpg">
-</div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
