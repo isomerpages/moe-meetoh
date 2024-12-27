@@ -124,6 +124,16 @@ do. Knowledge will give you power, but character respect.” - Bruce Lee</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="mailto:aleeza_dwi_artha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Aleeza Dwi Artha</u></a></strong>
+<br><strong>Form Teacher (3) Primary 6-4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:koh_kai_guan_robin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Robin Koh Kai Guan</a></strong>
 <br><strong>Form Teacher (1) Primary 6-5</strong>
 <br>
