@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <h3>Exco and Teacher Leadership Team</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco___Teacher_Leadership__1_.jpg">
-</div>
 <p></p>
 <p><em>To email our staff, click on their names.</em>
 </p>
