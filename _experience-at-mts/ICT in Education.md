@@ -4,10 +4,11 @@ permalink: /experience-at-mts/ICT-in-Education/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm___Technology_Department__1_.jpg">
-</div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -92,7 +93,11 @@ with these ICT skillsets, they will be able to apply, demonstrate their
 learning and create their learning artefacts in different creative ways.</p>
 <p><strong>Level Programmes:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -183,7 +188,11 @@ be a positive influence online.</p>
 responsible use of ICT in alignment with Character &amp; Citizenship Education
 (CCE) in MTS. Students get to discuss and reflect on these issues related
 to being a safe, responsible and respectful user of technology.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -238,7 +247,11 @@ at home, students completed the assignments virtually. Through the online
 submissions of assignments, teachers were able to monitor students’ learning.
 Back in school, teachers continue to provide students with feedback on
 their performances and support them in reinforcing their learning.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
