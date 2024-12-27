@@ -6,12 +6,13 @@ variant: tiptap
 ---
 <h4>Student Development and Management</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Development___Management_Department__1_.jpg">
-</div>
 <p></p>
 <h4>Student Management</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,7 +37,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Student Leadership</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -77,7 +82,11 @@ their meaningful causes.</p>
 <img style="width:80%" height="auto" width="100%" src="/images/sdm103.png">
 </div>
 <h4>TIERED SUPPORT SYSTEM@MTS</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
