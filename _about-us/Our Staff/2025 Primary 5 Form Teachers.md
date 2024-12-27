@@ -152,6 +152,18 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="mailto:amsyar_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Amsyar Bin Abdul Wahed</u></a></strong>
+<br><strong>Form Teacher (3) Primary 5-5</strong>
+<br>
+<br>“Education is not the filling of a pail but the lighting of a fire.” -
+William Butler Yeats</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:siti_nur_hannah_hardy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nur Hannah Binte Hardy</a></strong>
 <br><strong>Subject Head - Student Development and Management (Discipline)<br>Form Teacher (1) Primary 5-6</strong>
 <br>
