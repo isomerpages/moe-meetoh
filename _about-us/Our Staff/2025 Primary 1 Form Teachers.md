@@ -38,8 +38,7 @@ surely see that special quality in them.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
-</p>
-<p><strong>Form Teacher (2) Primary 1-1</strong>
+<br><strong>Form Teacher (2) Primary 1-1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,8 +62,7 @@ E.Witcraft</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:zeng_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zeng Ying</a></strong>
-</p>
-<p><strong>Chinese Language Teacher</strong>
+<br><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 1-2</strong>
 <br>
 <br>一分耕耘，一分收获。</p>
@@ -162,8 +160,7 @@ latter. Every child can learn and do good.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:norraya_sayuti@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norraya Bte Sayuti</a></strong>
-</p>
-<p><strong>Form Teacher (2) Primary 1-6</strong>
+<br><strong>Form Teacher (2) Primary 1-6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,13 +197,12 @@ chance, it must be sought for with ardor and attended to with diligence.”
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:muhammad_fikri_fazil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
-</p>
-<p><strong>Form Teacher (1) Primary 1-8</strong>
+<br><strong>Form Teacher (1) Primary 1-8</strong>
 </p>
 <p>"Intelligence plus character, that is the goal of true education.”</p>
 <p>-Dr Martin Luther King Jr</p>
-<p>&nbsp;</p>
-<p>Every student can learn, be nurtured and inspired to experience a holistic
+<p>
+</p><p>Every student can learn, be nurtured and inspired to experience a holistic
 education regardless of their profile.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,8 +233,7 @@ education regardless of their profile.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:yeo_chai_kim_irene@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Chai Kim Irene</a></strong>
-</p>
-<p><strong>Form Teacher (2) Primary 1-9</strong>
+<br><strong>Form Teacher (2) Primary 1-9</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,8 +254,7 @@ education regardless of their profile.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:loong_hui_ling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
-</p>
-<p><strong>Form Teacher (2) Primary 1-10</strong>
+<br><strong>Form Teacher (2) Primary 1-10</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
