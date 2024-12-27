@@ -25,7 +25,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:sim_kun_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jacelyn Ang Kun Kin</a></strong>
-<br><strong>Head of Department - School Staff Developer (SSD)<br>Form Teacher (1) Primary 6-1</strong>
+<br><strong>School Staff Developer (SSD)<br>Form Teacher (1) Primary 6-1</strong>
 <br>
 <br>An educated man is someone who displays culture, taste and knowledge.
 So, the true essence of education goes beyond acquiring of knowledge in
