@@ -35,14 +35,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:foo_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Foo Ai Ling</a></strong> 
+<p><strong><a href="mailto:kwek_baozhi_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kwek Baozhi, Andy</a></strong>
 <br><strong>Special Educational Needs (SEN) Officer</strong>
-</p>
-<p></p>
-<p><em>A child with special needs will inspire you to be a special kind of person.&nbsp; -&nbsp; Anonymous</em>
-</p>
-<p>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
