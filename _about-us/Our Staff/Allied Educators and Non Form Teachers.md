@@ -36,7 +36,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:kwek_baozhi_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kwek Baozhi, Andy</a></strong>
-<br><strong>Special Educational Needs (SEN) Officer</strong> 
+<br><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
