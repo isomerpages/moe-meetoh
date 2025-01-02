@@ -22,8 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Hsien Chuan Kelvin
-<br>Principal
+<p><strong>Mr Tay Hsien Chuan Kelvin <br>Principal </strong>
 <br>
 </p>
 <p>LOVE means actively wishing happiness and well-being for all students
@@ -42,8 +41,7 @@ LOVE through</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ronald Lee Chong Tart
-<br>Vice Principal
+<p><strong>Mr Ronald Lee Chong Tart <br>Vice Principal </strong>
 <br>
 <br>To equip our children with values and skills to contribute in a fast-changing
 globalised world, there is a need to provide a curriculum with learning
@@ -59,8 +57,7 @@ aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Yilan Lynne
-<br>Vice Principal
+<p><strong>Ms Huang Yilan Lynne <br>Vice Principal </strong>
 <br>
 <br>Every child has the inherent desire to learn, do well and do something
 meaningful in their lives. Every child is also unique with different interests
