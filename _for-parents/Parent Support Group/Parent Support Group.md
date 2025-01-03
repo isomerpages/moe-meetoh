@@ -236,3 +236,10 @@ more information on Code of Conduct for PATH.</p>
 </div>
 <p><strong><a href="/files/For Parents/Parent Support Group (PATH)/2024_Vol_3.pdf" rel="noopener nofollow" target="_blank">Click here to read Volume 3</a></strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/Vol4coverpage.png">
+</div>
+<p><strong><a href="https://go.gov.sg/mtspathconnectsv4" rel="noopener nofollow" target="_blank">Click here to read Volume 4</a></strong>
+</p>
