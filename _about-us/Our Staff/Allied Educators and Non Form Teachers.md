@@ -82,6 +82,19 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="mailto:chua_bishuang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chua Bishuang (Mrs Lim)</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+<p>‘Genius is one percent inspiration and ninety-nine percent perspiration.
+– Thomas Edison’.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:zhang_yuling_marilyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yuling Marilyn</a></strong> 
 <br><strong>Teacher</strong>
 </p>
