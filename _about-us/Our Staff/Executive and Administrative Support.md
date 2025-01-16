@@ -177,6 +177,7 @@ safety.”
 </p>
 <p><strong>Operations Support Officer (OSO)</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -196,5 +197,4 @@ safety.”
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 26 Dec 2023</em>
-</p>
+<p></p>
