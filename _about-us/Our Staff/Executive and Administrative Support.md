@@ -67,9 +67,7 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Redwan Abdullah</strong>
-</p>
-<p><strong>ICT Manager</strong>
+<p><strong>Mr Redwan Abdullah<br>ICT Manager </strong>
 <br>
 <br>Education is the passport for the future.</p>
 </td>
@@ -173,9 +171,7 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wong Chok Choon</strong>
-</p>
-<p><strong>Operations Support Officer (OSO)</strong>
+<p><strong>Mr Wong Chook Choon <br>Operations Support Officer (OSO)</strong>
 </p>
 <p></p>
 </td>
@@ -185,9 +181,7 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Loh Ching Kai</strong>
-</p>
-<p><strong>Operations Support Officer (OSO)</strong>
+<p><strong>Mr Loh Ching Kai <br>Operations Support Officer (OSO)</strong>
 </p>
 <p></p>
 </td>
