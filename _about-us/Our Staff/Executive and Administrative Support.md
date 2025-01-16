@@ -119,16 +119,6 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Candice Neo<br>Management Support Office (MSO)</strong>
-<br>
-<br>Knowledge is power.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Danny Wong Kwong Yau<br>Desktop Enginner (DE)</strong>
 <br>
 <br>“You will either step forward into growth, or you will step backward into
@@ -173,40 +163,32 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Hasan Bin Mohd Shariff</strong>
-<br><strong>Operations Support Officer (OSO)</strong>
-<br>
-<br>Find joy in what you do.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Hui Eng<br>Operations Support Officer (OSO)</strong>
-<br>
-<br>Work smart, study smart.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lee Bong Meng<br>Operations Support Officer (OSO)</strong>
-<br>
-<br>Be Smart!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Koh Hwee Koon<br>Operations Support Officer (OSO)</strong>
 <br>
 <br>Go confidently in the direction of your dreams.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wong Chok Choon</strong>
+</p>
+<p><strong>Operations Support Officer (OSO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loh Ching Kai</strong>
+</p>
+<p><strong>Operations Support Officer (OSO)</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
