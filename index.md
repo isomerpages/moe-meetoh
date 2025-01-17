@@ -19,19 +19,6 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
-  - textcards:
-      title: OPEN FOR NOMINATIONS
-      id: textcards
-      description: Nominations for OYEA and PAT will close on 10 January 2025
-      cards:
-        - title: Outstanding Youth in Education Award (OYEA) 2025
-          description: ""
-          linktext: Learn more
-          url: https://go.gov.sg/oyea2025
-        - title: President's Award for Teachers (PAT) 2025
-          description: ""
-          linktext: Learn more
-          url: https://form.gov.sg/66fa3c4e9baf06fd1f1c732e
   - infopic:
       title: 70th Anniversary
       id: infopic
