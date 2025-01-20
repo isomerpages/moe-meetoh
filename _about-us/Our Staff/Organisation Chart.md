@@ -593,6 +593,14 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Redwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
