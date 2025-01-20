@@ -12,11 +12,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>Principal and Vice-Principals</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<h4>Principal and Vice-Principals&nbsp;</h4>
 </td>
 </tr>
 <tr>
@@ -53,18 +50,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>Aesthetics Department</h4>
+<td rowspan="1" colspan="2">
+<h4><strong>Curriculum and Co-Curriculum Leadership Team</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Aesthetics Department&nbsp;</h4>
 </td>
 </tr>
 <tr>
@@ -134,11 +133,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>English Language Department</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<h4>English Language Department&nbsp;</h4>
 </td>
 </tr>
 <tr>
@@ -224,11 +220,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>Mathematics Department</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<h4>Mathematics Department&nbsp;</h4>
 </td>
 </tr>
 <tr>
@@ -465,11 +458,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>Teacher Leadership Team</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<h4>Teacher Leadership Team&nbsp;</h4>
 </td>
 </tr>
 <tr>
@@ -553,11 +543,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>School Administrative Team</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="2">
+<h4><strong>School Administrative Team&nbsp;</strong></h4>
 </td>
 </tr>
 <tr>
