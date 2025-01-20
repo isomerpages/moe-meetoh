@@ -74,8 +74,7 @@ guiding compass to lead lives with purpose and meaning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Ng Kok Heng
-<br>Vice Principal
+<p><strong>Mr Eric Ng Kok Heng <br>Vice Principal </strong>
 <br>
 <br>Every child is different and unique. It is our job to help them discover
 their strengths and limitations so that they can build on the former and
