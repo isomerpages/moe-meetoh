@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table style="minwidth: 50px;"><colgroup> <col> <col> </colgroup>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,8 +52,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -68,8 +76,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -93,8 +105,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -110,14 +126,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>English Language Department</h4>
 </td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -128,8 +150,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -145,8 +171,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -186,14 +216,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Mathematics Department</h4>
 </td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -212,8 +248,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -237,14 +277,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Science Department</h4>
 </td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -263,8 +309,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -296,8 +346,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -321,8 +375,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -338,8 +396,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -395,14 +457,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Teacher Leadership Team</h4>
 </td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -477,8 +545,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">&nbsp;</td>
-<td rowspan="1" colspan="1">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
