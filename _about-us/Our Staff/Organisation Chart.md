@@ -523,7 +523,7 @@ variant: tiptap
 <p>Ms Chai Ching Shze Sofie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Learning Needs-Educational Support</p>
+<p>Senior Teacher Learning Needs-Educational Support</p>
 </td>
 </tr>
 <tr>
@@ -531,7 +531,7 @@ variant: tiptap
 <p>Ms Lim Ying Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Math&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Senior Teacher Math&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
