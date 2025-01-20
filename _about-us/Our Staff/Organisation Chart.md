@@ -504,7 +504,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Yi Nan</p>
+<p>Mdm Zhang Yinan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher CL</p>
