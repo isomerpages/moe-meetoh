@@ -1,6 +1,6 @@
 ---
 title: Executive and Administrative Support
-permalink: /about-us/Our-Staff/executive-and-administrative-support/
+permalink: /about-us/our-staff/executive-and-administrative-support/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap
@@ -67,9 +67,7 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Redwan Abdullah</strong>
-</p>
-<p><strong>ICT Manager</strong>
+<p><strong>Mr Redwan Abdullah<br>ICT Manager </strong>
 <br>
 <br>Education is the passport for the future.</p>
 </td>
@@ -112,16 +110,6 @@ Dewey</p>
 <p><strong>Mdm Sim Lee King<br>Management Support Office (MSO)</strong>
 <br>
 <br>'Where ever you go, go with your heart.' -Confucius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Candice Neo<br>Management Support Office (MSO)</strong>
-<br>
-<br>Knowledge is power.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -173,37 +161,6 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Hasan Bin Mohd Shariff</strong>
-<br><strong>Operations Support Officer (OSO)</strong>
-<br>
-<br>Find joy in what you do.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Hui Eng<br>Operations Support Officer (OSO)</strong>
-<br>
-<br>Work smart, study smart.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lee Bong Meng<br>Operations Support Officer (OSO)</strong>
-<br>
-<br>Be Smart!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Koh Hwee Koon<br>Operations Support Officer (OSO)</strong>
 <br>
 <br>Go confidently in the direction of your dreams.</p>
@@ -212,7 +169,26 @@ safety.”
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wong Chook Choon <br>Operations Support Officer (OSO)</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loh Ching Kai <br>Operations Support Officer (OSO)</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><em>Updated on 26 Dec 2023</em>
-</p>
+<p></p>
