@@ -459,7 +459,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Teacher Leadership Team&nbsp;</h4>
+<h4><strong>Teacher Leadership Team&nbsp;</strong></h4>
 </td>
 </tr>
 <tr>
