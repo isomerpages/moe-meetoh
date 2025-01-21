@@ -3,7 +3,7 @@ title: 2025 Primary 1 Form Teachers
 permalink: /about-us/our-staff/primary-1-form-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
 <h3>Primary 1 Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
@@ -40,6 +40,8 @@ surely see that special quality in them.</p>
 <p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
 <br><strong>Form Teacher (2) Primary 1-1</strong>
 </p>
+<p>“Educating the mind without educating the heart is no education at all.”
+– Aristotle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -162,6 +164,9 @@ latter. Every child can learn and do good.</p>
 <p><strong><a href="mailto:norraya_sayuti@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norraya Bte Sayuti</a></strong>
 <br><strong>Form Teacher (2) Primary 1-6</strong>
 </p>
+<p></p>
+<p>“Education is the passport to the future, for tomorrow belongs to those
+who prepare for it today.” – Malcolm X</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -185,7 +190,7 @@ chance, it must be sought for with ardor and attended to with diligence.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yan_yuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yu Zhen</a></strong>
+<p><strong><a href="mailto:yan_yuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a></strong>
 <br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 1-7</strong>
 <br>
 <br>书山有路勤为径，学海无涯苦作舟。——韩愈。</p>
@@ -201,8 +206,8 @@ chance, it must be sought for with ardor and attended to with diligence.”
 </p>
 <p>"Intelligence plus character, that is the goal of true education.”</p>
 <p>-Dr Martin Luther King Jr</p>
-<p>
-</p><p>Every student can learn, be nurtured and inspired to experience a holistic
+<p></p>
+<p>Every student can learn, be nurtured and inspired to experience a holistic
 education regardless of their profile.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +226,7 @@ education regardless of their profile.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yinan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yi Nan</a></strong>
+<p><strong><a href="mailto:zhang_yinan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
 <br><strong>Chinese Language Teacher<br>Form Teacher (1) Primary 1-9</strong>
 <br>
 <br>自信自律，自强不息！</p>
@@ -235,6 +240,9 @@ education regardless of their profile.</p>
 <p><strong><a href="mailto:yeo_chai_kim_irene@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Chai Kim Irene</a></strong>
 <br><strong>Form Teacher (2) Primary 1-9</strong>
 </p>
+<p></p>
+<p>I believe every child has a passion for learning if they take responsiblity
+to improve on their weaknesses and build on their strengths.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
