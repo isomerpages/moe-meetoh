@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mr Ng Kok Heng, Eric&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal, Administration</p>
+<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
