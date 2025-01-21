@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mr Ng Kok Heng, Eric&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal, Administration</p>
+<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Hwee Leng Joanna (Mrs Joanna Fan)</p>
+<p>Ms Toh Hwee Leng Joanna (Mrs Joanna Fan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH CCE</p>
@@ -504,7 +504,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Yi Nan</p>
+<p>Mdm Zhang Yinan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher CL</p>

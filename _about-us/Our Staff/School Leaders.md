@@ -41,7 +41,7 @@ LOVE through</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ronald Lee Chong Tart <br>Vice Principal </strong>
+<p><strong>Mr Ronald Lee Chong Tart <br>Vice-Principal </strong>
 <br>
 <br>To equip our children with values and skills to contribute in a fast-changing
 globalised world, there is a need to provide a curriculum with learning
@@ -57,7 +57,7 @@ aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Huang Yilan Lynne <br>Vice Principal </strong>
+<p><strong>Ms Huang Yilan Lynne <br>Vice-Principal </strong>
 <br>
 <br>Every child has the inherent desire to learn, do well and do something
 meaningful in their lives. Every child is also unique with different interests
@@ -74,8 +74,7 @@ guiding compass to lead lives with purpose and meaning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Ng Kok Heng
-<br>Vice Principal
+<p><strong>Mr Eric Ng Kok Heng <br>Vice-Principal (Administration)</strong>
 <br>
 <br>Every child is different and unique. It is our job to help them discover
 their strengths and limitations so that they can build on the former and
