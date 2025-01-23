@@ -114,6 +114,8 @@ can apply it in their lives.</p>
 <p><strong><a href="mailto:joanne_lye_shuyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Lye Shuyi</a></strong> 
 <br><strong>Form Teacher (2) Primary 3-4</strong>
 </p>
+<p></p>
+<p>"in learning you will teach, and in teaching you will learn." - Phil Collins</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,6 +126,10 @@ can apply it in their lives.</p>
 <p><strong><a href="mailto:goh_seok_luan@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Goh Seok Luan</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-5</strong>
 </p>
+<p></p>
+<p>“True teachers are those who use themselves as bridges over which they
+invite their students to cross; then, having facilitated their crossing,
+joyfully collapse, encouraging them to create their own.” — Nikos</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,6 +140,9 @@ can apply it in their lives.</p>
 <p><strong><a href="mailto:iskandar_mirza_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Iskandar Mirza Bin Salleh</a></strong> 
 <br><strong>Form Teacher (2) Primary 3-5</strong>
 </p>
+<p></p>
+<p>"Personal connections are the foundation of all learning." (Demarest,
+2015)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -177,6 +186,9 @@ Socrates</p>
 <p><strong><a href="tan_siu_thean_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Siu Thean Cheryl</a></strong>
 <br><strong>Form Teacher (2) Primary 3-7</strong>
 </p>
+<p></p>
+<p>Embracing the uniqueness of my students and providing them with a safe
+and caring learning environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -187,7 +199,7 @@ Socrates</p>
 <p><strong><a href="mailto:chim_kheng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chim Kheng Mui</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-8</strong> 
 <br>
-<br>“Teach the children well and let them lead the way.” - Whitney Houston</p>
+<br>行是知之始，知是行之成。</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
