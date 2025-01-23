@@ -83,7 +83,7 @@ best that they can possibly be.” - Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chiao_sze_trina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Trina Tan </a></strong> 
+<p><strong><a href="mailto:tan_chiao_sze_trina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Trina Tan </a></strong>
 <br><strong>Chinese Language Teacher<br>Form Teacher (1) Primary 4-3</strong> 
 <br>
 <br>植物因培植而成材，人类因教育而成器。 学生宛如破壳而出、茁壮成长的幼苗 。老师宛如辛勤播种、扎根灌溉的园丁。好品格宛如出污泥而不染的莲花。
