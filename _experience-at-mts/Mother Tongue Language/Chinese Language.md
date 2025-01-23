@@ -63,7 +63,6 @@ Learning. Our signature reading programmes (READ@MTL and “Dances with Books”
 levels are assigned and guided to read selected storybooks. The school
 has also embarked on digital reading to facilitate ease of reading and
 to encourage students to use screen time effectively.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/13.png">
 </div>
