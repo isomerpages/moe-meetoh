@@ -81,7 +81,7 @@ it. - Frances Clark</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:toh_hwee_leng_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Toh Hwee Leng</a></strong> 
-<br><strong>Subject Head - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 6-4</strong> 
+<br><strong>Subject Head - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 6-4</strong>
 </p>
 <p>Ms Joanna Toh Hwee Leng
 <br>
