@@ -47,7 +47,7 @@ are integrated into daily language acquisition in the classroom teaching
 and learning, whilst Cultural Awareness and Appreciation programmes are
 conducted throughout the year to immerse students in the Chinese Culture.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/11.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/11.png">
 </div>
 <h4>HIGHLIGHTS</h4>
 <h5>Language Acquisition Emphasis</h5>
@@ -65,7 +65,7 @@ has also embarked on digital reading to facilitate ease of reading and
 to encourage students to use screen time effectively.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/13.png">
 </div>
 <h5>Mother Tongue Languages Fortnight (MTLF)</h5>
 <p>Mother Tongue Fortnight &amp; Cultural Awareness Camp aims to create an
@@ -74,17 +74,7 @@ and Culture. The students are exposed to a wide variety of activities such
 as finger painting, dragon boat making as well as chopstick making. We
 provide authentic experiences for students to learn and apply their respective
 Mother Tongue Language skills through these activities.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12.png">
-</div>
-<h5>Language Acquisition Emphasis</h5>
-<p>The school places much emphasis on the development of critical thinking
-skill, oracy presentation as well as writing skills to equip our students
-to be confident and effective communicator. Different pedagogies and age-appropriate
-learning packages are designed to engage students in the learning of Chinese
-Language.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/14.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/14.png">
 </div>
 <p></p>
