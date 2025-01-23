@@ -31,8 +31,7 @@ their fullest potential and bring out the star in them.</p>
 <p><strong><a href="mailto:ahmad_nabil_mustafa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ahmad Nabil Bin Mustafa</a></strong> 
 <br><strong>Form Teacher (2) Primary 6-1</strong> 
 <br>
-<br>If a child can’t learn the way we teach, maybe we should teach the way
-they learn - Ignacio Estrada</p>
+<br>"Connecting through both heart and mind"</p>
 </td>
 </tr>
 <tr>
@@ -81,8 +80,10 @@ it. - Frances Clark</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:toh_hwee_leng_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanna Fan Hwee Leng</a></strong> 
+<p><strong><a href="mailto:toh_hwee_leng_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Toh Hwee Leng</a></strong> 
 <br><strong>Subject Head - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 6-4</strong> 
+</p>
+<p>Ms Joanna Toh Hwee Leng
 <br>
 <br>“Knowing is not enough, we must apply. Willing is not enough, we must
 do. Knowledge will give you power, but character respect.” - Bruce Lee</p>
@@ -112,8 +113,9 @@ in life.</p>
 <br><strong>Head of Department - English (EL)</strong>
 <br><strong>Form Teacher (2) Primary 6-5</strong>
 </p>
-<p>Great teachers empathise with children, respect them, and believe that
-each one has something special that can be built upon" - Ann Lieberman.</p>
+<p></p>
+<p>"Great teachers empathise with children, respect them, and believe that
+each one has something special that can be built upon." - Ann Lieberman</p>
 <p>I strongly believe that every child can learn and with this belief, a
 dedicated educator can help the child achieve that breakthrough in learning.</p>
 </td>
@@ -134,6 +136,8 @@ Edison</p>
 </p>
 <p><strong>Form Teacher (2) Primary 6-6</strong>
 </p>
+<p></p>
+<p>师以德为本，心以爱为源，用心教书，用爱育人。</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +187,7 @@ and learn it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:%20yeo_li_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Li Choo, Rachel</a></strong>
+<p><strong><a href="mailto:yeo_li_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Li Choo, Rachel</a></strong>
 <br><strong>Level Head - Mathematics (MA)</strong>
 <br><strong>Form Teacher (1) Primary 6-9</strong>
 </p>
