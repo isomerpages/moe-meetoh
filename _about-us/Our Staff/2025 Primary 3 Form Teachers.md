@@ -183,7 +183,7 @@ Socrates</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="tan_siu_thean_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Siu Thean Cheryl</a></strong>
+<p><strong><a href="mailto:tan_siu_thean_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Siu Thean Cheryl</a></strong>
 <br><strong>Form Teacher (2) Primary 3-7</strong>
 </p>
 <p></p>
