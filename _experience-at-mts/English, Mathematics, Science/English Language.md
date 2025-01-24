@@ -30,6 +30,7 @@ twisted tales and drama performance. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Photo_1.png">
 </div>
+<p></p>
 <p><strong>World Wise Readers</strong>
 </p>
 <p>We aim to nurture world-wise readers who actively engage with texts, connecting
@@ -57,7 +58,6 @@ Through experiential learning, students apply and demonstrate their knowledge
 and skills acquired in the various subjects, and their learning is augmented
 in authentic tasks that require them to create crafts, write about their
 experiences and present their research findings in EL.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Photo_3.jpg">
