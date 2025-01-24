@@ -7,93 +7,31 @@ variant: tiptap
 ---
 <h3>Arts and Music</h3>
 <h4>Art</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vision</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art is for Everyone</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A strong appreciation in the visual arts with vibrant art environment</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>To our Mee Tohians, art lessons are fun and enjoyable endeavours as lessons
-are not just about developing technical art skills, but enabling them to
-express themselves creatively and freely. Our art curriculum runs on a
-termly, modular programme based on specific themes. This provides Mee Tohians
-with greater art skills experience, deeper exploration, appreciation and
-creative expressions through fundamental art forms such as drawing and
-painting to sculpture, ceramic and animation works.</p>
+<p>At Mee Toh School, art lessons are not only enjoyable but also enriching
+experiences that go beyond simply developing technical skills. They offer
+our students the opportunity to express themselves creatively and freely.
+Our comprehensive art curriculum is designed around a modular, termly programme.
+This approach allows Mee Tohians to gain a well-rounded experience in the
+arts, fostering a deeper exploration and appreciation of various creative
+forms. From drawing and painting to sculpture, ceramics, and animation,
+our students engage with a broad spectrum of artistic disciplines, empowering
+them to express their ideas and unleash their full creative potential.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/aam101.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/aam102.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art2.png">
 </div>
 <h4>Music</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vision</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To develop a vibrant culture for the learning and appreciation of music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bring out the musicality in everyone</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Our music curriculum aims to develop the ability for creative expression
-and communication through music. We also inculcate the appreciation of
-music in local and global cultures in the children. Our curriculum comprises
-various interesting and stimulating music programme that contribute to
-the holistic development of a child.</p>
+<p>Our music curriculum is designed to foster creative expression and communication
+through the art of music. In addition to developing musical skills, we
+aim to cultivate an appreciation for both local and global musical cultures
+in our students. The curriculum offers a range of engaging and enriching
+music programmes, each contributing to the holistic development of the
+child. By providing diverse musical experiences, we empower students to
+explore their musical potential while broadening their understanding of
+the world’s rich musical heritage.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/aam103.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/aam104.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art3.png">
 </div>
 <p></p>
