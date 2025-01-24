@@ -2,32 +2,16 @@
 title: Programme for Active Learning
 permalink: /experience-at-mts/programme-for-active-learning/
 description: ""
+variant: markdown
 ---
 ### Programme for Active Learning (PAL)
 
-<img src="/images/pal100.png" style="width:80%">
+   
+The Programme for Active Learning (PAL) at Mee Toh School offers Primary 1 and 2 students a well-rounded education through diverse, engaging activities that promote Social-Emotional Learning (SEL) and 21st Century Competencies (e21). The programme focuses on holistic development across five key domains: Moral, Cognitive, Physical, Social, and Aesthetic, while fostering important personal qualities such as Care, Integrity, Respect, and Confidence.
+![](/images/Slide2.png)
+        
 
-At Mee Toh School, all Primary 1 and 2 students undergo Programme for Active Learning (PAL) modules as part of the holistic education during the curriculum time. PAL provides students exposure to two broad areas:
+PAL provides valuable exposure to two key areas: Sports & Games and Outdoor Education, as well as Performing Arts and Visual Arts. These hands-on, active learning experiences are designed to encourage creativity, promote values, and support social-emotional development, ensuring that students enjoy enriching and meaningful learning.
 
-·         Sports & Games and Outdoor Education<br>
-·         Performing Arts and Visual Arts
-
-PAL offers learning experience that are active, hands on and meaningful. It also encompasses learning in a creative way, provides opportunities for students to create, incorporate values and social-emotional learning, fun and enjoyable.
-
-Mee Toh School offers 6 modules to provide a well-rounded experience for our students.
-
-| Primary 1 	| Primary 2 	|
-|:---:	|:---:	|
-| Visual Art 	| Sports and Games 	|
-| Outdoor Education 	| Performing Arts (Music) 	|
-| Performing Arts (Dance) 	| Outdoor Education 	|
-
-<img src="/images/pal101.png" style="width:80%">
-
-*   With the modules spread over 2 years, we aim to achieve the following learning outcomes in our students:
-    
-    · Exhibit confidence in what they do and express themselves effectively<br>
-    · Exhibit curiosity and positive attitudes to learn<br>
-    · Enjoy group experiences and teamwork
-		
-*Updated on 11 August 2022*
+The programme also aims to help students develop key competencies, including confidence in their abilities, curiosity and a positive attitude toward learning, and strong collaboration skills, ensuring they grow into responsible, well-rounded individuals.
+![](/images/Slide3_v2.jpg)
