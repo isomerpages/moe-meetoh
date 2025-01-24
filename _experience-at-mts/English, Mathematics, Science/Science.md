@@ -23,10 +23,8 @@ through the growing of organic vegetables. This authentic learning requires
 the students to plant the seedlings, monitor the growth and harvest the
 full-grown vegetables. The experience complements and reinforces the students'
 understanding of the functions of plant parts.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Slide2.png">
 </div>
-<p></p>
 <p><em>Updated on 13 Mar 2023</em>
 </p>
