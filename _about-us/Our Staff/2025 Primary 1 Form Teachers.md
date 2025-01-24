@@ -204,8 +204,8 @@ chance, it must be sought for with ardor and attended to with diligence.”
 <p><strong><a href="mailto:muhammad_fikri_fazil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
 <br><strong>Form Teacher (1) Primary 1-8</strong>
 </p>
-<p>"Intelligence plus character, that is the goal of true education.”</p>
-<p>-Dr Martin Luther King Jr</p>
+<p>"Intelligence plus character, that is the goal of true education.”-Dr
+Martin Luther King Jr</p>
 <p></p>
 <p>Every student can learn, be nurtured and inspired to experience a holistic
 education regardless of their profile.</p>
