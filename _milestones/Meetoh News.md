@@ -72,13 +72,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>Our Staff</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.schoolbag.edu.sg/story/little-things-that-count" rel="noopener noreferrer nofollow" target="_blank">Little Things That Count (Schoolbag.sg, 2015)</a>
-</p>
-</li>
-</ul>
 <h4>Our Partners</h4>
 <ul data-tight="true" class="tight">
 <li>
