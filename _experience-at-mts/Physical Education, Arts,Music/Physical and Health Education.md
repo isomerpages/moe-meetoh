@@ -5,86 +5,112 @@ description: ""
 third_nav_title: Physical Education, Arts,Music
 variant: tiptap
 ---
-<h3>Physical and Health Education (PHE)</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p><strong>Physical Education (PE)</strong>
+</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+<p>Physical Education is an integral component of Singapore’s school curriculum
+to develop students holistically. By emphasising the importance of movement,
+and an individual’s interaction with the environment, Physical Education
+seeks to develop the whole child to bring about a nation of physically
+competent and confident individuals who enjoy a lifetime of active and
+healthy living safely and responsibly.&nbsp;</p>
+<p>The three learning areas of Physical Activity, Outdoor Education, and
+Physical Health and Safety are pivotal in providing the content for design
+and enactment of students’ meaningful learning experiences in, about and
+through movement. These areas leverage the physical and social environment
+to provide real-life contexts that strengthen students’ learning. A balanced
+and well-designed Physical Education curriculum, delivered through effective
+pedagogies and purposeful assessment can enable students to apply the skills,
+knowledge, practices and values to lead an active and healthy lifestyle.
+Additionally, it can help them acquire the 21st century competencies to
+thrive in the fast changing and complex world.</p>
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vision</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A physically active and healthy lifestyle for everyone</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Developing an active body and healthy mind</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Our Physical and Health Education (PHE) department’s vision is to promote
-a physically active and healthy lifestyle for everyone through developing
-an active body and healthy mind. The regular and purposeful health-enhancing
-physical activities and learning tasks foster students’ holistic development
-in the psycho motor, cognitive and affective domains. Besides displaying
-a positive attitude towards participation in physical activities, students
-also learn to cultivate 21st century competencies that can be meaningfully
-applied in their daily lives. They explore their interests and acquire
-skills and knowledge in achieving and maintaining a lifelong physically
-active and healthy lifestyle.</p>
-<p>Our vision and mission are guided by the MOE Physical Education Framework:</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/phe101.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Photo_1.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/phe102.png">
-</div>
-<h4>HIGHLIGHTS</h4>
-<p><strong>Key Programmes / Events</strong>
+<p><strong>HIGHLIGHTS</strong>
+</p>
+<p><strong>&nbsp;Key Programmes / Events</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/phe103.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Photo_2_2.png">
 </div>
-<h5>Active Play @ Recess</h5>
-<p>At Mee Toh School, net-barrier games (badminton and volleyball), field
-games (football, captain’s ball and ultimate Frisbee) as well as obstacle
-courses (Ninja Warrior and Bouldering) are set up during recess.</p>
-<p>This Active Play @ Recess platform encourages students to participate
-in the myriad of physical activities of their liking and with their friends.
-The platform also helps students to fulfill 150 minutes of moderate to
-vigorous intensity physical activities (MVPA) weekly, which is recommended
-by the Health Promotion Board.</p>
-<h5>Bouldering Module</h5>
-<p>A Mee Toh School signature programme, all students get the opportunity
-to build their physical skills and mental strength through active participation
-in the bouldering learning tasks. Besides the comprehensive and progressive
-bouldering module embedded in our PE lessons, students are also able to
-boulder as part of the Active Play @ Recess programme. The bouldering module
-value adds the PE learning area of Outdoor Education.</p>
-<h5>Wushu Quan (Routine) Module</h5>
-<p>This module enables students to refine their attentional focus and psycho
-motor control in relation to self, as they execute the various Wushu moves
-in sequential order and with gusto. Another one of Mee Toh School’s signature
-programmes, the module is meaningfully planned for students; their mastery
-level progresses each year, which culminates to the final performance routine
-at P6.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/phe104.png">
-</div>
+<p><strong><u>Learning for Life Programme (LLP)</u></strong>
+</p>
+<p>SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee Toh
+School) is Mee Toh School’s Learning for Life Programme (LLP). LLP aims
+to provide students with real life experiences to develop their character
+and values, strengthening the delivery of a holistic education through
+sports and outdoor education.</p>
+<p>&nbsp;</p>
+<p>SENCE @ MTS focuses on 4 components in the physical domain:</p>
+<p>·&nbsp;Physical and Outdoor Education</p>
+<p>·&nbsp;Programme for Active Learning</p>
+<p>·&nbsp;Sports CCAs</p>
+<p>·&nbsp;ACE Wushu @ Mee Toh School</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide4.png">
+</div>
+<p><strong><u>Physical and Health Education (PHE) and Outdoor Education (OE) curriculum</u></strong>
+</p>
+<p>Relevant skills are incorporated into the curriculum to better reflect
+the learning outcomes, to better engage the students and to provide a wider
+range of experiences that plant the seeds for life-long learning. Emphasis
+on the development of strong foundation and broad-based physical competencies
+aim to motivate students towards life-long commitment to sustain a healthy
+lifestyle.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>Programme for Active Learning (PAL)</u></strong>
+</p>
+<p>The school’s PAL programme is designed to expose the students (P1 and
+P2 students) to all four domains of PAL (sports &amp; games, outdoor education,
+visual and performing arts). These outcomes include providing fun and engaging
+activities as well as avenues for students to develop social and emotional
+competencies. Through the PAL programme, students will be able exhibit
+confidence in what they do and express themselves effectively.</p>
+<p></p>
+<p><strong><u>Sports CCA</u>&nbsp;</strong>
+</p>
+<p>CCAs are an integral part of the total school experience of students.
+The school strives to instil the love and passion for the Sports CCA through
+the 3-tier approach from P3 to P6:</p>
+<p>·&nbsp;Explore/Engage; Sports and Outdoor Education during PE curriculum</p>
+<p>·&nbsp;Experience; Development and application of skills during Sports
+CCA</p>
+<p>·&nbsp;Evolve; Opportunity to excel in the sport, passion to develop talent
+beyond primary school</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>ACE Wushu @ MTS programme</u></strong>
+</p>
+<p>The aim of Wushu learning, which is 修身养性, 自强不息, 保家卫国 (cultivation of the
+physical and moral self to promote continual growth as a total person so
+as to be of service to family and nation) is congruent with the intent
+of the LLP.</p>
+<p></p>
+<p>ACE Wushu @ MTS has the 3 key guiding principles:</p>
+<p>“A” stands for All student participation in Wushu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>“C” stands for Character building through Wushu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>“E” stands for Excellence in Wushu.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Slide1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Slide2.png">
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
