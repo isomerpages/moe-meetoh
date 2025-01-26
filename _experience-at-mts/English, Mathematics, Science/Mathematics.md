@@ -5,8 +5,7 @@ description: ""
 third_nav_title: English, Mathematics, Science
 variant: tiptap
 ---
-<p><strong>Mathematics</strong>
-</p>
+<h3><strong>Mathematics</strong></h3>
 <p>In Mee Toh School, we aim to foster Mathematical Thinking in our students
 through fun and interesting activities. Mathematical thinking starts from
 young. Our Primary one students celebrate their 100<sup>th</sup> Day in
