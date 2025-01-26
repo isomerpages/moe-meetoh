@@ -174,15 +174,11 @@ who prepare for it today.” – Malcolm X</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chieu_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Chieu Peng</a></strong>
+<p><strong><a href="mailto:tan_chieu_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yong - Tan Chieu Peng</a></strong>
 <br><strong>Form Teacher (1) Primary 1-7</strong>
 <br>
-<br>I believe that all children are unique and have something special that
-they can bring to their own education. It is my desire to create a stimulating
-educational environment where they can grow physically, mentally, emotionally,
-and socially to meet their full potential. “Learning is not attained by
-chance, it must be sought for with ardor and attended to with diligence.”
-~ Abigail Adams</p>
+<br>“Learning is not attained by chance, it must be sought for with ardor
+and attended to with diligence.” ~ Abigail Adams</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
