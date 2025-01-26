@@ -33,7 +33,7 @@ thrive in the fast changing and complex world.</p>
 <p><strong>&nbsp;Key Programmes / Events</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Photo_2_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Photo_2_4.png">
 </div>
 <p><strong><u>Learning for Life Programme (LLP)</u></strong>
 </p>
