@@ -5,7 +5,7 @@ description: ""
 third_nav_title: English, Mathematics, Science
 variant: tiptap
 ---
-<h3>Science</h3>
+<h3><strong>Science</strong></h3>
 <h5>Eco Trails</h5>
 <p>Mother Nature herself is leveraged as the third teacher to nurture our
 students into natural inquirers and passionate explorers of the environment
@@ -26,5 +26,4 @@ understanding of the functions of plant parts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Slide2.png">
 </div>
-<p><em>Updated on 13 Mar 2023</em>
-</p>
+<p></p>
