@@ -16,15 +16,17 @@ This means encouraging healthy, heterosexual marriages and stable nuclear
 family units with extended family support. The teaching and learning of
 SEd is based on <u>respect for the values and beliefs of the different ethnic and religious communities in Singapore</u> on
 sexuality issues.</p>
-<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Goals</strong>&nbsp;of
-Sexuality Education are:</p>
-<p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Goals </strong>of
+SEd are:</p>
+<p>(a)	<strong>S</strong>upport our students in managing their physiological,
+social and emotional changes as they grow up and develop safe and healthy
+relationships.</p>
+<p>(b)	<strong>E</strong>ngage and guide our students to make wise, informed
+and responsible decisions on sexuality matters.</p>
+<p>(c)	<strong>D</strong>evelop in our students the moral compass and respect
+for themselves and others by having positive mainstream values and attitudes
+about sexuality that are premised on the family as the basic unit of society.</p>
+<p></p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Key Messages</strong>&nbsp;of
 Sexuality Education are:</p>
