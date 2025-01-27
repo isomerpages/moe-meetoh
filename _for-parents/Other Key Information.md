@@ -18,29 +18,30 @@ SEd is based on <u>respect for the values and beliefs of the different ethnic an
 sexuality issues.</p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Goals </strong>of
 SEd are:</p>
-<p>(a)	<strong>S</strong>upport our students in managing their physiological,
+<p>(a) <strong>S</strong>upport our students in managing their physiological,
 social and emotional changes as they grow up and develop safe and healthy
 relationships.</p>
-<p>(b)	<strong>E</strong>ngage and guide our students to make wise, informed
+<p>(b) <strong>E</strong>ngage and guide our students to make wise, informed
 and responsible decisions on sexuality matters.</p>
-<p>(c)	<strong>D</strong>evelop in our students the moral compass and respect
+<p>(c) <strong>D</strong>evelop in our students the moral compass and respect
 for themselves and others by having positive mainstream values and attitudes
 about sexuality that are premised on the family as the basic unit of society.</p>
 <p></p>
 <p></p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Key Messages</strong>&nbsp;of
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Positive relationships
+are based on love and respect (which are the foundation for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Responsible
+decisions are made for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
+marriage is the best protection against STIs/HIV and unintended pregnancies.
+Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;</p>
-<p><strong>Overview of Mee Toh School’s Sexuality Education Programme for 2024</strong>
+<p> <strong>Overview of MEE TOH School’s SEd Programme for 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
