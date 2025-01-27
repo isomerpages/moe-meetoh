@@ -47,17 +47,21 @@ sports and outdoor education.</p>
 <p>·&nbsp;Sports CCAs</p>
 <p>·&nbsp;ACE Wushu @ Mee Toh School</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Slide4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.png">
 </div>
 <p><strong><u>Physical and Health Education (PHE) and Outdoor Education (OE) curriculum</u></strong>
 </p>
@@ -69,12 +73,6 @@ aim to motivate students towards life-long commitment to sustain a healthy
 lifestyle.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Slide1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Slide2.png">
-</div>
 <p><strong><u>Programme for Active Learning (PAL)</u></strong>
 </p>
 <p>The school’s PAL programme is designed to expose the students (P1 and
@@ -94,6 +92,16 @@ the 3-tier approach from P3 to P6:</p>
 CCA</p>
 <p>·&nbsp;Evolve; Opportunity to excel in the sport, passion to develop talent
 beyond primary school</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESlide1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESlide2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESlide3.png">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><u>ACE Wushu @ MTS programme</u></strong>
