@@ -4,118 +4,62 @@ permalink: /experience-at-mts/student-management/
 description: ""
 variant: tiptap
 ---
-<h4>Student Development and Management</h4>
-<p></p>
-<p></p>
-<h4>Student Management</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Vision</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Developing self-disciplined and upright individuals, striving unceasingly for the quest of knowledge</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>To mould Mee Tohians into respectable and responsible members of the society by providing them a happy, safe and caring environment conducive for learning</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Student Leadership</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Vision</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Every Mee Tohian a Leader</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h2>Student Development and Management</h2>
+<h3>Student Leadership &amp; Development</h3>
+<p>The Student Leadership Programme in Mee Toh School (MTS) aims to develop
+a leader in very Mee Tohian. The MTS TIERED STUDENT LEADERSHIP PYRAMID
+is a progressive model that allows students to develop their leadership
+potential based on their strengths and interests in the 5 spheres of Leadership
+– SERVICE, CYBER WELLNESS, HEALTH, ENVIRONMENT AND PEER RELATIONS. Student
+Leaders are given a VOICE and EMPOWERED to carry out “BY STUDENTS, FOR
+STUDENTS” projects to support their meaningful causes.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/sdm100.png">
-</div>
-<p>The MTS TIERED STUDENT LEADERSHIP PYRAMID is a progressive model that
-allows students to develop their leadership potential based on their strengths
-and interests in the 5 spheres of Leadership – SERVICE, CYBER WELLNESS,
-HEALTH, ENVIRONMENT AND PEER RELATIONS. Student Leaders are given a VOICE
-and EMPOWERED to carry out “BY STUDENTS, FOR STUDENTS” projects to support
-their meaningful causes.</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/sdm101.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/sdm100.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/sdm102.png">
+<img style="width: 70%;" height="auto" width="100%" src="/images/sdm101.png">
 </div>
-<p><strong>Student Well-being</strong>
-</p>
+<h3>Student Leadership Development Programme</h3>
+<p>The Student Leadership Development Programme are designed to equip our
+student leaders with the knowledge, competencies and skills to carry out
+their leadership roles in the various leadership spheres.</p>
+<p>The school adopts the 5 Practices of Exemplary Leadership (by Barry Posner
+and James M. Kouzes) model to train our student leaders. The 5 Practices
+of Exemplary Leadership are:</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/sdm103.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Slide1_SDM.png">
 </div>
-<h4>TIERED SUPPORT SYSTEM@MTS</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p>Student leaders adopt the “Design Thinking” approach for their student
+agency projects and events that aim to improve or enhance the overall school
+learning experiences for Mee Tohians.</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vision</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No child left behind</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>In our effort to develop our students holistically, the Tiered system
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2_SDM.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Slide3.png">
+</div>
+<h3>TIERED SUPPORT SYSTEM@MTS</h3>
+<p>In our efforts to develop our students holistically, the Tiered system
 of support for students allows the school to reach out to students so that
-every student receives quality instruction that matches his/her needs.
+every student receives quality instruction that matches his / her needs.
 Our School Counsellors support students’ mental well-being and social-emotional
 development while our SEN Officers support students with learning and behavioural
-needs. They work collaboratively with teachers to nurture and improve students’
-self-confidence, self-esteem and sense of independence.&nbsp; They also
-provide individual or small group skills training and intervention. Along
-with our Case Management Team, comprising the key members of the Student
-Development and Management Committee, the progress of these students is
-monitored and the effectiveness of the intervention is evaluated regularly.</p>
-<p><em>Updated on 30 December 2022</em>
-</p>
+needs. They work collaboratively with the Case Management Team, school
+staff and stakeholders to nurture and build students’ social skills, self-confidence,
+self-esteem and sense of independence.&nbsp;</p>
+<h3>Student Management Practices</h3>
+<p>Discipline is a continuous educational journey aimed at fostering self-discipline
+and strong character in our students, grounded in core values and social-emotional
+skills. We adopt the philosophy of Discipline with learning, care and dignity
+which aims to educate and empower every student to grow and move towards
+independence and self-discipline, actions guided by our school’s values.</p>
+<p>To achieve this, it is essential to address inappropriate behavior with
+consequences that are fair, firm, and timely. Equally important is the
+process of restoration, that provides the foundation to build, maintain
+and repair relationships amongst students.</p>
+<p>The school is committed to guiding all our students to show good character
+at all times, even when no one is looking.</p>
+<p></p>
+<p></p>
+<p></p>
