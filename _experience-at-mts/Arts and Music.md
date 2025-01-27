@@ -1,6 +1,6 @@
 ---
 title: Arts and Music
-permalink: /experience-at-mts/Physical-Education-ArtsMusic/
+permalink: /experience-at-mts/artsmusic/
 description: ""
 variant: tiptap
 ---

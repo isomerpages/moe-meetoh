@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /experience-at-mts/EMS/Science/
+permalink: /experience-at-mts/science/
 description: ""
 variant: tiptap
 ---

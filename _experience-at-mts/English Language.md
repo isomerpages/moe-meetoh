@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /experience-at-mts/EMS/English/
+permalink: /experience-at-mts/english/
 description: ""
 variant: tiptap
 ---

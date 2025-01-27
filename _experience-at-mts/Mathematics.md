@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /experience-at-mts/EMS/Mathematics/
+permalink: /experience-at-mts/mathematics/
 description: ""
 variant: tiptap
 ---

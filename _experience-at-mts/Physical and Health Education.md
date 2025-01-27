@@ -1,6 +1,6 @@
 ---
 title: Physical and Health Education
-permalink: /experience-at-mts/Physical-Education-ArtsMusic/phe/
+permalink: /experience-at-mts/physical-education-artsmusic/phe/
 description: ""
 variant: tiptap
 ---
