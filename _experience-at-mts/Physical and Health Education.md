@@ -59,9 +59,6 @@ sports and outdoor education.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLPSlide4_4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLPSlide5_5_5.png">
-</div>
 <p><strong><u>Physical and Health Education (PHE) and Outdoor Education (OE) curriculum</u></strong>
 </p>
 <p>Relevant skills are incorporated into the curriculum to better reflect
