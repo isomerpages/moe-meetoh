@@ -89,14 +89,15 @@ to keep themselves safe from sexuality-related risks.</p>
 </div>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
-children out of Sexuality Education lessons, and/or supplementary Sexuality
-Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
-opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable&nbsp;<a href="https://file.go.gov.sg/meetohsedoptout.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. You can also
-complete the Opt-out form&nbsp;<a href="https://form.gov.sg/65b853a9a34e410de7137b37" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by <u>08/02/2024</u>.</p>
+children out of SEd lessons, and/or supplementary Sexuality Education programmes
+by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to
+opt their child out of the Sed lessons need to complete an opt-out form.
+This form will be communicated &nbsp;to parents at the start of the year
+and is also downloadable&nbsp;<a href="https://file.go.gov.sg/meetohsedoptout.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. You can also
+complete the Opt-out form&nbsp;<a href="https://form.gov.sg/65d29f1651827348ad211653" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by <u>07/02/2025</u>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at&nbsp;6489 3326 for discussion or to seek clarification about the school’s
-Sexuality Education programme.</p>
+(Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <u>tan_chew_shie @</u>
+<a rel="noopener noreferrer nofollow" target="_blank"><u>schools.gov.sg</u>
+</a>for discussion or to seek clarification about the school’s SEd programme.</p>
