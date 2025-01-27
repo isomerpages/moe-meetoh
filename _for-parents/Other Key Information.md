@@ -5,17 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h3>Other Key Information</h3>
-<h4>Sexuality Education</h4>
+<h4><strong>MOE Sexuality Education as Part of the School Curriculum</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-(SEd) in schools aims to enable students to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships with others, including those with members of
-the opposite sex, and make wise, informed and responsible decisions on
-sexuality matters. SEd is premised on the importance of the family as the
-basic unit of society. This means encouraging healthy, heterosexual marriages
-and stable nuclear family units with extended family support. The teaching
-and learning of SEd is based on respect for the values and beliefs of the
-different ethnic and religious communities in Singapore on sexuality issues.</p>
+(SEd) aims to enable our students to understand the physiological, social
+and emotional changes that they will experience as they mature, develop
+healthy and rewarding relationships with others, including those with members
+of the opposite sex, and make wise, informed and responsible decisions
+on sexuality matters. SEd is premised on the i<u>mportance of the family as the basic unit of society</u>.
+This means encouraging healthy, heterosexual marriages and stable nuclear
+family units with extended family support. The teaching and learning of
+SEd is based on <u>respect for the values and beliefs of the different ethnic and religious communities in Singapore</u> on
+sexuality issues.</p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Goals</strong>&nbsp;of
 Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
