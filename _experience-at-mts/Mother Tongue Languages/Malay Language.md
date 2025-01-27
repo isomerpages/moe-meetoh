@@ -2,7 +2,7 @@
 title: Malay Language
 permalink: /experience-at-mts/Mother-Tongue-Language/malay/
 description: ""
-third_nav_title: Mother Tongue Language
+third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
 <h3>Malay Language</h3>

@@ -4,6 +4,7 @@ permalink: /experience-at-mts/ict-in-education/
 description: ""
 variant: tiptap
 ---
+<p>ICT in Education</p>
 <p>At Mee Toh School, we believe in empowering our students with the digital
 skills they need to thrive in the 21st century. Through our ICT programmes,
 our children embark on a journey of discovery, creativity, and collaboration.</p>
@@ -23,5 +24,14 @@ information. By integrating ICT across subjects, we also enhance learning
 in every area from science to the arts. Our ICT programme is designed not
 just to teach students how to use technology, but also enables them to
 collaborate effectively. Whether they are creating projects, solving challenges,
-or learning about digital citizenship, students are empowered to become
-responsible and confident digital users.</p>
+or learning about digital citizenship, students are empowered to empowered
+to become responsible and confident digital users.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Photo_Template.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

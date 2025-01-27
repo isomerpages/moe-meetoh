@@ -2,7 +2,7 @@
 title: Environmental Education
 permalink: /experience-at-mts/environmental-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 ### Environmental Education
 

@@ -1,9 +1,9 @@
 ---
 title: Chinese Language
-permalink: /experience-at-mts/Mother-Tongue-Language/chinese/
+permalink: /experience-at-mts/mother-tongue-language/chinese/
 description: ""
-third_nav_title: Mother Tongue Language
-variant: tiptap
+third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 <h3>Chinese Language</h3>
 <p>Language Acquisition and Cultural Awareness &amp; Appreciation forms the
