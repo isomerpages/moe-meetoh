@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - Arts and Music.md
-      - Physical and Health Education.md
-      - Science.md
-      - Mathematics.md
-      - English Language.md
       - Character Education/.keep
       - Character Education/Overview.md
       - Character Education/Character Development Lesson.md
@@ -15,10 +11,14 @@ collections:
       - Character Education/School History Curriculum.md
       - Environment Education.md
       - ICT in Education.md
+      - English Language.md
+      - Mathematics.md
       - Mother Tongue Language/.keep
       - Mother Tongue Language/Chinese Language.md
       - Mother Tongue Language/Malay Language.md
-      - Programme for Active Learning.md
       - English, Mathematics, Science/.keep
+      - Programme for Active Learning.md
+      - Physical and Health Education.md
       - Physical Education, Arts,Music/.keep
+      - Science.md
       - Student Development and Management.md
