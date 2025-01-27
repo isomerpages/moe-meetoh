@@ -26,24 +26,30 @@ links:
   - title: Experience @ MTS
     url: /experience-at-mts/ICT-in-Education
     sublinks:
-      - title: ICT in Education
-        url: /experience-at-mts/ICT-in-Education
-      - title: Student Management
-        url: /experience-at-mts/student-management
-      - title: Environmental Education
-        url: /experience-at-mts/environment-education
-      - title: Programme for Active Learning
-        url: /experience-at-mts/programme-for-active-learning
-      - title: Learning for Life Programme
-        url: /experience-at-mts/learning-for-life-programme
-      - title: English, Mathematics, Science
-        url: /experience-at-mts/EMS/English
-      - title: Mother Tongue Language
-        url: /experience-at-mts/Mother-Tongue-Language/chinese
+      - title: Arts and Music
+        url: /experience-at-mts/artsandmusic
       - title: Character Education
         url: /experience-at-mts/Character-Education/
-      - title: Physical Education, Arts,Music
-        url: /experience-at-mts/Physical-Education-ArtsMusic/phe
+      - title: Environmental Education
+        url: /experience-at-mts/environment-education
+      - title: ICT in Education
+        url: /experience-at-mts/ICT-in-Education
+      - title: Learning for Life Programme
+        url: /experience-at-mts/learning-for-life-programme
+      - title: English
+        url: /experience-at-mts/English-Language
+      - title: Mathematics
+        url: /experience-at-mts/Mathematics
+      - title: Mother Tongue Languages
+        url: /experience-at-mts/Mother-Tongue-Languages/chinese
+      - title: Programme for Active Learning
+        url: /experience-at-mts/programme-for-active-learning
+      - title: Physical Education
+        url: /experience-at-mts/Physical-Education
+      - title: Science
+        url: /experience-at-mts/Science
+      - title: Student Management
+        url: /experience-at-mts/student-management
       - title: Co-Curricular Activities
         url: /co-curricular-activities/overview
   - title: For Parents
