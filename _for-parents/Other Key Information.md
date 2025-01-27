@@ -98,6 +98,5 @@ and is also downloadable&nbsp;<a href="https://file.go.gov.sg/meetohsedoptout.pd
 complete the Opt-out form&nbsp;<a href="https://form.gov.sg/65d29f1651827348ad211653" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by <u>07/02/2025</u>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-(Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <u>tan_chew_shie @</u>
-<a rel="noopener noreferrer nofollow" target="_blank"><u>schools.gov.sg</u>
-</a>for discussion or to seek clarification about the school’s SEd programme.</p>
+(Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_chew_shie@schools.gov.sg</a> for
+discussion or to seek clarification about the school’s SEd programme.</p>
