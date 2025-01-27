@@ -94,8 +94,8 @@ by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to
 opt their child out of the Sed lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable&nbsp;<a href="https://file.go.gov.sg/meetohsedoptout.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. You can also
-complete the Opt-out form&nbsp;<a href="https://form.gov.sg/65d29f1651827348ad211653" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+and is also downloadable&nbsp;<a href="https://go.gov.sg/meetohsedoptout" rel="noopener noreferrer nofollow" target="_blank">here</a>. You can also complete
+the Opt-out form&nbsp;<a href="https://form.gov.sg/65d29f1651827348ad211653" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by <u>07/02/2025</u>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 (Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_chew_shie@schools.gov.sg</a> for
