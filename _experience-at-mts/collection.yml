@@ -2,7 +2,6 @@ collections:
   experience-at-mts:
     output: true
     order:
-      - Arts and Music.md
       - Character Education/.keep
       - Character Education/Overview.md
       - Character Education/Character Development Lesson.md
