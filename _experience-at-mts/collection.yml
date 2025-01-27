@@ -2,6 +2,7 @@ collections:
   experience-at-mts:
     output: true
     order:
+      - Physical and Health Education.md
       - Arts and Music.md
       - Character Education/.keep
       - Character Education/Overview.md
