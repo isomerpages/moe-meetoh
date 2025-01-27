@@ -3,21 +3,22 @@ title: Character Development Lesson
 permalink: /experience-at-mts/Character-Education/character-development-lesson/
 description: ""
 third_nav_title: Character Education
+variant: tiptap
 ---
-### Character Development Lesson
-
-| Objectives 	|
-|---	|
-| • Aims to sow the seeds of goodness in the hearts of Mee Tohians and help them develop good moral character. 	|
-| • Offers meaningful and hand-on learning experiences through student-centric and creative pedagogies such as puppet shows, skits and sign language songs 	|
-| • Incorporates the teaching of Jing Si Aphorisms and moral values during the lessons. 	|
-
-The weekly 30-minute CD period is planned and carried out in collaboration with Tzu Chi Singapore. Mee Toh was the first school to partner Tzu Chi’s Team of Great Love Mothers. 
-
-  
-
-This group of mothers have, since 13 February 2008, volunteered wholeheartedly to guide our students to develop good character. They also meet regularly with teacher ICs to discuss ways to better guide the students and fine-tune the programme.
-
-<img src="/images/cce103.png" style="width:80%">
-
-*Updated on 16 August 2022*
+<h3>Character Development Lesson</h3>
+<p>Mee Toh School takes pride in its Character Development (CD) programme,
+which features a weekly 30-minute period designed and implemented in partnership
+with Tzu Chi Singapore and Tzu Chi's Team of Great Love Mothers.</p>
+<p>Since 13 February 2008, this dedicated group of mothers has been volunteering
+their time and expertise to guide our students in developing strong moral
+character. Their commitment extends beyond the classroom, as they regularly
+meet with our teacher-in-charge to discuss strategies for enhancing student
+guidance and refining the programme.</p>
+<p>This unique collaboration exemplifies our school's commitment to holistic
+education, blending academic excellence with character development. We
+believe this approach equips our students with the values and skills necessary
+to thrive in an ever-changing world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDL.png">
+</div>
+<p></p>
