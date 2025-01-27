@@ -48,30 +48,30 @@ The content for SEd is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
 Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of SEd in the school curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
-topics on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship
-Education (CCE)</p>
-<h4><strong><u>Sexuality Education Lessons</u></strong>:</h4>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate topics
+on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science (Primary 5)</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
+<h4><strong><u>SEd Lessons</u></strong>:</h4>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark
-the onset of puberty. With better nutrition and improved health care, children
-are reaching puberty at a younger age and have to grapple with physical,
-emotional and psychological changes in themselves. The implication is that
-our children are becoming biologically ready for sexual activity sooner
-without necessarily having the corresponding cognitive or emotional maturity
-to modulate their behaviours. Furthermore, our young are also exposed to
-a wide range of influences that could endanger health and undermine the
-integrity of the family. Our students require close guidance so that they
-can respond with discernment to the sexual messages in the media and other
-sources.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-(SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through
-these lessons, students will learn healthy ways to manage the physiological,
-social and emotional changes in their growing years. They learn to build
-healthy and rewarding relationships with others, including those with members
-of the opposite sex. Students are also guided to make wise, informed and
-responsible decisions to keep themselves safe from sexuality-related risks.</p>
+the onset of puberty. With better nutrition and improved health care, our
+students are reaching puberty at a younger age and have to grapple with
+physical, emotional and psychological changes in themselves. The implication
+is that our students are becoming biologically ready for sexual activity
+sooner without necessarily having the corresponding cognitive or emotional
+maturity to modulate their behaviours. Furthermore, our students may also
+exposed to a wide range of influences that could endanger their health
+and undermine the integrity of the family. Our students require close guidance
+so that they can respond with discernment to the sexual messages in the
+media and other sources.</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SEd lessons are taught
+as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, our students
+will learn healthy ways to manage the physiological, social and emotional
+changes in their growing years. They learn to build healthy and rewarding
+relationships with others, including those with members of the opposite
+sex. Students are also guided to make wise, informed and responsible decisions
+to keep themselves safe from sexuality-related risks.</p>
 <h4><strong>At Mee Toh School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong></h4>
 <h4>PRIMARY 5</h4>
 <div class="isomer-image-wrapper">
