@@ -160,8 +160,7 @@ of curiosity and appreciation for our nation's history and culture.</p>
 <p>By engaging with their surroundings, Mee Tohians develop a more holistic
 understanding of their education and its relevance to the world around
 them, preparing them to be active and responsible members of society.</p>
-<p>[Picture]</p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ2_1.png">
+</div>
 <p></p>
