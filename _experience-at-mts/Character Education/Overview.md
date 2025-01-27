@@ -163,4 +163,7 @@ them, preparing them to be active and responsible members of society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ2_1.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ1.png">
+</div>
 <p></p>
