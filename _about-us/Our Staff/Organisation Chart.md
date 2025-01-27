@@ -266,7 +266,7 @@ variant: tiptap
 <p>Mr Abdul Faqih Bin Sinuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head PE</p>
+<p>Level Head PHE</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +327,7 @@ variant: tiptap
 <p>Mr Muhamed Nazrul Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH SDM/Student Leadership</p>
+<p>SH / Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +335,7 @@ variant: tiptap
 <p>Ms Siti Nur Hannah Binte Hardy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH SDM/Discipline</p>
+<p>SH / Discipline</p>
 </td>
 </tr>
 <tr>
