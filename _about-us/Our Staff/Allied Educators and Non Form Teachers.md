@@ -115,16 +115,6 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_han_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs George</a></strong> 
-<br><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim_kim_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong> 
 <br><strong>Teacher</strong>
 </p>
