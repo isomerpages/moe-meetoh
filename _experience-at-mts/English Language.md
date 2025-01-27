@@ -2,7 +2,6 @@
 title: English Language
 permalink: /experience-at-mts/EMS/English/
 description: ""
-third_nav_title: English, Mathematics, Science
 variant: tiptap
 ---
 <h3>English Language</h3>

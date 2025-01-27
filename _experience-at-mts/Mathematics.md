@@ -2,7 +2,6 @@
 title: Mathematics
 permalink: /experience-at-mts/EMS/Mathematics/
 description: ""
-third_nav_title: English, Mathematics, Science
 variant: tiptap
 ---
 <h3><strong>Mathematics</strong></h3>

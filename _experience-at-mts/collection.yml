@@ -2,23 +2,21 @@ collections:
   experience-at-mts:
     output: true
     order:
-      - ICT in Education.md
-      - Student Development and Management.md
-      - Environment Education.md
-      - Programme for Active Learning.md
-      - English, Mathematics, Science/.keep
-      - English, Mathematics, Science/English Language.md
-      - English, Mathematics, Science/Mathematics.md
-      - English, Mathematics, Science/Science.md
-      - Mother Tongue Language/.keep
-      - Mother Tongue Language/Chinese Language.md
-      - Mother Tongue Language/Malay Language.md
+      - Arts and Music.md
       - Character Education/.keep
       - Character Education/Overview.md
       - Character Education/Character Development Lesson.md
       - Character Education/Internationalisation.md
       - Character Education/Integrated Project Work and Values in Action.md
       - Character Education/School History Curriculum.md
-      - Physical Education, Arts,Music/.keep
-      - Physical Education, Arts,Music/Physical and Health Education.md
-      - Physical Education, Arts,Music/Arts and Music.md
+      - Environment Education.md
+      - ICT in Education.md
+      - English Language.md
+      - Mathematics.md
+      - Mother Tongue Language/.keep
+      - Mother Tongue Language/Chinese Language.md
+      - Mother Tongue Language/Malay Language.md
+      - Programme for Active Learning.md
+      - Physical and Health Education.md
+      - Science.md
+      - Student Development and Management.md
