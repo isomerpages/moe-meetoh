@@ -6,136 +6,162 @@ third_nav_title: Character Education
 variant: tiptap
 ---
 <h3>Character and Citizenship Education (CCE)</h3>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vision</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Socially and emotionally competent citizens of the 21st Century; rooted
-and active contributors in the community.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Every child a seedling- to develop the character of every Mee Tohian through
-the head, heart and hands and ignite a passion for lifelong learning that
-lasts throughout life in all aspects.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>In Mee Toh School, Character and Citizenship Education (CCE) is at the
-heart of every school programme, academic and non-academic. CCE takes place
-all the time in school, firmly anchored on MOE’s core values and guided
-by the school vision, mission and motto - Compassion, Conscience, Purity
-&amp; Righteousness.&nbsp;</p>
-<p>We aim to develop in our students:</p>
-<p>a.&nbsp;Good character: Have a sound moral compass and a strong sense
-of right and wrong, think critically and ethically, be discerning in judgment,
-take responsibility for choices and actions, be caring towards others and
-strive for excellence;</p>
-<p>b.&nbsp;Resilience and social-emotional well-being: Have a balanced sense
-of self, form healthy relationships, be resilient when faced with challenges,
-find meaning in life, and have a sense of gratitude and appreciation;</p>
-<p>c.&nbsp;Future readiness: Have a sense of purpose in life, develop the
-dispositions of adaptability and lifelong learning&nbsp;so as to&nbsp;be
-able to navigate education and career pathways purposefully and take on
-the challenges of the future, including the world of work and life; and</p>
-<p>d.&nbsp;Active citizenship: Develop a strong national identity based on
-a sense of belonging to the nation, a sense of hope in themselves and the
-future, an awareness of the reality of Singapore’s vulnerabilities and
-constraints, and the will to act on improving the lives of&nbsp;others,
-and&nbsp;building a future for our nation.</p>
+<p>At Mee Toh School, we view character development as akin to nurturing
+a seed into a thriving plant. We recognise that each child is unique, requiring
+time, patience, and a supportive community to foster their holistic growth
+and unlock their full potential.</p>
+<p>Character and Citizenship Education (CCE) forms the cornerstone of our
+educational philosophy, permeating every aspect of school life—both academic
+and non-academic. This approach ensures that CCE is not confined to a single
+subject or time slot, but is a continuous process woven into the fabric
+of our students' daily experiences.</p>
+<p>Our CCE programme is firmly rooted in the core values set forth by the
+Ministry of Education, while also being guided by our school's vision,
+mission, and motto: Compassion, Conscience, Purity &amp; Righteousness.
+These principles serve as a moral compass, steering our students towards
+becoming responsible, empathetic, and principled individuals ready to contribute
+positively to society.</p>
+<p>Through this comprehensive approach, we aim to cultivate not just academically
+proficient students, but well-rounded individuals with strong moral foundations
+and a deep sense of civic responsibility.</p>
 <h4>HIGHLIGHTS</h4>
-<p>At Mee Toh School, we believe that the process of developing one’s character
-is similar to the process of germination of the seed and cultivation of
-the plant. Every child is unique; it requires time, patience, and a community
-to nurture the whole child and bring out the best in every child.</p>
 <h5>Form Teachers’ Guidance Period (FTGP)</h5>
-<p>FTGP lessons uses authentic contexts in the explicit teaching and learning
-of fundamental social-emotional skills which are anchored on values and
-citizenship dispositions. Topics related to the six CCE content areas (i.e.,
-Cyber Wellness, Education and Career Guidance, Family Education, Mental
-Health, National Education, and Sexuality Education) are discussed in a
-developmentally appropriate manner during the lessons. The lessons help
-strengthen positive Teacher-Student Relationships (TSR) and build supportive
-peer relationships. Time is also factored in for Form Teachers to have
-individual conversations with students.&nbsp;</p>
-<h5>CIVICS &amp; MORAL EDUCATION (CCE-MTL)</h5>
-<p>CCE-MTL lessons focuses on the explicit teaching of R3ICH values within
-the broader CCE framework. We believe that every Mee Tohian can be moulded
-through a nurturing environment and school programmes tailored to the needs
-of students. We provide opportunities for them to practice the values,
-allow them to recognise the virtues, significance, or magnitude of people
-and things around them, to help them understand how to strengthen relationships
-and create an affirmative culture through various activities conducted
-throughout the year. Through their active participation, Mee Tohians have
-positively shown an inclination towards achieving the Desired Outcomes
-of Education: Confident person, Self-directed Learner, Active Contributor
-and Concerned Citizen.</p>
+<p>Form Teacher Guidance Period (FTGP) at our school employs authentic contexts
+to explicitly teach and reinforce essential social-emotional skills. These
+lessons are firmly anchored in values and citizenship dispositions, ensuring
+a holistic approach to character development.</p>
+<p>During FTGP, we address six key Content Areas of Character and Citizenship
+Education (CCE) in a developmentally appropriate manner:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cyber Wellness</p>
+</li>
+<li>
+<p>Education and Career Guidance</p>
+</li>
+<li>
+<p>Family Education</p>
+</li>
+<li>
+<p>Mental Health</p>
+</li>
+<li>
+<p>National Education</p>
+</li>
+<li>
+<p>Sexuality Education</p>
+</li>
+</ul>
+<p>These carefully structured lessons serve a dual purpose: they strengthen
+positive Teacher-Student Relationships (TSR) and foster supportive peer
+interactions. This approach creates a nurturing environment where students
+feel valued and understood.</p>
+<p>Importantly, we allocate dedicated time within FTGP for Form Teachers
+to engage in individual conversations with students. These one-on-one interactions
+provide valuable opportunities for personalised guidance, allowing teachers
+to better understand and support each student's unique needs and aspirations.</p>
+<p>Through FTGP, we aim to equip our students with the social-emotional competencies
+and values necessary for navigating life's challenges and becoming responsible,
+empathetic citizens.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE1.png">
+</div>
+<h5>Character and Citizenship Education-Mother Tongue (CCE-MTL)</h5>
+<p>Character and Citizenship Education in Mother Tongue Languages (CCE-MTL)
+at Mee Toh School focuses on the explicit teaching of our R3ICH values
+(Respect, Responsibility, Resilience, Integrity, Care and Harmony) within
+the broader CCE framework. We firmly believe that every Mee Tohian has
+the potential for growth and development through a nurturing environment
+and tailored school programmes.</p>
+<p>Our CCE-MTL curriculum provides students with ample opportunities to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Practice and internalise the R3ICH values</p>
+</li>
+<li>
+<p>Recognise the virtues, significance, and impact of people and things around
+them</p>
+</li>
+<li>
+<p>Understand how to strengthen relationships</p>
+</li>
+<li>
+<p>Contribute to creating an affirmative school culture</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCEMLT.png">
+</div>
 <h5>National Education (NE) and Social Studies (SS)</h5>
-<p>National Education forms a part of the school’s citizenship programme.
-Students have the opportunities to experience the Singapore story to foster
-in them our national identity and the spirit of togetherness with one another.
-Mee Tohians commemorate four core NE events as listed below. The Primary
-SS syllabus helps students to grow in knowledge, develop skills and learn
-values through examining issues that are of significance to our society
-and the world in which we live.</p>
-<ol data-tight="true" class="tight">
+<p>National Education (NE) is an integral part of our school's citizenship
+programme. Through NE, Mee Tohians experience the Singapore story firsthand,
+fostering a strong national identity and a spirit of unity.</p>
+<p>Our students commemorate four core NE events annually:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Total Defence Day
-<br>
-</p>
+<p>Total Defence Day</p>
 </li>
 <li>
-<p>International Friendship Day
-<br>
-</p>
+<p>International Friendship Day</p>
 </li>
 <li>
-<p>Racial Harmony Day
-<br>
-</p>
+<p>Racial Harmony Day</p>
 </li>
 <li>
 <p>National Day</p>
 </li>
-</ol>
+</ul>
+<p>These events, coupled with our Primary Social Studies syllabus, provide
+students with opportunities to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deepen their understanding of Singapore's history and development</p>
+</li>
+<li>
+<p>Explore significant local and global issues</p>
+</li>
+<li>
+<p>Develop critical thinking skills</p>
+</li>
+<li>
+<p>Cultivate values essential for responsible citizenship</p>
+</li>
+</ul>
+<p>Through this comprehensive approach, we aim to nurture Mee Tohians into
+informed, empathetic, and active citizens who are ready to contribute positively
+to our nation and the world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NESS1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NESS2.png">
+</div>
 <h5>Learning Journeys</h5>
-<p>Students embark on different field-based learning journeys every year
-which will provide opportunities for them to acquire knowledge, understand
-the significance of heritage places or places of interest beyond the classrooms,
-and become well-informed and caring citizens. Mee Tohians learn in authentic
-settings, gain hands-on experiences and discover the insights and stories
-narrated in their textbooks.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cce101.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cce102.png">
-</div>
-<p><em>Updated on 16 August 2022</em>
-</p>
+<p>Every year, Mee Tohians embark on diverse learning journeys that extend
+education beyond the classroom walls. These excursions offer our students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Opportunities to acquire knowledge in authentic settings</p>
+</li>
+<li>
+<p>A deeper understanding of heritage sites and places of interest</p>
+</li>
+<li>
+<p>Hands-on experiences that bring textbook content to life</p>
+</li>
+<li>
+<p>Insights into becoming well-informed and caring citizens</p>
+</li>
+</ul>
+<p>Through these immersive experiences, our students gain a richer perspective
+on their studies, connecting theoretical knowledge with real-world applications.
+These journeys not only enhance their learning but also foster a sense
+of curiosity and appreciation for our nation's history and culture.</p>
+<p>By engaging with their surroundings, Mee Tohians develop a more holistic
+understanding of their education and its relevance to the world around
+them, preparing them to be active and responsible members of society.</p>
+<p>[Picture]</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
