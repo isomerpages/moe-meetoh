@@ -1,6 +1,6 @@
 ---
 title: ICT in Education
-permalink: /experience-at-mts/ICT-in-Education/
+permalink: /experience-at-mts/ict-in-education/
 description: ""
 variant: tiptap
 ---

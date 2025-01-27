@@ -1,6 +1,6 @@
 ---
-title: Environment Education
-permalink: /experience-at-mts/environment-education/
+title: Environmental Education
+permalink: /experience-at-mts/environmental-education/
 description: ""
 variant: markdown
 ---
