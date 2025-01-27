@@ -72,14 +72,20 @@ changes in their growing years. They learn to build healthy and rewarding
 relationships with others, including those with members of the opposite
 sex. Students are also guided to make wise, informed and responsible decisions
 to keep themselves safe from sexuality-related risks.</p>
-<h4><strong>At Mee Toh School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong></h4>
+<h4><strong>At MEE TOH School, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
 <h4>PRIMARY 5</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/Primary_5__2024_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/P5_2025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/P5_2025__2_.png">
 </div>
 <h4>PRIMARY 6</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/Primary_6__2024_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/P6_2025.png">
 </div>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
