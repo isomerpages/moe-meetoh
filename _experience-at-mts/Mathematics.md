@@ -15,18 +15,19 @@ beyond the classrooms.</p>
 a mindset that embraces problem-solving, critical thinking, metacoginition
 and a deep understanding of mathematical concepts. One of them is the <strong>MTS Maths Week</strong> which
 coincides with the International Day of Mathematics on 14 March (previously
-known as pi day (3.14). During Math Week, we<strong> </strong>celebrate
-how Mathematics has made our world and lives better through exciting activities
-with our friends and families.</p>
+known as Pi Day since 3, 1 and 4 are the first three significant figurres
+of π). During Maths Week, we<strong> </strong>celebrate how Mathematics
+has made our world and lives better through exciting activities with our
+friends and families.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Slide1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Slide2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Math_Slide2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Slide3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Math_Slide3.png">
 </div>
 <p></p>
