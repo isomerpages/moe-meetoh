@@ -4,7 +4,7 @@ permalink: /experience-at-mts/artsmusic/
 description: ""
 variant: tiptap
 ---
-<h3>Arts and Music</h3>
+<h3>Art and Music</h3>
 <h4>Art</h4>
 <p>At Mee Toh School, art lessons are not only enjoyable but also enriching
 experiences that go beyond simply developing technical skills. They offer
