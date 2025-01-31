@@ -4,8 +4,8 @@ permalink: /experience-at-mts/student-management/
 description: ""
 variant: tiptap
 ---
-<h2>Student Development and Management</h2>
-<h3>Student Leadership &amp; Development</h3>
+<h3>Student Development and Management</h3>
+<h4><strong>Student Leadership &amp; Development</strong></h4>
 <p>The Student Leadership Programme in Mee Toh School (MTS) aims to develop
 a leader in very Mee Tohian. The MTS TIERED STUDENT LEADERSHIP PYRAMID
 is a progressive model that allows students to develop their leadership
@@ -19,7 +19,7 @@ STUDENTS” projects to support their meaningful causes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/sdm101.png">
 </div>
-<h3>Student Leadership Development Programme</h3>
+<h4><strong>Student Leadership Development Programme</strong></h4>
 <p>The Student Leadership Development Programme are designed to equip our
 student leaders with the knowledge, competencies and skills to carry out
 their leadership roles in the various leadership spheres.</p>
@@ -39,7 +39,7 @@ learning experiences for Mee Tohians.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Slide3.png">
 </div>
-<h3>TIERED SUPPORT SYSTEM@MTS</h3>
+<h4><strong>TIERED SUPPORT SYSTEM@MTS</strong></h4>
 <p>In our efforts to develop our students holistically, the Tiered system
 of support for students allows the school to reach out to students so that
 every student receives quality instruction that matches his / her needs.
@@ -48,7 +48,7 @@ development while our SEN Officers support students with learning and behavioura
 needs. They work collaboratively with the Case Management Team, school
 staff and stakeholders to nurture and build students’ social skills, self-confidence,
 self-esteem and sense of independence.&nbsp;</p>
-<h3>Student Management Practices</h3>
+<h4><strong>Student Management Practices</strong></h4>
 <p>Discipline is a continuous educational journey aimed at fostering self-discipline
 and strong character in our students, grounded in core values and social-emotional
 skills. We adopt the philosophy of Discipline with learning, care and dignity
