@@ -3,7 +3,7 @@ title: Chinese Language
 permalink: /experience-at-mts/mother-tongue-language/chinese/
 description: ""
 third_nav_title: Mother Tongue Languages
-variant: markdown
+variant: tiptap
 ---
 <h3>Chinese Language</h3>
 <p>Language Acquisition and Cultural Awareness &amp; Appreciation forms the
@@ -24,8 +24,8 @@ learning packages are designed to engage students in the learning of Chinese
 Language.</p>
 <h5>Love For Reading</h5>
 <p>Instilling the love of reading is an integral part of Chinese Language
-Learning. Our signature reading programmes (READ@MTL and “Dances with Books”
-(与书共舞)) are conducted from Primary 1 to Primary 6, and students at different
+Learning. Our signature reading programmes [READ@MTL and “Dances with Books”
+(与书共舞)] are conducted from Primary 1 to Primary 6, and students at different
 levels are assigned and guided to read selected storybooks. The school
 has also embarked on digital reading to facilitate ease of reading and
 to encourage students to use screen time effectively.</p>
