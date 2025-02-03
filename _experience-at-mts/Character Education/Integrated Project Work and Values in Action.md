@@ -3,15 +3,23 @@ title: Integrated Project Work and Values in Action
 permalink: /experience-at-mts/Character-Education/integrated-project-work-and-values-in-action/
 description: ""
 third_nav_title: Character Education
+variant: tiptap
 ---
-### Integrated Project Work and Values in Action (IPW-VIA)
-
-|  	|  	|
-|---	|---	|
-| **Vision<br>** 	| Students and staff as caring and socially responsible citizens 	|
-| **Mission<br>** 	| To build social cohesion and civic responsibility among students and staff. 	|
-| **Goals<br>** 	| Help students understand some concerns of the community and identify ways they can contribute to the community.<br>Instil in students a sense of civic consciousness and an awareness of their behaviour on the environment.<br>Ensure all students are involved in VIA.<br>Build a community of civic-minded staff. 	|
-
-Mee Toh School’s IPW-VIA uses the Design Thinking Framework to allow students to synthesize their knowledge learnt from various subjects and apply them to solve real-world problems. This multi-faceted learning approach supports the holistic development of Mee Tohians. Our school values of service, teamwork, care and resilience are emphasised, reminding students of their responsibilities to the school, the environment and the community they live in.
-
-<img src="/images/ipw1.png" style="width:60%">
+<h3>Integrated Project Work and Values in Action (IPW-VIA)</h3>
+<p>Mee Toh School’s IPW-VIA harnesses the Design Thinking Framework to enable
+students to integrate knowledge from different subjects and utilise it
+to tackle real-world challenges. This comprehensive learning approach fosters
+the all-rounded development of Mee Tohians. Our core values of service,
+teamwork, care, and resilience are highlighted, reinforcing students' responsibilities
+towards their school, the environment, and their community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ipw5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ipw3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ipw4.png">
+</div>
+<p></p>
