@@ -222,7 +222,7 @@ variant: tiptap
 <p>Ms Trina Tan Chiao Sze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Chinese Lang</p>
+<p>Subject Head Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ variant: tiptap
 <p>Mdm Zhao Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Chinese Lang</p>
+<p>Subject Head Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@ variant: tiptap
 <p>Mdm Sunarti Bte Amidon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Malay Lang</p>
+<p>Subject Head Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -482,7 +482,7 @@ variant: tiptap
 <p>Miss Neo Li Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Lang</p>
+<p>Senior Teacher Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -490,7 +490,7 @@ variant: tiptap
 <p>Mdm Ong Su Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Lang</p>
+<p>Senior Teacher Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -498,7 +498,7 @@ variant: tiptap
 <p>Miss Soon Min Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Lang</p>
+<p>Senior Teacher Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@ variant: tiptap
 <p>Mdm Zhang Yinan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Lang</p>
+<p>Senior Teacher Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -514,7 +514,7 @@ variant: tiptap
 <p>Mdm Norlina Bte Ahmadi (Mrs Redwan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher English Lang</p>
+<p>Senior Teacher English Language</p>
 </td>
 </tr>
 <tr>
