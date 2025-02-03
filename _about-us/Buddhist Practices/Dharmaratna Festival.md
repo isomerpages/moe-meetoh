@@ -1,32 +1,56 @@
 ---
 title: Dharmaratna Festival
-permalink: /about-us/Buddhist-Practices/dharmaratna-festival
+permalink: /about-us/Buddhist-Practices/dharmaratna-festival/
 description: ""
 third_nav_title: Buddhist Practices
+variant: tiptap
 ---
-### Dharmaratna Festival
-
-**法宝节简介**
-
-“法宝节”在农历十二月八日，这是纪念释迦牟尼佛在腊月初八这天悟道成佛。佛教徒就在每年腊月初八煮粥供佛，与大众结缘，表示感戴佛恩。腊八粥又称佛粥、五味粥、七宝粥、七宝五味粥等，主要用粳米、糯米、麦米、玉米、薏仁米等制作而成。    
-
-**腊八粥的缘起**
-
-腊八粥的缘起是仿效牧羊女以乳糜供养刚放弃苦行的悉达多，使他恢复体力，继续修行。悉达多终于在腊月初八这天于菩提树下证悟成佛。佛教徒为感戴这个使人间充满光明希望的日子,继续以腊八粥与世人结缘。 
-
-**学校的庆祝活动 --- 法宝节**
-
-今年的“法宝节”在阳历一月十五日。新加坡佛光山师父和义工老师在这一天为我校的师生们提供腊八粥。学生们听师父讲解“腊八粥” 的意义后品尝了美味的“腊八粥”，从而懂得惜福、感恩、并感激他们的老师。除此之外，PATH的志工家长在那一天志愿服务。他们不仅为我们的学生树立服务社区的好榜样，而且通过与不同行业的人们的合作展示团队精神。
-
-由于“法宝节”在农历的第十二个月，所有学生都鼓励为新的一年设定新的目标。设定目标使我们的学生准确地知道他们想要实现什么，以及更好地集中他们的精力。这使他们能够管理好自己的时间，并在承诺实现自己的目标时尽其所能。
-
-**Introduction on Dharmaratna Festival**
-
-The Dharmaratna Festival which falls on the 8th day of the 12th lunar month, commemorates the enlightenment of Lord Buddha under the Bodhi tree. It signifies the presence of the Dharma, bringing brightness to mankind, and the hope of ending the cycles of rebirth. In the past, temples made offerings of “La Ba Porridge” to show gratitude to the Buddha, and distribute among devotees afterwards.
-
-Celebrating Dharmaratna Festival, with the support of Fo Guang Shan Temple (Singapore), allows our pupils to show gratitude to their teachers. In addition, parents from PATH volunteer their service on that day. They not only set good example to our pupils by serving the community, but also display team-spirit through collaboration with people from different walks of life.
-
-Since Dharmaratna Festival falls on the twelfth month of the Chinese calendar, all pupils are encouraged to set new goals for the New Year. Setting goals allow our pupils to know precisely what they want to achieve as well as where they have to concentrate their efforts. This enables them to better manage their time and do their best when they own and commit to achieve their goals.
-
-<img src="/images/bp1.png" 
-     style="width:40%">
+<h3>Laba Festival</h3>
+<h4><strong>腊八节简介</strong></h4>
+<p>腊八节，农历十二月初八，是佛教重要节日，纪念释迦牟尼佛悟道成佛。传统上，佛教徒在这天煮制特殊的腊八粥，既用来供佛，也与大众分享，表达对佛陀教诲的感恩之情。腊八粥，又称佛粥、五味粥或七宝粥，是一道营养丰富的美食。其主要原料包括：</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 谷物：大米、小米等</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 干果：红枣、莲子等</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 坚果：花生等</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 蔬菜：红萝卜等</p>
+<p>这些食材不仅象征着丰收和福气，还寓意着佛法的智慧和美德。腊八粥的烹制过程也被视为一种修行。</p>
+<p>随着时代变迁，腊八节的庆祝方式也在不断演变。如今，不仅佛教徒，许多普通民众也会在这天享用腊八粥，既传承传统文化，也寄托对美好生活的向往。</p>
+<h4><strong>腊八粥的缘起</strong></h4>
+<p>腊八粥源于佛教传说：牧羊女以乳糜供养悉达多，助其恢复体力继续修行。相传悉达多于腊月初八在菩提树下证悟成佛。为纪念这个充满希望的日子，佛教徒延续传统，以腊八粥与世人结缘，传播佛法智慧。</p>
+<p></p>
+<h4><strong>学校的庆祝活动</strong></h4>
+<p>新加坡佛光山师父和义工老师在阳历一月十六日这一天为我校的师生们提供腊八粥。学生们在周会听了师父讲解“腊八粥” 的意义后，再品尝美味的“腊八粥”，从而懂得惜福、感恩、并感激他们的老师。除此之外，家长会(PATH)的志工家长在那一天志愿服务。他们不仅为我们的学生树立服务社区的好榜样，而且通过与不同行业的人们的合作展示团队精神。</p>
+<p>由于“腊八节”在农历的第十二个月，学生受鼓励为新年设定目标。这有助于他们明确方向，集中精力，更好地管理时间，全力以赴实现目标。</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Laba_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Laba_2.png">
+</div>
+<h4><strong>Introduction on</strong> <strong>Laba</strong> <strong>Festival</strong> (Tradition, Gratitude, and Goal-Setting)</h4>
+<p>The Laba Festival, observed on the 8th day of the 12th lunar month, commemorates
+Buddha's enlightenment under the Bodhi Tree. Traditionally, temples offer
+'Laba Porridge' to express gratitude and share with devotees.</p>
+<p>At our school, we celebrate this festival with support from Fo Guang Shan
+Temple (Singapore). After listening to the Venerable's explanation of the
+significance of "Laba porridge" during school assembly, students then tasted
+the delicious "Laba porridge" Through this experience, they learned to
+cherish blessings, express gratitude, and appreciate their teachers. Parents
+from PATH also volunteer, exemplifying community service and teamwork to
+our students.</p>
+<p>Coinciding with the Chinese calendar's final month, we encourage all students
+to set goals for the New Year. This practice helps them:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Define clear objectives</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Focus their efforts effectively</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improve time management skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop commitment to personal growth</p>
+<p>Through this celebration, we aim to blend cultural understanding with
+practical life skills, fostering gratitude and personal development in
+our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LABA_Festival.png">
+</div>
+<p></p>
+<p></p>
