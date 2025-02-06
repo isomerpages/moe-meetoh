@@ -73,4 +73,17 @@ sections:
       url: /voices-of-mts/
       image: /images/infopic5.png
       alt: infopic5
+  - textcards:
+      title: "Nomination is open for:"
+      id: textcards
+      description: Nominate by 4 April 2025
+      cards:
+        - title: Inspiring Teacher of English Award 2025
+          description: Email the nomination to  meetoh_sch@moe.edu.sg
+          linktext: Learn more
+          url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+        - title: Arif Budiman Malay Language Teacher Award 2025
+          description: ""
+          linktext: Learn more
+          url: https://go.gov.sg/agab2025.
 ---
