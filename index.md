@@ -35,7 +35,7 @@ sections:
           announcement: Organised by Malay Language Council (Singapore), Malay Language
             Teachers’ Association, Berita Harian (BH) and Malay Language
             Learning and Promotion Committee (MLLPC).
-          link_text: Submit your nomination by 3 April 2025
+          link_text: Click here to submit your nomination by 3 April 2025
           link_url: https://go.gov.sg/agab2025.
   - infopic:
       title: 70th Anniversary
