@@ -19,19 +19,24 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
-  - textcards:
+  - announcements:
       title: "Nomination is open for:"
-      id: textcards
-      description: Nominate by 4 April 2025
-      cards:
+      id: announcements
+      announcement_items:
         - title: Inspiring Teacher of English Award 2025
-          description: Email the nomination to  meetoh_sch@moe.edu.sg
-          linktext: Learn more
-          url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+          date: 14 March 2025
+          announcement: Organisers require the nomination to be endorsed by the School
+            Principal.   Please email the completed nomination form to
+            meetoh_sch@moe.edu.sg by Friday, 14 March 2025.
+          link_text: Download the normination form here
+          link_url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
         - title: Arif Budiman Malay Language Teacher Award 2025
-          description: ""
-          linktext: Learn more
-          url: https://go.gov.sg/agab2025.
+          date: 03 April 2025
+          announcement: Organised by Malay Language Council (Singapore), Malay Language
+            Teachers’ Association, Berita Harian (BH) and Malay Language
+            Learning and Promotion Committee (MLLPC).
+          link_text: Submit your nomination by 3 April 2025
+          link_url: https://go.gov.sg/agab2025.
   - infopic:
       title: 70th Anniversary
       id: infopic
