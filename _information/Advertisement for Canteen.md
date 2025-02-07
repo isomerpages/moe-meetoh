@@ -31,7 +31,7 @@ variant: tiptap
 <p>7 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
