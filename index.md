@@ -28,7 +28,7 @@ sections:
           announcement: Organisers require the nomination to be endorsed by the School
             Principal.   Please email the completed nomination form to
             meetoh_sch@moe.edu.sg by Friday, 14 March 2025.
-          link_text: Download the normination form here
+          link_text: Download the nomination form here
           link_url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
         - title: Arif Budiman Malay Language Teacher Award 2025
           date: 03 April 2025
