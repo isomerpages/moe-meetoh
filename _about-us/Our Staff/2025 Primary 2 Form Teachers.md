@@ -154,6 +154,8 @@ are." - Jim Henson -</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Shan</a></strong> 
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (1) Primary 2-6</strong> 
 <br>不要轻言放弃，否则对不起自己！</p>
 </td>
