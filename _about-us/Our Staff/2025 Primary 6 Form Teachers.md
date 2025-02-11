@@ -175,6 +175,8 @@ and learn it.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:zhao_qianxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 6-8</strong>
 </p>
 <p>教师的真正本领，不在于他是否会讲述知识，而在于是否能激发学生的学习动机，唤起学生的求知欲，让他们兴趣盎然地参与到教学过程中来。</p>
@@ -196,6 +198,8 @@ their fullest potential and bring out the star in them.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kok Meng</a></strong> 
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 6-9</strong> 
 <br>
 <br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁</p>
