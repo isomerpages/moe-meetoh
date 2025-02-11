@@ -186,6 +186,11 @@ and learn it.</p>
 <br><strong>Level Head - Mathematics (MA)</strong>
 <br><strong>Form Teacher (1) Primary 6-9</strong>
 </p>
+<p>Education is not just about the teaching of skills and knowledge, it is
+also about inculcating good moral values and developing every child holistically.
+I believe that values and attitudes are essential in growing the child.
+With strong moral values and good attitude, the child will be able to reach
+their fullest potential and bring out the star in them.</p>
 </td>
 </tr>
 <tr>
