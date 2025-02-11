@@ -18,12 +18,9 @@ variant: tiptap
 <p><strong><a href="mailto:sim_kun_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jacelyn Ang Kun Kin</a></strong> 
 <br><strong>School Staff Developer (SSD)<br>Form Teacher (1) Primary 6-1</strong> 
 <br>
-<br>An educated man is someone who displays culture, taste and knowledge.
-So, the true essence of education goes beyond acquiring of knowledge in
-an institute. As the saying goes, it takes a village to educate a woman,
-educating a child will require collaboration, between home and school for
-every child to grow into an educated adult. e child will be able to reach
-their fullest potential and bring out the star in them.</p>
+<br>Every child wants to and can learn. The role of an educator is to cultivate
+in children the right values so their moral compass will guide them to
+lead a fulfilled and meaningful life.</p>
 </td>
 </tr>
 <tr>
