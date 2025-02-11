@@ -237,7 +237,7 @@ education regardless of their profile.</p>
 <br><strong>Form Teacher (2) Primary 1-9</strong>
 </p>
 <p></p>
-<p>I believe every child has a passion for learning if they take responsiblity
+<p>I believe every child has a passion for learning if they take responsibility
 to improve on their weaknesses and build on their strengths.</p>
 </td>
 <td rowspan="1" colspan="1">
