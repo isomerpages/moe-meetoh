@@ -197,7 +197,7 @@ their fullest potential and bring out the star in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kok Meng</a></strong> 
+<p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kok Meng</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 6-9</strong> 
