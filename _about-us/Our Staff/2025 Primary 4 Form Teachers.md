@@ -48,6 +48,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:shum_wen_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong> 
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (1) Primary 4-2</strong> 
 <br>
 <br>“Every child deserves a champion—an adult who will never give up on them,
@@ -134,8 +136,6 @@ Every child has a gift. Each just opens them at different times.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:sim_tze_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sim Tze Mei (Mrs Eve Chen)</a></strong>
-</p>
-<p>
 <br><strong>Form Teacher (1) Primary 4-5</strong> 
 <br>
 </p>
