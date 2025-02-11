@@ -165,7 +165,7 @@ love in this world. There is hope.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhamed_nazrul_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhamed Nazrul</a></strong> 
+<p><strong><a href="mailto:muhamed_nazrul_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhamed Nazrul Zain</a></strong> 
 <br><strong>Subject Head - Student Development and Management (Student Leadership)<br>Form Teacher (1) Primary 6-8</strong> 
 <br>
 <br>Knowledge is all around us but only with an open mind will one embrace
