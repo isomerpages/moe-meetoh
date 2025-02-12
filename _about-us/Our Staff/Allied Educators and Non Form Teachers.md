@@ -16,15 +16,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
-<br><strong>Form Teacher (2) Primary 1-1</strong>
-</p>
-<p>“Educating the mind without educating the heart is no education at all.”
-– Aristotle</p>
+<p><strong><a href="mailto:su_yin_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
+<br><strong>Senior Teacher -</strong>  <strong>Special Educational Needs (SEN) Officer</strong> 
+<br>
+<br>"Educating the mind without educating the heart is no education at all."
+- Aristotle</p>
 </td>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
