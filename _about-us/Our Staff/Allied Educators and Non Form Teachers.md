@@ -16,7 +16,9 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chai Ching Shze Sofie</p>
+<p><strong>Senior Teacher - Learning Needs - Educational Support</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
