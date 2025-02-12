@@ -174,7 +174,7 @@ who prepare for it today.” – Malcolm X</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chieu_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yong - Tan Chieu Peng</a></strong>
+<p><strong><a href="mailto:tan_chieu_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Janice Yong</a></strong>
 <br><strong>Form Teacher (1) Primary 1-7</strong>
 <br>
 <br>“Learning is not attained by chance, it must be sought for with ardor
@@ -237,7 +237,7 @@ education regardless of their profile.</p>
 <br><strong>Form Teacher (2) Primary 1-9</strong>
 </p>
 <p></p>
-<p>I believe every child has a passion for learning if they take responsiblity
+<p>I believe every child has a passion for learning if they take responsibility
 to improve on their weaknesses and build on their strengths.</p>
 </td>
 <td rowspan="1" colspan="1">

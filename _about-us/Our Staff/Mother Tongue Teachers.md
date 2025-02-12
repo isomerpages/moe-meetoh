@@ -17,7 +17,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Maledeine_Lai@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Maledeine Lai</a>
+</p>
+<p><strong>Head of Department - Chinese Language</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -134,10 +137,10 @@ generation to be resilient, appreciative and selfless.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chia_shwu_yng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Shwu Yng</a></strong> 
-<br>
-<br>"Pursue your dreams. You will be amazed about what you can achieve." -
-Lailah Gifty Akita</p>
+<p><strong><a href="mailto:zeng_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zeng Ying</a></strong>
+</p>
+<p></p>
+<p>一分耕耘，一分收获。</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -145,7 +148,7 @@ Lailah Gifty Akita</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yan_yuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yu Zhen</a></strong> 
+<p><strong><a href="mailto:yan_yuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a></strong> 
 <br>
 <br>书山有路勤为径，学海无涯苦作舟。——韩愈</p>
 </td>
@@ -195,19 +198,9 @@ Lailah Gifty Akita</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yinan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yi Nan</a></strong> 
+<p><strong><a href="mailto:zhang_yinan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong> 
 <br>
 <br>自信自律，自强不息！</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_kar_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Kar Chuan</a></strong> 
-<br>
-<br>千里之行，始于足下。 - 老子</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -237,7 +230,7 @@ Lailah Gifty Akita</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chiao_sze_trina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Trina Tan Chiao Sze</a></strong> 
+<p><strong><a href="mailto:tan_chiao_sze_trina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Trina Tan</a></strong> 
 <br>
 <br>植物因培植而成材，人类因教育而成器。 学生宛如破壳而出、茁壮成长的幼苗 。老师宛如辛勤播种、扎根灌溉的园丁。好品格宛如出污泥而不染的莲花。
 <br>学习的关键取决于个人所迈出的第一步，从自我探索的过程中，寻找出属于自己的蓝天，展翅飞翔。</p>
@@ -319,14 +312,6 @@ best that they can possibly be.” - Rita Pierson</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:hasni_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hasni Bte Abu Bakar</a></strong> 
 <br><strong>Year Head Primary 3 &amp; 4</strong> 
@@ -371,14 +356,6 @@ Each child has a gift. Each just opens them at different times.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:annamary_segaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annamary D/O Segaran</a></strong>
 </p>
@@ -386,8 +363,7 @@ Each child has a gift. Each just opens them at different times.</p>
 <p>“கற்க கசடறக் கற்பவை கற்றபின்</p>
 <p>நிற்க அதற்குத் தக”</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
-திருக்குறள்</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+திருக்குறள்&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>“Learn well what should be learnt, and then,
 <br>live out well what you have learnt.”</p>

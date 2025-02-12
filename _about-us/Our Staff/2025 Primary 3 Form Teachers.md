@@ -36,7 +36,9 @@ Mead</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yu_zhangxinzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yu Zhangxinzhi</a></strong> 
+<p><strong><a href="mailto:yu_zhangxinzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yu Zhangxinzhi</a></strong>
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 3-1</strong>
 </p>
 <p><em>师也者</em>,<em>教之以事而喻诸德者也</em>。——《礼记》</p>
@@ -196,7 +198,9 @@ and caring learning environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chim_kheng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chim Kheng Mui</a></strong> 
+<p><strong><a href="mailto:chim_kheng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chim Kheng Mui</a></strong>
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (1) Primary 3-8</strong> 
 <br>
 <br>行是知之始，知是行之成。</p>

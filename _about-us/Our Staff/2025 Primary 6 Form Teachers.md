@@ -18,12 +18,9 @@ variant: tiptap
 <p><strong><a href="mailto:sim_kun_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jacelyn Ang Kun Kin</a></strong> 
 <br><strong>School Staff Developer (SSD)<br>Form Teacher (1) Primary 6-1</strong> 
 <br>
-<br>An educated man is someone who displays culture, taste and knowledge.
-So, the true essence of education goes beyond acquiring of knowledge in
-an institute. As the saying goes, it takes a village to educate a woman,
-educating a child will require collaboration, between home and school for
-every child to grow into an educated adult. e child will be able to reach
-their fullest potential and bring out the star in them.</p>
+<br>Every child wants to and can learn. The role of an educator is to cultivate
+in children the right values so their moral compass will guide them to
+lead a fulfilled and meaningful life.</p>
 </td>
 </tr>
 <tr>
@@ -82,8 +79,6 @@ it. - Frances Clark</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:toh_hwee_leng_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Toh Hwee Leng</a></strong> 
 <br><strong>Subject Head - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 6-4</strong>
-</p>
-<p>Ms Joanna Toh Hwee Leng
 <br>
 <br>“Knowing is not enough, we must apply. Willing is not enough, we must
 do. Knowledge will give you power, but character respect.” - Bruce Lee</p>
@@ -170,7 +165,7 @@ love in this world. There is hope.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhamed_nazrul_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhamed Nazrul</a></strong> 
+<p><strong><a href="mailto:muhamed_nazrul_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhamed Nazrul Zain</a></strong> 
 <br><strong>Subject Head - Student Development and Management (Student Leadership)<br>Form Teacher (1) Primary 6-8</strong> 
 <br>
 <br>Knowledge is all around us but only with an open mind will one embrace
@@ -180,6 +175,8 @@ and learn it.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:zhao_qianxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 6-8</strong>
 </p>
 <p>教师的真正本领，不在于他是否会讲述知识，而在于是否能激发学生的学习动机，唤起学生的求知欲，让他们兴趣盎然地参与到教学过程中来。</p>
@@ -191,11 +188,18 @@ and learn it.</p>
 <br><strong>Level Head - Mathematics (MA)</strong>
 <br><strong>Form Teacher (1) Primary 6-9</strong>
 </p>
+<p>Education is not just about the teaching of skills and knowledge, it is
+also about inculcating good moral values and developing every child holistically.
+I believe that values and attitudes are essential in growing the child.
+With strong moral values and good attitude, the child will be able to reach
+their fullest potential and bring out the star in them.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kok Meng</a></strong> 
+<p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kok Meng</a></strong>
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 6-9</strong> 
 <br>
 <br>一个知识不全的人可以用道德去弥补， 而一个道德不全的人却难以用知识去弥 补。 －但丁</p>
