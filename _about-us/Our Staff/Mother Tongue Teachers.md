@@ -17,7 +17,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Maledeine_Lai@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Maledeine Lai</a>
+</p>
+<p><strong>Head of Department - Chinese Language</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
