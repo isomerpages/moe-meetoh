@@ -15,11 +15,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Ms Chai Ching Shze Sofie</p>
-<p><strong>Senior Teacher - Learning Needs - Educational Support</strong>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
+<br><strong>Form Teacher (2) Primary 1-1</strong>
 </p>
-</th>
+<p>“Educating the mind without educating the heart is no education at all.”
+– Aristotle</p>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
