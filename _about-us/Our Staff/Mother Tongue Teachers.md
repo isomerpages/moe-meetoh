@@ -17,10 +17,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:Maledeine_Lai@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Maledeine Lai</a>
+<p><strong><a href="mailto:maledeine_lai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Maledeine Lai Yuying</a></strong>
+<br><strong>Head of Department - Mother Tongue Languages (MTL)</strong>
 </p>
-<p><strong>Head of Department - Chinese Language</strong>
-</p>
+<p></p>
+<p>师以德为本，心以爱为源，用心教书，用爱育人。</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
