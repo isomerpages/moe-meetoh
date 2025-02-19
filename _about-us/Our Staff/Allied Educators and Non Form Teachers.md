@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ang_an_an_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee An An</a></strong> 
+<p><strong><a href="mailto:ang_an_an_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee </a></strong>
 <br><strong>Allied Educator (Counselling)</strong> 
 <br>
 <br>"It's not about what you have achieved but what you learnt in the process
