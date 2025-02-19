@@ -39,16 +39,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:kwek_baozhi_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kwek Baozhi, Andy</a></strong>
-<br><strong>Special Educational Needs (SEN) Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng_ping_yi_jessie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Ping Yi Jessie</a></strong>
 </p>
 <p><strong>Special Educational Needs (SEN) Officer</strong>
