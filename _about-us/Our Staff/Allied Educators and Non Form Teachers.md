@@ -168,17 +168,6 @@ contribute positively to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:norraya_sayuti@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norraya Bte Sayuti</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng_hwee_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
 </p>
 <p><strong>Teacher</strong>
@@ -206,6 +195,19 @@ contribute positively to society.</p>
 <p><strong>Teacher</strong>
 </p>
 <p>Teaching with a heart in mind.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:noorazmah_razali_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noorazmah bte Razali</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+<p>Creating a conducive environment to build character, boost confidence
+and teach new skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
