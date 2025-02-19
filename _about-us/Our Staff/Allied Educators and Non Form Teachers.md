@@ -254,6 +254,18 @@ and teach new skills.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lee_eng_kiong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
