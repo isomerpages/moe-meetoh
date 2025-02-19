@@ -126,9 +126,10 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yuling_marilyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yuling Marilyn</a></strong> 
+<p><strong><a href="mailto:zhang_yuling_marilyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
 <br><strong>Teacher</strong>
 </p>
+<p>教育是永无止境的追寻</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
