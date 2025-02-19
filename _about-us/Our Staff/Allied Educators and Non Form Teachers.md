@@ -220,17 +220,6 @@ contribute positively to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:seow_mui_huan_theresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seow Mui Huan Theresa</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:josephine_tan_zhi_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Josephine Tan</a></strong>
 </p>
 <p><strong>Teacher</strong>
