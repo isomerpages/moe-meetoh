@@ -260,6 +260,7 @@ and teach new skills.</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
+<p>快乐学习是尽可能以教学法提升学生学习动机，帮助学生在挫折中不气馁，反而更积极向上，从而获得满足与快乐。</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
