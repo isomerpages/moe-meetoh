@@ -168,10 +168,12 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Loh Tiah Cheng</strong>
+<p><strong><a href="mailto:tan_siew_choo_cynthia_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cynthia Swee</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
+<p>I believe that every child is special and unique and can be nurtured to
+bring out the best in each of them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
