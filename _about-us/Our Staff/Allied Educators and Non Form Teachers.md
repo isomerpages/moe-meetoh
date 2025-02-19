@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:su_yin_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
+<p><strong><a href="mailto:su_yin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong> 
 <br>
 <br>"Change is the end result of all true learning," - Leo Buscaglia</p>
@@ -69,6 +69,20 @@ variant: tiptap
 </p>
 <p>“Not all of us can do great things, but we can do small things with great
 love.” ~ Mother Teresa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:kwek_baozhi_andy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kwek Baozhi, Andy</a></strong>
+</p>
+<p><strong>(SEN) Officer</strong>
+</p>
+<p>“Anyone who has never made a mistake has never tried anything new.”– Albert
+Einstein</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,6 +158,17 @@ of achieving!"</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:afidah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Afidah Bte Ibrahim</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Loh Tiah Cheng</strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
