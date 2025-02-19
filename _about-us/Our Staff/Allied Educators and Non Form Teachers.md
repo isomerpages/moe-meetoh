@@ -112,6 +112,7 @@ of achieving!"</p>
 <p><strong><a href="mailto:nazihah_muhammed_ikram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
 <br><strong>Teacher</strong>
 </p>
+<p>" When one teaches, two learn" Robert Heinlein</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,6 +145,8 @@ of achieving!"</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
+<p>To enjoy the glow of good health, it begins with a regular exercise regime,
+a healthy diet and a positive mindset.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -191,6 +194,18 @@ contribute positively to society.</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:josephine_tan_zhi_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Josephine Tan</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+<p>Teaching with a heart in mind.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
