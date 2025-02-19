@@ -151,10 +151,13 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ruth_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh May Feng Ruth</a></strong>
+<p><strong><a href="mailto:ruth_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Goh</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
+<p>The true purpose of education is to nurture the whole child and to help
+them grow into a compassionate, responsible, and kind individual who will
+contribute positively to society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
