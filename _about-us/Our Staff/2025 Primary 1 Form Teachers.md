@@ -103,6 +103,9 @@ Socrates</p>
 <p><strong><a href="mailto:lock_pui_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Pui Lai Sarah</a></strong>
 <br><strong>Form Teacher (1) Primary 1-4</strong>
 </p>
+<p></p>
+<p>Teach every child as an individual, helping each one thrive by meeting
+them where they are.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
