@@ -37,11 +37,20 @@ operating hours stated above.</p>
 <p>*Closed on Sundays &amp; Public Holidays</p>
 <h4>Other Learning Portals</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs3.png">
+</div>
 <p></p>
 <p>Malay Language Portal</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs5.png">
+</div>
 <p>Nurturing a love for reading at <strong><a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">DiscoveReads</a></strong>
 </p>
 <p></p>
-<p><em>Updated on 18 April 2023</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs7.png">
+</div>
+<p></p>
+<p></p>
