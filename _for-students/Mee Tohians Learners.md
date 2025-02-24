@@ -18,7 +18,8 @@ variant: tiptap
 <p><a href="https://go.gov.sg/slsmtsannex" rel="noopener nofollow" target="_blank">Annex A &amp; B -&nbsp;SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)</a>
 </p>
 <p>Please note the the operating hours for the SLS Helpline as follows:</p>
-<p>During School Operating Hours:</p>
+<p><strong>During School Operating Hours:</strong>
+</p>
 <p>Contact the&nbsp;<strong>School-based Helpline</strong>&nbsp;for SLS queries
 including all SLS access matters such as password reset and unlocking of
 accounts, as well as queries about lesson assignments.</p>
