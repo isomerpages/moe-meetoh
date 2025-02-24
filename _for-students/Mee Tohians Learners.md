@@ -7,11 +7,13 @@ variant: tiptap
 <h3>Mee Tohians - Self-Directed Learners</h3>
 <h4>Student iCON Account Login</h4>
 <p><a href="https://meetohschool.padlet.org/MTSPDdept/Parentkitforicon" rel="noopener noreferrer nofollow" target="_blank">Click here for User Guides</a>&nbsp;</p>
-<p>Click <strong><a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">here </a></strong>to
-login to Student iCON</p>
+<a class="isomer-image-wrapper" href="https://workspace.google.com/dashboard">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs1.png">
+</a>
+<p>Click on the image to login to Student iCON</p>
 <h5>Student Learning Space</h5>
-<p>Click <strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">here </a></strong>to
-login to Student Learning Space</p>
+<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS.png"></a>
+<p>Click on the image to login to Student Learning Space</p>
 <p>Click the following link for more information:</p>
 <p><a href="https://go.gov.sg/slsmtsannex" rel="noopener nofollow" target="_blank">Annex A &amp; B -&nbsp;SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)</a>
 </p>
