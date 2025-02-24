@@ -42,9 +42,6 @@ operating hours stated above.</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.dqworld.net/#!/landing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs5.png"></a>
 <p>Nurturing a love for reading at <strong><a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">DiscoveReads</a></strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs7.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.nlb.gov.sg/main/site/discovereads"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs7.png"></a>
 <p></p>
 <p></p>
