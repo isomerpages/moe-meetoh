@@ -14,7 +14,7 @@ variant: tiptap
 <p>Click the following link for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Annex A &amp; B -&nbsp;<a href="/files/slsmtsannex.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)</a>
+<p>Annex A &amp; B -&nbsp;<a href="/files/For Students/Annex_A___B__SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)</a>
 </p>
 </li>
 </ul>
