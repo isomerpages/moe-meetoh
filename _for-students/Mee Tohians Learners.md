@@ -2,65 +2,49 @@
 title: Mee Tohians Learners
 permalink: /for-students/mee-tohians-learners/
 description: ""
+variant: tiptap
 ---
-### Mee Tohians - Self-Directed Learners
-
-#### Student iCON Account Login
-
-[Click here for User Guides](https://meetohschool.padlet.org/MTSPDdept/Parentkitforicon)&nbsp;  
-
-Click on the image below to login to Student iCON
-<p><a href="https://workspace.google.com/dashboard"><img style="width:50%" src="/images/fs1.png"></a></p>
-
-
-##### Student Learning Space
-
-<p><a href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" src="/images/fs2.png"></a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YTLJBmTqdYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-Click the following link for more information:
-
-*   Annex A &amp; B -&nbsp;[SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)](/files/slsmtsannex.pdf)
-
-Please note the the operating hours for the SLS Helpline as follows:
-
-During School Operating Hours:
-
-Contact the&nbsp;**School-based Helpline**&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
-
-**School-based Helpline: 6489 3326**
-
-**Mondays - Fridays: 8:00 am - 4:00 pm**
-
-For other matters, email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, please include the student’s full name, name of school and form class.
-
-**Non-School Operating Hours**
-
-Only contact the&nbsp;**SLS Helpdesk**&nbsp;outside the school operating hours stated above.
-
-SLS Helpdesk: 6702 6513
-
-Mondays - Fridays: 4:00 pm - 9:00 pm
-
-Saturdays: 9:00 am - 9:00 pm
-
-\*Closed on Sundays &amp; Public Holidays
-
-#### Other Learning Portals
-
+<h3>Mee Tohians - Self-Directed Learners</h3>
+<h4>Student iCON Account Login</h4>
+<p><a href="https://meetohschool.padlet.org/MTSPDdept/Parentkitforicon" rel="noopener noreferrer nofollow" target="_blank">Click here for User Guides</a>&nbsp;</p>
+<p>Click on the image below to login to Student iCON</p>
 <p></p>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><img style="width:50%" src="/images/fs3.png"></a></p>
-
-Malay Language Portal 
-
-<p><a href="https://www.dqworld.net/#!/landing"><img style="width:50%" src="/images/fs5.png"></a></p>
-
-
-Nurturing a love for reading at [**DiscoveReads**](https://childrenandteens.nlb.gov.sg/)
-
-<p><a href="https://childrenandteens.nlb.gov.sg"><img style="width:50%" src="/images/fs7.png"></a></p>
-
-
-
-*Updated on 18 April 2023*
+<h5>Student Learning Space</h5>
+<p></p>
+<p>Click the following link for more information:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Annex A &amp; B -&nbsp;<a href="/files/slsmtsannex.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)</a>
+</p>
+</li>
+</ul>
+<p>Please note the the operating hours for the SLS Helpline as follows:</p>
+<p>During School Operating Hours:</p>
+<p>Contact the&nbsp;<strong>School-based Helpline</strong>&nbsp;for SLS queries
+including all SLS access matters such as password reset and unlocking of
+accounts, as well as queries about lesson assignments.</p>
+<p><strong>School-based Helpline: 6489 3326</strong>
+</p>
+<p><strong>Mondays - Fridays: 8:00 am - 4:00 pm</strong>
+</p>
+<p>For other matters, email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>. When
+emailing the SLS Helpdesk, please include the student’s full name, name
+of school and form class.</p>
+<p><strong>Non-School Operating Hours</strong>
+</p>
+<p>Only contact the&nbsp;<strong>SLS Helpdesk</strong>&nbsp;outside the school
+operating hours stated above.</p>
+<p>SLS Helpdesk: 6702 6513</p>
+<p>Mondays - Fridays: 4:00 pm - 9:00 pm</p>
+<p>Saturdays: 9:00 am - 9:00 pm</p>
+<p>*Closed on Sundays &amp; Public Holidays</p>
+<h4>Other Learning Portals</h4>
+<p></p>
+<p></p>
+<p>Malay Language Portal</p>
+<p></p>
+<p>Nurturing a love for reading at <strong><a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">DiscoveReads</a></strong>
+</p>
+<p></p>
+<p><em>Updated on 18 April 2023</em>
+</p>
