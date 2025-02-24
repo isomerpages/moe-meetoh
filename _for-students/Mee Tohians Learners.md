@@ -13,12 +13,8 @@ login to Student iCON</p>
 <p>Click <strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">here </a></strong>to
 login to Student Learning Space</p>
 <p>Click the following link for more information:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Annex A &amp; B -&nbsp;<a href="/files/For Students/Annex_A___B__SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)</a>
+<p><a href="https://go.gov.sg/slsmtsannex" rel="noopener nofollow" target="_blank">Annex A &amp; B -&nbsp;SLS - Students Guide on Initial Login Process &amp; Frequently Asked Questions (FAQs)</a>
 </p>
-</li>
-</ul>
 <p>Please note the the operating hours for the SLS Helpline as follows:</p>
 <p>During School Operating Hours:</p>
 <p>Contact the&nbsp;<strong>School-based Helpline</strong>&nbsp;for SLS queries
