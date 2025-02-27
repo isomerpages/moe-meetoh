@@ -166,6 +166,8 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 <p><strong><a href="mailto:juliana_lin_en_xuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a></strong>
 <br><strong>Form Teacher (2) Primary 3-6</strong>
 </p>
+<p>“Children are not things to be molded, but people to be unfolded.” – Jess
+Lair</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
