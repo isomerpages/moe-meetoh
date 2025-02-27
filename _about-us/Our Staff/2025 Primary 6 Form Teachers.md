@@ -65,6 +65,7 @@ it. - Frances Clark</p>
 <br><strong>Lead Teacher - Art</strong>
 <br><strong>Form Teacher (2) Primary 6-3</strong>
 </p>
+<p>"Art is not what you see, but what you make others see.'' -- Edgar Degas</p>
 </td>
 </tr>
 <tr>
