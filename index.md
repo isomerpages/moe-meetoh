@@ -39,11 +39,10 @@ sections:
           link_url: https://go.gov.sg/agab2025.
         - title: Distinguished Chinese Language Teachers Awards 2025
           date: 11 May 2025
-          announcement: Hosted by Lianhe Zhaobao and ZBSchools, Co-Organised by Singapore
-            Centre for Chinese Language, The Society of Chinese Education
-            Singapore, Singapore Chinese Teachers' Union and Singapore Middle
-            School Chinese Teacher's Association. Supported by Ministry of
-            Education (Singapore) and Tanoto Foundation
+          announcement: Organised by Lianhe Zaobao and ZBSchools, co-organised by
+            Singapore Centre for Chinese Language, The Society of Chinese
+            Education Singapore, Singapore Chinese Teachers' Union and Singapore
+            Middle School Chinese Teacher's Association.
           link_text: Click here to submit your nomination by 11 May 2025
           link_url: https://zb.sg/dclta2025
   - infopic:
