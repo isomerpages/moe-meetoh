@@ -6,6 +6,13 @@ third_nav_title: Our Staff
 variant: tiptap
 ---
 <h3>School Leaders</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Leaders_edited.jpg">
+</div>
+<p>From left to right: Mr Eric Ng Kok Heng [Vice-Principal (Administration)],
+Ms Huang Yilan Lynne (Vice-Principal), Mr Tay Hsien Chuan Kelvin (Principal)
+and Mr Ronald Lee Chong Tart (Vice-Principal)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
