@@ -6,7 +6,9 @@ variant: tiptap
 ---
 <p><strong>Physical Education (PE)</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Physical___Health_Education_Department.jpg">
+</div>
 <p>Physical Education is an integral component of Singapore’s school curriculum
 to develop students holistically. By emphasising the importance of movement,
 and an individual’s interaction with the environment, Physical Education
