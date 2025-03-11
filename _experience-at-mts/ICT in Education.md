@@ -4,8 +4,7 @@ permalink: /experience-at-mts/ict-in-education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>ICT in Education</strong></h4>
-<p></p>
+<h3><strong>ICT in Education</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm___Technology_Department.jpg">
 </div>
