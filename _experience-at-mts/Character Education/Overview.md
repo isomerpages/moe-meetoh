@@ -6,6 +6,10 @@ third_nav_title: Character Education
 variant: tiptap
 ---
 <h3>Character and Citizenship Education (CCE)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Character___Citizenship_Education_Department.jpg">
+</div>
 <p>At Mee Toh School, we view character development as akin to nurturing
 a seed into a thriving plant. We recognise that each child is unique, requiring
 time, patience, and a supportive community to foster their holistic growth

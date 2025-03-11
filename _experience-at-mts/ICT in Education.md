@@ -4,8 +4,10 @@ permalink: /experience-at-mts/ict-in-education/
 description: ""
 variant: tiptap
 ---
-<p><strong>ICT in Education</strong>
-</p>
+<h3><strong>ICT in Education</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm___Technology_Department.jpg">
+</div>
 <p>At Mee Toh School, we believe in empowering our students with the digital
 skills they need to thrive in the 21st century. Through our ICT programmes,
 our children embark on a journey of discovery, creativity, and collaboration.</p>
