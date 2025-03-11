@@ -6,6 +6,9 @@ third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
 <h3>Malay Language</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Languages_Department.jpg">
+</div>
 <p>The Malay Language curriculum in Mee Toh School is designed to lay a strong
 foundation in learning core language skills as well as develop a love for
 the language and culture. Through our integrated and engaging approaches,
