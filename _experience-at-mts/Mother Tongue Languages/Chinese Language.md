@@ -6,6 +6,9 @@ third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
 <h3>Chinese Language</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Languages_Department.jpg">
+</div>
 <p>Language Acquisition and Cultural Awareness &amp; Appreciation forms the
 overarching approach for Chinese Language Learning in Mee Toh School. Listening,
 Speaking, Reading, Writing, Oral Interaction and Written Interaction skills
