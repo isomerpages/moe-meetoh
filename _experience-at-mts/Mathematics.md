@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Mathematics</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Department_2025.jpg">
+</div>
 <p>In Mee Toh School, we aim to foster Mathematical Thinking in our students
 through fun and interesting activities. Mathematical thinking starts from
 young. Our Primary one students celebrate their 100<sup>th</sup> Day in
