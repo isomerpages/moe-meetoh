@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Art and Music</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics__Art___Music__Department.jpg">
+</div>
 <h4>Art</h4>
 <p>At Mee Toh School, art lessons are not only enjoyable but also enriching
 experiences that go beyond simply developing technical skills. They offer
