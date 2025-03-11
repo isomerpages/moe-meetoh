@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Student Development and Management</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Development___Management_Department_2025.jpg">
+</div>
 <h4><strong>Student Leadership &amp; Development</strong></h4>
 <p>The Student Leadership Programme in Mee Toh School (MTS) aims to develop
 a leader in very Mee Tohian. The MTS TIERED STUDENT LEADERSHIP PYRAMID
