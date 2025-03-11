@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>English Language</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Language_Department.jpg">
+</div>
 <p><strong>English Language Learning in Mee Toh School</strong>
 </p>
 <p>In Mee Toh School, we envision our students to be effective and confident
