@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Science</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Department_2025.jpg">
+</div>
 <h5><strong>Eco Trails</strong></h5>
 <p>Mother Nature herself is leveraged as the third teacher to nurture our
 students into natural inquirers and passionate explorers of the environment
