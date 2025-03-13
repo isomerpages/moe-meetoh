@@ -4,6 +4,28 @@ permalink: /for-parents/photo-gallery/
 description: ""
 variant: tiptap
 ---
+<h4>2025</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>TERM 1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smugmug.com/gallery/n-r2Cp4C" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day (12 Feb)</a> 
+<br><a href="https://www.smugmug.com/gallery/n-ZHHgQN" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebrations (28 Jan)</a> 
+<br><a href="https://www.smugmug.com/gallery/n-vGTBQd" rel="noopener noreferrer nofollow" target="_blank">Laba Festival Celebration (16 Jan)</a>
+<br><a href="https://www.smugmug.com/gallery/n-nB9kWG" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School (2 Jan)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2024</h4>
 <p></p>
 <table style="minWidth: 25px">
