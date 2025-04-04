@@ -23,13 +23,6 @@ sections:
       title: "Nomination is open for:"
       id: announcements
       announcement_items:
-        - title: Arif Budiman Malay Language Teacher Award 2025
-          date: 03 April 2025
-          announcement: Organised by Malay Language Council (Singapore), Malay Language
-            Teachers’ Association, Berita Harian (BH) and Malay Language
-            Learning and Promotion Committee (MLLPC).
-          link_text: Click here to submit your nomination by 3 April 2025
-          link_url: https://go.gov.sg/agab2025.
         - title: Distinguished Chinese Language Teachers Awards 2025
           date: 11 May 2025
           announcement: Organised by Lianhe Zaobao and ZBSchools, with co-organised by
