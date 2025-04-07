@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/2025-cl-open-classroom
+          url: /announcements/2025-cl-online-open-classroom/
         - title: Milestones
           description: ""
           url: /milestones/mee-toh-news
