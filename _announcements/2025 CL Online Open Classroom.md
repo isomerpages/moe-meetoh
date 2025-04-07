@@ -15,7 +15,11 @@ Mdm Zhang Yinan, stating that parents' feedback on the teaching method
 was positive and that it encouraged their children to speak CL more regularly
 at home. A student also shared that her favorite part of the lesson was
 the small character cards (字宝宝), which make learning Chinese characters
-fun. The session can be viewed on YouTube <a href="https://www.youtube.com/watch?v=FFAjjHRUWt0" class="" rel="noopener" target="_new">here</a>.</p>
+fun.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FFAjjHRUWt0?si=1YTALqLtnSLl348C"></iframe>
+</div>
 <p>
 <br>Click on the following links to read the featured articles:
 <br><strong><a href="http://article.isentia.asia/viewarticles/default.aspx?acc=pwkJOPtoV+o=&amp;app=n7q0r37qA1I=&amp;file=g2lwi6ILs9q5b4yEQJEJlQiGQ0cj5FvcIkGmx70LdON4PuvLYozYhQ==" rel="noopener noreferrer nofollow" target="_blank">First lesson demonstration held after Chinese curriculum update; gamified teaching sparks primary students’ interest in learning</a> (An Shiyi, ZB, 5 April 2025, page 8)</strong>&nbsp;</p>
