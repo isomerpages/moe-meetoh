@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Outstanding Youth in Education Award 2024.md
       - President Award for Teachers 2024.md
       - Singapore World Water Day 2023.md
       - Mdm President's Visit to School.md
