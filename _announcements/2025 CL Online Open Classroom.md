@@ -14,9 +14,9 @@ and animation resources.</p>
 <p></p>
 <p>The report also featured a soundbite from Mdm Zhang, stating that parents'
 feedback on the teaching method was positive and that it encouraged their
-children to speak CL more regularly at home. Our student also shared that
-her favorite part of the lesson was the small character cards (字宝宝), which
-make learning Chinese characters fun.</p>
+children to speak CL more regularly at home. Our student, Deng Lanqi Rosabel
+from P1-9, also shared that her favorite part of the lesson was the small
+character cards (字宝宝), which make learning Chinese characters fun.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FFAjjHRUWt0?si=1YTALqLtnSLl348C"></iframe>
