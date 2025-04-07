@@ -5,17 +5,18 @@ variant: tiptap
 description: ""
 ---
 <p>Channel 8 reported on the MOE's Chinese Language (CL) Open Classroom Session,
-which took place on April 4, 2025. During the session, primary CL teachers
-had the opportunity to tune in to the live stream and learn how to nurture
-students' interest in learning CL through activities such as "Spot the
-Difference," gamification, and animation resources.</p>
+which took place on April 4, 2025. The teacher who demonstrated this Open
+Classroom Session was our very own Mee Toh School' Senior Teacher (Chinese),
+Mdm Zhang Yinan! During the session, primary CL teachers had the opportunity
+to tune in to the live stream and learn how to nurture students' interest
+in learning CL through activities such as "Spot the Difference," gamification,
+and animation resources.</p>
 <p></p>
-<p>The report featured a soundbite from Mee Toh School's Senior CL teacher,
-Mdm Zhang Yinan, stating that parents' feedback on the teaching method
-was positive and that it encouraged their children to speak CL more regularly
-at home. A student also shared that her favorite part of the lesson was
-the small character cards (字宝宝), which make learning Chinese characters
-fun.</p>
+<p>The report also featured a soundbite from Mdm Zhang, stating that parents'
+feedback on the teaching method was positive and that it encouraged their
+children to speak CL more regularly at home. Our student also shared that
+her favorite part of the lesson was the small character cards (字宝宝), which
+make learning Chinese characters fun.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FFAjjHRUWt0?si=1YTALqLtnSLl348C"></iframe>
