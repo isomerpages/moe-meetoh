@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/oyea2024/
+          url: /announcements/national-primary-cl-teachers-seminar/
         - title: Milestones
           description: ""
           url: /milestones/mee-toh-news
