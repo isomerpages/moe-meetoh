@@ -166,7 +166,9 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Glenda Ang Hui Xin Librarian</strong>
+<p><strong>Ms Glenda Ang Hui Xin</strong>
+</p>
+<p><strong>Librarian</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,7 +216,9 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Steve Ng Jong Liu Operations Support Officer (OSO)</strong>
+<p><strong>Mr Steve Ng Jong Liu</strong>
+</p>
+<p><strong>Operations Support Officer (OSO)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
