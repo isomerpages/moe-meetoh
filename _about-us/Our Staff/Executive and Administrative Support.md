@@ -110,6 +110,17 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Ng Hui Woon Jacqueline</strong>
+</p>
+<p><strong>Corporate Support Officer (CSO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Sim Lee King<br>Management Support Office (MSO)</strong>
 <br>
 <br>'Where ever you go, go with your heart.' -Confucius</p>
@@ -120,7 +131,7 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Danny Wong Kwong Yau<br>Desktop Enginner (DE)</strong>
+<p><strong>Mr Danny Wong Kwong Yau<br>Desktop Engineer (DE)</strong>
 <br>
 <br>“You will either step forward into growth, or you will step backward into
 safety.”
@@ -132,7 +143,7 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Mohamad Syafiee Bin Surani<br>Desktop Enginner (DE)</strong>
+<p><strong>Mr Mohamad Syafiee Bin Surani<br>Desktop Engineer (DE)</strong>
 <br>
 <br>“Life itself is your teacher, and you are in a state of constant learning.”
 <br>Bruce Lee
@@ -148,6 +159,15 @@ safety.”
 <p><strong>Mdm Chua Lay Ching<br>Science Lab Assistant</strong>
 <br>
 <br>Work hard, play hard.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Glenda Ang Hui Xin Librarian</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -174,7 +194,7 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wong Chook Choon <br>Operations Support Officer (OSO)</strong>
+<p><strong>Mdm Neo Lay Mui<br>Operations Support Officer (OSO)</strong>
 </p>
 <p></p>
 </td>
@@ -187,6 +207,15 @@ safety.”
 <p><strong>Mr Loh Ching Kai <br>Operations Support Officer (OSO)</strong>
 </p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Steve Ng Jong Liu Operations Support Officer (OSO)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
