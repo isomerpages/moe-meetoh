@@ -114,6 +114,7 @@ Dewey</p>
 </p>
 <p><strong>Corporate Support Officer (CSO)</strong>
 </p>
+<p>You cannot spell success without u.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,7 +124,7 @@ Dewey</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Sim Lee King<br>Management Support Office (MSO)</strong>
 <br>
-<br>'Where ever you go, go with your heart.' - Confucius</p>
+<br>"Where ever you go, go with your heart." - Confucius</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -170,7 +171,7 @@ safety.”
 </p>
 <p><strong>Librarian</strong>
 </p>
-<p>May your trials end in full bloom. - Agust D</p>
+<p>"May your trials end in full bloom." - Agust D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
