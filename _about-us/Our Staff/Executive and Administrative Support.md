@@ -166,7 +166,7 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Glenda Ang Hui Xi </strong>
+<p><strong>Ms Glenda Ang Hui Xi</strong>
 </p>
 <p><strong>Librarian</strong>
 </p>
