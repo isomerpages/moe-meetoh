@@ -123,7 +123,7 @@ Dewey</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Sim Lee King<br>Management Support Office (MSO)</strong>
 <br>
-<br>'Where ever you go, go with your heart.' -Confucius</p>
+<br>'Where ever you go, go with your heart.' - Confucius</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -135,7 +135,7 @@ Dewey</p>
 <br>
 <br>“You will either step forward into growth, or you will step backward into
 safety.”
-<br>Abraham Maslow</p>
+<br>- Abraham Maslow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -146,7 +146,7 @@ safety.”
 <p><strong>Mr Mohamad Syafiee Bin Surani<br>Desktop Engineer (DE)</strong>
 <br>
 <br>“Life itself is your teacher, and you are in a state of constant learning.”
-<br>Bruce Lee
+<br>- Bruce Lee
 <br>
 </p>
 </td>
@@ -166,10 +166,9 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Glenda Ang Hui Xin</strong>
+<p><strong>Ms Glenda Ang Hui Xi                                                       Librarian</strong>
 </p>
-<p><strong>Librarian</strong>
-</p>
+<p>May your trials end in full bloom. - Agust D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
