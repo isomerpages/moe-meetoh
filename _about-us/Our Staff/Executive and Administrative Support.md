@@ -166,7 +166,9 @@ safety.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Glenda Ang Hui Xi                                                       Librarian</strong>
+<p><strong>Ms Glenda Ang Hui Xi </strong>
+</p>
+<p><strong>Librarian</strong>
 </p>
 <p>May your trials end in full bloom. - Agust D</p>
 </td>
