@@ -37,7 +37,7 @@ surely see that special quality in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
+<p><strong><a href="mailto:CHAI_CHING_SHZE_SOFIE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
 <br><strong>Form Teacher (2) Primary 1-1</strong>
 </p>
 <p>“Educating the mind without educating the heart is no education at all.”
@@ -49,7 +49,7 @@ surely see that special quality in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay_ya_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tay Ya Yin</a></strong>
+<p><strong><a href="mailto:TAY_YA_YIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Tay Ya Yin</a></strong>
 <br><strong>Form Teacher (1) Primary 1-2</strong>
 <br>
 <br>“A hundred years from now it will not matter what my bank account was,
@@ -63,7 +63,7 @@ E.Witcraft</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zeng_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zeng Ying</a></strong>
+<p><strong><a href="mailto:ZENG_YING_A@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zeng Ying</a></strong>
 <br><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 1-2</strong>
 <br>
@@ -75,7 +75,7 @@ E.Witcraft</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_hai_hoon_madeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Madeline Wong Hai Hoon</a></strong>
+<p><strong><a href="mailto:LIM_HAI_HOON_MADELINE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Madeline Wong Hai Hoon</a></strong>
 <br><strong>Form Teacher (1) Primary 1-3</strong>
 <br>
 <br>What we learn becomes a part of who we are.
@@ -88,7 +88,7 @@ learn.” - Ignacio Estrada</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nurul_asyura_mashkur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Asyura Mashkur</a></strong>
+<p><strong><a href="mailto:NURUL_ASYURA_MASHKUR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Asyura Mashkur</a></strong>
 <br><strong>Form Teacher (2) Primary 1-3</strong>
 <br>
 <br>“Education is the kindling of a flame, not the filling of a vessel,” -
