@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nurhafizah_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurhafizah Binte Kamis</a></strong>
+<p><strong><a href="mailto:NURHAFIZAH_KAMIS@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurhafizah Binte Kamis</a></strong>
 <br><strong>Form Teacher (1) Primary 1-1</strong>
 <br>
 <br>Teaching teaches me patience. I believe that every child has something
