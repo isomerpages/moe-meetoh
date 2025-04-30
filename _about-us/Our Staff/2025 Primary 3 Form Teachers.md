@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nora_yuhanis_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nora Yuhanis Bte Jaffar</a></strong> 
+<p><strong><a href="mailto:NORA_YUHANIS_JAFFAR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nora Yuhanis Bte Jaffar</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-1</strong> 
 <br>
 <br>“Children must be taught how to think; not what to think.” ~ Margaret
@@ -36,7 +36,7 @@ Mead</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yu_zhangxinzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yu Zhangxinzhi</a></strong>
+<p><strong><a href="mailto:YU_ZHANGXINZHI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Yu Zhangxinzhi</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 3-1</strong>
@@ -49,7 +49,7 @@ Mead</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_han_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Han Khim</a></strong> 
+<p><strong><a href="mailto:TAN_HAN_KHIM@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Han Khim</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-2</strong> 
 <br>
 <br>“Develop a passion for learning. If you do, you will never cease to grow.”
@@ -61,7 +61,7 @@ Mead</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:asha_devdas_sawlani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Asha Devdas Sawlani</a></strong> 
+<p><strong><a href="mailto:ASHA_DEVDAS_SAWLANI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Asha Devdas Sawlani</a></strong> 
 <br><strong>Head of Department – Student Development &amp; Management</strong>
 <br><strong>Form Teacher (2) Primary 3-2</strong> 
 <br>
@@ -74,7 +74,7 @@ rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shao_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shao Jie</a></strong> 
+<p><strong><a href="mailto:SHAO_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Shao Jie</a></strong> 
 <br><strong>Chinese Language Teacher</strong> 
 <br><strong>Form Teacher (1) Primary 3-3</strong> 
 <br>
@@ -86,7 +86,7 @@ rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:heng_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Aw Li Ting</a></strong> 
+<p><strong><a href="mailto: HENG_LI_TING@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Aw Li Ting</a></strong> 
 <br><strong>Form Teacher (2) Primary 3-3</strong> 
 <br>
 <br>Believe that every child can excel and strive to bring out the best in
@@ -98,7 +98,7 @@ him/her.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_weon_tor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Weon Tor</a></strong> 
+<p><strong><a href="mailto:TAN_WEON_TOR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Weon Tor</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-4</strong> 
 <br>
 <br>“Tell me and I forget. Teach me and I remember. Involve me and I learn.”
@@ -113,7 +113,7 @@ can apply it in their lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:joanne_lye_shuyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Lye Shuyi</a></strong> 
+<p><strong><a href="mailto:JOANNE_LYE_SHUYI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Lye Shuyi</a></strong> 
 <br><strong>Form Teacher (2) Primary 3-4</strong>
 </p>
 <p></p>
@@ -125,7 +125,7 @@ can apply it in their lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:goh_seok_luan@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Goh Seok Luan</a></strong> 
+<p><strong><a href="mailto:GOH_SEOK_LUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Miss Goh Seok Luan</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-5</strong>
 </p>
 <p></p>
@@ -139,7 +139,7 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:iskandar_mirza_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Iskandar Mirza Bin Salleh</a></strong> 
+<p><strong><a href="mailto:ISKANDAR_MIRZA_SALLEH@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Iskandar Mirza Bin Salleh</a></strong> 
 <br><strong>Form Teacher (2) Primary 3-5</strong>
 </p>
 <p></p>
@@ -152,7 +152,7 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ong_joo_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Joo Kai</a></strong> 
+<p><strong><a href="mailto:ONG_JOO_KAI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Joo Kai</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-6</strong> 
 <br>
 <br>Educo [Latin] “To bring out, to draw out, and to develop from within.”</p>
@@ -163,7 +163,7 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:juliana_lin_en_xuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a></strong>
+<p><strong><a href="mailto:JULIANA_LIN_EN_XUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a></strong>
 <br><strong>Form Teacher (2) Primary 3-6</strong>
 </p>
 <p>“Children are not things to be molded, but people to be unfolded.” – Jess
@@ -175,7 +175,7 @@ Lair</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:celestine_kau_wan_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Celestine Kau Wan Yi</a></strong> 
+<p><strong><a href="mailto:CELESTINE_KAU_WAN_YI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Celestine Kau Wan Yi</a></strong> 
 <br><strong>Form Teacher (1) Primary 3-7</strong> 
 <br>
 <br>“Education is the kindling of a flame, not the filling of a vessel.”–
@@ -187,7 +187,7 @@ Socrates</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_siu_thean_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Siu Thean Cheryl</a></strong>
+<p><strong><a href="mailto:TAN_SIU_THEAN_CHERYL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Tan Siu Thean Cheryl</a></strong>
 <br><strong>Form Teacher (2) Primary 3-7</strong>
 </p>
 <p></p>
@@ -200,7 +200,7 @@ and caring learning environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chim_kheng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chim Kheng Mui</a></strong>
+<p><strong><a href="mailto:CHIM_KHENG_MUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Chim Kheng Mui</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (1) Primary 3-8</strong> 
@@ -213,7 +213,7 @@ and caring learning environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:leong_jian_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leong Jian Wei Wayne</a></strong> 
+<p><strong><a href="mailto:LEONG_JIAN_WEI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Leong Jian Wei Wayne</a></strong> 
 <br><strong>Assistant Year Head - Primary 3</strong> 
 <br><strong>Form Teacher (2) Primary 3-8</strong>
 </p>
