@@ -165,7 +165,7 @@ are." - Jim Henson -</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Whay Ling
+<p><strong><a href="mailto:fong_whay_ling_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Fong Whay Ling</a></strong>
 <br><strong>Form Teacher (2) Primary 2-6</strong>
 </p>
 </td>
