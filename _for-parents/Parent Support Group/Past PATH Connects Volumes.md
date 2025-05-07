@@ -26,7 +26,8 @@ third_nav_title: Parent Support Group
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V1_2024_compress.pdf" rel="noopener nofollow" target="_blank">Volume 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -37,7 +38,8 @@ third_nav_title: Parent Support Group
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/PATH_Connects_V2_2024_2_.pdf" rel="noopener nofollow" target="_blank">Volume 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,7 +50,8 @@ third_nav_title: Parent Support Group
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.meetoh.moe.edu.sg/files/For%20Parents/Parent%20Support%20Group%20(PATH)/2024_Vol_3.pdf" rel="noopener nofollow" target="_blank">Volume 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,7 +62,8 @@ third_nav_title: Parent Support Group
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/mtspathconnectsv4" rel="noopener nofollow" target="_blank">Volume 4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
