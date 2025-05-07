@@ -220,8 +220,9 @@ more information on Code of Conduct for PATH.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/PATH_Newsletter_T1_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/Path_Connects_2025_Vol_1.jpg">
 </div>
+<p></p>
 <p><strong><a href="https://go.gov.sg/mtspathconnects2025v1" rel="noopener nofollow" target="_blank">Click here to read Volume 1</a></strong>
 </p>
 <p></p>
