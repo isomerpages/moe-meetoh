@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sim_kun_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jacelyn Ang Kun Kin</a></strong> 
+<p><strong><a href="mailto:SIM_KUN_KIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Jacelyn Ang Kun Kin</a></strong> 
 <br><strong>School Staff Developer (SSD)<br>Form Teacher (1) Primary 6-1</strong> 
 <br>
 <br>Every child wants to and can learn. The role of an educator is to cultivate
@@ -25,7 +25,7 @@ lead a fulfilled and meaningful life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ahmad_nabil_mustafa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ahmad Nabil Bin Mustafa</a></strong> 
+<p><strong><a href="mailto:AHMAD_NABIL_MUSTAFA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ahmad Nabil Bin Mustafa</a></strong> 
 <br><strong>Form Teacher (2) Primary 6-1</strong> 
 <br>
 <br>"Connecting through both heart and mind"</p>
@@ -33,7 +33,7 @@ lead a fulfilled and meaningful life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:pang_heng_cheun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Pang Heng Cheun</a></strong> 
+<p><strong><a href="mailto:PANG_HENG_CHEUN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Pang Heng Cheun</a></strong> 
 <br><strong>Head of Department - Science<br>Form Teacher (1) Primary 6-2</strong> 
 <br>
 <br>Teach the young minds to be curious and to constantly ask questions. It
@@ -42,7 +42,7 @@ is alright to make mistakes, but learn from the mistakes to become better.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_si_si@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Si Si</a></strong> 
+<p><strong><a href="mailto:NG_SI_SI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Si Si</a></strong> 
 <br><strong>Form Teacher (2) Primary 6-2</strong> 
 <br>
 <br>There is music in every child. The teacher ‘s job is to find and nurture
@@ -51,7 +51,7 @@ it. - Frances Clark</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_ai_ling_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Evelyn Lee Ai Ling</a></strong>
+<p><strong><a href="mailto:LEE_AI_LING_EVELYN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Evelyn Lee Ai Ling</a></strong>
 </p>
 <p><strong>Subject Head - Total Curriculum</strong>
 <br><strong>Form Teacher (1) Primary 6-3</strong> 
@@ -61,7 +61,7 @@ it. - Frances Clark</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:khor_teng_chih@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ben Khor</a></strong>
+<p><strong><a href="mailto:KHOR_TENG_CHIH@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Ben Khor</a></strong>
 <br><strong>Lead Teacher - Art</strong>
 <br><strong>Form Teacher (2) Primary 6-3</strong>
 </p>
@@ -70,7 +70,7 @@ it. - Frances Clark</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_sue_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Sue Cheng</a></strong> 
+<p><strong><a href="mailto:TAN_SUE_CHENG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Sue Cheng</a></strong> 
 <br><strong>Form Teacher (1) Primary 6-4</strong> 
 <br>
 <br>“The sole meaning of life is to serve humanity.” - Leo Tolstoy</p>
@@ -78,7 +78,7 @@ it. - Frances Clark</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:toh_hwee_leng_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Toh Hwee Leng</a></strong> 
+<p><strong><a href="mailto:TOH_HWEE_LENG_JOANNA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Toh Hwee Leng</a></strong> 
 <br><strong>Subject Head - Character and Citizenship Education (CCE)<br>Form Teacher (2) Primary 6-4</strong>
 <br>
 <br>“Knowing is not enough, we must apply. Willing is not enough, we must
@@ -87,14 +87,14 @@ do. Knowledge will give you power, but character respect.” - Bruce Lee</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:aleeza_dwi_artha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Aleeza Dwi Artha</u></a></strong> 
+<p><strong><a href="mailto:ALEEZA_DWI_ARTHA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Aleeza Dwi Artha</u></a></strong> 
 <br><strong>Form Teacher (3) Primary 6-4</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:koh_kai_guan_robin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Robin Koh Kai Guan</a></strong> 
+<p><strong><a href="mailto:KOH_KAI_GUAN_ROBIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Robin Koh Kai Guan</a></strong> 
 <br><strong>Form Teacher (1) Primary 6-5</strong> 
 <br>
 <br>Every child deserves an equal opportunity to learn and chart their own
@@ -105,7 +105,7 @@ in life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:gerallyn_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Hwee Ling Gerallyn</a></strong>
+<p><strong><a href="mailto:GERALLYN_LEE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Hwee Ling Gerallyn</a></strong>
 <br><strong>Head of Department - English (EL)</strong>
 <br><strong>Form Teacher (2) Primary 6-5</strong>
 </p>
@@ -118,7 +118,7 @@ dedicated educator can help the child achieve that breakthrough in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Tan_teck_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Teck Chuan</a></strong> 
+<p><strong><a href="mailto:TAN_TECK_CHUAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Teck Chuan</a></strong> 
 <br><strong>Form Teacher (1) Primary 6-6</strong> 
 <br>
 <br>I have not failed. I’ve just found 10,000 ways that won’t work. - Thomas
@@ -127,7 +127,7 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:maledeine_lai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Maledeine Lai Yuying</a></strong>
+<p><strong><a href="mailto:MALEDEINE_LAI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Maledeine Lai Yuying</a></strong>
 <br><strong>Head of Department - Mother Tongue Languages (MTL)</strong>
 </p>
 <p><strong>Form Teacher (2) Primary 6-6</strong>
@@ -138,7 +138,7 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:hong_seek_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Leong Seek Eng</u></a></strong> 
+<p><strong><a href="mailto:HONG_SEEK_ENG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Leong Seek Eng</u></a></strong> 
 <br><strong>Year Head - Primary 5 &amp; 6<br>Form Teacher (3) Primary 6-6</strong> 
 <br>
 <br>“There is more in you than you think.” - Kurt Hahn</p>
@@ -146,7 +146,7 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_shoa_koen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Lim Shoa Koen</a></strong> 
+<p><strong><a href="mailto:LIM_SHOA_KOEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Lim Shoa Koen</a></strong> 
 <br><strong>Lead Teacher - Mathematics (MA)<br>Form Teacher (1) Primary 6-7</strong> 
 <br>
 <br>Education isn’t what you learn, it’s what you do with what you learn.</p>
@@ -154,7 +154,7 @@ Edison</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:quek_yi_hui_eleanor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Eleanor Quek Yi Hui</a></strong> 
+<p><strong><a href="mailto:QUEK_YI_HUI_ELEANOR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Eleanor Quek Yi Hui</a></strong> 
 <br><strong>Head of Department - Total Curriculum<br>Form Teacher (2) Primary 6-7</strong> 
 <br>
 <br>LIVE every moment with the child and you will find that he/she has so
@@ -166,7 +166,7 @@ love in this world. There is hope.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhamed_nazrul_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhamed Nazrul Zain</a></strong> 
+<p><strong><a href="mailto:MUHAMED_NAZRUL_ZAIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhamed Nazrul Zain</a></strong> 
 <br><strong>Subject Head - Student Development and Management (Student Leadership)<br>Form Teacher (1) Primary 6-8</strong> 
 <br>
 <br>Knowledge is all around us but only with an open mind will one embrace
@@ -175,7 +175,7 @@ and learn it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhao_qianxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
+<p><strong><a href="mailto:ZHAO_QIANXI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 6-8</strong>
@@ -185,7 +185,7 @@ and learn it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yeo_li_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Li Choo, Rachel</a></strong>
+<p><strong><a href="mailto:YEO_LI_CHOO@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Li Choo, Rachel</a></strong>
 <br><strong>Level Head - Mathematics (MA)</strong>
 <br><strong>Form Teacher (1) Primary 6-9</strong>
 </p>
@@ -198,7 +198,7 @@ their fullest potential and bring out the star in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ow_kok_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kok Meng</a></strong>
+<p><strong><a href="mailto:OW_KOK_MENG_A@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kok Meng</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 6-9</strong> 
