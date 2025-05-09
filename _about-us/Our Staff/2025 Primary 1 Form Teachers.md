@@ -37,7 +37,7 @@ surely see that special quality in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
+<p><strong><a href="mailto:CHAI_CHING_SHZE_SOFIE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
 <br><strong>Form Teacher (2) Primary 1-1</strong>
 </p>
 <p>“Educating the mind without educating the heart is no education at all.”
@@ -49,7 +49,7 @@ surely see that special quality in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay_ya_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tay Ya Yin</a></strong>
+<p><strong><a href="mailto:TAY_YA_YIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Tay Ya Yin</a></strong>
 <br><strong>Form Teacher (1) Primary 1-2</strong>
 <br>
 <br>“A hundred years from now it will not matter what my bank account was,
@@ -63,7 +63,7 @@ E.Witcraft</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zeng_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zeng Ying</a></strong>
+<p><strong><a href="mailto:ZENG_YING_A@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zeng Ying</a></strong>
 <br><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (2) Primary 1-2</strong>
 <br>
@@ -75,7 +75,7 @@ E.Witcraft</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_hai_hoon_madeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Madeline Wong Hai Hoon</a></strong>
+<p><strong><a href="mailto:LIM_HAI_HOON_MADELINE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Madeline Wong Hai Hoon</a></strong>
 <br><strong>Form Teacher (1) Primary 1-3</strong>
 <br>
 <br>What we learn becomes a part of who we are.
@@ -88,7 +88,7 @@ learn.” - Ignacio Estrada</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nurul_asyura_mashkur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Asyura Mashkur</a></strong>
+<p><strong><a href="mailto:NURUL_ASYURA_MASHKUR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Asyura Mashkur</a></strong>
 <br><strong>Form Teacher (2) Primary 1-3</strong>
 <br>
 <br>“Education is the kindling of a flame, not the filling of a vessel,” -
@@ -100,7 +100,7 @@ Socrates</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lock_pui_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Pui Lai Sarah</a></strong>
+<p><strong><a href="mailto:LOCK_PUI_LAI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Pui Lai Sarah</a></strong>
 <br><strong>Form Teacher (1) Primary 1-4</strong>
 </p>
 <p></p>
@@ -113,7 +113,7 @@ them where they are.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zuraini_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zuraini Abdul Rahim</a></strong>
+<p><strong><a href="mailto:ZURAINI_ABDUL_RAHIM@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zuraini Abdul Rahim</a></strong>
 <br><strong>Malay Language Teacher<br>Form Teacher (2) Primary 1-4</strong>
 <br>
 <br>3P - dapat menerima Perubahan, bijak membuat Pilihan dan tekal dalam Prinsip</p>
@@ -124,7 +124,7 @@ them where they are.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chan_mei_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chia Mei Kwan</a></strong>
+<p><strong><a href="mailto:CHAN_MEI_KWAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Chia Mei Kwan</a></strong>
 <br><strong>Form Teacher (1) Primary 1-5</strong>
 <br>
 <br>Education, just like a beacon, allows students to seek their paths and
@@ -139,7 +139,7 @@ their goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chia_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Li Ling</a></strong>
+<p><strong><a href="mailto:CHIA_LI_LING@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Li Ling</a></strong>
 <br><strong>Assistant Year Head - Primary 1<br>Form Teacher (2) Primary 1-5</strong>
 <br>
 <br>It matters not our starting point in life.
@@ -152,7 +152,7 @@ an open mind, we can get to where we choose to be.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lin_meijing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Liew-Lin Meijing</a></strong>
+<p><strong><a href="mailto:LIN_MEIJING@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Liew-Lin Meijing</a></strong>
 <br><strong>Level Head - Math<br>Form Teacher (1) Primary 1-6</strong>
 <br>
 <br>Nature versus nurture, which is a stronger influence? I believe in the
@@ -177,7 +177,7 @@ who prepare for it today.” – Malcolm X</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chieu_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Janice Yong</a></strong>
+<p><strong><a href="mailto:TAN_CHIEU_PENG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Janice Yong</a></strong>
 <br><strong>Form Teacher (1) Primary 1-7</strong>
 <br>
 <br>“Learning is not attained by chance, it must be sought for with ardor
@@ -189,7 +189,7 @@ and attended to with diligence.” ~ Abigail Adams</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yan_yuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a></strong>
+<p><strong><a href="mailto:YAN_YUZHEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a></strong>
 <br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 1-7</strong>
 <br>
 <br>书山有路勤为径，学海无涯苦作舟。——韩愈。</p>
@@ -200,7 +200,7 @@ and attended to with diligence.” ~ Abigail Adams</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhammad_fikri_fazil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
+<p><strong><a href="mailto:MUHAMMAD_FIKRI_FAZIL@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
 <br><strong>Form Teacher (1) Primary 1-8</strong>
 </p>
 <p>"Intelligence plus character, that is the goal of true education.”-Dr
@@ -225,7 +225,7 @@ education regardless of their profile.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yinan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
+<p><strong><a href="mailto:ZHANG_YINAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
 <br><strong>Chinese Language Teacher<br>Form Teacher (1) Primary 1-9</strong>
 <br>
 <br>自信自律，自强不息！</p>
@@ -249,7 +249,7 @@ to improve on their weaknesses and build on their strengths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ong_shuquan_robin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Shuquan Robin</a></strong>
+<p><strong><a href="mailto:ONG_SHUQUAN_ROBIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Shuquan Robin</a></strong>
 <br><strong>Form Teacher (1) Primary 1-10</strong>
 <br>
 <br>“We all have ability. The difference is how we use it.” - Stevie Wonder</p>

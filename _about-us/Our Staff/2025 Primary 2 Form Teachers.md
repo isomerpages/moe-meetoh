@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:adriana_alias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Adriana Alias</a></strong>
+<p><strong><a href="mailto:adriana_alias@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Adriana Alias</a></strong>
 <br><strong>Form Teacher (1) Primary 2-1</strong>
 </p>
 <p>“Teachers have three loves: love of learning, love of learners, and the
@@ -36,7 +36,7 @@ love of bringing the first two loves together.” - Scott Hayden</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:neo_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Neo Li Ting</a></strong> 
+<p><strong><a href="mailto:neo_li_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Neo Li Ting</a></strong> 
 <br><strong>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 2-1</strong> 
 <br>
 <br>《论语·为政》——子曰：“学而不思则罔，思而不学则殆”。 一味的读书，而不思考，只会受到书本表象的迷惑而不得甚解。而只是一味的埋头苦思而不进行一定的书本知识的积累，进而对
@@ -48,7 +48,7 @@ love of bringing the first two loves together.” - Scott Hayden</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:norlina_ahmadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Redwan (Norlina Bte Ahmadi)</a></strong> 
+<p><strong><a href="mailto:norlina_ahmadi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Redwan (Norlina Bte Ahmadi)</a></strong> 
 <br><strong>Senior Teacher - English Language<br>Form Teacher (1) Primary 2-2</strong> 
 <br>
 <br>“Give the students something to do, not something to learn; and the doing
@@ -61,7 +61,7 @@ is of such a nature as to demand thinking; learning naturally results.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ching_mei_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ching Mei Fei</a></strong> 
+<p><strong><a href="mailto:ching_mei_fei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ching Mei Fei</a></strong> 
 <br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-2</strong> 
 <br>
 <br>《礼记·学记》：“玉不琢，不成器。人不学，不知道。”</p>
@@ -72,7 +72,7 @@ is of such a nature as to demand thinking; learning naturally results.”
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:roshaidah_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roshaidah Bte Salleh</a></strong> 
+<p><strong><a href="mailto:roshaidah_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roshaidah Bte Salleh</a></strong> 
 <br><strong>Form Teacher (1) Primary 2-3</strong> 
 <br>
 <br>Learning never ends. Every child learns at his/her own pace. Patience
@@ -84,7 +84,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_boon_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Boon Li</a></strong> 
+<p><strong><a href="mailto:chua_boon_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Boon Li</a></strong> 
 <br><strong>Form Teacher (2) Primary 2-3</strong> 
 <br>
 <br>“The best preparation for tomorrow is doing your best today.” -
@@ -96,7 +96,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:suziana_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suziana Bte Hassan</a></strong> 
+<p><strong><a href="mailto:suziana_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suziana Bte Hassan</a></strong> 
 <br><strong>Form Teacher (1) Primary 2-4</strong> 
 <br>
 <br>“Intelligence without ambition is a bird without wings.” - Salvador Dali</p>
@@ -107,7 +107,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:dong_jinmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Jinmei</a></strong> 
+<p><strong><a href="mailto:dong_jinmei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Jinmei</a></strong> 
 <br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-4</strong> 
 <br>
 <br>书山有路勤为径，学海无涯苦作舟。— 韩愈</p>
@@ -118,7 +118,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yue_chook_eng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yue Chook Eng</a></strong> 
+<p><strong><a href="mailto:yue_chook_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yue Chook Eng</a></strong> 
 <br><strong>Form Teacher (3) Primary 2-4</strong>
 </p>
 </td>
@@ -128,7 +128,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ho_sue_lynn_larissa@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ho Sue-Lynn Larissa</a></strong>
+<p><strong><a href="mailto:ho_sue_lynn_larissa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ho Sue-Lynn Larissa</a></strong>
 </p>
 <p><strong>Form Teacher (1) Primary 2-5</strong>
 </p>
@@ -142,7 +142,7 @@ are." - Jim Henson -</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sunarti_amidon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Binte Amidon</a></strong> 
+<p><strong><a href="mailto:sunarti_amidon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Binte Amidon</a></strong> 
 <br><strong>Subject Head - Malay Language<br>Form Teacher (2) Primary 2-5</strong> 
 <br>
 <br>Pendidikan bermula dari hati langsung ke hati.</p>
@@ -153,7 +153,7 @@ are." - Jim Henson -</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Shan</a></strong>
+<p><strong><a href="mailto:tan_peishan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Shan</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (1) Primary 2-6</strong> 
@@ -165,7 +165,7 @@ are." - Jim Henson -</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Whay Ling
+<p><strong><a href="mailto:fong_whay_ling_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Fong Whay Ling</a></strong>
 <br><strong>Form Teacher (2) Primary 2-6</strong>
 </p>
 </td>
@@ -175,7 +175,7 @@ are." - Jim Henson -</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:soon_min_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soon Min Wah</a></strong> 
+<p><strong><a href="mailto:soon_min_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soon Min Wah</a></strong> 
 <br><strong>Senior Teacher - Chinese Language<br>Form Teacher (1) Primary 2-7</strong> 
 <br>
 <br>不积小流无以成江海，不积跬步无以至千里</p>
@@ -186,7 +186,7 @@ are." - Jim Henson -</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:alice_ooi_shui_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong> 
+<p><strong><a href="mailto:alice_ooi_shui_lien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Hiah Shui Lien</a></strong> 
 <br><strong>Year Head - Primary 1 &amp; Primary 2<br>Form Teacher (2) Primary 2-7</strong> 
 <br>
 <br>” I never teach my pupils, I only attempt to provide the conditions in
@@ -198,7 +198,7 @@ which they can learn.” - Albert Einstein</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:liew_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yvonne Liew</a></strong> 
+<p><strong><a href="mailto:liew_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yvonne Liew</a></strong> 
 <br><strong>Form Teacher (1) Primary 2-8</strong> 
 <br>
 <br>“The voyage of the best ship is a zigzag line of a hundred tacks.” - Ralph
@@ -210,7 +210,7 @@ Waldo Emerson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay_shuwen_sabrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Tay Shuwen&nbsp;</a></strong>
+<p><strong><a href="mailto:tay_shuwen_sabrina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Tay Shuwen&nbsp;</a></strong>
 <br><strong>Subject Head - Communications and Outreach Department</strong> 
 <br><strong>Form Teacher (2) Primary 2-8</strong> 
 <br>
@@ -222,7 +222,7 @@ Waldo Emerson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:wong_ming_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wong Ming Hui</a></strong> 
+<p><strong><a href="mailto:wong_ming_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wong Ming Hui</a></strong> 
 <br><strong>Form Teacher (1) Primary 2-9</strong> 
 <br>
 <br>All children have their own strengths and we can help them find these
@@ -238,7 +238,7 @@ learning and discover his/her potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:wei_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wei Lu</a></strong> 
+<p><strong><a href="mailto:wei_lu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wei Lu</a></strong> 
 <br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 2-9</strong> 
 <br>
 <br>态度决定高度，细节决定成败</p>
@@ -249,7 +249,7 @@ learning and discover his/her potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chew_shie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Tan Chew Shie</a></strong> 
+<p><strong><a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Tan Chew Shie</a></strong> 
 <br><strong>Head of Department - Character and Citizenship Education (CCE)<br>Form Teacher (1) Primary 2-10</strong> 
 <br>
 <br>德育为本，智育为翼</p>
@@ -261,7 +261,7 @@ learning and discover his/her potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chang_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chang Ying</a></strong>
+<p><strong><a href="mailto:chang_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chang Ying</a></strong>
 <br><strong>Form Teacher (2) Primary 2-10</strong>
 </p>
 <p>"Where words fail, music speaks." - Hans Christian Andersen</p>
