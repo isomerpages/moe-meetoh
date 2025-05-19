@@ -19,18 +19,6 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
-  - announcements:
-      title: "Nomination is open for:"
-      id: announcements
-      announcement_items:
-        - title: Distinguished Chinese Language Teachers Awards 2025
-          date: 11 May 2025
-          announcement: Organised by Lianhe Zaobao and ZBSchools, with co-organised by
-            Singapore Centre for Chinese Language, The Society of Chinese
-            Education Singapore, Singapore Chinese Teachers' Union, and the
-            Singapore Middle School Chinese Teacher's Association.
-          link_text: Click here to submit your nomination by 11 May 2025
-          link_url: https://zb.sg/dclta2025
   - infopic:
       title: 70th Anniversary
       id: infopic
