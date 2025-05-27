@@ -24,7 +24,7 @@ sections:
       subtitle: Mee Toh School
       id: infopic
       description: Saturday, 31 May 2025
-      button: Click here to view the e-programme booklet
+      button: click for Event Highlights
       url: https://go.gov.sg/mtsfoundersdaybooklet2025
       alt: Image alt text
       image: /images/Announcements/Founders_day_2025.png
