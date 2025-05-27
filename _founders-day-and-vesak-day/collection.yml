@@ -1,0 +1,5 @@
+collections:
+  founders-day-and-vesak-day:
+    output: true
+    order:
+      - Programme Booklet.md
