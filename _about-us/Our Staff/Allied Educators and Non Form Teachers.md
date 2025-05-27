@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chai_ching_shze_sofie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
+<p><strong><a href="mailto:CHAI_CHING_SHZE_SOFIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
 <br><strong>Senior Teacher -</strong>  <strong>Special Educational Needs (SEN) Officer</strong> 
 <br>
 <br>"Educating the mind without educating the heart is no education at all."
@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:su_yin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
+<p><strong><a href="mailto:SU_YIN_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong> 
 <br>
 <br>"Change is the end result of all true learning," - Leo Buscaglia</p>
@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_ping_yi_jessie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Ping Yi Jessie</a></strong>
+<p><strong><a href="mailto:NG_PING_YI_JESSIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Ping Yi Jessie</a></strong>
 </p>
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
@@ -53,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ho_mei_yin_melina@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Melina Ho</a></strong>
+<p><strong><a href="mailto:HO_MEI_YIN_MELINA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Melina Ho</a></strong>
 </p>
 <p><strong>(SEN) Officer</strong>
 </p>
@@ -66,7 +66,7 @@ love.” ~ Mother Teresa</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:kwek_baozhi_andy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kwek Baozhi, Andy</a></strong>
+<p><strong><a href="mailto:KWEK_BAOZHI_ANDY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Kwek Baozhi, Andy</a></strong>
 </p>
 <p><strong>(SEN) Officer</strong>
 </p>
