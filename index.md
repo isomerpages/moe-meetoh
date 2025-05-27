@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: Saturday, 31 May 2025
       button: click for Event Highlights
-      url: https://go.gov.sg/mtsfoundersdaybooklet2025
+      url: /foundersdayandvesakday/
       alt: Image alt text
       image: /images/Announcements/Founders_day_2025.png
   - infopic:
