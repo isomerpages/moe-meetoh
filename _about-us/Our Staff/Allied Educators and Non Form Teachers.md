@@ -80,7 +80,7 @@ Einstein</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ang_an_an_felicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee </a></strong>
+<p><strong><a href="mailto:ANG_AN_AN_FELICIA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee </a></strong>
 <br><strong>Allied Educator (Counselling)</strong> 
 <br>
 <br>"It's not about what you have achieved but what you learnt in the process
@@ -103,7 +103,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_bishuang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chua Bishuang (Mrs Lim)</a></strong>
+<p><strong><a href="mailto:CHUA_BISHUANG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Chua Bishuang (Mrs Lim)</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
