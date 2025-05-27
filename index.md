@@ -20,6 +20,14 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: Founder's Day & Vesak Day Celebrations
+      subtitle: Mee Toh School
+      id: infopic
+      description: Saturday, 30 May 2025
+      button: Click here to view the e-programme booklet
+      url: https://go.gov.sg/mtsfoundersdaybooklet2025
+      alt: Image alt text
+  - infopic:
       title: 70th Anniversary
       id: infopic
       description: Saturday, 25 May 2024
