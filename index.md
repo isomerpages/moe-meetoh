@@ -27,6 +27,7 @@ sections:
       button: Click here to view the e-programme booklet
       url: https://go.gov.sg/mtsfoundersdaybooklet2025
       alt: Image alt text
+      image: /images/Announcements/Founders_day_2025.png
   - infopic:
       title: 70th Anniversary
       id: infopic
