@@ -1,4 +1,5 @@
 collections:
   founders-day-and-vesak-day:
     output: true
-    order: []
+    order:
+      - Programmebooklet.md
