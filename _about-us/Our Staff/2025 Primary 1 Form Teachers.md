@@ -164,7 +164,7 @@ latter. Every child can learn and do good.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:norraya_sayuti@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norraya Bte Sayuti</a></strong>
+<p><strong><a href="mailto:Norraya_Sayuti@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Norraya Bte Sayuti</a></strong>
 <br><strong>Form Teacher (2) Primary 1-6</strong>
 </p>
 <p></p>
@@ -215,7 +215,7 @@ education regardless of their profile.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_choon_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Choon Lan</a></strong>
+<p><strong><a href="mailto:tan_choon_lan@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Choon Lan</a></strong>
 <br><strong>Form Teacher (2) Primary 1-8</strong>
 <br>Every child is unique. Every child can learn. Every child matters.</p>
 </td>
@@ -236,7 +236,7 @@ education regardless of their profile.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yeo_chai_kim_irene@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Chai Kim Irene</a></strong>
+<p><strong><a href="mailto:Yeo_Chai_Kim_Irene@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Yeo Chai Kim Irene</a></strong>
 <br><strong>Form Teacher (2) Primary 1-9</strong>
 </p>
 <p></p>
@@ -260,7 +260,7 @@ to improve on their weaknesses and build on their strengths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:loong_hui_ling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
+<p><strong><a href="mailto:Loong_Hui_Ling_Winnie@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
 <br><strong>Form Teacher (2) Primary 1-10</strong>
 </p>
 </td>
