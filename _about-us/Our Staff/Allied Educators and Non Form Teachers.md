@@ -116,7 +116,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yuling_marilyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
+<p><strong><a href="mailto:zhang_yuling_marilyn@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
 <br><strong>Teacher</strong>
 </p>
 <p>教育是永无止境的追寻</p>
@@ -127,7 +127,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nazihah_muhammed_ikram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
+<p><strong><a href="mailto:Nazihah Muhammed Ikram.SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 <p>" When one teaches, two learn" Robert Heinlein</p>
@@ -138,7 +138,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_kim_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong> 
+<p><strong><a href="mailto:LIM_KIM_LUAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
@@ -148,7 +148,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:afidah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Afidah Bte Ibrahim</a></strong>
+<p><strong><a href="mailto:Afidah_Ibrahim_A@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Afidah Bte Ibrahim</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -159,7 +159,7 @@ of achieving!"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_siew_choo_cynthia_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cynthia Swee</a></strong>
+<p><strong><a href="mailto:Tan_Siew_Choo_Cynthia_B@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Cynthia Swee</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -172,7 +172,7 @@ bring out the best in each of them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:neo_chew_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Celia Neo</a></strong>
+<p><strong><a href="mailto:Neo_Chew_Yen@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Celia Neo</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -185,7 +185,7 @@ a healthy diet and a positive mindset.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ruth_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Goh</a></strong>
+<p><strong><a href="mailto:Ruth_Goh@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Goh</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -199,7 +199,7 @@ contribute positively to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_hwee_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
+<p><strong><a href="mailto:Ng_Hwee_Beng@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -210,7 +210,7 @@ contribute positively to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:josephine_tan_zhi_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Josephine Tan</a></strong>
+<p><strong><a href="mailto:Josephine_Tan_Zhi_Xian@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Josephine Tan</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -222,7 +222,7 @@ contribute positively to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:noorazmah_razali_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noorazmah bte Razali</a></strong>
+<p><strong><a href="mailto:Noorazmah_Razali_A@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Noorazmah bte Razali</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
@@ -235,7 +235,7 @@ and teach new skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_eng_kiong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
+<p><strong><a href="mailto:Lee_Eng_Kiong@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
