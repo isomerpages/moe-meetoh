@@ -250,7 +250,7 @@ generation to be resilient, appreciative and selfless.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:wen_pei_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong> 
+<p><strong><a href="mailto:WEN_PEI_JU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong> 
 <br>
 <br>老师的一颗心，孩子的一片天。</p>
 </td>
