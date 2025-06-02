@@ -62,13 +62,6 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_siew_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Siew Hua</a></strong>
-<br><strong>Form Teacher (3) Primary 5-3</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:NG_POH_ENG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Angela Fong Poh Eng</a></strong> 
 <br><strong>Form Teacher (1) Primary 5-4</strong> 
 <br>
