@@ -15,14 +15,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zou_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zou Yang</a></strong> 
+<p><strong><a href="mailto:ZOU_YANG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zou Yang</a></strong> 
 <br><strong>Chinese Language Teacher<br>Form Teacher (1) Primary 5-1</strong> 
 <br>“ 享受学习的乐趣，收获知识的果实”</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:abdul_faqih_sinuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Faqih Bin Sinuan</a></strong>
+<p><strong><a href="mailto:ABDUL_FAQIH_SINUAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Faqih Bin Sinuan</a></strong>
 <br><strong>Level Head - Physical &amp; Health Education (PHE)</strong> 
 <br><strong>Form Teacher (2) Primary 5-1</strong> 
 <br>
@@ -35,7 +35,7 @@ feeling and guide them to grow to be great in their own right.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_ying_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Ying Lin</a></strong> 
+<p><strong><a href="mailto:LIM_YING_LIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Ying Lin</a></strong> 
 <br><strong>Senior Teacher - Mathematics<br>Form Teacher (1) Primary 5-2</strong> 
 <br>
 <br>“Every child deserves a champion - an adult who will never give up on
@@ -45,7 +45,7 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nursyafiqah_muhammad_shahmir_dason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nursyafiqah Binte Muhammad Shahmir Dason</a></strong>
+<p><strong><a href="mailto:NURSYAFIQAH_MUHAMMAD_SHAHMIR_DASON@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nursyafiqah Binte Muhammad Shahmir Dason</a></strong>
 <br><strong>Form Teacher (2) Primary 5-2</strong>
 </p>
 <p></p>
@@ -54,7 +54,7 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:cheong_pui_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Lai</a></strong> 
+<p><strong><a href="mailto:CHEONG_PUI_LAI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Lai</a></strong> 
 <br><strong>Chinese Language Teacher<br>Form Teacher (1) Primary 5-3</strong> 
 <br>
 <br>努力学习直到生命的最后一刻是件美好的事。</p>
@@ -79,7 +79,7 @@ they can be and never gives up on them.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_poh_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angela Fong Poh Eng</a></strong> 
+<p><strong><a href="mailto:NG_POH_ENG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Angela Fong Poh Eng</a></strong> 
 <br><strong>Form Teacher (1) Primary 5-4</strong> 
 <br>
 <br>To walk the talk and to teach with my heart.</p>
@@ -87,7 +87,7 @@ they can be and never gives up on them.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:koh_shu_hui_sharon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Koh Shu Hui Sharon</a></strong>
+<p><strong><a href="mailto:SHARON_KOH@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Koh Shu Hui Sharon</a></strong>
 </p>
 <p><strong>Form Teacher (2) Primary 5-4</strong>
 </p>
@@ -98,7 +98,7 @@ you” - BB King</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay_qiushi_kelly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kelly Ng</a></strong> 
+<p><strong><a href="mailto:TAY_QIUSHI_KELLY@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Kelly Ng</a></strong> 
 <br><strong>Form Teacher (1) Primary 5-5</strong> 
 <br>
 <br>“Every Child is GIFTED. They just unwrap their packages at different times.”</p>
@@ -106,7 +106,7 @@ you” - BB King</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chee_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joey Tan Chee Kian</a></strong> 
+<p><strong><a href="mailto:TAN_CHEE_KIAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Joey Tan Chee Kian</a></strong> 
 <br><strong>Head of Department - Physical &amp; Health Education (PHE)<br>Form Teacher (2) Primary 5-5</strong> 
 <br>
 <br>Changes doesn’t just pass by. It brings you along for the ride</p>
@@ -114,7 +114,7 @@ you” - BB King</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:amsyar_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Amsyar Bin Abdul Wahed</u></a></strong> 
+<p><strong><a href="mailto:AMSYAR_ABDUL_WAHED@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Amsyar Bin Abdul Wahed</u></a></strong> 
 <br><strong>Form Teacher (3) Primary 5-5</strong> 
 <br>
 <br>“Education is not the filling of a pail but the lighting of a fire.” -
@@ -123,7 +123,7 @@ William Butler Yeats</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:siti_nur_hannah_hardy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nur Hannah Binte Hardy</a></strong> 
+<p><strong><a href="mailto:SITI_NUR_HANNAH_HARDY@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nur Hannah Binte Hardy</a></strong> 
 <br><strong>Subject Head - Student Development and Management (Discipline)<br>Form Teacher (1) Primary 5-6</strong> 
 <br>
 <br>“Do all the good you can, by all the means you can, in all the ways you
@@ -133,7 +133,7 @@ you can, as long as you can.” - John Wesley</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:wen_pei_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong> 
+<p><strong><a href="mailto:WEN_PEI_JU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong> 
 <br><strong>Chinese Language Teacher<br>Form Teacher (2) Primary 5-6</strong> 
 <br>
 <br>老师的一颗心，孩子的一片天。</p>
@@ -141,7 +141,7 @@ you can, as long as you can.” - John Wesley</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:benjamin_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Ian Benjamin</a></strong> 
+<p><strong><a href="mailto:BENJAMIN_CHIA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Ian Benjamin</a></strong> 
 <br><strong>Head of Department - Information and Communication Technology (ICT)<br>Form Teacher (1) Primary 5-7</strong> 
 <br>
 <br>There are no great limits to learning except those that we impose on ourselves.</p>
