@@ -128,13 +128,10 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ho_sue_lynn_larissa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ho Sue-Lynn Larissa</a></strong>
-</p>
-<p><strong>Form Teacher (1) Primary 2-5</strong>
-</p>
-<p></p>
-<p>"Kids don't remember what you try to teach them. They remember what you
-are." - Jim Henson -</p>
+<p><strong><a href="mailto:sunarti_amidon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Binte Amidon</a></strong> 
+<br><strong>Subject Head - Malay Language<br>Form Teacher (1) Primary 2-5</strong> 
+<br>
+<br>Pendidikan bermula dari hati langsung ke hati.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -142,13 +139,14 @@ are." - Jim Henson -</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sunarti_amidon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Binte Amidon</a></strong> 
-<br><strong>Subject Head - Malay Language<br>Form Teacher (2) Primary 2-5</strong> 
-<br>
-<br>Pendidikan bermula dari hati langsung ke hati.</p>
+<p><strong><a href="mailto:teo_ai_cheng@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Teo Ai Cheng</a></strong>
+</p>
+<p><strong>Form Teacher (2) Primary 2-5</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
