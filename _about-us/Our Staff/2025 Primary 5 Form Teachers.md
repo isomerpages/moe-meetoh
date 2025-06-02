@@ -62,16 +62,6 @@ the best they can possibly be ~ Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:pamela_goh_dong_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pamela Goh</a></strong>
-<br><strong>Form Teacher (2) Primary 5-3</strong>
-</p>
-<p></p>
-<p>“Every child deserves a teacher who inspires them to be the best that
-they can be and never gives up on them.”</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan_siew_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Siew Hua</a></strong>
 <br><strong>Form Teacher (3) Primary 5-3</strong>
 </p>
