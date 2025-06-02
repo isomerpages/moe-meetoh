@@ -149,7 +149,7 @@ you can, as long as you can.” - John Wesley</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhao_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhao Xin</a></strong> 
+<p><strong><a href="mailto:ZHAO_XIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhao Xin</a></strong> 
 <br><strong>Subject Head - Chinese Language<br>Form Teacher (2) Primary 5-7</strong> 
 <br>
 <br>在教育中，一切都应以教育者的人格为基础，因为只有人格才能影响人格，只 有人格才能形成性格。（俄）乌申斯基</p>
@@ -157,7 +157,7 @@ you can, as long as you can.” - John Wesley</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:low_jing_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Low Jing Yi</a></strong> 
+<p><strong><a href="mailto:LOW_JING_YI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Low Jing Yi</a></strong> 
 <br><strong>Form Teacher (1) Primary 5-8</strong> 
 <br>
 <br>Plant seeds of curiosity, prune weeds of bad habits, provide a nurturing
@@ -167,7 +167,7 @@ generations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:leow_ying_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Leow Ying Jie</a></strong> 
+<p><strong><a href="mailto:LEOW_YING_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Leow Ying Jie</a></strong> 
 <br><strong>Form Teacher (2) Primary 5-8</strong> 
 <br>
 <br>"Every child as an artist" - Pablo Picasso</p>
@@ -175,7 +175,7 @@ generations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:muhammad_ali_md_yasin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Ali </a></strong>
+<p><strong><a href="mailto:MUHAMMAD_ALI_MD_YASIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Muhammad Ali </a></strong>
 <br><strong>Form Teacher (1) Primary 5-9</strong>
 </p>
 <p></p>
@@ -186,7 +186,7 @@ make limber young minds to prepare for the marathon that is life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ong_su_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Su Lan</a></strong> 
+<p><strong><a href="mailto:ONG_SU_LAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Su Lan</a></strong> 
 <br><strong>Senior Teacher - Chinese Language<br>Form Teacher (2) Primary 5-9</strong> 
 <br>
 <br>学而不思则罔，思而不学则殆。- 孔子</p>
