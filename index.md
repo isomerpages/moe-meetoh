@@ -25,6 +25,7 @@ sections:
       button: Find out more here
       url: https://www.moe.gov.sg/primary/p1-registration
       image: /images/2025_P1_Registration_Final.png
+      alt: Image alt text
   - infopic:
       title: Founder's Day & Vesak Day Celebrations
       subtitle: Mee Toh School
