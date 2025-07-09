@@ -175,9 +175,7 @@ Lair</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong>
-</p>
-<p><strong>Chinese Language Teacher</strong>
+<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui </a>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (3) Primary 3-6</strong> 
 <br>
 <br>“Every child deserves a champion—an adult who will never give up on them,
@@ -215,7 +213,7 @@ and caring learning environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chia Chermaine</strong>
+<p><strong><a href="chia_chermaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chia Chermaine</a></strong>
 </p>
 <p><strong>Form Teacher (3) Primary P3-7</strong>
 </p>
