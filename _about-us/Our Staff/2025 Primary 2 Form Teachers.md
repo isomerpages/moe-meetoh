@@ -118,12 +118,13 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yue_chook_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yue Chook Eng</a></strong> 
-<br><strong>Form Teacher (3) Primary 2-4</strong>
+<p><strong>Ms Tan Si Mei Grace</strong>
+</p>
+<p><strong>Form Teacher (3) Primary P2-4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -163,7 +164,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:fong_whay_ling_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Fong Whay Ling</a></strong>
+<p><strong><a href="mailto:yue_chook_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yue Chook Eng</a></strong> 
 <br><strong>Form Teacher (2) Primary 2-6</strong>
 </p>
 </td>
