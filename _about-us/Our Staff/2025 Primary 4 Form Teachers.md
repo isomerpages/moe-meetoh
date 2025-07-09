@@ -47,14 +47,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong>
+<p><strong><a href="mailto:TAM_FONG_U@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Tam Fong U</a></strong>
+<br><strong>Form Teacher (1) Primary 4-2</strong>
 </p>
-<p><strong>Chinese Language Teacher</strong>
-<br><strong>Form Teacher (1) Primary 4-2</strong> 
-<br>
-<br>“Every child deserves a champion—an adult who will never give up on them,
-who understands the power of connection, and insists that they become the
-best that they can possibly be.” - Rita Pierson</p>
+<p></p>
+<p>Instead of saying impossible, let's teach our students to say I'm possible.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -62,14 +59,13 @@ best that they can possibly be.” - Rita Pierson</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:TAM_FONG_U@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Tam Fong U</a></strong>
-<br><strong>Form Teacher (2) Primary 4-2</strong>
+<p><strong><a href="toh_hui_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Toh Hui Fang (Mdm Hazel Toh)</a></strong>
 </p>
-<p></p>
-<p>Instead of saying impossible, let's teach our students to say I'm possible.</p>
+<p><strong>Form Teacher (2) Primary P4-2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -209,6 +205,17 @@ to his/her purpose in life and brought to his/her full potential.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="tan_sook_leng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Sook Leng</a></strong>
+</p>
+<p><strong>Form Teacher (3) Primary P4-7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
