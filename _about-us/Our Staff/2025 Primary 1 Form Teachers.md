@@ -225,6 +225,17 @@ education regardless of their profile.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Afidah bte Ibrahim</strong>
+</p>
+<p><strong>Form Teacher (3) Primary 1-8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ZHANG_YINAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
 <br><strong>Chinese Language Teacher<br>Form Teacher (1) Primary 1-9</strong>
 <br>
@@ -262,6 +273,17 @@ to improve on their weaknesses and build on their strengths.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:Loong_Hui_Ling_Winnie@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Loong Hui Ling Winnie</a></strong>
 <br><strong>Form Teacher (2) Primary 1-10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Priscilla D/O Justine Silvester</strong>
+</p>
+<p><strong>Form Teacher (3) Primary P1-10</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
