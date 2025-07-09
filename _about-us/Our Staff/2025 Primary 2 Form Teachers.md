@@ -118,7 +118,7 @@ is the key.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Si Mei Grace</strong>
+<p><strong><a href="tan_si_mei_grace@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Si Mei Grace</a></strong>
 </p>
 <p><strong>Form Teacher (3) Primary P2-4</strong>
 </p>
@@ -197,11 +197,21 @@ which they can learn.” - Albert Einstein</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:liew_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yvonne Liew</a></strong> 
+<p><strong><a href="shannon_pang_teng_yen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shannon Pang Teng Yen</a></strong>
+</p>
+<p><strong>Form Teacher (3) Primary P2-7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:tong_pink_ling_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tong Pink Ling Katherine (Mrs Faroek)</a></strong>
 <br><strong>Form Teacher (1) Primary 2-8</strong> 
 <br>
-<br>“The voyage of the best ship is a zigzag line of a hundred tacks.” - Ralph
-Waldo Emerson</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
