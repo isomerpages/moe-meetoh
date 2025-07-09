@@ -35,12 +35,17 @@ feeling and guide them to grow to be great in their own right.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:LIM_YING_LIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Ying Lin</a></strong> 
-<br><strong>Senior Teacher - Mathematics<br>Form Teacher (1) Primary 5-2</strong> 
+<p><strong><a href="hadijah_abdul_rahman_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hadijah binte Abdul Rahman</a></strong>
+</p>
+<p><strong>Form Teacher (3) Primary P5-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:wong_chian_woon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wong Chian Woon</a><br>Form Teacher (1) Primary 5-2</strong> 
 <br>
-<br>“Every child deserves a champion - an adult who will never give up on
-them, who understands the power of connection and insists that they become
-the best they can possibly be ~ Rita Pierson</p>
+</p>
 </td>
 </tr>
 <tr>
