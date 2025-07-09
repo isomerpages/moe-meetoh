@@ -225,7 +225,7 @@ education regardless of their profile.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Afidah bte Ibrahim</strong>
+<p><strong><a href="afidah_ibrahim_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Afidah bte Ibrahim</a></strong>
 </p>
 <p><strong>Form Teacher (3) Primary 1-8</strong>
 </p>
@@ -281,7 +281,7 @@ to improve on their weaknesses and build on their strengths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Priscilla D/O Justine Silvester</strong>
+<p><strong><a href="pricilla_vj_silvester@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pricilla D/O Justine Silvester</a></strong>
 </p>
 <p><strong>Form Teacher (3) Primary P1-10</strong>
 </p>
