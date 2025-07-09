@@ -215,7 +215,7 @@ and caring learning environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chia Chermaine </strong>
+<p><strong>Ms Chia Chermaine</strong>
 </p>
 <p><strong>Form Teacher (3) Primary P3-7</strong>
 </p>
