@@ -231,7 +231,7 @@ that is both supportive and stimulative.</p>
 <p><strong><a href="mailto:zheng_shanbo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zheng Shanbo</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
-<br><strong>Form Teacher (1) Primary 3-8</strong> 
+<br><strong>Form Teacher (1) Primary 3-8</strong>
 </p>
 <p>春风化雨，润物无声。语言承载的不仅是文字，更蕴含着思维的力量与文化的深度。
 <br>
