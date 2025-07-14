@@ -217,6 +217,10 @@ and caring learning environment.</p>
 </p>
 <p><strong>Form Teacher (3) Primary P3-7</strong>
 </p>
+<p>I believe that every child is a unique individual, each with their own
+interests, learning styles, challenges, and strengths. My goal is to nurture
+and scaffold these unique qualities by creating a learning environment
+that is both supportive and stimulative.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
