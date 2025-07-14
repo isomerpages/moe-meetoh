@@ -122,6 +122,9 @@ is the key.</p>
 </p>
 <p><strong>Form Teacher (3) Primary P2-4</strong>
 </p>
+<p></p>
+<p>Celebrate small successes in each child for they are the steps to bigger
+ones.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
