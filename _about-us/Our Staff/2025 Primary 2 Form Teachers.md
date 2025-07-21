@@ -147,7 +147,8 @@ ones.</p>
 </p>
 <p><strong>Form Teacher (2) Primary 2-5</strong>
 </p>
-<p></p>
+<p>"Education is the key that unlocks the golden door to freedom.” - George
+Washington Carver</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
