@@ -44,8 +44,8 @@ feeling and guide them to grow to be great in their own right.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:wong_chian_woon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wong Chian Woon</a><br>Form Teacher (1) Primary 5-2</strong> 
-<br>
-</p>
+<br>"It is better to solve one problem five different ways than to solve five
+problems one way." - &nbsp;George Polya</p>
 </td>
 </tr>
 <tr>
