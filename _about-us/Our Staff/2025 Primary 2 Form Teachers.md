@@ -122,6 +122,9 @@ is the key.</p>
 </p>
 <p><strong>Form Teacher (3) Primary P2-4</strong>
 </p>
+<p></p>
+<p>Celebrate small successes in each child for they are the steps to bigger
+ones.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,7 +147,8 @@ is the key.</p>
 </p>
 <p><strong>Form Teacher (2) Primary 2-5</strong>
 </p>
-<p></p>
+<p>"Education is the key that unlocks the golden door to freedom.” - George
+Washington Carver</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -210,8 +214,8 @@ which they can learn.” - Albert Einstein</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tong_pink_ling_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tong Pink Ling Katherine (Mrs Faroek)</a></strong>
 <br><strong>Form Teacher (1) Primary 2-8</strong> 
-<br>
-</p>
+<br>"Through education, we plant the seeds of curiosity that grow into the
+trees of knowledge." - Vandana Mahajan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -234,7 +238,7 @@ which they can learn.” - Albert Einstein</p>
 <p><strong><a href="mailto:wong_ming_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wong Ming Hui</a></strong> 
 <br><strong>Form Teacher (1) Primary 2-9</strong> 
 <br>
-<br>All children have their own strengths and we can help them find these
+<br>All children have their own strengths and we "can help them find these
 strengths and maximise their potential.
 <br>I believe that learning can be fun for every child, and that it can be
 possible when we allow them to explore a wide spectrum of learning areas.

@@ -175,7 +175,9 @@ Lair</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui </a>Chinese Language Teacher</strong>
+<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong>
+</p>
+<p><strong>Chinese Language Teacher</strong>
 <br><strong>Form Teacher (3) Primary 3-6</strong> 
 <br>
 <br>“Every child deserves a champion—an adult who will never give up on them,
@@ -217,6 +219,10 @@ and caring learning environment.</p>
 </p>
 <p><strong>Form Teacher (3) Primary P3-7</strong>
 </p>
+<p>I believe that every child is a unique individual, each with their own
+interests, learning styles, challenges, and strengths. My goal is to nurture
+and scaffold these unique qualities by creating a learning environment
+that is both supportive and stimulative.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -227,7 +233,9 @@ and caring learning environment.</p>
 <p><strong><a href="mailto:zheng_shanbo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zheng Shanbo</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
-<br><strong>Form Teacher (1) Primary 3-8</strong> 
+<br><strong>Form Teacher (1) Primary 3-8</strong>
+</p>
+<p>春风化雨，润物无声。语言承载的不仅是文字，更蕴含着思维的力量与文化的深度。
 <br>
 <br>
 </p>
