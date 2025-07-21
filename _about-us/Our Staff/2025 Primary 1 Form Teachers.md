@@ -227,6 +227,8 @@ education regardless of their profile.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="afidah_ibrahim_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Afidah bte Ibrahim </a>Form Teacher (3) Primary 1-8</strong>
 </p>
+<p>Be patient, be kind – every child has the potential to learn and succeed
+when nurtured with the right support.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
