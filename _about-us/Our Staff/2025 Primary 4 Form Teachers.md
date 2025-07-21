@@ -63,6 +63,8 @@ variant: tiptap
 </p>
 <p><strong>Form Teacher (2) Primary P4-2</strong>
 </p>
+<p>"Education is not preparation for life, education is life itself."&nbsp;-
+John Dewey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
