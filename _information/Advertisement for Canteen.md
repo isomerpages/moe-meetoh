@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vegetarian</p>
+<p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 July 2025</p>
+<p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
