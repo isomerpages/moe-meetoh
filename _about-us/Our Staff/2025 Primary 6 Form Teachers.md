@@ -90,6 +90,7 @@ do. Knowledge will give you power, but character respect.” - Bruce Lee</p>
 <p><strong><a href="mailto:ALEEZA_DWI_ARTHA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Aleeza Dwi Artha</u></a></strong> 
 <br><strong>Form Teacher (3) Primary 6-4</strong>
 </p>
+<p>Educating both minds and hearts nurtures brilliance guided by compassion.</p>
 </td>
 </tr>
 <tr>
