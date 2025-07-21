@@ -71,7 +71,8 @@ feeling and guide them to grow to be great in their own right.</p>
 </p>
 <p><strong>Form Teacher (2) Primary 5-3</strong>
 </p>
-<p></p>
+<p>I would like students to enjoy the learning process, be engaged in their
+own learning through active participation and cultivate critical thinking.</p>
 </td>
 </tr>
 <tr>
