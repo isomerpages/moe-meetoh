@@ -89,4 +89,12 @@ sections:
       url: /voices-of-mts/
       image: /images/infopic5.png
       alt: infopic5
+  - infopic:
+      title: "@meetohschool"
+      subtitle: we are live!
+      id: infopic
+      button: follow us on instagram
+      url: https://www.instagram.com/meetohschool/
+      image: /images/Check_our_instagram_for_the_school_s_latest_updates_and_programmes___1_.png
+      alt: Image alt text
 ---
