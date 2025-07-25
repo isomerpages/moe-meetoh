@@ -21,11 +21,7 @@ Chinese calligraphy.</p>
 and Chinese painting.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cc100.png">
-</div>
-<p><em>Updated on 11 August 2022</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC1__1_.jpg">
 </div>
