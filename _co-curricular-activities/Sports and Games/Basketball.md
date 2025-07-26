@@ -16,16 +16,9 @@ sportsmanship, good attitude and strong team spirit.</p>
 <li>
 <p>To develop students' character and groom them to be responsible and civic-minded
 students, to prepare them for the future.</p>
+<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/bball2023.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_1.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_3.jpg">
 </div>
