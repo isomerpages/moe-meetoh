@@ -17,12 +17,9 @@ variant: tiptap
 </li>
 <li>
 <p>To build a lasting interest in playing badminton.</p>
+<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/sg2.png">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_2.jpg">
 </div>
