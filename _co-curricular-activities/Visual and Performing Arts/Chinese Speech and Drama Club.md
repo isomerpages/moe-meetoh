@@ -22,9 +22,9 @@ Arts.</p>
 <p>To motivate and equip students with life skills and inculcate good values
 in them.</p>
 <p></p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLS_D1.jpg">
 </div>
@@ -41,7 +41,3 @@ in them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLS_D5.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p><em>0</em>
-</p>
