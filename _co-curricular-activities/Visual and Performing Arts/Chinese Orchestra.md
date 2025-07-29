@@ -17,11 +17,7 @@ Orchestra music.</p>
 <p>To grow students' social and leadership skills.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/corchestra.png">
-</div>
-<p><em>Updated on 01 August 2022</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO3.jpg">
 </div>
