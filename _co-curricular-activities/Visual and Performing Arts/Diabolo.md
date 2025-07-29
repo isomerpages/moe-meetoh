@@ -20,8 +20,6 @@ acrobatics that has a long and enduring history in China.</p>
 <p>To allow students to participate in group training and develop interpersonal
 skills as everyone in the group must respect and collaborate with each
 other in order to execute performances.</p>
-</li>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Diabolo_2_.jpg">
