@@ -24,5 +24,12 @@ through CCA.</p>
 dance steps in Malay performing arts.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay1.jpg">
+</div>
 <p><em>Updated on 3 October 2022</em>
 </p>
