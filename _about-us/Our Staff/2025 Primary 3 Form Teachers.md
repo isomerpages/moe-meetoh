@@ -61,12 +61,16 @@ Mead</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ASHA_DEVDAS_SAWLANI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Asha Devdas Sawlani</a></strong> 
-<br><strong>Head of Department – Student Development &amp; Management</strong>
-<br><strong>Form Teacher (2) Primary 3-2</strong> 
-<br>
-<br>“To make a difference in someone’s life, you don’t have to be brilliant,
-rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
+<p>Ms Hadijah</p>
+<p>Form Teacher (2) of Primary 3-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -183,6 +187,19 @@ Lair</p>
 <br>“Every child deserves a champion—an adult who will never give up on them,
 who understands the power of connection, and insists that they become the
 best that they can possibly be.” - Rita Pierson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:ASHA_DEVDAS_SAWLANI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Asha Devdas Sawlani</a></strong> 
+<br><strong>Head of Department – Student Development &amp; Management</strong>
+<br><strong>Form Teacher (2) Primary 3-2</strong> 
+<br>
+<br>“To make a difference in someone’s life, you don’t have to be brilliant,
+rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
