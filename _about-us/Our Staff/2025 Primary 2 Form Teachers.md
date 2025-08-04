@@ -178,6 +178,16 @@ Washington Carver</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Varrick Ang</p>
+<p><strong>Form Teacher (3) Primary 2-6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:soon_min_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soon Min Wah</a></strong> 
 <br><strong>Senior Teacher - Chinese Language<br>Form Teacher (1) Primary 2-7</strong> 
 <br>
@@ -238,7 +248,7 @@ trees of knowledge." - Vandana Mahajan</p>
 <p><strong><a href="mailto:wong_ming_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wong Ming Hui</a></strong> 
 <br><strong>Form Teacher (1) Primary 2-9</strong> 
 <br>
-<br>All children have their own strengths and we "can help them find these
+<br>All children have their own strengths and we can help them find these
 strengths and maximise their potential.
 <br>I believe that learning can be fun for every child, and that it can be
 possible when we allow them to explore a wide spectrum of learning areas.
