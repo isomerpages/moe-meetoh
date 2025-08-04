@@ -150,19 +150,8 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ONG_JOO_KAI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Joo Kai</a></strong> 
-<br><strong>Form Teacher (1) Primary 3-6</strong> 
-<br>
-<br>Educo [Latin] “To bring out, to draw out, and to develop from within.”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:JULIANA_LIN_EN_XUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a></strong>
-<br><strong>Form Teacher (2) Primary 3-6</strong>
+<br><strong>Form Teacher (1) Primary 3-6</strong>
 </p>
 <p>“Children are not things to be molded, but people to be unfolded.” – Jess
 Lair</p>
@@ -176,7 +165,7 @@ Lair</p>
 <p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong>
 </p>
 <p><strong>Chinese Language Teacher</strong>
-<br><strong>Form Teacher (3) Primary 3-6</strong> 
+<br><strong>Form Teacher (2) Primary 3-6</strong> 
 <br>
 <br>“Every child deserves a champion—an adult who will never give up on them,
 who understands the power of connection, and insists that they become the
@@ -190,7 +179,7 @@ best that they can possibly be.” - Rita Pierson</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ASHA_DEVDAS_SAWLANI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Asha Devdas Sawlani</a></strong> 
 <br><strong>Head of Department – Student Development &amp; Management</strong>
-<br><strong>Form Teacher (2) Primary 3-2</strong> 
+<br><strong>Form Teacher (3) Primary 3-6</strong>
 <br>
 <br>“To make a difference in someone’s life, you don’t have to be brilliant,
 rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
