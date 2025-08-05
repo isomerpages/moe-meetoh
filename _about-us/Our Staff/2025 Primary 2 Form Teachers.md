@@ -171,6 +171,9 @@ Washington Carver</p>
 <p><strong><a href="mailto:yue_chook_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yue Chook Eng</a></strong> 
 <br><strong>Form Teacher (2) Primary 2-6</strong>
 </p>
+<p></p>
+<p>In my classroom, I strive to create learning opportunities that meet students
+where they are and encourage them to achieve higher levels of success.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
