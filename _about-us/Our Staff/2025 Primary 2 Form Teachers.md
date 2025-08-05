@@ -178,9 +178,12 @@ Washington Carver</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Varrick Ang</p>
+<p><strong><a href="Ang_ser_wei_varrick@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Varrick Ang</a></strong>
+</p>
 <p><strong>Form Teacher (3) Primary 2-6</strong>
 </p>
+<p></p>
+<p>In learning, mistakes are not setbacks. They are part of the path to progress</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
