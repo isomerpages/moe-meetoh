@@ -20,6 +20,13 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: 2025 MTS Caring Staff Award
+      id: infopic
+      button: Nominate here
+      url: https://form.gov.sg/688ac5dcd65135bfea5bde79
+      image: /images/Caring_Staff_Award_2025.png
+      alt: Image alt text
+  - infopic:
       title: Primary 1 Registration
       id: infopic
       button: Find out more here
