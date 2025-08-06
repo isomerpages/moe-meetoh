@@ -24,7 +24,7 @@ sections:
       id: infopic
       button: Nominate here
       url: https://form.gov.sg/688ac5dcd65135bfea5bde79
-      image: /images/MTS_Caring_TEACHER_AWARD_2025.png
+      image: /images/Caring_Staff_Award_2025.png
       alt: Image alt text
   - infopic:
       title: Primary 1 Registration
