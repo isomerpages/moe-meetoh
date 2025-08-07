@@ -28,6 +28,16 @@ sections:
       alt: Image alt text
       description: Send in your nomination by Friday, 19 September 2025!
   - infopic:
+      title: Homecoming
+      subtitle: Teachers' Day 2025
+      id: infopic
+      description: All graduated students from Mee Toh are welcome to meet their
+        teachers on this special day, 4 September from 10.45am to 12.30pm.
+      button: Sign up by 22 Aug, 5.00pm
+      url: https://go.gov.sg/mtshomecoming2025
+      image: /images/WhatsApp_Image_2025_08_07_at_12_57_35_PM.jpg
+      alt: Image alt text
+  - infopic:
       title: Primary 1 Registration
       id: infopic
       button: Find out more here
