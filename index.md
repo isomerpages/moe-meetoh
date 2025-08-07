@@ -35,7 +35,7 @@ sections:
         teachers on this special day, 4 September from 10.45am to 12.30pm.
       button: Sign up by 22 Aug, 5.00pm
       url: https://go.gov.sg/mtshomecoming2025
-      image: /images/WhatsApp_Image_2025_08_07_at_12_57_35_PM.jpg
+      image: /images/Homecoming_2025.jpg
       alt: Image alt text
   - infopic:
       title: Primary 1 Registration
