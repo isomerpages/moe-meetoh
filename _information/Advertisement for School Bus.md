@@ -56,5 +56,8 @@ to the School’s General Office.</p>
 <li>
 <p>Nearest MRT: Meridian LRT (PE2) – 8 minutes walking distance</p>
 </li>
+<li>
+<p>Bus number: 3, 62, 83, 381 - 8 minutes walking distance</p>
+</li>
 </ul>
-<p></p>
+<p>* Bus number: 3, 62, 83, 381 - 8 minutes walking distance</p>
