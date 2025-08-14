@@ -43,7 +43,7 @@ to the School’s General Office.</p>
 <p>Contact No: 6489 3326</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">meetoh_sch@moe.edu.sg</a>
+<p>Email: <a href="mailto:meetoh_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meetoh_sch@moe.edu.sg</a>
 </p>
 </li>
 <li>
