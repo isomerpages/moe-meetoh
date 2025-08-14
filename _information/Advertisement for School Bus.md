@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>School Bus Advertisement</strong></h4>
-<p>&nbsp;To apply, please refer to the Service Requirements and the Application
+<p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
 <p>&nbsp;<strong>Service Requirements</strong>
 </p>
