@@ -61,6 +61,3 @@ to the School’s General Office.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<p></p>
-<p>* Bus number: 3, 62, 83, 381 - 8 minutes walking distance</p>
