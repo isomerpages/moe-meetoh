@@ -8,13 +8,17 @@ variant: tiptap
 <h3>Primary 3 Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -33,6 +37,9 @@ Mead</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,6 +49,9 @@ Mead</p>
 <br><strong>Form Teacher (2) Primary 3-1</strong>
 </p>
 <p><em>师也者</em>,<em>教之以事而喻诸德者也</em>。——《礼记》</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -58,6 +68,9 @@ Mead</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,6 +78,9 @@ Mead</p>
 </p>
 <p><strong>Form Teacher (2) of Primary 3-2</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -81,6 +97,9 @@ Mead</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -89,6 +108,9 @@ Mead</p>
 <br>
 <br>Believe that every child can excel and strive to bring out the best in
 him/her.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -108,6 +130,9 @@ can apply it in their lives.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,6 +141,9 @@ can apply it in their lives.</p>
 </p>
 <p></p>
 <p>"in learning you will teach, and in teaching you will learn." - Phil Collins</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,6 +162,9 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -147,6 +178,9 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -155,6 +189,9 @@ joyfully collapse, encouraging them to create their own.” — Nikos</p>
 </p>
 <p>“Children are not things to be molded, but people to be unfolded.” – Jess
 Lair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -174,6 +211,9 @@ best that they can possibly be.” - Rita Pierson</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -187,6 +227,23 @@ rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="ong_joo_kai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ong Joo Kai</a></strong>
+</p>
+<p><strong>Form Teacher (4) Primary P3-6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -195,6 +252,9 @@ rich, beautiful or perfect. You just have to care.” Mandy Hale</p>
 <br>
 <br>“Education is the kindling of a flame, not the filling of a vessel.”–
 Socrates</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -212,6 +272,9 @@ and caring learning environment.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -223,6 +286,9 @@ and caring learning environment.</p>
 interests, learning styles, challenges, and strengths. My goal is to nurture
 and scaffold these unique qualities by creating a learning environment
 that is both supportive and stimulative.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -243,6 +309,9 @@ that is both supportive and stimulative.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -254,6 +323,9 @@ that is both supportive and stimulative.</p>
 by saving one student at a time, fostering personalized learning, empathy,
 and holistic development, creating ripples of positive influence that empower
 individuals for a thriving future."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
