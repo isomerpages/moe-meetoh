@@ -221,6 +221,8 @@ which they can learn.” - Albert Einstein</p>
 </p>
 <p><strong>Form Teacher (3) Primary P2-7</strong>
 </p>
+<p><strong>每个孩子都能以自己的方式发光。</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
