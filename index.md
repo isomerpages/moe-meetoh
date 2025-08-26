@@ -34,16 +34,7 @@ sections:
       description: All graduated students from Mee Toh School are welcome to meet
         their teachers on this special day, 4 September, from 10.45am to
         12.30pm.
-      button: Sign up by 22 Aug, 5.00pm
-      url: https://go.gov.sg/mtshomecoming2025
       image: /images/Homecoming_2025_no_qr_code.jpg
-      alt: Image alt text
-  - infopic:
-      title: Primary 1 Registration
-      id: infopic
-      button: Find out more here
-      url: https://www.moe.gov.sg/primary/p1-registration
-      image: /images/2025_P1_Registration_Final.png
       alt: Image alt text
   - infopic:
       title: "@meetohschool"
