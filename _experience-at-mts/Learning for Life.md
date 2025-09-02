@@ -27,11 +27,11 @@ an active and healthy lifestyle: All Student Participation in SENCE @ MTS</p>
 sound character and values: Character Building through SENCE @ MTS</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students becoming
 socially responsible citizens who contribute meaningfully to society: Excellence
-in Learning</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2.jpg">
-</div>
+in Learning through SENCE @ MTS</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP1.jpg">
 </div>
-<p>through SENCE @ MTS</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2.jpg">
+</div>
+<p></p>
