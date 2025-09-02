@@ -2,6 +2,7 @@ collections:
   experience-at-mts:
     output: true
     order:
+      - Learning for Life/.keep
       - Art and Music.md
       - Character Education/.keep
       - Character Education/Overview.md
