@@ -2,7 +2,6 @@ collections:
   experience-at-mts:
     output: true
     order:
-      - Learning for Life.md
       - Art and Music.md
       - Character Education/.keep
       - Character Education/Overview.md
@@ -13,6 +12,7 @@ collections:
       - English Language.md
       - Environmental Education.md
       - ICT in Education.md
+      - Learning for Life.md
       - Mathematics.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Chinese Language.md
