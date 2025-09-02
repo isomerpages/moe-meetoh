@@ -62,22 +62,4 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
-  - infopic:
-      title: Learning for Life Programme
-      description: SENCE @ MTS (Sports Education Nurturing Character Excellence at Mee
-        Toh School) aims to build knowledge, skills and a positive attitude for
-        a lifetime of...
-      button: Read more
-      url: /experience-at-mts/learning-for-life-programme
-      image: /images/llp1.png
-      alt: llp
-  - infopic:
-      title: Applied Learning Programme (ALP)
-      description: Mee Toh School adapts a whole-school approach towards environmental
-        sustainability through our Applied Learning Programme in Environment
-        Education.
-      button: Read more
-      url: /applied-learning-programme/
-      image: /images/infopic2.png
-      alt: info pic2
 ---
