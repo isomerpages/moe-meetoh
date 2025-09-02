@@ -36,6 +36,8 @@ links:
         url: /experience-at-mts/environmental-education/
       - title: ICT in Education
         url: /experience-at-mts/ict-in-education/
+      - title: Learning for Life
+        url: /permalink
       - title: Mathematics
         url: /experience-at-mts/mathematics/
       - title: Mother Tongue Languages
@@ -50,8 +52,6 @@ links:
         url: /experience-at-mts/student-management
       - title: Co-Curricular Activities
         url: /co-curricular-activities/overview
-      - title: Learning for Life
-        url: /permalink
   - title: For Parents
     url: /for-parents/forms-for-parents
     sublinks:
