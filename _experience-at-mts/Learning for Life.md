@@ -9,8 +9,8 @@ School) is Mee Toh School’s Learning for Life Programme (LLP). LLP aims
 to provide students with real life experiences to develop their character
 and values, strengthening the delivery of a holistic education through
 sports and outdoor education.</p>
-<p>&nbsp;</p>
-<p>SENCE @ MTS focuses on 4 components in the physical domain:</p>
+<p>&nbsp;<strong>SENCE @ MTS focuses on 4 components in the physical domain:</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical and Outdoor
 Education</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programme for
@@ -19,7 +19,8 @@ Active Learning</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACE Wushu @ Mee
 Toh School</p>
 <p>&nbsp;</p>
-<p>3 main objectives of SENCE @ MTS</p>
+<p><strong>3 main objectives of SENCE @ MTS</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students leading
 an active and healthy lifestyle: All Student Participation in SENCE @ MTS</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students developing
