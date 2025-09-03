@@ -20,11 +20,11 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: Mid-Autumn Festival,         2 October 2025
+      title: 2 October 2025 Mid-Autumn Festival
       subtitle: Mee Toh school
       id: infopic
       description: Join us at our Mid-Autumn Festival Funfair!  Tickets are first
-        come, first serve, get your tickets fast!
+        come, first serve. Get your tickets fast!
       button: Button Text
       image: /images/Mid_Autumn_Festival_Funfair_2025.jpg
       alt: Image alt text
