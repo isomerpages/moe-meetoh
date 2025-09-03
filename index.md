@@ -62,4 +62,13 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
+  - infopic:
+      title: Mid Autumn Festival, 2 October
+      subtitle: Mee Toh school
+      id: infopic
+      description: Join us at our Mid Autumn Festival Funfair. Tickets are first come.
+        first serve, get your tickets fast!
+      button: Button Text
+      image: /images/Mid_Autumn_Festival_Funfair_2025.jpg
+      alt: Image alt text
 ---
