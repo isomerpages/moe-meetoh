@@ -20,13 +20,14 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: 2 October 2025 Mid-Autumn Festival
+      title: Mid-Autumn Festival Funfair
       id: infopic
       description: Join us at our Mid-Autumn Festival Funfair!  Tickets are first
         come, first serve. Get your tickets fast!
       button: Button Text
       image: /images/Mid_Autumn_Festival_Funfair_2025.jpg
       alt: Image alt text
+      subtitle: Thursday, 2 October 2025
   - infopic:
       title: 2025 MTS Caring Staff Award
       id: infopic
