@@ -1,6 +1,6 @@
 ---
-title: Learning for Life
-permalink: /experience-at-mts/learning-for-life/
+title: Learning for Life Programme
+permalink: /experience-at-mts/learning-for-life-programme/
 variant: markdown
 description: ""
 ---
