@@ -20,8 +20,6 @@ to learn from one another during training.</p>
 <li>
 <p>To actively participate in zonal / national floorball competitions so
 as to continuously improve and have a growth mindset.</p>
-</li>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball1.jpg">
