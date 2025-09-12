@@ -26,5 +26,14 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChineseDance1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChineseDance2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChineseDance3.jpg">
+</div>
 <p></p>
 <p></p>
