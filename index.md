@@ -37,15 +37,6 @@ sections:
       alt: Image alt text
       description: Send in your nomination by Friday, 19 September 2025!
   - infopic:
-      title: Homecoming
-      subtitle: Teachers' Day 2025
-      id: infopic
-      description: All graduated students from Mee Toh School are welcome to meet
-        their teachers on this special day, 4 September, from 10.45am to
-        12.30pm.
-      image: /images/Homecoming_2025_no_qr_code.jpg
-      alt: Image alt text
-  - infopic:
       title: "@meetohschool"
       subtitle: we are live!
       id: infopic
