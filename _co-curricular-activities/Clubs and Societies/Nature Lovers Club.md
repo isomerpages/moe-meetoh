@@ -16,6 +16,16 @@ audits, ecotrails and learning journeys.</p>
 <li>
 <p>To advocate an environmentally sustainable lifestyle through school and
 community projects.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature3.jpg">
+</div>
 </li>
 </ul>
 <p></p>
