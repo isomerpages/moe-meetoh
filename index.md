@@ -29,14 +29,6 @@ sections:
       alt: Image alt text
       subtitle: Thursday, 2 October 2025
   - infopic:
-      title: 2025 MTS Caring Staff Award
-      id: infopic
-      button: Nominate here
-      url: https://form.gov.sg/688ac5dcd65135bfea5bde79
-      image: /images/Caring_Staff_Award_2025.png
-      alt: Image alt text
-      description: Send in your nomination by Friday, 19 September 2025!
-  - infopic:
       title: "@meetohschool"
       subtitle: we are live!
       id: infopic
