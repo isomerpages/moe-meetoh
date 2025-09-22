@@ -22,9 +22,9 @@ sections:
   - infopic:
       title: Mid-Autumn Festival Funfair
       id: infopic
-      description: Join us at our Mid-Autumn Festival Funfair!  Tickets are first
-        come, first serve. Get your tickets fast!
-      button: Button Text
+      description: Thank you for your enthusiastic support! All tickets for Mid-Autumn
+        Festival 2025 have been sold out. We look forward to seeing you at the
+        event.
       image: /images/Mid_Autumn_Festival_Funfair_2025.jpg
       alt: Image alt text
       subtitle: Thursday, 2 October 2025
