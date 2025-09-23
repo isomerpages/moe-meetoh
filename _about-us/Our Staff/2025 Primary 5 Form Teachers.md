@@ -67,12 +67,11 @@ problems one way." - &nbsp;George Polya</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Tan_Siew_Hua@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Siew Hua</a></strong>
+<p><strong>Mdm Ponniamal d/o R Suppan</strong>
 </p>
 <p><strong>Form Teacher (2) Primary 5-3</strong>
 </p>
-<p>I would like students to enjoy the learning process, be engaged in their
-own learning through active participation and cultivate critical thinking.</p>
+<p></p>
 </td>
 </tr>
 <tr>
