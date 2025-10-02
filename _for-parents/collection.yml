@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Keep In Touch(KIT)with Parents/.keep
       - Key Sharings/.keep
       - Keep In Touch (KIT) with Parents.md
       - Operation Hours.md
