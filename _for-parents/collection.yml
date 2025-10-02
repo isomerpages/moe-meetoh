@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Key Sharings/.keep
-      - Operation Hours.md
       - Keep In Touch (KIT) with Parents.md
+      - Operation Hours.md
       - Key School Notifications.md
       - Other Key Information.md
       - Forms for Parents.md
