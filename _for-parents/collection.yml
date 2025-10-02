@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Keep In Touch(KIT)with Parents/Key School Notifications.md
       - Keep In Touch(KIT)with Parents/Keep In Touch (KIT) with Parents.md
       - Keep In Touch(KIT)with Parents/Operation Hours.md
       - Keep In Touch(KIT)with Parents/.keep
