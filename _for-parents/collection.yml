@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Keep In Touch (KIT) with Parents.md
       - Key Sharings/.keep
       - Operation Hours.md
+      - Keep In Touch (KIT) with Parents.md
       - Key School Notifications.md
       - Other Key Information.md
       - Forms for Parents.md
