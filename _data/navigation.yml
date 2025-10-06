@@ -1,0 +1,103 @@
+logo: /images/meetohlogo.png
+links:
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Identity
+        url: /about-us/Our-Identity
+      - title: Our Staff
+        url: /about-us/our-staff/organisation-chart/
+      - title: Strategic Thrusts
+        url: /about-us/strategic-thrusts
+      - title: School Rules
+        url: /about-us/school-rules
+      - title: Assembly, Recess, Dismissal
+        url: /about-us/assembly-recess-dismissal
+      - title: Buddhist Practices
+        url: /about-us/Buddhist-Practices/dharmaratna-festival
+      - title: Service Quality Statement
+        url: /about-us/service-quality-statement
+      - title: Personal Data Protection
+        url: /about-us/personal-data-protection
+      - title: School Management Committee
+        url: /about-us/school-management-committee
+  - title: Experience @ MTS
+    url: /experience-at-mts/ict-in-education/
+    sublinks:
+      - title: Art and Music
+        url: /experience-at-mts/artmusic/
+      - title: Character Education
+        url: /experience-at-mts/Character-Education/
+      - title: English Language
+        url: /experience-at-mts/english/
+      - title: Environmental Education
+        url: /experience-at-mts/environmental-education/
+      - title: ICT in Education
+        url: /experience-at-mts/ict-in-education/
+      - title: Learning for Life
+        url: /experience-at-mts/learning-for-life/
+      - title: Mathematics
+        url: /experience-at-mts/mathematics/
+      - title: Mother Tongue Languages
+        url: /experience-at-mts/mother-tongue-language/chinese/
+      - title: Programme for Active Learning
+        url: /experience-at-mts/programme-for-active-learning
+      - title: Physical and Health Education
+        url: /experience-at-mts/physical-education-artsmusic/phe/
+      - title: Science
+        url: /experience-at-mts/science/
+      - title: Student Management
+        url: /experience-at-mts/student-management
+      - title: Co-Curricular Activities
+        url: /co-curricular-activities/overview
+  - title: For Parents
+    url: /for-parents/forms-for-parents
+    sublinks:
+      - title: Operation Hours
+        url: /for-parents/operation-hours
+      - title: Keep In Touch(KIT)with Parents
+        url: /permalink
+      - title: Key School Notifications
+        url: /for-parents/key-school-notifications
+      - title: Other Key Information
+        url: /for-parents/other-key-information
+      - title: Forms for Parents
+        url: /for-parents/forms-for-parents
+      - title: Parent Support Group (PATH)
+        url: /for-parents/parent-support-group
+      - title: Other Useful Links
+        url: /for-parents/other-useful-links
+      - title: Photo Gallery
+        url: /for-parents/photo-gallery
+  - title: For Students
+    url: /for-students/mee-tohians-learners
+    sublinks:
+      - title: Mee Tohians Learners
+        url: /for-students/mee-tohians-learners
+      - title: What's the Buzz?
+        url: /for-students/whats-the-buzz
+  - title: Quick Links
+    url: /quick-links
+    sublinks:
+      - title: Founder's Day and Vesak Day
+        url: /foundersdayandvesakday/
+      - title: 70th Anniversary Celebrations
+        url: /70th-anniversary-celebrations/
+      - title: Parents Gateway
+        url: https://pg.moe.edu.sg/
+      - title: Student Icon
+        url: https://workspace.google.com/dashboard
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login
+      - title: KooBits
+        url: https://www.koobits.com/?gclid=EAIaIQobChMItdOP4vbx6wIV1X4rCh1h1g9VEAAYASAAEgKEM_D_BwE
+      - title: Discover Reads
+        url: https://www.nlb.gov.sg/main/home
+      - title: Advertisement for Canteen
+        url: /information/advertisement-for-canteen/
+      - title: School Bus Information
+        url: /information/school-bus-information/
+  - title: Contact
+    url: /contact-us

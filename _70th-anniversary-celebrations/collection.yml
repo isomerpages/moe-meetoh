@@ -1,0 +1,11 @@
+collections:
+  70th-anniversary-celebrations:
+    output: true
+    order:
+      - 70th Anniversary Yearbook.md
+      - We are 70!.md
+      - School History Video.md
+      - Theme Song, One Mee Toh, Forever More!.md
+      - Programme Booklet.md
+      - Celebratory Efforts.md
+      - Event Highlights.md

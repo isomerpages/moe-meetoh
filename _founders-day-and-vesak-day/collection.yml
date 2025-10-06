@@ -1,0 +1,6 @@
+collections:
+  founders-day-and-vesak-day:
+    output: true
+    order:
+      - Photo Gallery.md
+      - Programme Booklet.md

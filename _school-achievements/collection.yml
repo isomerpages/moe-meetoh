@@ -1,0 +1,5 @@
+collections:
+  school-achievements:
+    output: true
+    order:
+      - Overview.md

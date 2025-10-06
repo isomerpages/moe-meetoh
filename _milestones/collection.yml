@@ -1,0 +1,5 @@
+collections:
+  milestones:
+    output: true
+    order:
+      - Meetoh News.md
