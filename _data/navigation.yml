@@ -57,6 +57,8 @@ links:
     sublinks:
       - title: Operation Hours
         url: /for-parents/operation-hours
+      - title: Keep In Touch(KIT)with Parents
+        url: /permalink
       - title: Key School Notifications
         url: /for-parents/key-school-notifications
       - title: Other Key Information
@@ -69,8 +71,6 @@ links:
         url: /for-parents/other-useful-links
       - title: Photo Gallery
         url: /for-parents/photo-gallery
-      - title: Keep In Touch(KIT)with Parents
-        url: /permalink
   - title: For Students
     url: /for-students/mee-tohians-learners
     sublinks:
