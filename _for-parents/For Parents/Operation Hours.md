@@ -3,6 +3,7 @@ title: Operation Hours
 permalink: /for-parents/operation-hours/
 description: ""
 variant: tiptap
+third_nav_title: For Parents
 ---
 <h3><strong>School Operating Hours</strong></h3>
 <p></p>

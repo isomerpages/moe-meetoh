@@ -2,6 +2,7 @@
 title: Key School Notifications
 permalink: /for-parents/key-school-notifications/
 description: ""
+third_nav_title: For Parents
 ---
 ### Key School Notifications
 

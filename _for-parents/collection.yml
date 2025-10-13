@@ -2,12 +2,14 @@ collections:
   for-parents:
     output: true
     order:
+      - For Parents/.keep
+      - For Parents/Operation Hours.md
+      - For Parents/Keep In Touch (KIT) with Parents.md
+      - For Parents/Key School Notifications.md
+      - For Parents/Other Key Information.md
+      - For Parents/Forms for Parents.md
+      - For Parents/Other Useful Links.md
       - Key Sharings/.keep
-      - Operation Hours.md
-      - Key School Notifications.md
-      - Other Key Information.md
-      - Forms for Parents.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Past PATH Connects Volumes.md
-      - Other Useful Links.md

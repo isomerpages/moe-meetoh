@@ -3,6 +3,7 @@ title: Other Key Information
 permalink: /for-parents/other-key-information/
 description: ""
 variant: tiptap
+third_nav_title: For Parents
 ---
 <h3>Other Key Information</h3>
 <h4><strong>MOE Sexuality Education as Part of the School Curriculum</strong></h4>
