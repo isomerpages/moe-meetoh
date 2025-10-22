@@ -28,6 +28,7 @@ sections:
       alt: Image alt text
       subtitle: Thank you for making
       url: https://www.instagram.com/p/DPnbr_Ak5QO/?img_index=1
+      button: Click here for photos
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
