@@ -20,14 +20,15 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: Mid-Autumn Festival Funfair
+      title: Mid-Autumn Festival Funfair a Huge Success!
       id: infopic
-      description: Thank you for your enthusiastic support! All tickets for Mid-Autumn
-        Festival 2025 have been sold out. We look forward to seeing you at the
-        event.
+      description: We look forward to seeing you again next year! You may refer to our
+        school IG for photos of the event.
       image: /images/Mid_Autumn_Festival_Funfair_2025.jpg
       alt: Image alt text
-      subtitle: Thursday, 2 October 2025
+      subtitle: Thank you for making
+      url: https://www.instagram.com/p/DPnbr_Ak5QO/?img_index=1
+      button: Click here for photos
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
