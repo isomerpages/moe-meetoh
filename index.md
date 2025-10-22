@@ -23,11 +23,11 @@ sections:
       title: Mid-Autumn Festival Funfair a Huge Success!
       id: infopic
       description: We look forward to seeing you again next year! You may refer to our
-        school IG for photos of the
-        event.   https://www.instagram.com/p/DPnbr_Ak5QO/?img_index=1
+        school IG for photos of the event.
       image: /images/Mid_Autumn_Festival_Funfair_2025.jpg
       alt: Image alt text
       subtitle: Thank you for making
+      url: https://www.instagram.com/p/DPnbr_Ak5QO/?img_index=1
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
