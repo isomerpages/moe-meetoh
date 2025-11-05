@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nil</p>
+<p>Vegetarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nil</p>
+<p>18 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -46,7 +46,7 @@ hardcopy from the School’s Security Officer at Main Gate (Gate 1).</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Information/school%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/Application_Form_for_Individual_Stallholder.pdf" rel="noopener nofollow" target="_blank">Application Form </a>
 </p>
 </li>
 </ul>
