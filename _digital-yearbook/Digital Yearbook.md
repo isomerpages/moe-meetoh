@@ -19,7 +19,7 @@ for sale.</p>
 the identity of our students, we kindly request that you do not share this
 password with individuals outside our school community. Your cooperation
 in safeguarding our students' personal information is greatly appreciated.</p>
-<p><strong>Year Book 2025: <em>Hope</em></strong>
+<p><strong>Yearbook 2025: <em>Hope</em></strong>
 </p><a class="isomer-image-wrapper" href="www.go.gov.sg/meetoh2025hope"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yearbook_2025_Hope.png"></a>
 <p><strong>Yearbook 2024: <em>Our Legacy Inspiring Our Future</em></strong>
 </p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/obrr/tdsf/#p=70"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yearbook_2024_70th_Anniversary.jpg"></a>
