@@ -38,13 +38,9 @@ operating hours stated above.</p>
 <p>Mondays - Fridays: 4:00 pm - 9:00 pm</p>
 <p>Saturdays: 9:00 am - 9:00 pm</p>
 <p>*Closed on Sundays &amp; Public Holidays</p>
-<h4>Other Learning Portals</h4>
-<p></p><a class="isomer-image-wrapper" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs3.png"></a>
+<h4>Other Learning Portals</h4><a class="isomer-image-wrapper" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs3.png"></a>
 <p></p>
-<p>Malay Language Portal</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.dqworld.net/#!/landing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs5.png"></a>
 <p>Nurturing a love for reading at <strong><a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">DiscoveReads</a></strong>
-</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.nlb.gov.sg/main/site/discovereads"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs7.png"></a>
+</p><a class="isomer-image-wrapper" href="https://www.nlb.gov.sg/main/site/discovereads"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs7.png"></a>
 <p></p>
 <p></p>
