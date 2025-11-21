@@ -16,7 +16,7 @@ for sale.</p>
 <p></p>
 <p><u>Important Reminder: </u>
 <br>In compliance with the Personal Data Protection Act (PDPA) and to protect
-the identity of our students, we kindly request that you do not share this
+the identity of our students, we kindly request that you do not share the
 password with individuals outside our school community. Your cooperation
 in safeguarding our students' personal information is greatly appreciated.</p>
 <p><strong>Yearbook 2025: <em>Hope</em></strong>
