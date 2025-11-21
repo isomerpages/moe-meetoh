@@ -1,0 +1,4 @@
+collections:
+  digital-yearbook:
+    output: true
+    order: []
