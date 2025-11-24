@@ -2,5 +2,6 @@ collections:
   mee-toh-in-the-news:
     output: true
     order:
+      - Singapore World Water Day 2023.md
       - National Primary CL Teachers' Seminar.md
       - Meetoh News.md
