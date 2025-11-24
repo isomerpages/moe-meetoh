@@ -1,5 +1,5 @@
 collections:
-  staff-appreciation:
+  notes-of-appreciation:
     output: true
     order:
       - Appreciating Our Staff.md
