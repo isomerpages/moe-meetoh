@@ -2,6 +2,7 @@ collections:
   mee-toh-in-the-news:
     output: true
     order:
+      - Going green.md
       - Nurturing Environmental Champions.md
       - Mdm President's Visit to School.md
       - Singapore World Water Day 2023.md
