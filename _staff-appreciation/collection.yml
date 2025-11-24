@@ -2,4 +2,4 @@ collections:
   staff-appreciation:
     output: true
     order:
-      - Staff Appreciation.md
+      - Appreciating Our Staff.md
