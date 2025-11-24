@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Homepage Banner/mts school website new banner - 2023 final.gif
       key_highlights:
-        - title: Announcements
+        - title: Staff Appreciation
           description: ""
-          url: /announcements/national-primary-cl-teachers-seminar/
-        - title: Milestones
+          url: /staff-appreciation
+        - title: Mee Toh In the News!
           description: ""
-          url: /milestones/mee-toh-news
+          url: /mee-toh-in-the-news
         - title: School Achievements
           description: ""
           url: /school-achievements
