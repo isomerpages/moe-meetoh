@@ -2,10 +2,15 @@
 title: Overview
 permalink: /school-achievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-CCA Achievements 
-2025
-![](/images/About%20Us/MeeToh_Achievements1.jpg)
-
-![](/images/About%20Us/MeeToh_Achievements2.jpg)
+<p>CCA Achievements 2025</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MeeToh_Achievements1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/MeeToh_Achievements2.jpg">
+</div>
+<p></p>
