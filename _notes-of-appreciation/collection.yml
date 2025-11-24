@@ -1,0 +1,5 @@
+collections:
+  notes-of-appreciation:
+    output: true
+    order:
+      - Notes of Appreciation.md

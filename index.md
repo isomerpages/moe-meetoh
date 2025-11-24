@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Homepage Banner/mts school website new banner - 2023 final.gif
       key_highlights:
-        - title: Appreciating Our Staff
+        - title: Notes of Appreciation
           description: ""
-          url: /staff-appreciation
+          url: /notes-of-appreciation/
         - title: Mee Toh In the News!
           description: ""
           url: /mee-toh-in-the-news
