@@ -1,6 +1,6 @@
 ---
 title: National Primary CL Teachers' Seminar
-permalink: /announcements/national-primary-cl-teachers-seminar/
+permalink: /mee-toh-in-the-news/
 variant: tiptap
 description: ""
 ---
