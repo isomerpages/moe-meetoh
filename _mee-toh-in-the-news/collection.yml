@@ -1,0 +1,6 @@
+collections:
+  mee-toh-in-the-news:
+    output: true
+    order:
+      - National Primary CL Teachers' Seminar.md
+      - News Archive (2023 and earlier).md

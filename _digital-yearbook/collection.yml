@@ -1,0 +1,5 @@
+collections:
+  digital-yearbook:
+    output: true
+    order:
+      - Digital Yearbook.md

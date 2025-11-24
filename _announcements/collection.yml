@@ -1,9 +1,0 @@
-collections:
-  announcements:
-    output: true
-    order:
-      - National Primary CL Teachers' Seminar.md
-      - Singapore World Water Day 2023.md
-      - Mdm President's Visit to School.md
-      - Nurturing Environmental Champions.md
-      - Going green.md
