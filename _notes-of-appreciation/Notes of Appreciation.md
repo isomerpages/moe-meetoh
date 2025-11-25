@@ -6,8 +6,9 @@ description: ""
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pg_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_3_final.png">
 </div>
 <p>We warmly invite you to share a message of appreciation for our students,
 staff, parent volunteers, alumni, school cleaners, vendors, instructors
