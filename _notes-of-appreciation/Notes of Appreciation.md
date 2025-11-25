@@ -14,8 +14,7 @@ description: ""
 staff, parent volunteers, alumni, school cleaners, vendors, instructors
 and other partners from the community. We will be happy to convey your
 message to them on your behalf.</p>
-<p>Warmest regards</p>
-<p>Mee Toh School</p>
+<p></p>
 <h4>More details coming soon. Stay tuned!</h4>
 <h4></h4>
 <p></p>
