@@ -15,6 +15,9 @@ staff, parent volunteers, alumni, school cleaners, vendors, instructors
 and other partners from the community. We will be happy to convey your
 message to them on your behalf.</p>
 <p></p>
-<h4>More details coming soon. Stay tuned!</h4>
+<p><a href="https://go.gov.sg/mtsappreciationform" rel="noopener nofollow" target="_blank">Click here</a> to
+pen your message!</p>
+<p></p>
+<h4></h4>
 <h4></h4>
 <p></p>
