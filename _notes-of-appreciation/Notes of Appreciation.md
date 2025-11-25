@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Respect.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pg_3.png">
 </div>
 <h4>More details coming soon. Stay tuned!</h4>
 <h3></h3>
