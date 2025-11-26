@@ -53,4 +53,23 @@ sections:
       button: Nominations close on 9 Jan 2026 at 12pm
       url: go.gov.sg/pat2026
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Outstanding Youth in Education
+      id: infopic
+      button: Button Text
+      alt: Image alt text
+  - textcards:
+      title: OPEN FOR NOMINATIONS
+      id: textcards
+      description: Nominations will close on 9 January 2026 at 12pm
+      cards:
+        - title: Outstanding Youth in Education Award (OYEA) 2026
+          description: ""
+          linktext: Click here to learn more
+          url: go.gov.sg/oyea2026
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
