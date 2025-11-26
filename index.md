@@ -68,8 +68,8 @@ sections:
           description: ""
           linktext: Click here to learn more
           url: go.gov.sg/oyea2026
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: President's Award for Teachers (PAT) 2026
+          description: ""
+          linktext: Click here to learn more
+          url: go.gov.sg/pat2026
 ---
