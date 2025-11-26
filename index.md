@@ -19,6 +19,19 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
+  - textcards:
+      title: OPEN FOR NOMINATIONS
+      id: textcards
+      description: Nominations will close on 9 January 2026 at 12pm
+      cards:
+        - title: Outstanding Youth in Education Award (OYEA) 2026
+          description: ""
+          linktext: Click here to learn more
+          url: go.gov.sg/oyea2026
+        - title: President's Award for Teachers (PAT) 2026
+          description: ""
+          linktext: Click here to learn more
+          url: go.gov.sg/pat2026
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
@@ -46,30 +59,9 @@ sections:
       alt: Image alt text
       subtitle: Mee Toh School
   - infopic:
-      title: PAT 2026
-      subtitle: President’s Award for Teachers
-      id: infopic
-      description: The PAT honours educators who innovate, keep learning, and mentor others.
-      button: Nominations close on 9 Jan 2026 at 12pm
-      url: go.gov.sg/pat2026
-      alt: Image alt text
-  - infopic:
       title: Infopic
       subtitle: Outstanding Youth in Education
       id: infopic
       button: Button Text
       alt: Image alt text
-  - textcards:
-      title: OPEN FOR NOMINATIONS
-      id: textcards
-      description: Nominations will close on 9 January 2026 at 12pm
-      cards:
-        - title: Outstanding Youth in Education Award (OYEA) 2026
-          description: ""
-          linktext: Click here to learn more
-          url: go.gov.sg/oyea2026
-        - title: President's Award for Teachers (PAT) 2026
-          description: ""
-          linktext: Click here to learn more
-          url: go.gov.sg/pat2026
 ---
