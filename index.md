@@ -45,4 +45,12 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
+  - infopic:
+      title: PAT 2026
+      subtitle: President’s Award for Teachers
+      id: infopic
+      description: The PAT honours educators who innovate, keep learning, and mentor others.
+      button: Nominations close on 9 Jan 2026 at 12pm
+      url: go.gov.sg/pat2026
+      alt: Image alt text
 ---
