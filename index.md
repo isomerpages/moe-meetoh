@@ -58,10 +58,4 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
-  - infopic:
-      title: Infopic
-      subtitle: Outstanding Youth in Education
-      id: infopic
-      button: Button Text
-      alt: Image alt text
 ---
