@@ -27,11 +27,11 @@ sections:
         - title: Outstanding Youth in Education Award (OYEA) 2026
           description: ""
           linktext: Click here to learn more
-          url: go.gov.sg/oyea2026
+          url: https://form.gov.sg/68ae5a5dd7758bf48048b574
         - title: President's Award for Teachers (PAT) 2026
           description: ""
           linktext: Click here to learn more
-          url: go.gov.sg/pat2026
+          url: https://form.gov.sg/68ae474d09f68097e77beda3
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
