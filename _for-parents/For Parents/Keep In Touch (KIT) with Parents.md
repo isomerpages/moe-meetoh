@@ -24,6 +24,8 @@ together.</p>
 </p>
 <p><a href="/files/2025_KIT_with_Parents__8_.pdf" rel="noopener nofollow" target="_blank">2025 KIT with Parents (8)</a>
 </p>
+<p><a href="/files/2025_KIT_with_Parents__9__NovDec.pdf" rel="noopener nofollow" target="_blank">2025 KIT with Parents (9)</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
