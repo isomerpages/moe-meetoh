@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Yilan Lynne</p>
+<p>Ms Per Yen Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kok Heng, Eric&nbsp;</p>
+<p>Ms Chua Chew Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
