@@ -6,9 +6,6 @@ third_nav_title: Our Staff
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXCO___Teacher_Leadership_edited.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
