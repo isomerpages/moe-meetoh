@@ -132,18 +132,6 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Danny Wong Kwong Yau<br>Desktop Engineer (DE)</strong>
-<br>
-<br>“You will either step forward into growth, or you will step backward into
-safety.”
-<br>- Abraham Maslow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Mohamad Syafiee Bin Surani<br>Desktop Engineer (DE)</strong>
 <br>
 <br>“Life itself is your teacher, and you are in a state of constant learning.”
@@ -160,18 +148,6 @@ safety.”
 <p><strong>Mdm Chua Lay Ching<br>Science Lab Assistant</strong>
 <br>
 <br>Work hard, play hard.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Glenda Ang Hui Xi</strong>
-</p>
-<p><strong>Librarian</strong>
-</p>
-<p>"May your trials end in full bloom." - Agust D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
