@@ -7,12 +7,7 @@ variant: tiptap
 ---
 <h3>School Leaders</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Leaders_edited.jpg">
-</div>
-<p>From left to right: Mr Eric Ng Kok Heng [Vice-Principal (Administration)],
-Ms Huang Yilan Lynne (Vice-Principal), Mr Tay Hsien Chuan Kelvin (Principal)
-and Mr Ronald Lee Chong Tart (Vice-Principal)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,40 +52,6 @@ will bring about motivation in our children as they take ownership of their
 learning and contribute to the society. As motivated children, they will
 be able to bring out their best, pursue their passions and fulfill their
 aspirations.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Huang Yilan Lynne <br>Vice-Principal </strong>
-<br>
-<br>Every child has the inherent desire to learn, do well and do something
-meaningful in their lives. Every child is also unique with different interests
-and strengths. Children develop and grow at their own pace, towards dreams
-of their own making. Hence, our children must be imbued with abundant curiosity
-about the world, and a burning desire to innovate for a better future together.
-<br>We will nurture these lifelong dispositions in our children. The school
-motto of Compassion, Conscience, Purity and Righteousness will be their
-guiding compass to lead lives with purpose and meaning.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Eric Ng Kok Heng <br>Vice-Principal (Administration)</strong>
-<br>
-<br>Every child is different and unique. It is our job to help them discover
-their strengths and limitations so that they can build on the former and
-work on the latter. I believe in training the hands, developing the minds
-and cultivating the hearts of all our pupils in Mee Toh School. It is our
-responsibility to provide and ensure a safe, secure and conducive environment
-for our pupils and staff to motivate them to learn and excel and more importantly,
-develop a passion for life-long learning. We will never compromise the
-well-being of all Mee Tohians.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
