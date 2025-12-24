@@ -28,7 +28,7 @@ variant: tiptap
 <p>Vegetarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Dec 2025</p>
+<p>22 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
