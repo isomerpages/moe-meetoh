@@ -198,5 +198,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong><a href="mailto:YAN_YUZHEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Yan Yuzhen</u></a></strong>
-</p>
+<p></p>
