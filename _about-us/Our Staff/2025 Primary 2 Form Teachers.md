@@ -140,7 +140,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:YAN_YUZHEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Yan Yuzhen</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -151,13 +152,16 @@ variant: tiptap
 <p>2-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:tan_choon_lan@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Choon Lan</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.meetoh.moe.edu.sg/about-us/our-staff/primary-1-form-teachers/afidah_ibrahim_a@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mdm Afidah bte Ibrahim</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:CHIA_LI_LING@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chia Li Ling</u></a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -165,10 +169,12 @@ variant: tiptap
 <p>2-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:ZHANG_YINAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zhang Yinan</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:Yeo_Chai_Kim_Irene@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank"><u>Mdm Yeo Chai Kim Irene</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -179,10 +185,12 @@ variant: tiptap
 <p>2-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:ONG_SHUQUAN_ROBIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ong Shuquan Robin</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:Loong_Hui_Ling_Winnie@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Loong Hui Ling Winnie</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -190,4 +198,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong><a href="mailto:YAN_YUZHEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Yan Yuzhen</u></a></strong>
+</p>
