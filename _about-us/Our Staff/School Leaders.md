@@ -42,7 +42,7 @@ aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Per Yen Leng<br>Vice-Principal </strong>
+<p><strong>Ms Per Yen Leng<br>Vice-Principal</strong>
 </p>
 <p></p>
 <p>I believe deeply in the potential of every child and in the transformative
