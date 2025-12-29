@@ -173,8 +173,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Yeo_Chai_Kim_Irene@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank"><u>Mdm Yeo Chai Kim Irene</u></a></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
