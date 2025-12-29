@@ -70,7 +70,7 @@ variant: tiptap
 <p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:soon_min_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Soon Min Wah</u></a></strong>
+<p><strong><a href="mailto:NURUL_ASYURA_MASHKUR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Nurul Asyura Mashkur</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +173,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:Yeo_Chai_Kim_Irene@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank"><u>Mdm Yeo Chai Kim Irene</u></a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -192,7 +193,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.meetoh.moe.edu.sg/about-us/our-staff/primary-1-form-teachers/pricilla_vj_silvester@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Pricilla D/O Justine Silvester</u></a></strong>
+</p>
 </td>
 </tr>
 </tbody>
