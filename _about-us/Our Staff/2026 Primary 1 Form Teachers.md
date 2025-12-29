@@ -55,7 +55,7 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace</p>
+<p>Ms Tan Si Mei Grace</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:sunarti_amidon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sunarti Binte Amidon</u></a></strong>
@@ -138,7 +138,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Irene Sng Wei Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
