@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong> </strong>1-1
+<p>1-1
 <br>
 <br>
 </p>
@@ -47,8 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Shum Wen Hui</u></a></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -72,7 +71,7 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rasul Bee Bee Bte Karat Khan</p>
+<p>Ms Rasul Bee Bee Bte Karat Khan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:YU_ZHANGXINZHI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Yu Zhangxinzhi</u></a></strong>
@@ -139,8 +138,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:JOANNE_LYE_SHUYI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Joanne Lye Shuyi</u></a></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
