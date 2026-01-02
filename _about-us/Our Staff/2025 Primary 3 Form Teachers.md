@@ -31,10 +31,12 @@ variant: tiptap
 <p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tam Fong U</p>
+<p><strong><a href="mailto:TAM_FONG_U@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Tam Fong U</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zheng Shanbo</p>
+<p><strong><a href="mailto:ZHENG_SHANBO@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Zheng Shanbo</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,10 +45,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Jing Yi</p>
+<p><strong><a href="mailto:LOW_JING_YI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Low Jing Yi</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sherley Chua</p>
+<p><strong><a href="mailto:SHERLEY_A@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Sherley Chua</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +58,8 @@ variant: tiptap
 <p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Soon Min Wah</p>
+<p><strong><a href="mailto:soon_min_wah@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Soon Min Wah</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Shyet Shi Natalie</p>
@@ -65,10 +70,12 @@ variant: tiptap
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Juliana Lin En Xuan</p>
+<p><a href="mailto:JULIANA_LIN_EN_XUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Connie Tan</p>
+<p><a href="mailto:HO_YIT_CHIN_CONNIE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Connie Tan</a>
+</p>
 </td>
 </tr>
 <tr>
