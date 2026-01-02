@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Manager </strong>
+<p><strong>ICT Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms J.Durgeshwari </strong>
+<p><strong>Ms J.Durgeshwari</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,9 +182,13 @@ variant: tiptap
 </p>
 <p><strong>Mdm Neo Lay Mui</strong>
 </p>
-<p><strong>Mr Loh Ching Kai </strong>
+<p><strong>Mr Loh Ching Kai</strong>
 </p>
 <p><strong>Mr Steve Ng Jong Liu</strong>
+</p>
+<p><strong>Mr Ong Poh Chye</strong>
+</p>
+<p><strong>Mr Tan Ai Chuang</strong>
 </p>
 <p></p>
 </td>
