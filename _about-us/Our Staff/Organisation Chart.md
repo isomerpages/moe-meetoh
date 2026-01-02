@@ -122,7 +122,7 @@ variant: tiptap
 <p>Ms Tay Shuwen Sabrina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head CIP</p>
+<p>HOD CIP (covering)</p>
 </td>
 </tr>
 <tr>
@@ -211,10 +211,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Jasmine Kho Soon Imm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Dept Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lin Meijing (Mrs Liew-Lin Meijing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head Mathematics</p>
+<p>Level Head MatJashematics</p>
 </td>
 </tr>
 <tr>
@@ -223,6 +231,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
