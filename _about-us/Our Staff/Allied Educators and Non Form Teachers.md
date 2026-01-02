@@ -214,20 +214,7 @@ contribute positively to society.</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p>Teaching with a heart in mind.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Noorazmah_Razali_A@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Noorazmah bte Razali</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-<p>Creating a conducive environment to build character, boost confidence
-and teach new skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -239,7 +226,6 @@ and teach new skills.</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p>快乐学习是尽可能以教学法提升学生学习动机，帮助学生在挫折中不气馁，反而更积极向上，从而获得满足与快乐。</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
