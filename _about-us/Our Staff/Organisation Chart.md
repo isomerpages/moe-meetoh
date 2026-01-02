@@ -114,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Communications and Outreach Department (COD)</h4>
+<h4>Communications, Innovation and Partnership Department (CIP)</h4>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ variant: tiptap
 <p>Ms Tay Shuwen Sabrina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head COD</p>
+<p>Subject Head CIP</p>
 </td>
 </tr>
 <tr>
@@ -144,6 +144,35 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Dept EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurhafizah Bte Kamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head EL (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Higher Ability Learning (HAL)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leong Jianwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head HAL</p>
 </td>
 </tr>
 <tr>
@@ -220,14 +249,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Trina Tan Chiao Sze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Zhao Xin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,15 +257,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sunarti Bte Amidon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Malay Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,7 +265,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Physical &amp; Health Education and Co-Curricular Activities Department (PHE)</h4>
+<h4>Physical &amp; Health Education (PHE) and Co-Curricular Activities (CCA) Department </h4>
 </td>
 </tr>
 <tr>
@@ -266,18 +278,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Faqih Bin Sinuan</p>
+<p>Mr Robin Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head PHE</p>
+<p>&nbsp;Subject Head CCA (covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -414,7 +426,7 @@ variant: tiptap
 <p>Miss Chia Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P1)</p>
+<p>Assistant Year Head (P3)</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +439,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Jian Wei Wayne</p>
+<p>Ms Sharon Koh Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (P3)</p>
@@ -443,10 +455,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Koh Shu Hui</p>
+<p>Mr Ahmad Nabil Bin Mustaf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P5)</p>
+<p>Assistant Year Head (P3) (covering)</p>
 </td>
 </tr>
 <tr>
@@ -520,6 +532,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Noraihan Bte Samad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher English (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chai Ching Shze Sofie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -536,10 +556,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mdm Tay Ya Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Senior Teacher Educational Support (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
