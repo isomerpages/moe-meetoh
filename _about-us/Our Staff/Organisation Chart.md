@@ -265,7 +265,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Physical &amp; Health Education (PHE) and Co-Curricular Activities (CCA) Department </h4>
+<h4>Physical &amp; Health Education (PHE) and Co-Curricular Activities (CCA) Department</h4>
 </td>
 </tr>
 <tr>
