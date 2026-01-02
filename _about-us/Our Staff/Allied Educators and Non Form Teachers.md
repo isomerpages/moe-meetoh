@@ -8,9 +8,8 @@ variant: tiptap
 <h3>Allied Educators and Non-Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -18,22 +17,21 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:CHAI_CHING_SHZE_SOFIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
 <br><strong>Senior Teacher -</strong>  <strong>Special Educational Needs (SEN) Officer</strong> 
-<br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:SU_YIN_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong> 
-<br>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lau Su Ting Grace</p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,10 +41,6 @@ variant: tiptap
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 <p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -55,10 +49,6 @@ variant: tiptap
 </p>
 <p><strong>(SEN) Officer</strong>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -67,23 +57,12 @@ variant: tiptap
 </p>
 <p><strong>(SEN) Officer</strong>
 </p>
-<p>“Anyone who has never made a mistake has never tried anything new.”– Albert
-Einstein</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ANG_AN_AN_FELICIA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee </a></strong>
-<br><strong>Allied Educator (Counselling)</strong> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chan Jia Shuan Nikki</p>
+<p>(SC)</p>
 </td>
 </tr>
 <tr>
@@ -92,53 +71,21 @@ Einstein</p>
 </p>
 <p><strong>Allied Educator (Counselling)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHUA_BISHUANG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Chua Bishuang (Mrs Lim)</a></strong>
+<p>Ms Shereen Banu Binte Syed Masuthu</p>
+<p><strong>(SC)</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Yeo</p>
 <p><strong>Teacher</strong>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yuling_marilyn@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
-<br><strong>Teacher</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Nazihah Muhammed Ikram.SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
-<br><strong>Teacher</strong>
-</p>
-<p>" When one teaches, two learn" Robert Heinlein</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:LIM_KIM_LUAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong> 
-<br><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -148,8 +95,13 @@ Einstein</p>
 <p><strong>Teacher</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:Neo_Chew_Yen@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Celia Neo</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -158,45 +110,21 @@ Einstein</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Neo_Chew_Yen@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Celia Neo</a></strong>
+<p><strong><a href="mailto:LIM_KIM_LUAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong> 
 </p>
-<p><strong>Teacher</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Ruth_Goh@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Goh</a></strong>
+<p><strong><a href="mailto:Lee_Eng_Kiong@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Ng_Hwee_Beng@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -207,19 +135,94 @@ Einstein</p>
 </p>
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Nazihah Muhammed Ikram.SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
+<br><strong>Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Han Jun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Ng_Hwee_Beng@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee Beng</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Ruth_Goh@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Goh</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Sook Leng</p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Peggy Foo Pei Chie</p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:zhang_yuling_marilyn@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
+<br><strong>Teacher</strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Lee_Eng_Kiong@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
