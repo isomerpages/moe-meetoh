@@ -109,7 +109,8 @@ variant: tiptap
 <p>3-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Meera D/O Pathmanathan</p>
+<p><strong><a href="mailto:MEERA_PATHMANATHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Meera D/O Pathmanathan</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:MUHAMMAD_FIKRI_FAZIL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
