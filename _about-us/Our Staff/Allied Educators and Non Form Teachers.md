@@ -8,33 +8,30 @@ variant: tiptap
 <h3>Allied Educators and Non-Form Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:CHAI_CHING_SHZE_SOFIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
-<br><strong>Senior Teacher -</strong>  <strong>Special Educational Needs (SEN) Officer</strong> 
-<br>
-<br>"Educating the mind without educating the heart is no education at all."
-- Aristotle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br><strong>Senior Teacher -</strong>  <strong>Special Educational Needs (SEN) Officer</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:SU_YIN_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
-<br><strong>Special Educational Needs (SEN) Officer</strong> 
-<br>
-<br>"Change is the end result of all true learning," - Leo Buscaglia</p>
+<br><strong>Special Educational Needs (SEN) Officer</strong>
+</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lau Su Ting Grace</p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,11 +41,6 @@ variant: tiptap
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 <p></p>
-<p>“If you are determined to learn, no one can stop you.” – Zig Ziglar</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -57,11 +49,6 @@ variant: tiptap
 </p>
 <p><strong>(SEN) Officer</strong>
 </p>
-<p>“Not all of us can do great things, but we can do small things with great
-love.” ~ Mother Teresa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -70,24 +57,12 @@ love.” ~ Mother Teresa</p>
 </p>
 <p><strong>(SEN) Officer</strong>
 </p>
-<p>“Anyone who has never made a mistake has never tried anything new.”– Albert
-Einstein</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ANG_AN_AN_FELICIA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee </a></strong>
-<br><strong>Allied Educator (Counselling)</strong> 
-<br>
-<br>"It's not about what you have achieved but what you learnt in the process
-of achieving!"</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chan Jia Shuan Nikki</p>
+<p>(SC)</p>
 </td>
 </tr>
 <tr>
@@ -96,54 +71,21 @@ of achieving!"</p>
 </p>
 <p><strong>Allied Educator (Counselling)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHUA_BISHUANG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Chua Bishuang (Mrs Lim)</a></strong>
+<p>Ms Shereen Banu Binte Syed Masuthu</p>
+<p><strong>(SC)</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Yeo</p>
 <p><strong>Teacher</strong>
 </p>
-<p>‘Genius is one percent inspiration and ninety-nine percent perspiration.
-– Thomas Edison’.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yuling_marilyn@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
-<br><strong>Teacher</strong>
-</p>
-<p>教育是永无止境的追寻</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Nazihah Muhammed Ikram.SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
-<br><strong>Teacher</strong>
-</p>
-<p>" When one teaches, two learn" Robert Heinlein</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:LIM_KIM_LUAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong> 
-<br><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -153,8 +95,13 @@ of achieving!"</p>
 <p><strong>Teacher</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:Neo_Chew_Yen@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Celia Neo</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -163,38 +110,42 @@ of achieving!"</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p>I believe that every child is special and unique and can be nurtured to
-bring out the best in each of them.</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="mailto:LIM_KIM_LUAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Lim Kim Luan</a></strong>
+</p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Lee_Eng_Kiong@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Josephine_Tan_Zhi_Xian@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Josephine Tan</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Neo_Chew_Yen@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Celia Neo</a></strong>
+<p><strong><a href="mailto:Nazihah Muhammed Ikram.SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
+<br><strong>Teacher</strong>
 </p>
-<p><strong>Teacher</strong>
-</p>
-<p>To enjoy the glow of good health, it begins with a regular exercise regime,
-a healthy diet and a positive mindset.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Ruth_Goh@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Goh</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-<p>The true purpose of education is to nurture the whole child and to help
-them grow into a compassionate, responsible, and kind individual who will
-contribute positively to society.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Han Jun</p>
 </td>
 </tr>
 <tr>
@@ -204,44 +155,36 @@ contribute positively to society.</p>
 <p><strong>Teacher</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:Ruth_Goh@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Goh</a></strong>
+</p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Josephine_Tan_Zhi_Xian@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Josephine Tan</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-<p>Teaching with a heart in mind.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Sook Leng</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Noorazmah_Razali_A@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Noorazmah bte Razali</a></strong>
-</p>
-<p><strong>Teacher</strong>
-</p>
-<p>Creating a conducive environment to build character, boost confidence
-and teach new skills.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Peggy Foo Pei Chie</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Lee_Eng_Kiong@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
+<p><strong><a href="mailto:zhang_yuling_marilyn@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
+<br><strong>Teacher</strong>
 </p>
-<p><strong>Teacher</strong>
-</p>
-<p>快乐学习是尽可能以教学法提升学生学习动机，帮助学生在挫折中不气馁，反而更积极向上，从而获得满足与快乐。</p>
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

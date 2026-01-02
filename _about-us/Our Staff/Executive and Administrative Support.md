@@ -7,12 +7,10 @@ variant: tiptap
 ---
 <h3>Executive and Administrative Support</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Executive_Administration_Support.jpg">
-</div>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -24,13 +22,50 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Ong Siew Ying<br>Administrative Manager (AM)</strong>
+<p><strong>Administrative Manager (AM)</strong>
 <br>
-<br>'The quality of our expectations determine the quality of our actions.'
-- Andre Godin</p>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Ong Siew Ying</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Amy Ng Pei Chuen</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager (OM)</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Goh Tiap Imm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Liang Meng<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Redwan Abdullah</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -38,10 +73,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Amy Ng Pei Chuen<br>Administrative Manager (AM)</strong>
-<br>
-<br>'If you think in terms of a year, plant a seed; if in terms of ten years,
-plant trees; if in terms of 100 years, teach the people.' - Confucius</p>
+<p><strong>Administrative Executive (AE)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Shirley Ching</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Koh Lee Lee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Admin Assistant</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms J.Durgeshwari</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -49,10 +100,12 @@ plant trees; if in terms of 100 years, teach the people.' - Confucius</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Goh Tiap Imm<br>Operations Manager (OM)</strong>
-<br>
-<br>'Education is not preparation for life, education is life itself.' -John
-Dewey</p>
+<p><strong>Receptionist</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wong Yock Wah Rosalind</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -60,9 +113,14 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Liang Meng<br>Operations Manager (OM)</strong>
+<p><strong>Corporate Support Officer (CSO)</strong> 
 <br>
-<br>"The roots of education are bitter but the fruit is sweet" - Aristotle</p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Koh Kia Li Wendy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -70,92 +128,42 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Redwan Abdullah<br>ICT Manager </strong>
-<br>
-<br>Education is the passport for the future.</p>
+<p><strong>Management Support Office (MSO)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Sim Lee King</strong>
+</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Shirley Ching<br>Administrative Executive (AE)</strong>
-<br>
-<br>Stay positive. Good things will happen.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Miss Koh Lee Lee<br>Administrative Executive (AE)</strong>
-<br>
-<br>When one door closes, the other opens. Seize the opportunity.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Koh Kia Li Wendy<br>Corporate Support Officer (CSO)</strong> 
-<br>
-<br>“The best way to predict your future is to create it.” - Abraham Lincoln</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ng Hui Woon Jacqueline</strong>
 </p>
-<p><strong>Corporate Support Officer (CSO)</strong>
-</p>
-<p>You cannot spell success without u.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sim Lee King<br>Management Support Office (MSO)</strong>
+<p><strong>Desktop Engineer (DE)</strong>
 <br>
-<br>"Where ever you go, go with your heart." - Confucius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Mohamad Syafiee Bin Surani<br>Desktop Engineer (DE)</strong>
-<br>
-<br>“Life itself is your teacher, and you are in a state of constant learning.”
-<br>- Bruce Lee
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Mohamad Syafiee Bin Surani</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Nazrul Hadi Bin Hasri</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chua Lay Ching<br>Science Lab Assistant</strong>
+<p><strong>Science Lab Assistant</strong>
 <br>
-<br>Work hard, play hard.</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Nani<br>Operations Support Officer (OSO)</strong>
+<p><strong>Mdm Chua Lay Ching</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,40 +172,25 @@ Dewey</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Hwee Koon<br>Operations Support Officer (OSO)</strong>
-<br>
-<br>Go confidently in the direction of your dreams.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Neo Lay Mui<br>Operations Support Officer (OSO)</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Loh Ching Kai <br>Operations Support Officer (OSO)</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Steve Ng Jong Liu</strong>
-</p>
 <p><strong>Operations Support Officer (OSO)</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nani</strong>
+</p>
+<p><strong>Mdm Koh Hwee Koon</strong>
+</p>
+<p><strong>Mdm Neo Lay Mui</strong>
+</p>
+<p><strong>Mr Loh Ching Kai</strong>
+</p>
+<p><strong>Mr Steve Ng Jong Liu</strong>
+</p>
+<p><strong>Mr Ong Poh Chye</strong>
+</p>
+<p><strong>Mr Tan Ai Chuang</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
