@@ -28,7 +28,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:NEO_LI_TING@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Neo Li Ting</a></strong> 
-<br><strong>Senior Teacher - Chinese Language</strong> 
+<br><strong>Senior Teacher - Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="soon_min_wah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soon Min Wah</a>
+<p><strong><a href="soon_min_wah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soon Min Wah</a></strong>
 </p>
 <p><strong>Senior Teacher - Chinese Language</strong>
 </p>
@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZHANG_YINAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a> </strong>
+<p><strong><a href="mailto:ZHANG_YINAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
 </p>
 <p><strong>Senior Teacher - Chinese Language</strong>
 </p>
@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:BOH_FONG_YEEMO_FENGYI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Boh Fong Yee</a></strong> 
+<p><strong><a href="mailto:BOH_FONG_YEEMO_FENGYI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Boh Fong Yee</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHEONG_PUI_LAI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Lai</a></strong> 
+<p><strong><a href="mailto:CHEONG_PUI_LAI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Lai</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:DONG_JINMEI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Jin Mei</a></strong> 
+<p><strong><a href="mailto:DONG_JINMEI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Jin Mei</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,7 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:YAN_YUZHEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a></strong> 
+<p><strong><a href="mailto:YAN_YUZHEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:TAN_PEISHAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Shan</a></strong> 
+<p><strong><a href="mailto:TAN_PEISHAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Shan</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:WEI_LU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wei Lu</a></strong> 
+<p><strong><a href="mailto:WEI_LU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wei Lu</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHEONG_SIOK_WEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Cheong Siok Wen</a></strong> 
+<p><strong><a href="mailto:CHEONG_SIOK_WEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Cheong Siok Wen</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHING_MEI_FEI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Ching Mei Fei</a></strong> 
+<p><strong><a href="mailto:CHING_MEI_FEI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Ching Mei Fei</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,7 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:WEN_PEI_JU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong> 
+<p><strong><a href="mailto:WEN_PEI_JU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZOU_YANG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zou Yang</a></strong> 
+<p><strong><a href="mailto:ZOU_YANG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zou Yang</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHAO_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Shao Jie</a></strong> 
+<p><strong><a href="mailto:SHAO_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Shao Jie</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong> 
+<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,7 +216,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:HASNI_ABU_BAKAR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Hasni Bte Abu Bakar</a></strong> 
-<br><strong>Year Head Primary 3 &amp; 4</strong> 
+<br><strong>Year Head Primary 3 &amp; 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +225,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SUNARTI_AMIDON@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Bte Amidon</a></strong> 
+<p><strong><a href="mailto:SUNARTI_AMIDON@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Bte Amidon</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +234,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZURAINI_ABDUL_RAHIM@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zuraini Bte Abdul Rahim</a></strong> 
+<p><strong><a href="mailto:ZURAINI_ABDUL_RAHIM@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zuraini Bte Abdul Rahim</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
