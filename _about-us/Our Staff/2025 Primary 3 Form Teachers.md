@@ -70,11 +70,11 @@ variant: tiptap
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:JULIANA_LIN_EN_XUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a>
+<p><strong><a href="mailto:JULIANA_LIN_EN_XUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Juliana Lin En Xuan</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HO_YIT_CHIN_CONNIE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Connie Tan</a>
+<p><strong><a href="mailto:HO_YIT_CHIN_CONNIE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Connie Tan</a></strong>
 </p>
 </td>
 </tr>
@@ -83,11 +83,12 @@ variant: tiptap
 <p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CELESTINE_KAU_WAN_YI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Miss Celestine Kau Wan Yi</a>
+<p><strong><a href="mailto:CELESTINE_KAU_WAN_YI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Miss Celestine Kau Wan Yi</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Asha Devdas</p>
+<p><strong><a href="mailto:ASHA_DEVDAS_SAWLANI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Asha Devdas Sawlani</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -95,10 +96,12 @@ variant: tiptap
 <p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shikin</p>
+<p><strong><a href="mailto:NURASHIKIN_KAMAL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Nurashikin</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Siok Wen</p>
+<p><strong><a href="mailto:CHEONG_SIOK_WEN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Cheong Siok Wen</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +112,8 @@ variant: tiptap
 <p>Meera D/O Pathmanathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Fikri Bin Fazil</p>
+<p><strong><a href="mailto:MUHAMMAD_FIKRI_FAZIL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Muhammad Fikri Bin Fazil</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +121,8 @@ variant: tiptap
 <p>3-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Colin Tan</p>
+<p><strong><a href="mailto:TAN_WEON_TOR@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Colin Tan</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Ashikin Bte Abdull Aziz</p>
