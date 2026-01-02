@@ -83,7 +83,8 @@ variant: tiptap
 <p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Celestine Kau Wan Yi</p>
+<p><a href="mailto:CELESTINE_KAU_WAN_YI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Miss Celestine Kau Wan Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Asha Devdas</p>
