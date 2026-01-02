@@ -211,7 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jasmine Kho Soon Imm</p>
+<p>Ms Jasmine Kho Soon Imm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Dept Mathematics</p>
