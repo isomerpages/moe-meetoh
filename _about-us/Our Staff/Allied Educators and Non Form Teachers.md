@@ -19,8 +19,7 @@ variant: tiptap
 <p><strong><a href="mailto:CHAI_CHING_SHZE_SOFIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
 <br><strong>Senior Teacher -</strong>  <strong>Special Educational Needs (SEN) Officer</strong> 
 <br>
-<br>"Educating the mind without educating the heart is no education at all."
-- Aristotle</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -31,7 +30,7 @@ variant: tiptap
 <p><strong><a href="mailto:SU_YIN_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong> 
 <br>
-<br>"Change is the end result of all true learning," - Leo Buscaglia</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -44,7 +43,6 @@ variant: tiptap
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 <p></p>
-<p>“If you are determined to learn, no one can stop you.” – Zig Ziglar</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,8 +55,7 @@ variant: tiptap
 </p>
 <p><strong>(SEN) Officer</strong>
 </p>
-<p>“Not all of us can do great things, but we can do small things with great
-love.” ~ Mother Teresa</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -83,8 +80,7 @@ Einstein</p>
 <p><strong><a href="mailto:ANG_AN_AN_FELICIA@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mrs Felicia Lee </a></strong>
 <br><strong>Allied Educator (Counselling)</strong> 
 <br>
-<br>"It's not about what you have achieved but what you learnt in the process
-of achieving!"</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,8 +103,7 @@ of achieving!"</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p>‘Genius is one percent inspiration and ninety-nine percent perspiration.
-– Thomas Edison’.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -119,7 +114,7 @@ of achieving!"</p>
 <p><strong><a href="mailto:zhang_yuling_marilyn@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Marilyn Zhang</a></strong>
 <br><strong>Teacher</strong>
 </p>
-<p>教育是永无止境的追寻</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -163,8 +158,7 @@ of achieving!"</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p>I believe that every child is special and unique and can be nurtured to
-bring out the best in each of them.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -176,8 +170,7 @@ bring out the best in each of them.</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p>To enjoy the glow of good health, it begins with a regular exercise regime,
-a healthy diet and a positive mindset.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -189,9 +182,7 @@ a healthy diet and a positive mindset.</p>
 </p>
 <p><strong>Teacher</strong>
 </p>
-<p>The true purpose of education is to nurture the whole child and to help
-them grow into a compassionate, responsible, and kind individual who will
-contribute positively to society.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
