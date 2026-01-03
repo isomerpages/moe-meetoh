@@ -100,11 +100,11 @@ variant: tiptap
 <p>6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NORAIHAN_SAMAD@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Noraihan Bte Samad</a>
+<p><strong><a href="mailto:NORAIHAN_SAMAD@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Noraihan Bte Samad</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAY_QIUSHI_KELLY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Kelly Ng</a>
+<p><strong><a href="mailto:TAY_QIUSHI_KELLY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Kelly Ng</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
