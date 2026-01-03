@@ -222,7 +222,7 @@ variant: tiptap
 <p>Ms Lin Meijing (Mrs Liew-Lin Meijing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head MatJashematics</p>
+<p>Level Head Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -552,14 +552,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher Learning Needs-Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Ying Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher Mathematics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
