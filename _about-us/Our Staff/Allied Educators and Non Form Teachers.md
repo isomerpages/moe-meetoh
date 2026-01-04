@@ -15,13 +15,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHAI_CHING_SHZE_SOFIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Chai Ching Shze Sofie</a></strong>
-<br><strong>Senior Teacher -</strong>  <strong>Special Educational Needs (SEN) Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:SU_YIN_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
 <br><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
