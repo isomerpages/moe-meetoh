@@ -243,6 +243,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p><em>Updated on 21 Jun 2023</em>
 </p>
