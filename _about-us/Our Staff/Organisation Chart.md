@@ -556,7 +556,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Tay Ya Yin</p>
+<p>Mdm Tay Ya Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Senior Teacher Educational Support (covering)</p>
