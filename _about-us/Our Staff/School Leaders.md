@@ -13,13 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tay Hsien Chuan Kelvin <br>Principal </strong>
+<p><strong>Mr Kelvin Tay<br>Principal </strong>
 <br>
 </p>
 <p>LOVE means actively wishing happiness and well-being for all students
-and staff in the school, without conditions or expectations. It also means
-enjoying the work that we do. As a school leader, I hope and want to exhibit
-LOVE through</p>
+and staff in our Mee Toh Family, without conditions or expectations. It
+also means enjoying the work that we do. As a school leader, I hope and
+want to exhibit LOVE through</p>
 <p>L: Leading by example</p>
 <p>O: Observing and listening actively</p>
 <p>V: Verbalising care and concern</p>
