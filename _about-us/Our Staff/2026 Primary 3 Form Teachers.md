@@ -31,7 +31,7 @@ variant: tiptap
 <p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:TAM_FONG_U@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Tam Fong U</a></strong>
+<p><strong><a href="mailto:TAM_FONG_U@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Tam Fong U</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
