@@ -16,15 +16,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:SU_YIN_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Annabel Su Yinjie</a></strong> 
-<br><strong>Special Educational Needs (SEN) Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lau Su Ting Grace</p>
-<p><strong>Teacher</strong>
-</p>
+<br>Senior Special Educational Needs (SEN) Officer</p>
 </td>
 </tr>
 <tr>
@@ -33,14 +25,13 @@ variant: tiptap
 </p>
 <p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:HO_MEI_YIN_MELINA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Melina Ho</a></strong>
 </p>
-<p><strong>(SEN) Officer</strong>
+<p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 </td>
 </tr>
@@ -48,29 +39,33 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:KWEK_BAOZHI_ANDY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Kwek Baozhi, Andy</a></strong>
 </p>
-<p><strong>(SEN) Officer</strong>
+<p><strong>Special Educational Needs (SEN) Officer</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Jia Shuan Nikki</p>
-<p>(SC)</p>
+<p>Full-time School Counsellor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:Vasanthi_Subramanian_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Vasanthi D/O Subramanian</a></strong>
 </p>
-<p><strong>Allied Educator (Counselling)</strong>
-</p>
-<p></p>
+<p>FAJT School Counsellor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shereen Banu Binte Syed Masuthu</p>
-<p><strong>(SC)</strong>
+<p>FAJT School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Su Ting Grace</p>
+<p><strong>Teacher Aide</strong>
 </p>
 </td>
 </tr>
