@@ -27,6 +27,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Chew Hiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Chong Tart Ronald</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,14 +47,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Chew Hiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ variant: tiptap
 <p>Mr Tan Chee Kian, Joey&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Dept PHE</p>
+<p>Head of Dept PHE &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +355,7 @@ variant: tiptap
 <p>Mdm Siti Nur Hannah Binte Hardy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Discipline</p>
+<p>Subject Head SDM</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ variant: tiptap
 <p>Miss Chia Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3)</p>
+<p>Assistant Year Head (P2)</p>
 </td>
 </tr>
 <tr>
