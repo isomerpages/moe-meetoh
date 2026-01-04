@@ -27,6 +27,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Chew Hiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Chong Tart Ronald</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,14 +47,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Chew Hiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ variant: tiptap
 <p>Ms Lin Meijing (Mrs Liew-Lin Meijing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head MatJashematics</p>
+<p>Level Head Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ variant: tiptap
 <p>Mr Tan Chee Kian, Joey&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Dept PHE</p>
+<p>Head of Dept PHE &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +355,7 @@ variant: tiptap
 <p>Mdm Siti Nur Hannah Binte Hardy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Discipline</p>
+<p>Subject Head SDM</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +402,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Kun Kin (Mrs Jacelyn Ang)</p>
+<p>Mdm Sim Kun Kin
+<br>(Mrs Jacelyn Ang)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -434,7 +435,7 @@ variant: tiptap
 <p>Miss Chia Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3)</p>
+<p>Assistant Year Head (P2)</p>
 </td>
 </tr>
 <tr>
@@ -455,7 +456,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hong Seek Eng (Mrs Leong Seek Eng)</p>
+<p>Mdm Hong Seek Eng</p>
+<p>(Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (P5 – P6)</p>
@@ -556,15 +558,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ying Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher Mathematics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Tay Ya Yin</p>
+<p>Mdm Tay Ya Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Senior Teacher Educational Support (covering)</p>

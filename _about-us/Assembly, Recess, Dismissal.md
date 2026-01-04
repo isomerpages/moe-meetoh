@@ -5,14 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>Assembly, Recess, Dismissal</h3>
-<h4>Academic Year 2025</h4>
+<h4>Academic Year 2026</h4>
 <p><strong>School Hours:</strong>  <strong>7.30 a.m. to 1.30 p.m.</strong>
 </p>
 <p><strong>School will end at 1.00 p.m. on Wednesdays.</strong>
 </p>
 <h5>Morning Assembly</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Assembly,%20Recess,%20Dismissal/2023%20Morning%20Assembly.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Staff___First_Week.png">
 </div>
 <p>**Note: If it rains or parade square ground is wet, all students will
 assemble directly at classrooms.</p>
@@ -65,32 +65,10 @@ for the Silent Reading Programme.</p>
 </tbody>
 </table>
 <h5>Dismissal</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Dismissal Timings</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>All Levels</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30 p.m.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Staff___Dismissal.png">
+</div>
 <p>School will end at 1.00 p.m. on Wednesdays.
-<br>
 <br>
 </p>
 <table style="minWidth: 75px">

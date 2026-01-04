@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:HONG_SEEK_ENG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Leong Seek Eng</a></strong>
+<p><strong><a href="mailto:HONG_SEEK_ENG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Leong (Mdm Hong Seek Eng)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SIM_KUN_KIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Jacelyn Ang Kun Kin</a></strong>
+<p><strong><a href="mailto:SIM_KUN_KIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Sim Kun Kin (Mrs Jacelyn Ang)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,11 +100,11 @@ variant: tiptap
 <p>6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NORAIHAN_SAMAD@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Noraihan Bte Samad</a>
+<p><strong><a href="mailto:NORAIHAN_SAMAD@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Noraihan Bte Samad</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAY_QIUSHI_KELLY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Kelly Ng</a>
+<p><strong><a href="mailto:TAY_QIUSHI_KELLY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mrs Kelly Ng</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
