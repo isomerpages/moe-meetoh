@@ -4,7 +4,7 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<h3>2025 School Management Committee (SMC) Exco</h3>
+<h3>2026 School Management Committee (SMC) Exco</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
