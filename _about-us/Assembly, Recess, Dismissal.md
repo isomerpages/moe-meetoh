@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Assembly, Recess, Dismissal</h3>
-<h4>Academic Year 2025</h4>
+<h4>Academic Year 2026</h4>
 <p><strong>School Hours:</strong>  <strong>7.30 a.m. to 1.30 p.m.</strong>
 </p>
 <p><strong>School will end at 1.00 p.m. on Wednesdays.</strong>
