@@ -38,8 +38,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="soon_min_wah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soon Min Wah</a></strong>
-</p>
-<p><strong>Senior Teacher - Chinese Language</strong>
+<br><strong>Senior Teacher - Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,9 +47,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="ong_su_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Su Lan</a></strong>
-</p>
-<p><strong>Senior Teacher - Chinese Language</strong>
+<p><strong><a href="ong_su_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Su Lan </a></strong>
+<br><strong>Senior Teacher - Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,8 +58,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ZHANG_YINAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
-</p>
-<p><strong>Senior Teacher - Chinese Language</strong>
+<br><strong>Senior Teacher - Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,5 +240,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><em>Updated on 21 Jun 2023</em>
-</p>
+<p></p>
