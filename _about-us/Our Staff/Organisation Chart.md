@@ -402,7 +402,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Kun Kin (Mrs Jacelyn Ang)</p>
+<p>Mdm Sim Kun Kin
+<br>(Mrs Jacelyn Ang)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -455,7 +456,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hong Seek Eng (Mrs Leong Seek Eng)</p>
+<p>Mdm Hong Seek Eng</p>
+<p>(Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (P5 – P6)</p>
