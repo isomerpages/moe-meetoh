@@ -456,8 +456,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hong Seek Eng</p>
-<p>(Mrs Leong)</p>
+<p>Mdm Hong Seek Eng (Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (P5 – P6)</p>
