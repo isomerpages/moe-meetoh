@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>PRINCIPAL'S MESSAGE</h3>
-<p><strong>We love to our Children in our Mee Toh Family unconditionally</strong>
+<p><strong>We love our Children in our Mee Toh Family unconditionally</strong>
 </p>
 <p></p>
 <p>2026 will be a lovely year for our children.</p>
@@ -27,8 +27,8 @@ our Mee Toh Family.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mascots_and_Values_4Jan.png">
 </div>
-<p>(Note: I would like to thank Ms Elaine Tan and Ms Sabrina Tay for making
-these mascots come alive.)</p>
+<p><sub>(Note: I would like to thank Ms Elaine Tan and Ms Sabrina Tay for making these mascots come alive.)</sub>
+</p>
 <p>I would like to end with a short story. It was about a wealthy man who
 had many children, and they lived in a big house. One day, the house caught
 fire, and his children were distracted with the games and toys that they
