@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Hwee Ling Gerallyn</p>
+<p>Ms Yeo Hwee Ling Gerallyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Dept EL</p>
