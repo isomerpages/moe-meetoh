@@ -166,7 +166,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="toh_hui_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Toh Hui Fang Hazel</a></strong>
+<p><strong><a href="mailto: toh_hui_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Toh Hui Fang Hazel</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
