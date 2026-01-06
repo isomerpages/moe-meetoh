@@ -151,7 +151,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ponniamal D/O R Suppar</p>
+<p><strong><a href="ponniamal_r_suppan_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ponniamal d/o R Suppan</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
