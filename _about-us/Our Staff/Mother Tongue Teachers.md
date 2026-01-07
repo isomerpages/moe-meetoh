@@ -17,290 +17,193 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><a href="mailto:MALEDEINE_LAI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Maledeine Lai Yuying</a></strong>
-<br><strong>Head of Department - Mother Tongue Languages (MTL)</strong>
-</p>
+<p>Primary 1 &amp; Primary 5</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:NEO_LI_TING@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Neo Li Ting</a></strong> 
-<br><strong>Senior Teacher - Chinese Language</strong>
-</p>
+<p>CL P1-1 &amp; CL P5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Shum Wen Hui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="soon_min_wah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soon Min Wah</a></strong>
-<br><strong>Senior Teacher - Chinese Language</strong>
-</p>
+<p>CL P1-2 &amp; CL P5-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Peishan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="ong_su_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Su Lan </a></strong>
-<br><strong>Senior Teacher - Chinese Language</strong>
-</p>
+<p>CL P1-3 &amp; CL P5-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yu Zhangxinzhi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZHANG_YINAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
-<br><strong>Senior Teacher - Chinese Language</strong>
-</p>
+<p>CL P1-4 &amp; CL P5-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Boh Feng Yee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:BOH_FONG_YEEMO_FENGYI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Boh Fong Yee</a></strong>
-</p>
+<p>CL P1-5 &amp; CL P5-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHEONG_PUI_LAI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheong Pui Lai</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ow Kok Meng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:DONG_JINMEI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Jin Mei</a></strong>
-</p>
+<p>CL P1-6 &amp; CL P5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZENG_YING_A@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zeng Ying</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ching Mei Fei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:YAN_YUZHEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a></strong>
-</p>
+<p>CL P1-7 &amp; CL P5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:TAN_PEISHAN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Shan</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wei Lu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:WEI_LU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wei Lu</a></strong>
-</p>
+<p>CL P1-8 &amp; FCL P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHEONG_SIOK_WEN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Cheong Siok Wen</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Josephine Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHING_MEI_FEI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Ching Mei Fei</a></strong>
-</p>
+<p>CL P1-9 &amp; CL P5-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:WEN_PEI_JU@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Evelyn Lee Ai Ling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZOU_YANG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zou Yang</a></strong>
-</p>
+<p>CL P1-10 &amp; CL P5-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHAO_JIE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Shao Jie</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SHUM_WEN_HUI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Shum Wen Hui</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZHAO_QIANXI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:YU_ZHANGXINZHI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Yu Zhangxinzhi</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhao_xin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zhao Xin</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Elaine Tan</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_ai_ling_evelyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Evelyn Lee Ai Ling</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ow_kok_meng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ow Kok Meng</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zheng_shanbo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zheng Shanbo</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="loh_tiah_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Loh Tiah Cheng</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:josephine_tan_zhi_xian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Josephine Tan</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_sook_leng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Sook Leng</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shannon_pang_teng_yen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shannon Pang Teng Yen</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zhang_yuling_marilyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Zhang Yuling Marilyn</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jason Lee</p>
 </td>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 2 &amp; Primary 6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Names</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-1 &amp; CL P6-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong Pui Lai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-2 &amp; CL P6-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zeng Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-3 &amp; CL P6-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zou Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-4 &amp; CL P6-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Qianxi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-5 &amp; FCL P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Elaine Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-6 &amp; CL P6-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhao Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-7 &amp; CL P6-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yan_yuzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yan Yuzhen</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-8 &amp; CL P6-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wen_pei_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Pei-Ju</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-9 &amp; CL P6-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Yinan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P2-10 &amp; CL P6-9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Su Lan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Malay Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
