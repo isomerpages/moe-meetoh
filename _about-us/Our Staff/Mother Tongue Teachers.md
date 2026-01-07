@@ -145,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P2-4 &amp; CL P6-</p>
+<p>CL P2-4 &amp; CL P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zhao Qianxi</p>
@@ -203,7 +203,94 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 3 &amp; Primary 4</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Names</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-1 &amp; CL P4-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zheng Shanbo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-2 &amp; CL MTSP P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Sook Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-3 &amp; CL P4-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soon Min Wah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-4 &amp; CL P4-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shannon Pang Teng Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-5 &amp; CL P4-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Yuling Marilyn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-6 &amp; CL P4-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Siok Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-7 &amp; CL P4-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Loh Tiah Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-8 &amp; CL P4-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shao Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL MTSP P3 &amp; CL P4-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Maledeine Lai</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Malay Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -212,31 +299,35 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:HASNI_ABU_BAKAR@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Hasni Bte Abu Bakar</a></strong> 
-<br><strong>Year Head Primary 3 &amp; 4</strong>
-</p>
+<p>ML P1 &amp; ML P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Sunarti</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:SUNARTI_AMIDON@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Sunarti Bte Amidon</a></strong>
-</p>
+<p>ML P2 &amp; ML P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zuraini</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ZURAINI_ABDUL_RAHIM@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Zuraini Bte Abdul Rahim</a></strong>
-</p>
+<p>ML P3 &amp; ML P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hasni</p>
 </td>
 </tr>
 </tbody>
