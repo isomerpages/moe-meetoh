@@ -45,7 +45,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Jia Shuan Nikki</p>
+<p><strong><a href="mailto:chan_jia_shuan_nikki@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chan Jia Shuan Nikki</a></strong>
+</p>
 <p>Full-time School Counsellor</p>
 </td>
 </tr>
@@ -58,7 +59,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shereen Banu Binte Syed Masuthu</p>
+<p><strong><a href="mailto:Shereen_Banu_Syed_Masuthu@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shereen Benjamin Masuthu</a></strong>
+</p>
 <p>FAJT School Counsellor</p>
 </td>
 </tr>
