@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Teachers
-permalink: /about-us/Our-Staff/mother-tongue-teachers/
+permalink: /about-us/our-staff/mother-tongue-teachers/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap
@@ -8,13 +8,20 @@ variant: tiptap
 <h3>Mother Tongue Teachers</h3>
 <p><em>To email our staff, click on their names.</em>
 </p>
-<h4>Chinese Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Chinese Teachers</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Primary 1 &amp; Primary 5</p>
@@ -113,21 +120,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Primary 2 &amp; Primary 6</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 2 &amp; Primary 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -219,21 +220,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Primary 3 &amp; Primary 4</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 3 &amp; Primary 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -316,22 +311,31 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Malay Teachers</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Malay Teachers</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
