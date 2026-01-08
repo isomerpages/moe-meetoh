@@ -147,7 +147,8 @@ variant: tiptap
 <p>5-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jane Cheong Fong Teng</p>
+<p><strong><a href="mailto:cheong_fong_teng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jane Teo</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:PANG_HENG_CHEUN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Pang Heng Cheun</a></strong>
@@ -166,7 +167,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="toh_hui_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Toh Hui Fang Hazel</a></strong>
+<p><strong><a href="mailto:toh_hui_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Toh Hui Fang Hazel</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
