@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 <tr>
 <th>
-<h3>Chinese Teachers</h3>
+<h4>Chinese Teachers</h4>
 </th>
 <th>&nbsp;</th>
 </tr>
@@ -271,7 +271,7 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<h3>Malay Teachers</h3>
+<h4>Malay Teachers</h4>
 </td>
 <td>&nbsp;</td>
 </tr>
