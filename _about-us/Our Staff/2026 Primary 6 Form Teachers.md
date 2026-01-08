@@ -132,7 +132,8 @@ variant: tiptap
 <p>6-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kho Soon Imm Jasmine</p>
+<p><strong><a href="mailto:Kho_soon_imm@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Kho Soon Imm</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:BENJAMIN_CHIA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mr Chia Ian Benjamin</a></strong>

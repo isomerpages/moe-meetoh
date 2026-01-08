@@ -134,7 +134,7 @@ variant: tiptap
 <p>CL P2-1 &amp; CL P6-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_pui_lai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Cheong Pui Lai</a>
+<p><strong><a href="mailto:cheong_pui_lai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Cheong Pui Lai</a></strong>
 </p>
 </td>
 </tr>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>CL P2-2 &amp; CL P6-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zeng_ying_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zeng Ying</a>
+<p><strong><a href="mailto:zeng_ying_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zeng Ying</a></strong>
 </p>
 </td>
 </tr>
@@ -152,7 +152,7 @@ variant: tiptap
 <p>CL P2-3 &amp; CL P6-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zou_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zou Yang</a>
+<p><strong><a href="mailto:zou_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zou Yang</a></strong>
 </p>
 </td>
 </tr>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>CL P2-4 &amp; CL P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhao_qianxi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Zhao Qianxi</a>
+<p><strong><a href="mailto:zhao_qianxi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Zhao Qianxi</a></strong>
 </p>
 </td>
 </tr>
@@ -170,7 +170,7 @@ variant: tiptap
 <p>CL P2-5 &amp; FCL P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Elaine Tan</a>
+<p><strong><a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Elaine Tan</a></strong>
 </p>
 </td>
 </tr>
@@ -179,7 +179,7 @@ variant: tiptap
 <p>CL P2-6 &amp; CL P6-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhao_xin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zhao Xin</a>
+<p><strong><a href="mailto:zhao_xin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zhao Xin</a></strong>
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>CL P2-7 &amp; CL P6-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yan_yuzhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yan Yuzhen</a>
+<p><strong><a href="mailto:yan_yuzhen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yan Yuzhen</a></strong>
 </p>
 </td>
 </tr>
@@ -197,7 +197,7 @@ variant: tiptap
 <p>CL P2-8 &amp; CL P6-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wen_pei_ju@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Wen Pei-Ju</a>
+<p><strong><a href="mailto:wen_pei_ju@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Wen Pei-Ju</a></strong>
 </p>
 </td>
 </tr>
@@ -206,7 +206,7 @@ variant: tiptap
 <p>CL P2-9 &amp; CL P6-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_yinan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zhang Yinan</a>
+<p><strong><a href="mailto:zhang_yinan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zhang Yinan</a></strong>
 </p>
 </td>
 </tr>
@@ -215,7 +215,7 @@ variant: tiptap
 <p>CL P2-10 &amp; CL P6-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_su_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Su Lan</a>
+<p><strong><a href="mailto:ong_su_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Su Lan</a></strong>
 </p>
 </td>
 </tr>
