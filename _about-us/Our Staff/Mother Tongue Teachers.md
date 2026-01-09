@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Chinese Teachers</h4>
+<h4>Chinese Language Teachers</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -321,7 +321,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Malay Teachers</h4>
+<h4>Malay Language Teachers</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -342,7 +342,7 @@ variant: tiptap
 <p>ML P1 &amp; ML P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sunarti_amidon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sunarti</a></strong>
+<p><strong><a href="mailto:sunarti_amidon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sunarti bte Amidon</a></strong>
 </p>
 </td>
 </tr>
@@ -351,7 +351,7 @@ variant: tiptap
 <p>ML P2 &amp; ML P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zuraini_abdul_rahim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zuraini</a></strong>
+<p><strong><a href="mailto:zuraini_abdul_rahim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zuraini bte Abdul Rahim</a></strong>
 </p>
 </td>
 </tr>
@@ -360,7 +360,7 @@ variant: tiptap
 <p>ML P3 &amp; ML P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:hasni_abu_bakar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hasni</a></strong>
+<p><strong><a href="mailto:hasni_abu_bakar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hasni Bte Abu Bakar</a></strong>
 </p>
 </td>
 </tr>
