@@ -19,19 +19,6 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
-  - textcards:
-      title: OPEN FOR NOMINATIONS
-      id: textcards
-      description: Nominations will close on 9 January 2026 at 12pm
-      cards:
-        - title: Outstanding Youth in Education Award (OYEA) 2026
-          description: ""
-          linktext: Click here to learn more
-          url: https://form.gov.sg/68ae5a5dd7758bf48048b574
-        - title: President's Award for Teachers (PAT) 2026
-          description: ""
-          linktext: Click here to learn more
-          url: https://form.gov.sg/68ae474d09f68097e77beda3
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
