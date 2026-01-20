@@ -95,10 +95,8 @@ by MOE-approved external providers.&nbsp;</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to
 opt their child out of the Sed lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable <strong><a href="/files/2026_SEd_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> (please
-upload parents opt-out form found in Annex <strong>A</strong> and insert
-a hyperlink for parents to download the form). You can also complete the
-Opt-out form <strong><a href="https://form.gov.sg/696daf083ecb6effb2c0a164" rel="noopener nofollow" target="_blank">here</a></strong>.
+and is also downloadable <strong><a href="/files/2026_SEd_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
+You can also complete the Opt-out form <strong><a href="https://form.gov.sg/696daf083ecb6effb2c0a164" rel="noopener nofollow" target="_blank">here</a></strong>.
 The completed opt-out form is to be submitted by <u>26/01/2026</u>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 (Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <strong><a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chew_shie@schools.gov.sg</a></strong> for
