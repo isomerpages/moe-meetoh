@@ -79,16 +79,15 @@ to keep themselves safe from sexuality-related risks.</p>
 <h4>PRIMARY 5</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/P5_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sexuality_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/P5_2025__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sextuality_2.jpg">
 </div>
 <h4>PRIMARY 6</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/P6_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6.jpg">
 </div>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children
