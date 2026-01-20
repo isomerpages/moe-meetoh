@@ -28,7 +28,6 @@ and responsible decisions on sexuality matters.</p>
 for themselves and others by having positive mainstream values and attitudes
 about sexuality that are premised on the family as the basic unit of society.</p>
 <p></p>
-<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
@@ -40,15 +39,17 @@ decisions are made for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
-information on MOE Sexuality Education.&nbsp;</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
+insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
+for more information on MOE Sexuality Education.</p>
 <p><strong>Overview of MEE TOH School’s SEd Programme for 2025</strong>
 </p>
 <p>4. SEd is delivered in a holistic manner through the school curriculum.
 The content for SEd is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information on the scope of SEd in the school curriculum.</p>
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
+insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
+for more information on the scope of SEd in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science (Primary 5)</p>
@@ -66,14 +67,15 @@ exposed to a wide range of influences that could endanger their health
 and undermine the integrity of the family. Our students require close guidance
 so that they can respond with discernment to the sexual messages in the
 media and other sources.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SEd lessons are taught
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEd lessons are taught
 as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, our students
 will learn healthy ways to manage the physiological, social and emotional
 changes in their growing years. They learn to build healthy and rewarding
 relationships with others, including those with members of the opposite
 sex. Students are also guided to make wise, informed and responsible decisions
 to keep themselves safe from sexuality-related risks.</p>
-<h4><strong>At MEE TOH School, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<p>&nbsp;</p>
+<h4><strong>At MEE TOH School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <h4>PRIMARY 5</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -89,15 +91,19 @@ to keep themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Other Key Information/P6_2025.png">
 </div>
 <h4>INFORMATION FOR PARENTS</h4>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
-children out of SEd lessons, and/or supplementary Sexuality Education programmes
-by MOE-approved external providers.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children
+out of SEd lessons, and/or supplementary Sexuality Education programmes
+by MOE-approved external providers.&nbsp;</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to
 opt their child out of the Sed lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable&nbsp;<a href="https://go.gov.sg/meetohsedoptout" rel="noopener noreferrer nofollow" target="_blank">here</a>. You can also complete
-the Opt-out form&nbsp;<a href="https://form.gov.sg/65d29f1651827348ad211653" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by <u>07/02/2025</u>.</p>
+and is also downloadable <u>here</u> (please upload parents opt-out form
+found in Annex <strong>A</strong> and insert a hyperlink for parents to download
+the form). You can also complete the Opt-out form <u>here</u>. (please insert
+a hyperlink for parents <a href="https://form.gov.sg/696daf083ecb6effb2c0a164" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/696daf083ecb6effb2c0a164</a>)
+The completed opt-out form is to be submitted by <u>26/01/2026</u>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-(Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_chew_shie@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s SEd programme.</p>
+(Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <u>tan_chew_shie @</u>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>schools.gov.sg</u>
+</a>for discussion or to seek clarification about the school’s SEd programme.discussion
+or to seek clarification about the school’s SEd programme.</p>
