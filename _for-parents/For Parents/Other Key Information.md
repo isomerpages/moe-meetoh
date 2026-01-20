@@ -39,17 +39,15 @@ decisions are made for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
-insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
-for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
 <p><strong>Overview of MEE TOH School’s SEd Programme for 2025</strong>
 </p>
 <p>4. SEd is delivered in a holistic manner through the school curriculum.
 The content for SEd is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
-insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
-for more information on the scope of SEd in the school curriculum.</p>
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of SEd in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science (Primary 5)</p>
@@ -79,15 +77,16 @@ to keep themselves safe from sexuality-related risks.</p>
 <h4>PRIMARY 5</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sexuality_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_CCE__1_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sextuality_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_CCE__2_.jpg">
 </div>
 <h4>PRIMARY 6</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CCE__1_.jpg">
 </div>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children
@@ -96,13 +95,12 @@ by MOE-approved external providers.&nbsp;</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to
 opt their child out of the Sed lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable <u>here</u> (please upload parents opt-out form
-found in Annex <strong>A</strong> and insert a hyperlink for parents to download
-the form). You can also complete the Opt-out form <u>here</u>. (please insert
-a hyperlink for parents <a href="https://form.gov.sg/696daf083ecb6effb2c0a164" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/696daf083ecb6effb2c0a164</a>)
+and is also downloadable <strong><a href="/files/2026_SEd_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> (please
+upload parents opt-out form found in Annex <strong>A</strong> and insert
+a hyperlink for parents to download the form). You can also complete the
+Opt-out form <strong><a href="https://form.gov.sg/696daf083ecb6effb2c0a164" rel="noopener nofollow" target="_blank">here</a></strong>.
 The completed opt-out form is to be submitted by <u>26/01/2026</u>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-(Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <u>tan_chew_shie @</u>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>schools.gov.sg</u>
-</a>for discussion or to seek clarification about the school’s SEd programme.discussion
+(Mdm Elaine Tan Chew Shie, HOD CCE) at 6489 3326 or email <strong><a href="mailto:tan_chew_shie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chew_shie@schools.gov.sg</a></strong> for
+discussion or to seek clarification about the school’s SEd programme.discussion
 or to seek clarification about the school’s SEd programme.</p>
