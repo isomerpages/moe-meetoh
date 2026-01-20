@@ -88,6 +88,7 @@ to keep themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_CCE__1_.jpg">
 </div>
+<p></p>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children
 out of SEd lessons, and/or supplementary Sexuality Education programmes
