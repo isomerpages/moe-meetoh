@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Parent Support Group
 ---
+<p><strong>PATH Connects Volumes</strong> showcases a collection of articles
+and newsletters contributed by the Parent Support Group, Parents As Teacher
+Helpers (PATH). These editions reflect the strong partnership between parents
+and the school community, sharing experiences, learning moments, and meaningful
+contributions that support our students’ growth and development.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -117,7 +122,6 @@ third_nav_title: Parent Support Group
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
