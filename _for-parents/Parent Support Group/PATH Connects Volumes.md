@@ -37,7 +37,8 @@ third_nav_title: Parent Support Group
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/mtspathconnects2025v2" rel="noopener nofollow" target="_blank">Volume 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
