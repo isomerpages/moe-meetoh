@@ -97,14 +97,6 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maggie Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Claire Li</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +105,15 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Yvonne Ng Gek Puey</p>
+<p>Mdm Mandy Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr Soh Jian Da</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
@@ -121,7 +121,7 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nicole Tan</p>
+<p>Mdm Helen Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Secretary</p>
@@ -161,23 +161,7 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Helen Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mandy Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Jian Da</p>
+<p>Mdm Eunice Sng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
