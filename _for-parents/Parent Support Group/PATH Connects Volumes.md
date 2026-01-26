@@ -1,11 +1,59 @@
 ---
-title: Past PATH Connects Volumes
-permalink: /past-path-connects-volumes/
+title: PATH Connects Volumes
+permalink: /path-connects-volumes/
 variant: tiptap
 description: ""
 third_nav_title: Parent Support Group
 ---
-<h2></h2>
+<p><strong>PATH Connects Volumes</strong> showcases a collection of articles
+and newsletters contributed by the Parent Support Group, Parents As Teacher
+Helpers (PATH). These editions reflect the strong partnership between parents
+and the school community, sharing experiences, learning moments, and meaningful
+contributions that support our students’ growth and development.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h2>2025</h2>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/mtspathconnects2025v1" rel="noopener nofollow" target="_blank">Volume 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/mtspathconnects2025v2" rel="noopener nofollow" target="_blank">Volume 2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -74,7 +122,6 @@ third_nav_title: Parent Support Group
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

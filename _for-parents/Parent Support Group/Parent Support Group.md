@@ -53,14 +53,13 @@ direction, programmes and curriculum that their children undergo in Mee
 Toh School. They are thus able to provide valuable feedback on key areas,
 such as administration and programmes, to enrich the students' learning
 experiences.</p>
-<p>PATH's ethos is in line with Aristotle’s belief that, "Educating the mind
-without educating the heart is no education at all". Action speaks louder
-than words, and no textbook can replace the heart, time and resources that
-our PATH members have dedicated in service to the school. PATH members
-are living and role-modelling our school’s core values through their acts
-of contribution to our Mee Tohians. They are an inspiration to our Mee
-Tohians, whom we hope they will likewise grow up embracing our school values
-and contribute meaningfully to society.</p>
+<p>PATH's ethos is in line with Aristotle’s belief that, "<em>Educating the mind without educating the heart is no education at all</em>".
+Action speaks louder than words, and no textbook can replace the heart,
+time and resources that our PATH members have dedicated in service to the
+school. PATH members are living and role-modelling our school’s core values
+through their acts of contribution to our Mee Tohians. They are an inspiration
+to our Mee Tohians, whom we hope they will likewise grow up embracing our
+school values and contribute meaningfully to society.</p>
 <p><strong>PATH EXCO</strong>
 </p>
 <table style="minWidth: 50px">
@@ -97,14 +96,6 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maggie Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Claire Li</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +104,15 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Yvonne Ng Gek Puey</p>
+<p>Mdm Mandy Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr Soh Jian Da</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
@@ -121,7 +120,7 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nicole Tan</p>
+<p>Mdm Helen Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Secretary</p>
@@ -161,23 +160,7 @@ and contribute meaningfully to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Helen Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mandy Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Jian Da</p>
+<p>Mdm Eunice Sng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -219,11 +202,6 @@ more information on Code of Conduct for PATH.</p>
 </table>
 <hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/Path_Connects_2025_Vol_1.jpg">
-</div>
 <p></p>
-<p><strong><a href="https://go.gov.sg/mtspathconnects2025v1" rel="noopener nofollow" target="_blank">Click here to read Volume 1</a></strong>
-</p>
 <p></p>
 <p></p>
