@@ -53,14 +53,13 @@ direction, programmes and curriculum that their children undergo in Mee
 Toh School. They are thus able to provide valuable feedback on key areas,
 such as administration and programmes, to enrich the students' learning
 experiences.</p>
-<p>PATH's ethos is in line with Aristotle’s belief that, "Educating the mind
-without educating the heart is no education at all". Action speaks louder
-than words, and no textbook can replace the heart, time and resources that
-our PATH members have dedicated in service to the school. PATH members
-are living and role-modelling our school’s core values through their acts
-of contribution to our Mee Tohians. They are an inspiration to our Mee
-Tohians, whom we hope they will likewise grow up embracing our school values
-and contribute meaningfully to society.</p>
+<p>PATH's ethos is in line with Aristotle’s belief that, "<em>Educating the mind without educating the heart is no education at all</em>".
+Action speaks louder than words, and no textbook can replace the heart,
+time and resources that our PATH members have dedicated in service to the
+school. PATH members are living and role-modelling our school’s core values
+through their acts of contribution to our Mee Tohians. They are an inspiration
+to our Mee Tohians, whom we hope they will likewise grow up embracing our
+school values and contribute meaningfully to society.</p>
 <p><strong>PATH EXCO</strong>
 </p>
 <table style="minWidth: 50px">
