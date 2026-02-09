@@ -45,4 +45,21 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
+  - textcards:
+      title: Open For Nominations Awards 2026
+      id: textcards
+      description: Text card description
+      cards:
+        - title: "2026"
+          description: Inspiring Teacher of English Award
+          linktext: Learn more
+          url: ""
+        - title: "2026"
+          description: Arif Budiman Malay Language Teacher Award
+          linktext: Learn more
+          url: ""
+        - title: "2026"
+          description: Distinguished Chinese Language Teacher Award
+          linktext: Learn more
+          url: ""
 ---
