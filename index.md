@@ -48,7 +48,6 @@ sections:
   - textcards:
       title: Open For Nominations Awards 2026
       id: textcards
-      description: Text card description
       cards:
         - title: "2026"
           description: Inspiring Teacher of English Award
