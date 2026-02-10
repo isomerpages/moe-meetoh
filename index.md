@@ -31,7 +31,7 @@ sections:
           description: Nomination  will close on 13 March 2026
           linktext: Learn more
           url: https://www.moe.gov.sg/news/press-releases/20260202-nominations-open-for-arif-budiman-malay-language-teacher-award-2026
-        - title: Distinguished Chinese Language Teacher Award
+        - title: Distinguished Chinese Language Teachers Awards
           description: Nomination will close on 30 April 2026
           linktext: Learn more
           url: https://contest.sph.com.sg/campaigns/dclta
