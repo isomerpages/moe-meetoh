@@ -73,7 +73,8 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rasul Bee Bee Bte Karat Khan</p>
+<p><strong><a href="mailto:Rasul_Bee_Bee_Khan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rasul Bee Bee Bte Karat Khan</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:YU_ZHANGXINZHI@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Yu Zhangxinzhi</u></a></strong>
@@ -140,7 +141,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Sng Wei Wei</p>
+<p><strong><a href="mailto:Irene_Sng_Wei_Wei_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Irene Sng Wei Wei</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -151,7 +153,8 @@ variant: tiptap
 <p>1-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Varjeet Kaur Gill</p>
+<p><strong><a href="mailto:Varjeet_Kaur@schools.gov.sg" rel="noopener nofollow" target="_blank">Varjeet Kaur Gill</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chang_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chang Ying</u></a></strong>
