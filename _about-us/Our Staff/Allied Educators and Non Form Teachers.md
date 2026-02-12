@@ -151,13 +151,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sook Leng</p>
+<p><strong><a href="mailto:Tan_Sook_Leng_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Sook Leng</a></strong>
+</p>
 <p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Peggy Foo Pei Chie</p>
+<p><strong><a href="mailto:Peggy_Foo_Pei_Chie_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Peggy Foo Pei Chie</a></strong>
+</p>
 <p>Teacher</p>
 </td>
 </tr>
