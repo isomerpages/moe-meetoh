@@ -62,7 +62,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Shyet Shi Natalie</p>
+<p><strong><a href="mailto:Ang_Shyet_Shi_Natalie@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ang Shyet Shi Natalie</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +127,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ashikin Bte Abdull Aziz</p>
+<p><strong><a href="mailto:nur_ashikin_abdull_aziz@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Ashikin Bte Abdull Aziz</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
