@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - For Parents/Keep in Touch with Parents (2025).md
       - For Parents/.keep
       - For Parents/Operation Hours.md
       - For Parents/Keep In Touch (KIT) with Parents.md
+      - For Parents/Keep in Touch with Parents (2025).md
       - For Parents/Key School Notifications.md
       - For Parents/Other Key Information.md
       - For Parents/Forms for Parents.md
