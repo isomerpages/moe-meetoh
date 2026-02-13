@@ -199,7 +199,8 @@ Alternatively, please scan the QR Code&nbsp;provided&nbsp;.</p>
 <p>&nbsp;</p>
 <p>For PATH Executive Committee:</p>
 <p>Executive Committee members have additional responsibilities and standards.</p>
-<p>Click <u>here</u> to access the Code of Conduct for PATH Executive Committee.</p>
+<p>Click <a href="/files/For Parents/Forms for Parents/Finalised__MTS_PATH_EXCO_TermOfReferenceNGuidelines_20260120.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+access the Code of Conduct for PATH Executive Committee.</p>
 <p></p>
 </td>
 </tr>
