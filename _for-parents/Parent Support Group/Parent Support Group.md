@@ -195,7 +195,8 @@ Alternatively, please scan the QR Code&nbsp;provided&nbsp;.</p>
 <td rowspan="1" colspan="1">
 <p>For PATH Members:</p>
 <p>All PATH members are expected to adhere to our community standards.</p>
-<p>Click <u>here</u> for more information on the Code of Conduct for PATH.</p>
+<p>Click<a href="/files/For Parents/Forms for Parents/Finalised__MTS_PATH_Member_Guidelines_20260120.pdf" rel="noopener noreferrer nofollow" target="_blank"> <u>here</u> </a>for
+more information on the Code of Conduct for PATH.</p>
 <p>&nbsp;</p>
 <p>For PATH Executive Committee:</p>
 <p>Executive Committee members have additional responsibilities and standards.</p>
