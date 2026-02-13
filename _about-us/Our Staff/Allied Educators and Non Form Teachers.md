@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Nazihah Muhammed Ikram.SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
+<p><strong><a href="mailto:Nazihah_Muhammed_Ikram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
