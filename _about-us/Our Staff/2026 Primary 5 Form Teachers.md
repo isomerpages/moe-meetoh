@@ -103,7 +103,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hadijah Binte Abdul Rahman</p>
+<p><strong><a href="mailto:Hadijah_Abdul_Rahman_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hadijah Binte Abdul Rahman</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

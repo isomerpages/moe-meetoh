@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Nazihah Muhammed Ikram.SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
+<p><strong><a href="mailto:Nazihah_Muhammed_Ikram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazihah Binte Muhammed Ikram</a></strong> 
 <br><strong>Teacher</strong>
 </p>
 </td>
@@ -151,13 +151,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sook Leng</p>
+<p><strong><a href="mailto:Tan_Sook_Leng_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Sook Leng</a></strong>
+</p>
 <p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Peggy Foo Pei Chie</p>
+<p><strong><a href="mailto:Peggy_Foo_Pei_Chie_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Peggy Foo Pei Chie</a></strong>
+</p>
 <p>Teacher</p>
 </td>
 </tr>
