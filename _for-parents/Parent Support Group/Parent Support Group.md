@@ -193,8 +193,13 @@ Alternatively, please scan the QR Code&nbsp;provided&nbsp;.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;<a href="https://meetoh.moe.edu.sg/qql/slot/u578/2021/For%20Parents/PATH/PATH%20Code%20of%20conduct%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on Code of Conduct for PATH.</p>
+<p>For PATH Members:</p>
+<p>All PATH members are expected to adhere to our community standards.</p>
+<p>Click <u>here</u> for more information on the Code of Conduct for PATH.</p>
+<p>&nbsp;</p>
+<p>For PATH Executive Committee:</p>
+<p>Executive Committee members have additional responsibilities and standards.</p>
+<p>Click <u>here</u> to access the Code of Conduct for PATH Executive Committee.</p>
 <p></p>
 </td>
 </tr>
