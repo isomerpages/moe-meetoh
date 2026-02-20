@@ -19,6 +19,10 @@ variant: tiptap
 <li>
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">DSA</a>
+</p>
 <p></p>
 </li>
 </ul>
