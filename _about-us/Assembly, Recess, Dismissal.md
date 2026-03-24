@@ -48,7 +48,7 @@ for the Silent Reading Programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 and P5 Recess</p>
+<p>P3 and P6 Recess</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.40 am to 10.10 am</p>
@@ -56,7 +56,7 @@ for the Silent Reading Programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 and P6 Recess</p>
+<p>P2 and P5 Recess</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.10 am to 10.40 am</p>
