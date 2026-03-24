@@ -109,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:OW_KOK_MENG_A@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ow Kok Meng</u></a></strong>
+<p><strong><a href="mailto:han_xing_hui_a@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Han Xing Hui</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
