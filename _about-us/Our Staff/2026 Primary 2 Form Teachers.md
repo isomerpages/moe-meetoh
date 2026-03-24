@@ -156,7 +156,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.meetoh.moe.edu.sg/about-us/our-staff/primary-1-form-teachers/afidah_ibrahim_a@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mdm Afidah bte Ibrahim</u></a></strong>
+<p><strong><a href="mailto:mamoona_zia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Mamoona Zia</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
