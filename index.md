@@ -23,14 +23,6 @@ sections:
       title: Open For Nominations Awards 2026
       id: textcards
       cards:
-        - title: Arif Budiman Malay Language Teacher Award
-          description: Nomination  will close on 13 March 2026
-          linktext: Learn more
-          url: https://www.moe.gov.sg/news/press-releases/20260202-nominations-open-for-arif-budiman-malay-language-teacher-award-2026
-        - title: Inspiring Teacher of English Award
-          description: Nomination will close on 23 March 2026
-          linktext: Learn more
-          url: https://www.languagecouncils.sg/goodenglish/
         - title: Distinguished Chinese Language Teachers Awards
           description: Nomination will close on 30 April 2026
           linktext: Learn more
