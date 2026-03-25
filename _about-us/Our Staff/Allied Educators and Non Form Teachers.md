@@ -59,13 +59,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Shereen_Banu_Syed_Masuthu@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shereen Benjamin Masuthu</a></strong>
-</p>
-<p>FAJT School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lau Su Ting Grace</p>
 <p><strong>Teacher Aide</strong>
 </p>
