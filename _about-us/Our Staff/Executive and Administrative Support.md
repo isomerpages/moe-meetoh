@@ -91,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms J.Durgeshwari</strong>
+<p><strong>Mdm Siti Khadijah Binte Abdul Latif</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Hui Woon Jacqueline</strong>
+<p><strong>Ms J Durgeshwari</strong>
 </p>
 </td>
 </tr>
