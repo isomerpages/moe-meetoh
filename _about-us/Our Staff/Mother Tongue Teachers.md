@@ -35,7 +35,7 @@ variant: tiptap
 <p>CL P1-1 &amp; CL P5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shum_wen_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Shum Wen Hui</a></strong>
+<p><strong><a href="mailto:neo_li_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Neo Li Ting</a></strong>
 </p>
 </td>
 </tr>
@@ -68,10 +68,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P1-5 &amp; CL P5-4</p>
+<p>CL P1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ow_kok_meng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ow Kok Meng</a></strong>
+<p><strong><a href="mailto:han_xing_hui_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Han Xing Hui</a></strong>
 </p>
 </td>
 </tr>
@@ -113,10 +113,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P1-10 &amp; CL P5-8</p>
+<p>CL P1-10 &amp; CL P5-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee</a></strong>
+<p><strong><a href="mailto:ow_kok_meng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ow Kok Meng</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P5-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
 </p>
 </td>
 </tr>
@@ -313,10 +322,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>CL P3 Pull Out</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
+</p>
 </td>
 </tr>
 <tr>
