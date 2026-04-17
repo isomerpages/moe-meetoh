@@ -2,7 +2,6 @@ collections:
   experience-at-mts:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Art and Music.md
       - Character Education/.keep
       - Character Education/Overview.md
@@ -15,6 +14,7 @@ collections:
       - ICT in Education.md
       - Learning for Life Programme.md
       - Mathematics.md
+      - Mother Tongue Languages.md
       - Programme for Active Learning.md
       - Physical and Health Education.md
       - Science.md
