@@ -7,6 +7,8 @@ links:
         url: /about-us/principals-message
       - title: Our Identity
         url: /about-us/Our-Identity
+      - title: School Management Committee
+        url: /about-us/school-management-committee
       - title: Our Staff
         url: /about-us/our-staff/organisation-chart/
       - title: Strategic Thrusts
@@ -21,8 +23,6 @@ links:
         url: /about-us/service-quality-statement
       - title: Personal Data Protection
         url: /about-us/personal-data-protection
-      - title: School Management Committee
-        url: /about-us/school-management-committee
   - title: Experience @ MTS
     url: /experience-at-mts/ict-in-education/
     sublinks:
