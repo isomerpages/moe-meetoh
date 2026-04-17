@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Management Committee.md
       - Principal's Message.md
       - Our Identity/Overview.md
       - Our Identity/Vision and Mission.md
