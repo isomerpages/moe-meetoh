@@ -14,7 +14,7 @@ world.</p>
 <p>In Mee Toh School, we offer three Mother Tongue Languages,&nbsp; namely
 Malay, Chinese and Tamil.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Languages_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_Dept.jpg">
 </div>
 <p><strong>Mother Tongue Languages Fortnight (MTLF)</strong>
 </p>
