@@ -3,13 +3,15 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - Our Identity/.keep
       - Our Identity/Overview.md
       - Our Identity/Vision and Mission.md
       - Our Identity/Motto and Values.md
       - Our Identity/School Song.md
       - Our Identity/School History.md
       - Our Identity/School Founder.md
-      - Our Identity/.keep
+      - School Management Committee.md
+      - Our Staff/.keep
       - Our Staff/Organisation Chart.md
       - Our Staff/School Leaders.md
       - Our Staff/2026 Primary 1 Form Teachers.md
@@ -21,7 +23,6 @@ collections:
       - Our Staff/Mother Tongue Teachers.md
       - Our Staff/Allied Educators and Non Form Teachers.md
       - Our Staff/Executive and Administrative Support.md
-      - Our Staff/.keep
       - Strategic Thrusts.md
       - School Rules.md
       - Assembly, Recess, Dismissal.md
@@ -32,4 +33,3 @@ collections:
       - Buddhist Practices/Talks on Values.md
       - Service Quality Statement.md
       - Personal Data Protection.md
-      - School Management Committee.md
