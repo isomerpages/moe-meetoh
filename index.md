@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner/mts school website new banner - 2023 final.gif
+      background: /images/School_Website___Hero_Image.png
       key_highlights:
         - title: Notes of Appreciation
           description: ""
