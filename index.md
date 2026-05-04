@@ -19,6 +19,13 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
+  - infobar:
+      title: 2026 Primary 1 Registration
+      id: infobar
+      description: Registration opens on 30 June at 9.00 a.m. and closes on 18 August
+        at 4.30 p.m
+      button: learn more
+      url: /p1-registration/
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
@@ -45,10 +52,4 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
-  - infobar:
-      title: 2026 Primary 1 Registration
-      id: infobar
-      description: From 30 June, 9.00 am and ends at 18 August, 4.30 pm
-      button: learn more
-      url: /p1-registration/
 ---
