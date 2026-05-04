@@ -45,4 +45,10 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
+  - infobar:
+      title: 2026 Primary 1 Registration
+      id: infobar
+      description: From 30 June, 9.00 am and ends at 18 August, 4.30 pm
+      button: learn more
+      url: /p1-registration/
 ---
