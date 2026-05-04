@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Website___Hero_Image__1_.png
+      background: /images/School_Website___Hero_Image_Big.png
       key_highlights:
         - title: Notes of Appreciation
           description: ""
