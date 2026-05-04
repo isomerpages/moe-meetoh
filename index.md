@@ -19,14 +19,6 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
-  - textcards:
-      title: Open For Nominations Awards 2026
-      id: textcards
-      cards:
-        - title: Distinguished Chinese Language Teachers Awards
-          description: Nomination will close on 30 April 2026
-          linktext: Learn more
-          url: https://contest.sph.com.sg/campaigns/dclta
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
