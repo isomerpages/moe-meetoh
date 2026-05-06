@@ -12,5 +12,5 @@ description: ""
 <p><em>You can prepare and register your child for P1 through the P1 registration process. Learn about it and how to get started.</em>
 </p>
 <p>Visit the <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">MOE website</a> to
-find out which phrase your child is eligbile for.</p>
+find out which phase your child is eligbile for.</p>
 <p></p>
