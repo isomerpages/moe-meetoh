@@ -52,13 +52,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Vasanthi_Subramanian_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Vasanthi D/O Subramanian</a></strong>
-</p>
-<p>FAJT School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lau Su Ting Grace</p>
 <p><strong>Teacher Aide</strong>
 </p>
