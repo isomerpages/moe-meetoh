@@ -38,11 +38,11 @@ sections:
       title: Founder's Day & Vesak Day Celebrations
       subtitle: Mee Toh School
       id: infopic
-      description: Saturday, 31 May 2025
+      description: Saturday, 23 May 2026
       button: click for Event Highlights
       url: /foundersdayandvesakday/
       alt: Image alt text
-      image: /images/Announcements/Founders_day_2025.png
+      image: /images/Website____Founder_Day_2026.png
   - infopic:
       title: 70th Anniversary
       id: infopic
