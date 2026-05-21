@@ -5,13 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Founder's Day 2026</strong></h3>
-<p>Coming soon..</p>
-<p></p>
-<p></p>
-<p></p>
-<h3><strong>Founder's Day 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Founders_day_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website____Founder_Day_2026.png">
 </div>
-<p><strong><a href="https://file.go.gov.sg/mtsfoundersdaybooklet2025.pdf" rel="noopener nofollow" target="_blank">Founder's Day &amp; Vesak Day Celebrations Programme Booklet</a></strong>
-</p>
+<p>(Coming soon) Founder's Day - Parent Show (Friday 22 May 2026) Programme
+Booklet</p>
+<p>(Coming soon) Founder's Day &amp; Vesak Day Celebrations Programme Booklet</p>
+<p></p>
