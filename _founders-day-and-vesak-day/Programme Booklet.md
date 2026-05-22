@@ -10,5 +10,6 @@ description: ""
 </div>
 <p><a href="https://go.gov.sg/mtsfdparentsshow26" rel="noopener nofollow" target="_blank">Founder's Day - Parent Show (Friday 22 May 2026) Programme Booklet</a>
 </p>
-<p>(Coming soon) Founder's Day &amp; Vesak Day Celebrations Programme Booklet</p>
+<p><a href="https://go.gov.sg/mtsfd26" rel="noopener nofollow" target="_blank">Founder's Day &amp; Vesak Day Celebrations Programme Booklet</a>
+</p>
 <p></p>
