@@ -11,5 +11,5 @@ description: ""
 <p></p>
 <p><strong>Founder's Day 2026</strong>
 </p>
-<p>(Coming Soon) Click to view event highlights.</p>
-<p>(Coming Soon)Click to view photos of award ceremony.</p>
+<p>(Coming soon) Click to view event highlights.</p>
+<p>(Coming soon) Click to view photos of award ceremony.</p>
