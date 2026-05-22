@@ -12,4 +12,5 @@ description: ""
 <p><strong>Founder's Day 2026</strong>
 </p>
 <p>(Coming soon) Click to view event highlights.</p>
-<p>(Coming soon) Click to view photos of award ceremony.</p>
+<p><a href="/files/Mee_Toh_School___Instruction_for_Founder_s_Day_2026.pdf" rel="noopener nofollow" target="_blank">Click here to order photos of award ceremony by 5 June 2026.</a>
+</p>
