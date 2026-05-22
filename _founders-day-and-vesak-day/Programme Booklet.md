@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website____Founder_Day_2026.png">
 </div>
-<p>(Coming soon) Founder's Day - Parent Show (Friday 22 May 2026) Programme
-Booklet</p>
+<p><a href="https://go.gov.sg/mtsfdparentsshow26" rel="noopener nofollow" target="_blank">Founder's Day - Parent Show (Friday 22 May 2026) Programme Booklet</a>
+</p>
 <p>(Coming soon) Founder's Day &amp; Vesak Day Celebrations Programme Booklet</p>
 <p></p>
