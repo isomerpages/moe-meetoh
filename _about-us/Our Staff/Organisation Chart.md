@@ -19,7 +19,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Hsien Chuan Kelvin</p>
+<p>Mr Tay Hsien Chuan Kelvin
+<br><a href="mailto:Tay_Hsien_Chuan_Kelvin@schools.gov.sg" rel="noopener nofollow" target="_blank">Write to the Principal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -326,7 +328,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Special Duties Department</h4>
+<h4>Special Projects Department</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
