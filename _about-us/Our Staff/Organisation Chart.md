@@ -90,14 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chew Shie (Mdm Elaine Tan)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Dept CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Toh Hwee Leng Joanna (Mrs Joanna Fan)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,6 +258,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -295,6 +288,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -323,10 +317,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Special Duties Department</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mdm Tan Chew Shie (Mdm Elaine Tan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Head of Dept Special Duties</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -565,6 +585,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
