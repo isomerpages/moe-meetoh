@@ -315,7 +315,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Student Development and Total Curriculum Management Department (SD &amp; TC)</h4>
+<h4>Student Development and Total Curriculum Department (SD &amp; TC)</h4>
 </td>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Student Life and Character and Citizenship Education (SL &amp; CCE) Dept</h4>
+<h4>Student Life and Character &amp; Citizenship Education Department (SL &amp; CCE) </h4>
 </td>
 </tr>
 <tr>
