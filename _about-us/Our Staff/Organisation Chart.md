@@ -87,27 +87,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Character &amp; Citizenship Education Department (CCE)</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Hwee Leng Joanna (Mrs Joanna Fan)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <h4>Communications, Innovation and Partnership Department (CIP)</h4>
 </td>
 </tr>
@@ -150,10 +129,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +263,7 @@ variant: tiptap
 <p>Mr Robin Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Subject Head CCA (covering)</p>
+<p>Subject Head CCA (covering)</p>
 </td>
 </tr>
 <tr>
@@ -327,41 +306,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>Special Projects Department</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Tan Chew Shie (Mdm Elaine Tan)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Head of Dept Special Duties</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
-<h4>Student Development and Management Department (SDM)</h4>
+<h4>Student Development and Total Curriculum Department (SD &amp; TC)</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Asha Devdas Sawlani</p>
+<p>Miss Quek Yi Hui Eleanor&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Dept SDM</p>
+<p>Head of Dept Student Development &amp; Total Curriculum</p>
 </td>
 </tr>
 <tr>
@@ -374,15 +328,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nur Hannah Binte Hardy</p>
+<p>Mdm Lee Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head SDM</p>
+<p>Subject Head Total Curriculum</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -390,23 +344,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Total Curriculum Department (TC)</h4>
+<h4>Student Life and Character &amp; Citizenship Education Department (SL &amp; CCE)</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Quek Yi Hui Eleanor&nbsp;</p>
+<p>Mrs Asha Devdas Sawlani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Dept TC</p>
+<p>Head of Dept Student Life &amp; CCE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Ai Ling</p>
+<p>Mdm Tan Chew Shie (Mdm Elaine Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head TC</p>
+<p>Head of Dept Special Projects</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Hwee Leng Joanna (Mrs Joanna Fan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nur Hannah Binte Hardy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Life</p>
 </td>
 </tr>
 <tr>
