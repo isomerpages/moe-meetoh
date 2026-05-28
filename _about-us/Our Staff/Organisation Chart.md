@@ -95,7 +95,7 @@ variant: tiptap
 <p>Ms Tay Shuwen Sabrina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CIP (covering)</p>
+<p>Head of Dept CIP (covering)</p>
 </td>
 </tr>
 <tr>
