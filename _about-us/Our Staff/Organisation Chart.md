@@ -86,14 +86,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <h4>Communications, Innovation and Partnership Department (CIP)</h4>
 </td>
@@ -137,10 +129,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +323,7 @@ variant: tiptap
 <p>Mr Muhamed Nazrul Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Leadership</p>
+<p>Subject Head Student Development</p>
 </td>
 </tr>
 <tr>
@@ -352,7 +344,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Student Life and Character &amp; Citizenship Education Department (SL &amp; CCE) </h4>
+<h4>Student Life and Character &amp; Citizenship Education Department (SL &amp; CCE)</h4>
 </td>
 </tr>
 <tr>
@@ -365,7 +357,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Tan Chew Shie (Mdm Elaine Tan)</p>
+<p>Mdm Tan Chew Shie (Mdm Elaine Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Dept Special Projects</p>
