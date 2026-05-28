@@ -307,7 +307,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Student Development and Total Curriculum (SD &amp; TC) Department </h4>
+<h4>Student Development and Total Curriculum (SD &amp; TC) Department</h4>
 </td>
 </tr>
 <tr>
