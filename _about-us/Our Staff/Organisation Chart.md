@@ -315,7 +315,7 @@ variant: tiptap
 <p>Miss Quek Yi Hui Eleanor&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Dept SD &amp; TC</p>
+<p>Head of Dept Student Development &amp; Total Curriculum</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +331,7 @@ variant: tiptap
 <p>Mdm Lee Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head TC</p>
+<p>Subject Head Total Curriculum</p>
 </td>
 </tr>
 <tr>
