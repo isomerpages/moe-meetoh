@@ -323,7 +323,7 @@ variant: tiptap
 <p>Mr Muhamed Nazrul Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Development</p>
+<p>Subject Head Student Leadership</p>
 </td>
 </tr>
 <tr>
