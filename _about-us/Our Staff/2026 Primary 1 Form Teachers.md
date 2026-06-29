@@ -189,7 +189,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay_shuwen_sabrina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sabrina Tay Shuwen</u></a></strong>
+<p><strong><a href="mailto:NEO_GUAT_THENG_ANGELA_B@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Neo Guat Theng Angela</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
