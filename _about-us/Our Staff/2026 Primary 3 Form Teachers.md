@@ -76,7 +76,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:amsyar_abdul_wahed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Amsyar Bin Abdul Wahed </a></strong>
+<p><strong><a href="mailto:amsyar_abdul_wahed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Amsyar Bin Abdul Wahed</a></strong>
 </p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:Sharon_Koh@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sharon Koh Shu Hui </a></strong>
+<p><strong><a href="mailto:Sharon_Koh@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sharon Koh Shu Hui</a></strong>
 </p>
 </td>
 </tr>
