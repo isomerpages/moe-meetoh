@@ -119,7 +119,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:YEO_LI_CHOO@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Yeo Li Choo, Rachel</a></strong>
+<p><strong><a href="mailto:Lin_Meijing@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lin Meijing</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
