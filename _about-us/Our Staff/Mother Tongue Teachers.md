@@ -259,15 +259,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P3-3 &amp; CL P4-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:soon_min_wah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Soon Min Wah</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CL P3-4 &amp; CL P4-8</p>
 </td>
 <td rowspan="1" colspan="1">
