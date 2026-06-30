@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P1-5</p>
+<p>CL P1-5 &amp; CL P4-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:han_xing_hui_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Han Xing Hui</a></strong>
@@ -98,7 +98,7 @@ variant: tiptap
 <p>CL P1-8 &amp; FCL P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:josephine_tan_zhi_xian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Josephine Tan</a></strong>
+<p><strong><a href="mailto:Tan_Lih_Ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Lih Ling</a></strong>
 </p>
 </td>
 </tr>
@@ -322,7 +322,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P3 Pull Out</p>
+<p>CL P3-3 and CL P5-8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
@@ -371,6 +371,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:hasni_abu_bakar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hasni Bte Abu Bakar</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ML P3 &amp; ML P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Nuwairah_Mahmoud_Mathlub@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nuwairah Binte Mahmoud Mathlub</a></strong>
 </p>
 </td>
 </tr>
