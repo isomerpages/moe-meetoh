@@ -68,15 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P1-5 &amp; CL P4-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:han_xing_hui_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Han Xing Hui</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CL P1-6 &amp; CL P5-6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,14 +291,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:maledeine_lai@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Maledeine Lai</a></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
