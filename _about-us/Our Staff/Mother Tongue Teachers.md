@@ -314,7 +314,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P3-3 and CL P5-8</p>
+<p>CL P3-3 &amp; CL P5-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
