@@ -122,15 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL P5-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Primary 2 &amp; Primary 6</strong>
 </p>
 </td>
@@ -308,6 +299,34 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:maledeine_lai@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Maledeine Lai</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P3-3 and CL P5-8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lee_eng_kiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Lee Eng Kiong</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Other Levels</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL P1-5 &amp; CL P4-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:han_xing_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Han Xing Hui</u></a></strong>
 </p>
 </td>
 </tr>
