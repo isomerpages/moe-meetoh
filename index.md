@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /school-achievements
       variant: center
+  - infopic:
+      title: Tamil Language Class
+      subtitle: Mee Toh School
+      id: infopic
+      button: Click for more information
+      url: /tamil-language-class/
+      image: /images/Tamil_Language_Photo.jpg
+      alt: Image alt text
   - infobar:
       title: 2026 Primary 1 Registration
       id: infobar
@@ -52,12 +60,4 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
-  - infopic:
-      title: Tamil Language Class
-      subtitle: Mee Toh School
-      id: infopic
-      button: Click for more information
-      url: /tamil-language-class/
-      image: /images/Tamil_Language_Photo.jpg
-      alt: Image alt text
 ---
