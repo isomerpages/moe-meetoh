@@ -193,7 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.meetoh.moe.edu.sg/about-us/our-staff/primary-1-form-teachers/pricilla_vj_silvester@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Pricilla D/O Justine Silvester</u></a></strong>
+<p><strong><a href="mailto:pricilla_vj_silvester@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Pricilla D/O Justine Silvester</u></a></strong>
 </p>
 </td>
 </tr>
