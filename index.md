@@ -20,6 +20,15 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: Caring Staff Award 2026
+      subtitle: Mee Toh School
+      id: infopic
+      description: Submit your nomination by 18 September 2026,  Friday
+      button: Click For Nomination Form
+      url: https://form.gov.sg/6a62cc4924fa09be1a764bd4
+      image: /images/MTS_Caring_Staff_Award_2026_.jpg
+      alt: Image alt text
+  - infopic:
       title: Tamil Language Class
       subtitle: Mee Toh School
       id: infopic
@@ -60,13 +69,4 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
-  - infopic:
-      title: Caring Staff Award 2026
-      subtitle: Mee Toh School
-      id: infopic
-      description: Submit your nomination by 18 September 2026,  Friday
-      button: Click For Nomination Form
-      url: https://form.gov.sg/6a62cc4924fa09be1a764bd4
-      image: /images/MTS_Caring_Staff_Award_2026_.jpg
-      alt: Image alt text
 ---
