@@ -20,7 +20,7 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: 2026 Teacher's Day Homecoming
+      title: 2026 Teachers' Day Homecoming
       id: infopic
       description: Details are in the poster.
       image: /images/WhatsApp_Image_2026_08_11_at_13_32_36.jpg
