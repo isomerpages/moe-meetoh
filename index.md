@@ -20,6 +20,13 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: 2026 Teacher's Day Homecoming
+      id: infopic
+      description: Find out more from the poster!
+      button: Button Text
+      image: /images/2026_Homecoming__1_.png
+      alt: Image alt text
+  - infopic:
       title: Caring Staff Award 2026
       subtitle: Mee Toh School
       id: infopic
