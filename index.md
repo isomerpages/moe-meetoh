@@ -26,7 +26,7 @@ sections:
       image: /images/WhatsApp_Image_2026_08_11_at_13_32_36.jpg
       alt: Image alt text
       url: https://docs.google.com/forms/d/e/1FAIpQLSfB-fKu8SrmmVVJmUDh444oGojSCVjiJ1qZRarIeKFIsxXTrQ/viewform
-      button: Click to register.
+      button: Register your interest here.
   - infopic:
       title: Caring Staff Award 2026
       subtitle: Mee Toh School
