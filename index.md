@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: 2026 Teacher's Day Homecoming
       id: infopic
-      description: Scan the QR code to register your interest
+      description: Scan the QR code to register your interest.
       image: /images/WhatsApp_Image_2026_08_11_at_13_32_36.jpg
       alt: Image alt text
   - infopic:
