@@ -20,11 +20,13 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
-      title: 2026 Teacher's Day Homecoming
+      title: 2026 Teachers' Day Homecoming
       id: infopic
-      description: Scan the QR code to register your interest.
+      description: Details are in the poster.
       image: /images/WhatsApp_Image_2026_08_11_at_13_32_36.jpg
       alt: Image alt text
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfB-fKu8SrmmVVJmUDh444oGojSCVjiJ1qZRarIeKFIsxXTrQ/viewform
+      button: Register your interest here.
   - infopic:
       title: Caring Staff Award 2026
       subtitle: Mee Toh School
