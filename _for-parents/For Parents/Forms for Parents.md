@@ -11,12 +11,8 @@ third_nav_title: For Parents
 </p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance (FAS)</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Click&nbsp;<strong><a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-learn more on DigitalAccess@Home and its application</p>
-</li>
-</ul>
+<p><a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> 
+</p>
 <p></p>
 <p><a href="/files/For Parents/Forms for Parents/Annex_B1_Letter_to_Parents_2026.pdf" rel="noopener nofollow" target="_blank">Annex B1 Letter to Parents 2026</a>
 </p>
