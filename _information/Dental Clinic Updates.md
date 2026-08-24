@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### Dental Clinic Updates
 
-Please click[here](/files/mtsdentalclinic.pdf) for the latest update. Thank you!
+Please click [here](/files/Information/Dental_Clinic_Operating_Days.pdf) for the latest update. Thank you!
