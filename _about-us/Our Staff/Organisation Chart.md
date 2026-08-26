@@ -471,6 +471,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4><strong>Teacher Leadership Team&nbsp;</strong></h4>
 </td>
