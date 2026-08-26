@@ -376,7 +376,7 @@ variant: tiptap
 <p>Mdm Siti Nur Hannah Binte Hardy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Life</p>
+<p>Subject Head Discipline</p>
 </td>
 </tr>
 <tr>
@@ -456,10 +456,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Nabil Bin Mustaf</p>
+<p>Mr Ahmad Nabil Bin Mustafa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (P5) (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Miss Tan Liping Fiona</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Assistant Year Head (covering)</p>
 </td>
 </tr>
 <tr>
@@ -536,7 +544,7 @@ variant: tiptap
 <p>Mdm Noraihan Bte Samad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher English (covering)</p>
+<p>Senior Teacher English Language</p>
 </td>
 </tr>
 <tr>
