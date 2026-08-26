@@ -41,7 +41,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of MEE TOH School’s SEd Programme for 2026</strong>
+<p><strong>Overview of Mee Toh School’s SEd Programme for 2026</strong>
 </p>
 <p>4. SEd is delivered in a holistic manner through the school curriculum.
 The content for SEd is grouped into five main themes: Human Development,
