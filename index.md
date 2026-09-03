@@ -44,13 +44,6 @@ sections:
       url: /tamil-language-class/
       image: /images/Tamil_Language_Photo.jpg
       alt: Image alt text
-  - infobar:
-      title: 2026 Primary 1 Registration
-      id: infobar
-      description: Registration opens on 30 June at 9.00 a.m. and closes on 18 August
-        at 4.30 p.m
-      button: learn more
-      url: /p1-registration/
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
