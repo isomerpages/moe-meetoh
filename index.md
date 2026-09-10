@@ -23,7 +23,7 @@ sections:
       title: Mid-Autumn Festival 2026
       id: infopic
       button: Click to find out more!
-      url: https://www.meetoh.moe.edu.sg/mid-autumn-festival-2026/
+      url: /mid-autumn-festival-2026/
       image: /images/WhatsApp_Image_2026_09_10_at_10_16_17_AM.jpg
       alt: Image alt text
   - infopic:
