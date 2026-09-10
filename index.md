@@ -70,4 +70,11 @@ sections:
       image: /images/Homepage Banner/Banner_for_school_website.png
       alt: Image alt text
       subtitle: Mee Toh School
+  - infopic:
+      title: Mid-Autumn Festival 2026
+      id: infopic
+      button: Click to find out more!
+      url: https://www.meetoh.moe.edu.sg/mid-autumn-festival-2026/
+      image: /images/WhatsApp_Image_2026_09_10_at_10_16_17_AM.jpg
+      alt: Image alt text
 ---
