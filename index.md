@@ -20,6 +20,13 @@ sections:
           url: /school-achievements
       variant: center
   - infopic:
+      title: Mid-Autumn Festival 2026
+      id: infopic
+      button: Click to find out more!
+      url: /mid-autumn-festival-2026/
+      image: /images/WhatsApp_Image_2026_09_10_at_10_16_17_AM.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Teachers' Day Homecoming
       id: infopic
       description: Details are in the poster.
@@ -44,13 +51,6 @@ sections:
       url: /tamil-language-class/
       image: /images/Tamil_Language_Photo.jpg
       alt: Image alt text
-  - infobar:
-      title: 2026 Primary 1 Registration
-      id: infobar
-      description: Registration opens on 30 June at 9.00 a.m. and closes on 18 August
-        at 4.30 p.m
-      button: learn more
-      url: /p1-registration/
   - infopic:
       title: "@meetohschool"
       subtitle: we are live!
