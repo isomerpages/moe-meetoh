@@ -27,14 +27,6 @@ sections:
       image: /images/WhatsApp_Image_2026_09_10_at_10_16_17_AM.jpg
       alt: Image alt text
   - infopic:
-      title: 2026 Teachers' Day Homecoming
-      id: infopic
-      description: Details are in the poster.
-      image: /images/WhatsApp_Image_2026_08_11_at_13_32_36.jpg
-      alt: Image alt text
-      url: https://docs.google.com/forms/d/e/1FAIpQLSfB-fKu8SrmmVVJmUDh444oGojSCVjiJ1qZRarIeKFIsxXTrQ/viewform
-      button: Register your interest here.
-  - infopic:
       title: Caring Staff Award 2026
       subtitle: Mee Toh School
       id: infopic
